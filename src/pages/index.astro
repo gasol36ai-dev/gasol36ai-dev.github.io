@@ -1,0 +1,43 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import { SITE, CATEGORIES } from '../lib/site';
+
+const posts = (await getCollection('posts', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+const recent = posts.slice(0, 8);
+const byCat = (slug: string) => posts.filter((p) => p.data.category === slug).length;
+---
+
+<BaseLayout>
+  <section class="hero">
+    <div class="kicker">{SITE.author} · notes</div>
+    <h1>技術與投資的學習筆記</h1>
+    <p>{SITE.description}</p>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>最新文章</h2>
+      <a class="more" href="/about/">關於本站 →</a>
+    </div>
+    <ul class="post-list">
+      {recent.length > 0 ? recent.map((p) => <PostCard post={p} />) : <li class="empty">尚無文章。</li>}
+    </ul>
+  </section>
+
+  <section style="margin-top:3rem">
+    <div class="section-head"><h2>分類</h2></div>
+    <ul class="post-list">
+      {CATEGORIES.map((c) => (
+        <li class="post-item">
+          <div class="post-meta"><span class={`cat cat-${c.slug}`}>{c.label}</span><span>{byCat(c.slug)} 篇</span></div>
+          <h3><a href={`/${c.slug}/`}>{c.label}文章</a></h3>
+          <p>{c.blurb}</p>
+        </li>
+      ))}
+    </ul>
+  </section>
+</BaseLayout>

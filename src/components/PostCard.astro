@@ -1,0 +1,22 @@
+---
+import { categoryLabel } from '../lib/site';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  post: CollectionEntry<'posts'>;
+}
+
+const { post } = Astro.props;
+const { title, description, pubDate, category, tags } = post.data;
+const d = pubDate.toISOString().slice(0, 10);
+---
+
+<li class="post-item">
+  <div class="post-meta">
+    <span class={`cat cat-${category}`}>{categoryLabel(category)}</span>
+    <time datetime={pubDate.toISOString()}>{d}</time>
+    {tags.map((t) => <span class="tag">#{t}</span>)}
+  </div>
+  <h3><a href={`/posts/${post.id}/`}>{title}</a></h3>
+  <p>{description}</p>
+</li>

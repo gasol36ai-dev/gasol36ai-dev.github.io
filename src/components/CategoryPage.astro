@@ -1,0 +1,29 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from './PostCard.astro';
+import { CATEGORIES } from '../lib/site';
+import type { CategorySlug } from '../lib/site';
+
+interface Props {
+  slug: CategorySlug;
+}
+
+const { slug } = Astro.props;
+const cat = CATEGORIES.find((c) => c.slug === slug)!;
+const posts = (await getCollection('posts', ({ data }) => !data.draft && data.category === slug)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+
+<BaseLayout title={cat.label} description={cat.blurb}>
+  <section class="hero">
+    <div class="kicker">分類</div>
+    <h1>{cat.label}</h1>
+    <p>{cat.blurb}</p>
+  </section>
+
+  <ul class="post-list">
+    {posts.length > 0 ? posts.map((p) => <PostCard post={p} />) : <li class="empty">此分類尚無文章。</li>}
+  </ul>
+</BaseLayout>

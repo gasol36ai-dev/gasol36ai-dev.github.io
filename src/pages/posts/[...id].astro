@@ -1,0 +1,42 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { categoryLabel } from '../../lib/site';
+import type { CategorySlug } from '../../lib/site';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts', ({ data }) => !data.draft);
+  return posts.map((entry) => ({ params: { id: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const { title, description, pubDate, category, tags } = entry.data;
+const d = pubDate.toISOString().slice(0, 10);
+---
+
+<BaseLayout title={title} description={description}>
+  <article>
+    <header class="article-head">
+      <div class="post-meta">
+        <span class={`cat cat-${category}`}>{categoryLabel(category as CategorySlug)}</span>
+        <time datetime={pubDate.toISOString()}>{d}</time>
+        {tags.map((t) => <span class="tag">#{t}</span>)}
+      </div>
+      <h1>{title}</h1>
+      <p class="lede">{description}</p>
+    </header>
+
+    <div class="prose">
+      <Content />
+    </div>
+
+    {category === 'invest' && (
+      <p class="note">
+        ⚠️ 本文為個人學習與紀錄，不構成任何投資建議。投資有風險，請自行判斷並承擔結果。
+      </p>
+    )}
+
+    <p style="margin-top:2.5rem"><a href="/">← 回文章列表</a></p>
+  </article>
+</BaseLayout>

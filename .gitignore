@@ -1,0 +1,22 @@
+# build output
+dist/
+.astro/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+pnpm-debug.log*
+
+# macOS
+.DS_Store
+._*
+
+# env
+.env
+.env.production
+
+# 本機驗證產物（不得進版控）
+*.local
+verify_*.txt

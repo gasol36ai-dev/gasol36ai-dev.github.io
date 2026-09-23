@@ -1,0 +1,33 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../lib/site';
+---
+
+<BaseLayout title="關於">
+  <article>
+    <header class="article-head">
+      <h1>關於本站</h1>
+      <p class="lede">一個用來整理技術與投資學習軌跡的地方。</p>
+    </header>
+
+    <div class="prose">
+      <p>
+        這裡是 <strong>{SITE.author}</strong> 的個人筆記站，分成兩個分類：
+      </p>
+      <ul>
+        <li><strong>投資</strong>：市場觀察、資產配置的思考框架、投資複盤。</li>
+        <li><strong>工作</strong>：半導體／顯示驅動 IC 相關的<strong>通用技術知識</strong>、工具方法與工程思維。</li>
+      </ul>
+
+      <h2>內容原則</h2>
+      <ul>
+        <li>工作類文章僅涵蓋公開領域的通用技術知識，<strong>不包含任何任職公司的內部資訊、客戶資料或未公開技術細節</strong>。</li>
+        <li>投資類文章為個人紀錄與學習心得，<strong>不構成投資建議</strong>，也不推薦特定標的。</li>
+        <li>文章若有錯誤，以事實與原始文獻為準。</li>
+      </ul>
+
+      <h2>訂閱</h2>
+      <p>可透過 <a href="/rss.xml">RSS</a> 追蹤更新。</p>
+    </div>
+  </article>
+</BaseLayout>
