@@ -2,13 +2,15 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
-import { SITE, CATEGORIES } from '../lib/site';
+import { SITE, CATEGORIES, INVEST_TOPICS } from '../lib/site';
 
 const posts = (await getCollection('posts', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 const recent = posts.slice(0, 8);
 const byCat = (slug: string) => posts.filter((p) => p.data.category === slug).length;
+const byTopic = (slug: string) =>
+  posts.filter((p) => p.data.category === 'invest' && p.data.topic === slug).length;
 ---
 
 <BaseLayout>
@@ -36,6 +38,22 @@ const byCat = (slug: string) => posts.filter((p) => p.data.category === slug).le
           <div class="post-meta"><span class={`cat cat-${c.slug}`}>{c.label}</span><span>{byCat(c.slug)} 篇</span></div>
           <h3><a href={`/${c.slug}/`}>{c.label}文章</a></h3>
           <p>{c.blurb}</p>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  <section style="margin-top:3rem">
+    <div class="section-head">
+      <h2>投資主題</h2>
+      <a class="more" href="/invest/">全部主題 →</a>
+    </div>
+    <ul class="post-list">
+      {INVEST_TOPICS.map((t) => (
+        <li class="post-item">
+          <div class="post-meta"><span class="cat cat-invest">投資</span><span>{byTopic(t.slug)} 篇</span></div>
+          <h3><a href={`/invest/${t.slug}/`}>{t.label}</a></h3>
+          <p>{t.blurb}</p>
         </li>
       ))}
     </ul>

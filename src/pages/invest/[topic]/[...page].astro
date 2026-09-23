@@ -1,0 +1,67 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostCard from '../../../components/PostCard.astro';
+import { INVEST_TOPICS, PAGE_SIZE, topicBySlug } from '../../../lib/site';
+
+export async function getStaticPaths() {
+  const all = await getCollection(
+    'posts',
+    ({ data }) => !data.draft && data.category === 'invest'
+  );
+
+  const paths = [];
+  for (const t of INVEST_TOPICS) {
+    const list = all
+      .filter((p) => p.data.topic === t.slug)
+      .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+    const totalPages = Math.max(1, Math.ceil(list.length / PAGE_SIZE));
+    for (let i = 0; i < totalPages; i++) {
+      paths.push({
+        params: { topic: t.slug, page: i === 0 ? undefined : String(i + 1) },
+        props: {
+          topicSlug: t.slug,
+          posts: list.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE),
+          current: i + 1,
+          totalPages,
+          total: list.length,
+        },
+      });
+    }
+  }
+  return paths;
+}
+
+const { topicSlug, posts, current, totalPages, total } = Astro.props;
+const topic = topicBySlug(topicSlug)!;
+const href = (n: number) => (n === 1 ? `/invest/${topicSlug}/` : `/invest/${topicSlug}/${n}/`);
+---
+
+<BaseLayout title={topic.label} description={topic.blurb}>
+  <section class="hero">
+    <div class="kicker"><a href="/invest/">投資</a> · 主題</div>
+    <h1>{topic.label}</h1>
+    <p>{topic.blurb}</p>
+    <p class="more" style="margin-top:.6rem">共 {total} 篇{totalPages > 1 ? `　第 ${current} / ${totalPages} 頁` : ''}</p>
+  </section>
+
+  <section>
+    <ul class="post-list">
+      {posts.length > 0
+        ? posts.map((p) => <PostCard post={p} />)
+        : <li class="empty">此主題尚無文章。</li>}
+    </ul>
+
+    {totalPages > 1 && (
+      <nav class="pager">
+        {current > 1 && <a href={href(current - 1)}>← 上一頁</a>}
+        {Array.from({ length: totalPages }, (_, i) => i + 1).map((n) => (
+          <a href={href(n)} class={n === current ? 'on' : ''}>{n}</a>
+        ))}
+        {current < totalPages && <a href={href(current + 1)}>下一頁 →</a>}
+      </nav>
+    )}
+
+    <p style="margin-top:2rem"><a href="/invest/">← 回投資總覽</a></p>
+  </section>
+</BaseLayout>

@@ -4,7 +4,9 @@ description: '結果好不等於決策對。建立一份能回頭檢驗的決策
 pubDate: 2026-09-18
 category: 'invest'
 tags: ['複盤', '決策', '習慣']
-draft: false
+draft: true
+nda_cleared: true
+nda_notes: '投資類文章，不含技術機密；內容為通用投資複盤方法'
 ---
 
 投資最麻煩的地方在於：**好決策不一定帶來好結果，壞決策也可能賺錢。** 只看損益，等於用運氣在訓練自己。

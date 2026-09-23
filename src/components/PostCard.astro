@@ -1,5 +1,5 @@
 ---
-import { categoryLabel } from '../lib/site';
+import { categoryLabel, INVEST_TOPICS } from '../lib/site';
 import type { CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -7,16 +7,21 @@ interface Props {
 }
 
 const { post } = Astro.props;
-const { title, description, pubDate, category, tags } = post.data;
+const { title, description, pubDate, category, tags, topic } = post.data;
 const d = pubDate.toISOString().slice(0, 10);
+const topicLabel =
+  category === 'invest' && topic
+    ? INVEST_TOPICS.find((t) => t.slug === topic)?.label ?? null
+    : null;
 ---
 
 <li class="post-item">
   <div class="post-meta">
     <span class={`cat cat-${category}`}>{categoryLabel(category)}</span>
+    {topicLabel && <a class="tag" href={`/invest/${topic}/`}>{topicLabel}</a>}
     <time datetime={pubDate.toISOString()}>{d}</time>
-    {tags.map((t) => <span class="tag">#{t}</span>)}
+    {tags.slice(0, 3).map((t) => <span class="tag">#{t}</span>)}
   </div>
   <h3><a href={`/posts/${post.id}/`}>{title}</a></h3>
-  <p>{description}</p>
+  {description && <p>{description}</p>}
 </li>

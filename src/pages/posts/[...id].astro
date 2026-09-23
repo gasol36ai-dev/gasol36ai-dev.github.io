@@ -1,7 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { categoryLabel } from '../../lib/site';
+import { categoryLabel, INVEST_TOPICS } from '../../lib/site';
 import type { CategorySlug } from '../../lib/site';
 
 export async function getStaticPaths() {
@@ -11,8 +11,14 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
-const { title, description, pubDate, category, tags } = entry.data;
+const { title, description, pubDate, category, tags, topic, source } = entry.data;
 const d = pubDate.toISOString().slice(0, 10);
+const topicLabel =
+  category === 'invest' && topic
+    ? INVEST_TOPICS.find((t) => t.slug === topic)?.label ?? null
+    : null;
+const backHref = topicLabel && topic ? `/invest/${topic}/` : `/${category}/`;
+const backText = topicLabel ? `← 回${topicLabel}` : '← 回文章列表';
 ---
 
 <BaseLayout title={title} description={description}>
@@ -20,11 +26,12 @@ const d = pubDate.toISOString().slice(0, 10);
     <header class="article-head">
       <div class="post-meta">
         <span class={`cat cat-${category}`}>{categoryLabel(category as CategorySlug)}</span>
+        {topicLabel && <a class="tag" href={`/invest/${topic}/`}>{topicLabel}</a>}
         <time datetime={pubDate.toISOString()}>{d}</time>
-        {tags.map((t) => <span class="tag">#{t}</span>)}
+        {tags.slice(0, 4).map((t) => <span class="tag">#{t}</span>)}
       </div>
       <h1>{title}</h1>
-      <p class="lede">{description}</p>
+      {description && <p class="lede">{description}</p>}
     </header>
 
     <div class="prose">
@@ -37,6 +44,8 @@ const d = pubDate.toISOString().slice(0, 10);
       </p>
     )}
 
-    <p style="margin-top:2.5rem"><a href="/">← 回文章列表</a></p>
+    {source && <p class="more" style="margin-top:1.5rem">來源：<code>{source}</code></p>}
+
+    <p style="margin-top:2.5rem"><a href={backHref}>{backText}</a></p>
   </article>
 </BaseLayout>

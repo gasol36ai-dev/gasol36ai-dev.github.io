@@ -22,3 +22,8 @@ pnpm-debug.log*
 verify_*.txt
 verify_*.py
 verify_shots*/
+
+# 匯入中介產物（可重新產生）
+scripts/wiki_index.json
+__pycache__/
+*.pyc

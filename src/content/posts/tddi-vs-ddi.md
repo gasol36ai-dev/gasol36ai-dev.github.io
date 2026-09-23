@@ -4,7 +4,9 @@ description: '把觸控感測與顯示驅動放進同一顆晶片之後，工程
 pubDate: 2026-09-15
 category: 'work'
 tags: ['TDDI', '觸控', '雜訊']
-draft: false
+draft: true
+nda_cleared: true
+nda_notes: '全部為公開領域通用知識（TDDI 整合取捨），無暫存器設定、無公司專案資訊、無專有公式'
 ---
 
 傳統架構下，顯示與觸控是兩顆獨立晶片、兩套走線。TDDI（Touch with Display Driver Integration）把兩者整合，帶來的好處很直觀：元件更少、模組更薄、成本更低。

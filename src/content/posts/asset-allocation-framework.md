@@ -4,7 +4,9 @@ description: '與其猜漲跌，不如先把「我能承受多少波動」這件
 pubDate: 2026-09-12
 category: 'invest'
 tags: ['資產配置', '風險', '框架']
-draft: false
+draft: true
+nda_cleared: true
+nda_notes: '投資類文章，不含技術機密；內容為通用資產配置觀念'
 ---
 
 剛開始接觸投資時，我花了大量時間在「接下來會漲還是會跌」。幾年後回頭看，那些判斷的準確率大概跟丟硬幣差不多，但耗掉的心力非常多。

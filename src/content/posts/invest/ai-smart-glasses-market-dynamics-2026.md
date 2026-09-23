@@ -1,0 +1,145 @@
+---
+title: 'AI Smart Glasses Market Dynamics and Supply Chain Changes (2024-2026)'
+description: 'The global AI smart glasses market is experiencing rapid growth, with varying projections from different research firms:'
+pubDate: 2026-09-23
+category: 'invest'
+topic: 'ai-glasses'
+tags: ['AI眼鏡']
+draft: false
+source: 'knowledge/investment/Research/AI_Smart_Glasses_Market_Dynamics_2026.md'
+nda_cleared: true
+nda_notes: '來源為個人 wiki 投資筆記；已通過 NDA 內容檢查（無公司機密、無暫存器設定、無基金持倉）'
+---
+# AI Smart Glasses Market Dynamics and Supply Chain Changes (2024-2026)
+
+## Market Overview
+The global AI smart glasses market is experiencing rapid growth, with varying projections from different research firms:
+- **2025 Market Size**: Estimates range from USD 540 million to USD 2,463.6 million
+- **2025-2034 Projections**: 
+  - Low estimate: USD 3,481 million by 2034 (CAGR 34.3%)
+  - High estimate: USD 14,380.4 million by 2033 (CAGR 24.2%)
+  - Alternate: USD 4,178.8 million by 2032 (CAGR 15.2%)
+  - Alternate: USD 4.59 billion by 2035 (CAGR 11.09%)
+
+## Key Growth Drivers
+1. **Enterprise Adoption**: Logistics and healthcare sectors driving demand for hands-free operations
+2. **Consumer Demand**: AR-enabled lifestyle applications and visualization assistance
+3. **Technological Advancements**: 
+   - AI algorithms for real-time processing
+   - Miniaturized hardware components
+   - 5G network integration for low-latency data transmission
+4. **Product Innovation**: 
+   - Meta's AI-powered Ray-Ban smart glasses with neural band (2025 launch)
+   - Google Glass Enterprise Edition updates
+   - Emerging brands like Xreal advancing display solutions
+
+## Market Segmentation
+### By Type
+- Voice Interaction Glasses
+- Visual Interaction / AR Glasses
+- Mixed Reality (MR) Glasses
+- Audio-Focused Smart Glasses
+- Prescription Eyewear with AI Integration
+- Monocular vs Binocular Displays
+
+### By Application
+- **Industrial**: Logistics, supply chain management, manufacturing, field services
+- **Medical**: Healthcare assistance, surgery guidance, patient monitoring
+- **Consumer**: Lifestyle, navigation, translation, messaging, entertainment
+- **Enterprise**: Training, remote assistance, maintenance
+- **Defense**: Tactical visualization, situational awareness
+- **Education**: Interactive learning, technical training
+- **Transportation**: Driver assistance, navigation, maintenance
+
+### By Region
+- **North America**: Largest market share (over 36% in 2025), US dominates (~88% of NA market)
+- **Europe**: Steady growth at CAGR 10.25%
+- **Asia Pacific**: Rapid adoption in manufacturing and consumer segments
+- **Rest of World**: Emerging markets in Latin America, Middle East & Africa
+
+## Supply Chain Dynamics
+### Key Components
+1. **Display Technologies**: 
+   - Waveguide optics
+   - Micro-LED and LCoS displays
+   - Birdbath and prism systems
+2. **Processing Units**: 
+   - Qualcomm AR2 Gen 1 and similar platforms
+   - Custom AI accelerators for vision processing
+3. **Sensors**: 
+   - Cameras (RGB, depth, thermal)
+   - IMUs for head tracking
+   - Environmental sensors
+4. **Connectivity**: 
+   - Wi-Fi 6/6E, Bluetooth 5.2+
+   - 5G modem integration
+5. **Battery & Power Management**: 
+   - Advanced battery chemistries
+   - Power-efficient chip design
+
+### Supply Chain Trends
+- **Geographic Diversification**: Shift from single-source reliance to multi-regional sourcing
+- **Component Shortages**: Periodic constraints in display drivers and specialized sensors
+- **Vertical Integration**: Major players (Meta, Google) investing in display and sensor partnerships
+- **Emerging Suppliers**: Growth of specialized AR/VR component manufacturers in Taiwan, Korea, Japan
+- **Logistics Optimization**: Just-in-time manufacturing for customized prescriptions and frame variants
+
+## Recent Developments (H1 2025)
+- AI-powered smart glasses represent 78% of total smart glass shipments (up from 46% shields H1 2024)
+- **Meta announced neural interface technology for next-gen Ray-Ban stories**
+- Omdia reports AI utilization for visualization assistance in industrial applications
+- IDC confirms lightweight glasses driving Q3 2025 market surge
+
+## 歷史紀錄
+
+### [UPDATE 2026-09-23] H1 2025 數據段移此（已被 H1-2026 實績取代）
+以下為 2026-06-05 版本之市況段，保留供對照；現行有效數據見下方「[UPDATE 2026-09-23]」段。
+- AI-powered smart glasses = 78% of total smart glass shipments (H1 2025, up from 46% H1 2024)
+- North America largest share (36%+, US ~88% of NA)
+
+## Investment Implications
+- **High-Growth Segments**: Industrial/logistics applications showing strongest CAGR
+- **Technology Leaders**: Companies with integrated AI+display+sensor capabilities
+- **Supply Chain Opportunities**: Specialized component suppliers benefiting from dual-sourcing trends
+- **Regional Plays**: Asia-Pacific manufacturing advantages vs. North American market dominance
+
+## Data Sources
+- Intel Market Research (2026-2034 outlook)
+- Congruence Market Insights (2025-2032 forecast)
+- Market.us Report (AI Smart Glasses Market Trends)
+- SNS Insider Report (2026-2035 forecast)
+- LinkedIn Market Analysis (H1 2025 shipment data)
+- MarketsandMarkets Smart Glasses Report 2024-2030
+- Omdia Display Dynamics Report (August 2025)
+- Grand View Research Smart Glasses Market Report 2033
+- IDC Augmented Reality Market Tracker (Q3 2025)
+- Precedence Research Smart Glass Market Forecast
+
+*Last Updated: 2026-06-05*
+
+---
+
+## [UPDATE 2026-09-23] H1 2026 市況更新（CFO 知識歸檔批次；來源：AI_Glasses_Market_Tracker 09-22/09-23 產物，含 Counterpoint/IDC/TrendForce/Wired/CNN 等）
+
+### 市場實績（H1 2026，取代上舊 H1-2025 估計）
+- **Counterpoint**：全球 smart glasses H1 2026 **+212% YoY**（QoQ +22%）；**Meta ≈ 84%** 全球出貨份額。
+- **IDC**：Q1 2026 display-less glasses **2.25M units**（+167% YoY，幾乎等於 2024 全年）；Q2 head-worn +35.3% YoY（**vs Q1 +130.2% = 減速訊號**）；組合變化：audio glasses **70.3%**（自 61.9%）、display glasses 14.3%、headsets 27.1% → **15.4%**；份額 Meta 68.7%、RayNeo 3.6%、Alibaba 2.6%（Top3 = 74.9%）。FY2026 預測 **13.6M units / $5.1B**，2030 年 27.3M（CAGR 18.9%）。
+- **EssilorLuxottica**：2025 年售 ~7M 副 AI 眼鏡；Ray-Ban Meta（$379）累計 **>10M units**。
+- **TrendForce**：2026 年 AR 眼鏡僅 **~950K** 副（<10% 類別）——「顯示」仍是利基。
+- **中國（CINNO XResearch, H1 2026）**：Thunderbird Innovation 24.8%、Rokid 20%；小米/Rokid 以價格 undercut Meta。
+- 產品/資金：Snap Specs **$2,195**；Meta Phoenix ASP 上修至 **$1,000–2,000**（內部目標 <$1,000，WSJ——若落 $2,000，AR/MR 毛利結構破損）；Even Realities $150M 獨角獸；Magic Leap 裁 ~200 人轉 waveguide 供應商；Qualcomm 晶片漲價＋RAM 危機推升類別 ASP。
+
+### 當日主題：「隱私補救 vs. 移除鏡頭 — 產業正在支付信任帳單」
+- 近 24h 為**法規/訴訟主導**而非硬體主導：LA 集體訴訟（親密影像未經同意）、Colorado 維修權訴訟（vs Meta+Luxottica）、法國性騷擾調查、澳洲 12 個月進口禁令法案、英國法庭自 8 月起禁用、倫敦 Wetherspoons 場所禁令＋反眼鏡廣告、ZuckOff 偵測 app（首月 5,000+ 下載）。
+- Meta 對策＝**架構移除鏡頭（Luna）＋韌體 LED 執法**；Hamburg DPA 53 頁報告（09-10）：LED 對旁人過暗、Gen 2 純語音對話時完全不亮。
+- 成長動能在**無顯示 audio glasses**（Q2 出貨 70.3%），非 AR 顯示；運算坨（compute puck）正統化（Meta Phoenix 與 Xreal Aura 皆以 tether 換薄型）；Agentic AI 成為新規格表（Snap Specs Intelligence / Meta Muse / NVIDIA XR AI 開源但需 58GB VRAM 工作站）。
+
+### 財務長觀察清單（CFO Watch Items）
+1. **Meta Connect 2026-09-24 07:00 CST keynote**——Luna / Phoenix / Gen 3 定價與 Ray-Ban Display 國際 rollout；單一最大催化。
+2. Phoenix ASP 若落 $2,000（vs 內部目標 $1,000）→ AR/MR 毛利結構破損，追蹤 Reality Labs 虧損指引是否上修。
+3. 2026 或為「Meta = 84%」最後一年——Android XR（Google/Samsung）、Snap Specs、Xreal Aura 同窗發射。
+
+### 風險標記
+- **R4**：純 AR 顯示（Snap Specs $2,195、Xreal Aura）——TAM <1M、需求未證、負面 hands-on。
+- **R2–R3**：Meta（84% 份額但承擔 100% 法規/訴訟頭條風險）。
+- **R5**：群眾募資階段硬體（GOSIGHT P1、MemoMind One、URXR One）。

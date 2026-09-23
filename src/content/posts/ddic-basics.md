@@ -4,7 +4,9 @@ description: '從系統層角度拆解顯示驅動 IC（DDIC）的角色、訊�
 pubDate: 2026-09-10
 category: 'work'
 tags: ['DDIC', '半導體', '基礎']
-draft: false
+draft: true
+nda_cleared: true
+nda_notes: '全部為公開領域通用架構知識（DDIC 基礎），無暫存器設定、無公司專案資訊、無專有公式'
 ---
 
 顯示驅動 IC（Display Driver IC，DDIC）是面板與應用處理器之間的橋樑。它的工作可以一句話概括：**把數位影像資料，轉成面板上每一個像素實際需要的類比電壓。**

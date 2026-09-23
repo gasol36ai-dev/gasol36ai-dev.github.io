@@ -21,6 +21,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # ── 機密攔阻：最前線，失敗即終止，不會進到建置與部署 ──
+      - name: NDA guard
+        run: python3 scripts/nda_check.py
+
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
         with:

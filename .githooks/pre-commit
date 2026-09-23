@@ -1,0 +1,33 @@
+#!/bin/sh
+# NDA 內容檢查 —— 第一道本機防線
+# 啟用：git config core.hooksPath .githooks
+
+echo "── NDA 內容檢查（pre-commit）──"
+
+FILES=$(git diff --cached --name-only --diff-filter=ACM)
+
+if [ -z "$FILES" ]; then
+  echo "（無暫存變更）"
+  exit 0
+fi
+
+# 只檢查文字類檔案
+TEXT_FILES=$(echo "$FILES" | grep -E '\.(md|markdown|astro|js|mjs|ts|json|css|html|txt|yml|yaml)$' || true)
+
+if [ -z "$TEXT_FILES" ]; then
+  exit 0
+fi
+
+python3 "$(git rev-parse --show-toplevel)/scripts/nda_check.py" $TEXT_FILES
+
+RC=$?
+
+if [ $RC -ne 0 ]; then
+  echo ""
+  echo "⛔ 提交已被 NDA 檢查攔阻。"
+  echo "   若確認為公開通用內容，請於該行末尾加： <!-- nda-ok: 你的理由 -->"
+  echo "   政策全文：NDA_POLICY.md"
+  exit 1
+fi
+
+exit 0

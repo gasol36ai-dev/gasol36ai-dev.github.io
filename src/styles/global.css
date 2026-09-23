@@ -178,6 +178,34 @@ h3 { font-size: 1.1rem; margin-top: 1.8em; }
 
 .empty { color: var(--fg-faint); font-style: italic; }
 
+/* 標籤若是連結（分類捷徑），不要底線 */
+a.tag { text-decoration: none; }
+
+/* 分頁 */
+.pager {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  align-items: center;
+  margin-top: 2rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--border);
+  font-size: 0.9rem;
+}
+.pager a {
+  padding: 0.3rem 0.6rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--fg-muted);
+  text-decoration: none;
+}
+.pager a:hover { border-color: var(--accent); color: var(--accent); }
+.pager a.on {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
 @media (max-width: 620px) {
   body { font-size: 16px; }
   .hero { padding-top: 0.5rem; }
