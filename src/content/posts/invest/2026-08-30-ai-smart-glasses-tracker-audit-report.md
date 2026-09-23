@@ -1,5 +1,5 @@
 ---
-title: '2026-08-30AISmartGlassesTrackerAuditReport'
+title: '2026-08-30 AI Smart Glasses Tracker Audit Report'
 description: ''
 pubDate: 2026-08-30
 category: 'invest'

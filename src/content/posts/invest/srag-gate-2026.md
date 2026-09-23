@@ -1,5 +1,5 @@
 ---
-title: 'Proprietary Judgment Indicator: SRAGGate2026'
+title: 'Proprietary Judgment Indicator: SRAG_Gate_2026'
 description: 'The indicator is derived from the ratio of autonomous logistical capacity to external resource dependence.'
 pubDate: 2026-06-16
 category: 'invest'

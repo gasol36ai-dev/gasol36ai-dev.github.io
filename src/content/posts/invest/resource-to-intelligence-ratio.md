@@ -1,5 +1,5 @@
 ---
-title: 'Resource-to-Intelligence Ratio ($\\chi{ce}$)'
+title: 'Resource-to-Intelligence Ratio ($\\chi_{ce}$)'
 description: 'The ratio is conceptualized as:'
 pubDate: 2026-07-13
 category: 'invest'

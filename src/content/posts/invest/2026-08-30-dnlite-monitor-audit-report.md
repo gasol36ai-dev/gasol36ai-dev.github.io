@@ -1,5 +1,5 @@
 ---
-title: '2026-08-30DNliteMonitorAuditReport'
+title: '2026-08-30 DNlite Monitor Audit Report'
 description: ''
 pubDate: 2026-08-30
 category: 'invest'

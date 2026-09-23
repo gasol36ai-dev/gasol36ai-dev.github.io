@@ -1,5 +1,5 @@
 ---
-title: 'MacroIntelligenceReport20260507'
+title: 'Macro Intelligence Report 2026 05 07'
 description: ''
 pubDate: 2026-05-07
 category: 'invest'

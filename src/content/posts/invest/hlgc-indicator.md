@@ -1,5 +1,5 @@
 ---
-title: 'HLGCIndicator'
+title: 'HLGC Indicator'
 description: 'Market reversals typically occur when price enters a "Liquidity Gap" (a region where very little volume was traded) while simultaneously sho…'
 pubDate: 2026-05-14
 category: 'invest'

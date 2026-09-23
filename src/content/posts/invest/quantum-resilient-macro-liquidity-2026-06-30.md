@@ -1,5 +1,5 @@
 ---
-title: 'QuantumResilientMacroLiquidity2026-06-30'
+title: 'Quantum Resilient Macro Liquidity 2026-06-30'
 description: 'The transition focuses on the implementation of:'
 pubDate: 2026-06-30
 category: 'invest'

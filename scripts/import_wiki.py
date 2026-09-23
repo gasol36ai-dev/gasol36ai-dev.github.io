@@ -33,6 +33,23 @@ def slugify(name: str) -> str:
     return s or "post"
 
 
+def derive_title(rel: str, body: str) -> str:
+    """標題：優先取內文 H1；否則由檔名還原（底線轉空格、去日期前綴）。"""
+    m = re.search(r"^#\s+(.+)$", body, re.MULTILINE)
+    if m:
+        t = re.sub(r"[#*`]+", "", m.group(1)).strip()
+        if t:
+            # H1 若實為檔名形式（含底線、無空格），還原成可讀標題
+            if "_" in t and " " not in t:
+                t = re.sub(r"\s{2,}", " ", t.replace("_", " ")).strip()
+            return t[:120]
+    stem = os.path.splitext(os.path.basename(rel))[0]
+    stem = re.sub(r"^\d{4}-\d{2}-\d{2}[-_]\s*", "", stem)
+    stem = stem.replace("_", " ")
+    stem = re.sub(r"\s{2,}", " ", stem).strip()
+    return (stem or os.path.splitext(os.path.basename(rel))[0])[:120]
+
+
 def first_paragraph(body: str) -> str:
     """取首段作為摘要；剝除 Markdown 與 LaTeX 標記，過長加省略號。"""
     for raw in body.split("\n"):
@@ -101,7 +118,7 @@ def main():
             n += 1
         used.add(slug)
 
-        title = info.get("title") or slug
+        title = derive_title(rel, body)
         date = info.get("date") or "2026-01-01"
         desc = first_paragraph(body)
 

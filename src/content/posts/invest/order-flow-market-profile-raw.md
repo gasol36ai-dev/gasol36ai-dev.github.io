@@ -1,5 +1,5 @@
 ---
-title: 'OrderFlowMarketProfileRAW'
+title: 'Order Flow Market Profile RAW'
 description: 'Source: https://grandalgo.com/blog/market-profile-trading-explained'
 pubDate: 2026-05-18
 category: 'invest'

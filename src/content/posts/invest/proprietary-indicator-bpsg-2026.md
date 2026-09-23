@@ -1,5 +1,5 @@
 ---
-title: 'ProprietaryIndicatorBPSG2026'
+title: 'Proprietary Indicator BPSG 2026'
 description: '1. Health AI Sovereignty — domestic AI diagnostic infrastructure replacing foreign clinical AI platforms'
 pubDate: 2026-05-30
 category: 'invest'

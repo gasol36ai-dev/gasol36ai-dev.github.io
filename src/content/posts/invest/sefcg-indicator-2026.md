@@ -1,5 +1,5 @@
 ---
-title: 'Spatial-Energetic-Financial Convergence Gate (SEFCG2026)'
+title: 'Spatial-Energetic-Financial Convergence Gate (SEFCG_2026)'
 description: 'The Spatial-Energetic-Financial Convergence Gate (SEFCG2026) is a proprietary judgment indicator designed to identify the emergence of "Hype…'
 pubDate: 2026-06-22
 category: 'invest'
