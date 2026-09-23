@@ -17,6 +17,8 @@ pnpm-debug.log*
 .env
 .env.production
 
-# 本機驗證產物（不得進版控）
+# 本機驗證產物（不得進版控／不得上線）
 *.local
 verify_*.txt
+verify_shots/
+verify_shots.py
