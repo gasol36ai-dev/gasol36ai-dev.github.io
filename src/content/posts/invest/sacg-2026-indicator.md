@@ -1,6 +1,6 @@
 ---
 title: 'PROPRIETARY INDICATOR: The Sovereign Autonomy Convergence Gate (SACG-2026)'
-description: 'The SACG-2026 indicator tracks the convergence of Compute Efficiency (Neuromorphic), Energy Independence (SMRs), and Capital Liquidity (RWA '
+description: 'The SACG-2026 indicator tracks the convergence of Compute Efficiency (Neuromorphic), Energy Independence (SMRs), and Capital Liquidity (RWA …'
 pubDate: 2026-06-23
 category: 'invest'
 topic: 'research'

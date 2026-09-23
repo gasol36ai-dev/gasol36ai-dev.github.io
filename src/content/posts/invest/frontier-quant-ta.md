@@ -1,6 +1,6 @@
 ---
 title: 'Frontier Technical Analysis & Quant Strategies'
-description: 'Order Flow Trading focuses on the real-time interaction between aggressive participants (market orders) and passive participants (limit orde'
+description: 'Order Flow Trading focuses on the real-time interaction between aggressive participants (market orders) and passive participants (limit orde…'
 pubDate: 2026-05-18
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Orbital-Swarm Convergence Gate (OSCG) (HPI-31)'
-description: 'The Orbital-Swarm Convergence Gate (OSCG) is a proprietary judgment indicator designed to identify the non-linear inflection point where dec'
+description: 'The Orbital-Swarm Convergence Gate (OSCG) is a proprietary judgment indicator designed to identify the non-linear inflection point where dec…'
 pubDate: 2026-06-06
 category: 'invest'
 topic: 'research'

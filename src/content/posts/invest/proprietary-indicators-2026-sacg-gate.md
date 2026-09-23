@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Autarky Convergence Gate (SACG)'
-description: 'The Sovereign Autarky Convergence Gate (SACG) is a high-density decision gate that synthesizes the convergence of three distinct physical an'
+description: 'The Sovereign Autarky Convergence Gate (SACG) is a high-density decision gate that synthesizes the convergence of three distinct physical an…'
 pubDate: 2026-06-16
 category: 'invest'
 topic: 'research'

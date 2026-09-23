@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Regime Resilience Index (SRRI)'
-description: 'The Sovereign Regime Resilience Index (SRRI) is a proprietary judgment indicator designed to assess the stability and security of a nation-s'
+description: 'The Sovereign Regime Resilience Index (SRRI) is a proprietary judgment indicator designed to assess the stability and security of a nation-s…'
 pubDate: 2026-06-09
 category: 'invest'
 topic: 'research'

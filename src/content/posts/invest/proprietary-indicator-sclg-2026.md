@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign-Compute-Liquidity-Gap (SCLG)'
-description: 'The Sovereign-Compute-Liquidity-Gap (SCLG) serves as a leading indicator for "Sovereign Decoupling Events." When a state attempts to acceler'
+description: 'The Sovereign-Compute-Liquidity-Gap (SCLG) serves as a leading indicator for "Sovereign Decoupling Events." When a state attempts to acceler…'
 pubDate: 2026-06-05
 category: 'invest'
 topic: 'research'

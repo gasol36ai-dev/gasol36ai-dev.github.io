@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Oceanic Compute-Energy Divergence (OCED) Gate'
-description: 'The Oceanic Compute-Energy Divergence (OCED) Gate is a proprietary judgment indicator designed to detect regime shifts in the deployment of '
+description: 'The Oceanic Compute-Energy Divergence (OCED) Gate is a proprietary judgment indicator designed to detect regime shifts in the deployment of …'
 pubDate: 2026-06-11
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Liquid Sovereign Assets (Bio-Digital Expansion)'
-description: 'Liquid Sovereign Assets (LSAs) are state-owned biological or digital resources—such as national genomic databases, synthetic bio-foundries, '
+description: 'Liquid Sovereign Assets (LSAs) are state-owned biological or digital resources—such as national genomic databases, synthetic bio-foundries, …'
 pubDate: 2026-07-07
 category: 'invest'
 topic: 'research'

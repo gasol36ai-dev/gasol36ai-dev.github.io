@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign DePIN Autarky (SDA): A Framework for National Infrastructure Resilience'
-description: 'Sovereign DePIN Autarky (SDA) is a strategic paradigm where nation-states leverage Decentralized Physical Infrastructure Networks (DePIN) to'
+description: 'Sovereign DePIN Autarky (SDA) is a strategic paradigm where nation-states leverage Decentralized Physical Infrastructure Networks (DePIN) to…'
 pubDate: 2026-06-09
 category: 'invest'
 topic: 'research'

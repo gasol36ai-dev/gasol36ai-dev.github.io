@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Trinity Gate (STG-2026): Proprietary Judgment Indicator'
-description: 'The Sovereign Trinity Gate (STG-2026) is a high-order convergence indicator designed to detect the moment a geopolitical entity achieves Sov'
+description: 'The Sovereign Trinity Gate (STG-2026) is a high-order convergence indicator designed to detect the moment a geopolitical entity achieves Sov…'
 pubDate: 2026-06-23
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Physical AI & Spatial Intelligence 2026'
-description: 'The industry is moving from 2D visual understanding to 3D-aware world modeling. The integration of Spatial Intelligence (the ability to perc'
+description: 'The industry is moving from 2D visual understanding to 3D-aware world modeling. The integration of Spatial Intelligence (the ability to perc…'
 pubDate: 2026-09-23
 category: 'invest'
 topic: 'ai-robotics'

@@ -1,6 +1,6 @@
 ---
 title: 'Post-Quantum Sovereign Financial Systems (PQSFS)'
-description: 'Post-Quantum Sovereign Financial Systems represent the evolution of national monetary infrastructures—specifically Central Bank Digital Curr'
+description: 'Post-Quantum Sovereign Financial Systems represent the evolution of national monetary infrastructures—specifically Central Bank Digital Curr…'
 pubDate: 2026-06-09
 category: 'invest'
 topic: 'research'

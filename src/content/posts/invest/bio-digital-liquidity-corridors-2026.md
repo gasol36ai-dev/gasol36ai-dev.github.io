@@ -1,6 +1,6 @@
 ---
 title: 'Bio-Digital Liquidity Corridors (2026): Synthesis Report'
-description: 'Bio-Digital Liquidity Corridors (BDLC) represent the structural convergence of synthetic biology (SynBio), organoid intelligence (OI), and R'
+description: 'Bio-Digital Liquidity Corridors (BDLC) represent the structural convergence of synthetic biology (SynBio), organoid intelligence (OI), and R…'
 pubDate: 2026-06-21
 category: 'invest'
 topic: 'research'

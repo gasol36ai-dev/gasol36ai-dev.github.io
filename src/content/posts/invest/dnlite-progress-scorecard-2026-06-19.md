@@ -1,6 +1,6 @@
 ---
 title: '🧬 DNlite Progress Scorecard — June 19, 2026'
-description: 'As of June 19, 2026, there is no new regulatory or clinical progress for DNlite (Shin-Ying Biomed) in the core US gatekeeper domains (CMS, K'
+description: 'As of June 19, 2026, there is no new regulatory or clinical progress for DNlite (Shin-Ying Biomed) in the core US gatekeeper domains (CMS, K…'
 pubDate: 2026-06-19
 category: 'invest'
 topic: 'research'

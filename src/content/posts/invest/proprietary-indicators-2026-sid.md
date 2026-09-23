@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Infrastructure Divergence (SID) Indicator'
-description: 'The Sovereign Infrastructure Divergence (SID) Indicator is a proprietary metric designed to quantify a nation-state''s strategic autonomy by '
+description: 'The Sovereign Infrastructure Divergence (SID) Indicator is a proprietary metric designed to quantify a nation-state''s strategic autonomy by …'
 pubDate: 2026-06-09
 category: 'invest'
 topic: 'research'

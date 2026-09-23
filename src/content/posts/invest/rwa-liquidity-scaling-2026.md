@@ -1,6 +1,6 @@
 ---
 title: 'RWA Tokenization Scaling & High-Throughput Liquidity Provision (2026)'
-description: 'As of 2026, the scaling of Real World Asset (RWA) tokenization has shifted from simple "on-chain representation" to "on-chain utility." The '
+description: 'As of 2026, the scaling of Real World Asset (RWA) tokenization has shifted from simple "on-chain representation" to "on-chain utility." The …'
 pubDate: 2026-07-14
 category: 'invest'
 topic: 'research'

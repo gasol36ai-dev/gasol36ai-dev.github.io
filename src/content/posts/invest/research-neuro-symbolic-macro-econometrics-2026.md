@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Research: Neuro-Symbolic Macro-Econometrics (2025-2026)'
-description: 'The integration of Neuro-Symbolic AI into macro-economic modeling represents a fundamental leap in predictive accuracy and structural transp'
+description: 'The integration of Neuro-Symbolic AI into macro-economic modeling represents a fundamental leap in predictive accuracy and structural transp…'
 pubDate: 2026-06-14
 category: 'invest'
 topic: 'research'

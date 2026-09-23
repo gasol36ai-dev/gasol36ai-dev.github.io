@@ -1,6 +1,6 @@
 ---
 title: 'Global Macro Trends Report - May 2026'
-description: 'As of May 2026, the global macro regime is characterized by "Sticky Inflation & Policy Divergence." While growth in the U.S. is showing resi'
+description: 'As of May 2026, the global macro regime is characterized by "Sticky Inflation & Policy Divergence." While growth in the U.S. is showing resi…'
 pubDate: 2026-05-08
 category: 'invest'
 topic: 'research'

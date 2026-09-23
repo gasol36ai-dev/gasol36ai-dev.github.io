@@ -1,6 +1,6 @@
 ---
 title: 'Macro Watchlist 2026'
-description: '1. Sovereign Debt Sustainability: Intense focus on US, EU, and China fiscal trajectories in the face of higher-for-longer or regime-shifting'
+description: '1. Sovereign Debt Sustainability: Intense focus on US, EU, and China fiscal trajectories in the face of higher-for-longer or regime-shifting…'
 pubDate: 2026-06-01
 category: 'invest'
 topic: 'research'

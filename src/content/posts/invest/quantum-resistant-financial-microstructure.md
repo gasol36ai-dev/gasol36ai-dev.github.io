@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Resistant Financial Microstructure'
-description: 'The transition to Post-Quantum Cryptography (PQC) introduces a fundamental shift in the latency-sensitive dynamics of electronic markets. Wh'
+description: 'The transition to Post-Quantum Cryptography (PQC) introduces a fundamental shift in the latency-sensitive dynamics of electronic markets. Wh…'
 pubDate: 2026-06-05
 category: 'invest'
 topic: 'research'

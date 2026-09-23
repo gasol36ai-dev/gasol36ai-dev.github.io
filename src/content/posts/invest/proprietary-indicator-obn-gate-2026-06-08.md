@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: OBN Synchronization Gate (Orbital-Bio-Neuromorphic)'
-description: 'The OBN Synchronization Gate is a multi-domain convergence indicator designed to detect the non-linear step-function in "Sovereign Intellige'
+description: 'The OBN Synchronization Gate is a multi-domain convergence indicator designed to detect the non-linear step-function in "Sovereign Intellige…'
 pubDate: 2026-06-08
 category: 'invest'
 topic: 'research'

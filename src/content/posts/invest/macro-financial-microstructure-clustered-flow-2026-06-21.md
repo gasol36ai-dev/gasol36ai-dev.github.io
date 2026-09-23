@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Macro-Financial Microstructure & Clustered Flow'
-description: 'The transition from raw Limit Order Book (LOB) imbalance to ''Clustered Flow'' represents a paradigm shift in institutional execution. As HFTs'
+description: 'The transition from raw Limit Order Book (LOB) imbalance to ''Clustered Flow'' represents a paradigm shift in institutional execution. As HFTs…'
 pubDate: 2026-06-21
 category: 'invest'
 topic: 'research'

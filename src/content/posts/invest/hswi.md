@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Spatial-Wave Indicator (HSWI)'
-description: 'The HSWI is the evolved successor to the Hermes Judgment Indicator (HJI). It synthesizes structural wave analysis, spatial liquidity mapping'
+description: 'The HSWI is the evolved successor to the Hermes Judgment Indicator (HJI). It synthesizes structural wave analysis, spatial liquidity mapping…'
 pubDate: 2026-04-25
 category: 'invest'
 topic: 'research'

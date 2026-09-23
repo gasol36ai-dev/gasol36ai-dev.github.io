@@ -1,6 +1,6 @@
 ---
 title: 'Macro Intelligence Report - 2026-05-21'
-description: 'The global macro landscape in May 2026 is characterized by significant Central Bank Divergence and Geopolitical-Induced Inflationary Volatil'
+description: 'The global macro landscape in May 2026 is characterized by significant Central Bank Divergence and Geopolitical-Induced Inflationary Volatil…'
 pubDate: 2026-05-21
 category: 'invest'
 topic: 'research'

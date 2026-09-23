@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Orbital Liquidity Resilience (OLR) Gate'
-description: 'The Orbital Liquidity Resilience (OLR) Gate is a multi-domain judgment indicator designed to assess the stability and liquidity availability'
+description: 'The Orbital Liquidity Resilience (OLR) Gate is a multi-domain judgment indicator designed to assess the stability and liquidity availability…'
 pubDate: 2026-06-07
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Macro Intelligence Report - 2026-05-18'
-description: 'The global macro landscape has shifted dramatically from an "easing expectation" regime to a "hawkish uncertainty" regime. The anticipated r'
+description: 'The global macro landscape has shifted dramatically from an "easing expectation" regime to a "hawkish uncertainty" regime. The anticipated r…'
 pubDate: 2026-05-18
 category: 'invest'
 topic: 'research'

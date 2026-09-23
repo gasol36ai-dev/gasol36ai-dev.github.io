@@ -1,6 +1,6 @@
 ---
 title: 'Investment Daily Summary - 2026-05-24'
-description: 'title: Investment Daily Summary 2026-05-24\\'
+description: 'Despite discrepancies, all sources agree markets rose, with the Dow posting a record high.'
 pubDate: 2026-05-24
 category: 'invest'
 topic: 'warroom'

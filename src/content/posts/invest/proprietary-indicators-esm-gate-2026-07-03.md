@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: The ENERGY-SENSE-MINERAL (ESM) Sovereignty Gate (2026-07-03)'
-description: 'The ESM Sovereignty Gate is a hyper-sovereign convergent indicator that tracks the simultaneous threshold crossing of three critical physica'
+description: 'The ESM Sovereignty Gate is a hyper-sovereign convergent indicator that tracks the simultaneous threshold crossing of three critical physica…'
 pubDate: 2026-07-03
 category: 'invest'
 topic: 'research'

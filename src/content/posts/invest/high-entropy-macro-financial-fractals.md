@@ -1,6 +1,6 @@
 ---
 title: 'High-Entropy Macro-Financial Fractals'
-description: 'Liquidity is not a linear variable but a fractal structure. "High-Entropy" refers to periods where the fractal dimension of liquidity distri'
+description: 'Liquidity is not a linear variable but a fractal structure. "High-Entropy" refers to periods where the fractal dimension of liquidity distri…'
 pubDate: 2026-06-12
 category: 'invest'
 topic: 'research'

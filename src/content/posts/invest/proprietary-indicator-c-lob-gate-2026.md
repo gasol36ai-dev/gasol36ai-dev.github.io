@@ -1,6 +1,6 @@
 ---
 title: 'Convergent LOB Gate (C-LOB Gate)'
-description: 'The C-LOB Gate synthesizes Market Microstructure (TradeFM/Clustered Flow) and Global Macro (Asymmetric Policy Paralysis) to detect the exact'
+description: 'The C-LOB Gate synthesizes Market Microstructure (TradeFM/Clustered Flow) and Global Macro (Asymmetric Policy Paralysis) to detect the exact…'
 pubDate: 2026-06-16
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Structura Wave Engine 2026'
-description: 'The Structura Wave Engine is a framework for analyzing non-linear regime transitions in complex, interconnected systems. It moves beyond sim'
+description: 'The Structura Wave Engine is a framework for analyzing non-linear regime transitions in complex, interconnected systems. It moves beyond sim…'
 pubDate: 2026-06-06
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign RWA Yield Geometries: 2026 Synthesis'
-description: 'As of 2026, the landscape of Real World Assets (RWA) has evolved from simple tokenization (mirroring existing assets) to Yield Geometries. T'
+description: 'As of 2026, the landscape of Real World Assets (RWA) has evolved from simple tokenization (mirroring existing assets) to Yield Geometries. T…'
 pubDate: 2026-06-16
 category: 'invest'
 topic: 'research'

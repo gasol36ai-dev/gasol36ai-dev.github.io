@@ -1,6 +1,6 @@
 ---
 title: 'Iran War & Energy Shock Transmission (2026)'
-description: 'The conflict involving Iran in early 2026 has established a dominant macro-transmission mechanism that overrides traditional cyclical trends'
+description: 'The conflict involving Iran in early 2026 has established a dominant macro-transmission mechanism that overrides traditional cyclical trends…'
 pubDate: 2026-05-04
 category: 'invest'
 topic: 'research'

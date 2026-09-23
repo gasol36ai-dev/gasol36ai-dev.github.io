@@ -1,6 +1,6 @@
 ---
 title: '🧬 DNlite Progress Scorecard — July 15, 2026'
-description: 'As of July 15, 2026 (Wednesday), DNlite monitoring shows no new developments in the clinical studies themselves. However, the ClinicalTrials'
+description: 'As of July 15, 2026 (Wednesday), DNlite monitoring shows no new developments in the clinical studies themselves. However, the ClinicalTrials…'
 pubDate: 2026-07-15
 category: 'invest'
 topic: 'research'

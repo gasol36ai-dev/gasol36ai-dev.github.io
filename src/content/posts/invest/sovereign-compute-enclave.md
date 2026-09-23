@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Compute Enclave (SCE)'
-description: 'A Sovereign Compute Enclave (SCE) is a vertically integrated infrastructure unit that collapses the distance between carbon-free energy prod'
+description: 'A Sovereign Compute Enclave (SCE) is a vertically integrated infrastructure unit that collapses the distance between carbon-free energy prod…'
 pubDate: 2026-07-13
 category: 'invest'
 topic: 'energy'

@@ -1,6 +1,6 @@
 ---
 title: 'Tokenized Sovereign Assets'
-description: 'The representation of government-issued assets (T-bills, bonds, gold reserves) as digital tokens on a blockchain or distributed ledger, enab'
+description: 'The representation of government-issued assets (T-bills, bonds, gold reserves) as digital tokens on a blockchain or distributed ledger, enab…'
 pubDate: 2026-07-10
 category: 'invest'
 topic: 'research'

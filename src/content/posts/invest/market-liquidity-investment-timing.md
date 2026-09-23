@@ -1,6 +1,6 @@
 ---
 title: 'Market Liquidity and Investment Timing'
-description: 'Market liquidity refers to the ease with which assets can be bought or sold without causing significant price movements. Investment timing i'
+description: 'Market liquidity refers to the ease with which assets can be bought or sold without causing significant price movements. Investment timing i…'
 pubDate: 2026-04-24
 category: 'invest'
 topic: 'research'

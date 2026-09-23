@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Bio-Macro Liquidity Resonance (BMLR) Gate'
-description: 'The BMLR Gate identifies the non-linear coupling between biological computational capacity (Wetware/Bio-digital intelligence) and macro-fina'
+description: 'The BMLR Gate identifies the non-linear coupling between biological computational capacity (Wetware/Bio-digital intelligence) and macro-fina…'
 pubDate: 2026-06-26
 category: 'invest'
 topic: 'research'

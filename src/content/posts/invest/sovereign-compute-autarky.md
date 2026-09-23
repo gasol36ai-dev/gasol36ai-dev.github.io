@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Compute Autarky: The Vertical Intelligence Stack'
-description: 'Sovereign Compute Autarky is the strategic pursuit of absolute control over the entire intelligence pipeline. It moves beyond "buying GPUs" '
+description: 'Sovereign Compute Autarky is the strategic pursuit of absolute control over the entire intelligence pipeline. It moves beyond "buying GPUs" …'
 pubDate: 2026-06-19
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Trade-Flow Foundation Models (TradeFM) & Clustered Flow Synthesis'
-description: 'The transition from raw Limit Order Book (LOB) imbalance signals to generative foundation models for trade-flow (TradeFM) represents a funda'
+description: 'The transition from raw Limit Order Book (LOB) imbalance signals to generative foundation models for trade-flow (TradeFM) represents a funda…'
 pubDate: 2026-06-16
 category: 'invest'
 topic: 'research'

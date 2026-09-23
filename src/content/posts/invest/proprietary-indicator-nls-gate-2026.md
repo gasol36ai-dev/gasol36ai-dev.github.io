@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Neuro-Liquidity Synchronization (NLS) Gate'
-description: 'The Neuro-Liquidity Synchronization (NLS) Gate measures the temporal and structural alignment between high-frequency cross-chain liquidity f'
+description: 'The Neuro-Liquidity Synchronization (NLS) Gate measures the temporal and structural alignment between high-frequency cross-chain liquidity f…'
 pubDate: 2026-06-06
 category: 'invest'
 topic: 'research'

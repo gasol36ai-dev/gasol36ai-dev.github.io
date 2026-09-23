@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Proprietary Indicator: The "Regime-Aware Liquidity Filter" (RALF)'
-description: 'Most technical indicators fail because they are "regime-blind." A bullish divergence on a lagging oscillator is meaningless in a high-volati'
+description: 'Most technical indicators fail because they are "regime-blind." A bullish divergence on a lagging oscillator is meaningless in a high-volati…'
 pubDate: 2026-05-04
 category: 'invest'
 topic: 'research'

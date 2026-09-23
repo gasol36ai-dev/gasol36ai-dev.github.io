@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Post-Quantum Macro-Financial Settlement Rails for Sovereign Finance'
-description: 'The transition to a post-quantum (PQ) financial landscape is no longer theoretical. The emergence of "Store Now, Decrypt Later" (SNDL) attac'
+description: 'The transition to a post-quantum (PQ) financial landscape is no longer theoretical. The emergence of "Store Now, Decrypt Later" (SNDL) attac…'
 pubDate: 2026-07-12
 category: 'invest'
 topic: 'research'

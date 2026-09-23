@@ -1,6 +1,6 @@
 ---
 title: 'Macro Intelligence Report - 2026-05-16'
-description: 'The global macro environment is currently dominated by a "Geopolitical-Inflationary Shock" regime. The ongoing conflict in the Middle East ('
+description: ''
 pubDate: 2026-05-16
 category: 'invest'
 topic: 'research'

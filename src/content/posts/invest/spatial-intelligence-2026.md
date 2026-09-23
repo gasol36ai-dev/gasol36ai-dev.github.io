@@ -1,6 +1,6 @@
 ---
 title: 'Spatial Intelligence (2026 State)'
-description: 'Spatial Intelligence is the capacity of an AI to understand and reason about 3D space, motion, and the relationship between objects in a phy'
+description: 'Spatial Intelligence is the capacity of an AI to understand and reason about 3D space, motion, and the relationship between objects in a phy…'
 pubDate: 2026-05-04
 category: 'invest'
 topic: 'ai-robotics'

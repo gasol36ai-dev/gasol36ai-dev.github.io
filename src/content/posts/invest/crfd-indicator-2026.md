@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Cross-Regime Flow-Volatility Divergence (CRFD)'
-description: 'The CRFD indicator is designed to detect moments when market microstructure (local flow) becomes decoupled from macro-economic momentum (glo'
+description: 'The CRFD indicator is designed to detect moments when market microstructure (local flow) becomes decoupled from macro-economic momentum (glo…'
 pubDate: 2026-05-26
 category: 'invest'
 topic: 'research'

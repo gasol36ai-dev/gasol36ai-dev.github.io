@@ -1,6 +1,6 @@
 ---
 title: 'Precision Fermentation & Cellular Agriculture Infrastructure'
-description: 'Precision fermentation and cellular agriculture represent a paradigm shift in food production, moving from traditional animal husbandry and '
+description: 'Precision fermentation and cellular agriculture represent a paradigm shift in food production, moving from traditional animal husbandry and …'
 pubDate: 2026-05-31
 category: 'invest'
 topic: 'research'

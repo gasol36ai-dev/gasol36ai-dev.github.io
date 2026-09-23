@@ -1,6 +1,6 @@
 ---
 title: 'Post-Quantum Macro-Financials: Strategic Report 2026-07-08'
-description: 'The global macro-financial landscape is undergoing a dual-phase transition: the shift toward Post-Quantum Cryptography (PQC) to secure the u'
+description: 'Traditional asymmetric encryption (RSA, ECC) is fundamentally vulnerable to Shor''s algorithm. The financial sector''s primary threat is the "…'
 pubDate: 2026-07-08
 category: 'invest'
 topic: 'research'

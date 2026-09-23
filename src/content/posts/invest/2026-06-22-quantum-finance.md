@@ -1,6 +1,6 @@
 ---
 title: 'Research Synthesis: Quantum-Resilient Financial Microstructure'
-description: 'As quantum computing approaches the "cryptographic breaking point" (the moment a large-scale quantum computer can execute Shor''s algorithm t'
+description: 'As quantum computing approaches the "cryptographic breaking point" (the moment a large-scale quantum computer can execute Shor''s algorithm t…'
 pubDate: 2026-06-22
 category: 'invest'
 topic: 'research'

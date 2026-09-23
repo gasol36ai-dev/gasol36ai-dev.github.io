@@ -1,6 +1,6 @@
 ---
 title: 'Global Macroeconomic Analysis Report - 2026 Q2'
-description: 'Iran Conflict -> Brent > $100 -> Headline Inflation Spike -> US 10Y Yield Rise -> Equity Valuation Compression'
+description: 'Geopolitical Fragmentation -> Central Bank Hoarding -> Decoupling from Real Yields -> Gold as Systemic Hedge'
 pubDate: 2026-04-29
 category: 'invest'
 topic: 'research'

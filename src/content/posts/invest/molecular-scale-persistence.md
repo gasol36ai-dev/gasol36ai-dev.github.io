@@ -1,6 +1,6 @@
 ---
 title: 'Concept: Molecular-Scale Persistence'
-description: 'Molecular-scale persistence is the use of biological molecules (primarily DNA and RNA) and epigenetic markers (methylation, histone modifica'
+description: 'Molecular-scale persistence is the use of biological molecules (primarily DNA and RNA) and epigenetic markers (methylation, histone modifica…'
 pubDate: 2026-07-14
 category: 'invest'
 topic: 'research'

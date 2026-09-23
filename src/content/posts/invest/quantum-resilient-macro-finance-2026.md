@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Resilient Macro-Finance 2026'
-description: 'The integration of Post-Quantum Cryptography (PQC) into global financial markets is the defining security challenge of the decade. As quantu'
+description: 'The integration of Post-Quantum Cryptography (PQC) into global financial markets is the defining security challenge of the decade. As quantu…'
 pubDate: 2026-07-04
 category: 'invest'
 topic: 'research'

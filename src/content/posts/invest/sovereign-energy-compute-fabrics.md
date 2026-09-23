@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Energy-Compute Fabrics (SECF)'
-description: 'Sovereign Energy-Compute Fabrics (SECF) represent a paradigm shift from "Compute-on-Grid" to "Energy-Integrated Compute." SECF describes a c'
+description: 'Sovereign Energy-Compute Fabrics (SECF) represent a paradigm shift from "Compute-on-Grid" to "Energy-Integrated Compute." SECF describes a c…'
 pubDate: 2026-07-01
 category: 'invest'
 topic: 'energy'

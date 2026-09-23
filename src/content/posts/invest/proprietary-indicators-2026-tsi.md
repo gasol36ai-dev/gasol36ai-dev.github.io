@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Triple-Sovereignty Inflection (TSI-2026)'
-description: 'The Triple-Sovereignty Inflection (TSI-2026) is a hyper-convergence indicator that identifies the precise moment a nation-state transitions '
+description: 'The Triple-Sovereignty Inflection (TSI-2026) is a hyper-convergence indicator that identifies the precise moment a nation-state transitions …'
 pubDate: 2026-07-03
 category: 'invest'
 topic: 'research'

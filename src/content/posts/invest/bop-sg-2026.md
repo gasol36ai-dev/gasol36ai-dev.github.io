@@ -1,6 +1,6 @@
 ---
 title: 'PROPRIETARY INDICATOR: Bio-Orbital-Photonic Sovereignty Gate (BOP-SG-2026)'
-description: '1.  Advanced Silicon Photonics & IPF (Compute Substrate)'
+description: '1. Advanced Silicon Photonics & IPF (Compute Substrate)'
 pubDate: 2026-07-03
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Judgment Indicator: The Quantum-Latency Bifurcation Gate (QLBG)'
-description: 'The Quantum-Latency Bifurcation Gate (QLBG) is a non-linear decision gate designed to identify the precise inflection point where the transi'
+description: 'The Quantum-Latency Bifurcation Gate (QLBG) is a non-linear decision gate designed to identify the precise inflection point where the transi…'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'research'

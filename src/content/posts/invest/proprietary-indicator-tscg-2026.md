@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Tri-Sovereign Convergence Gate (TSCG-26)'
-description: 'The Tri-Sovereign Convergence Gate (TSCG-26) is a cross-domain multi-vector indicator designed to detect the non-linear step-function transi'
+description: 'The Tri-Sovereign Convergence Gate (TSCG-26) is a cross-domain multi-vector indicator designed to detect the non-linear step-function transi…'
 pubDate: 2026-06-13
 category: 'invest'
 topic: 'research'

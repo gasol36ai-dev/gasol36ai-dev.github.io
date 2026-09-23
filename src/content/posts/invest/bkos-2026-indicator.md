@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: BKOS-2026 (Bio-Kinetic Orbital Sovereignty Gate)'
-description: 'The BKOS-2026 indicator measures the inflection point where a sovereign entity achieves "Total Autarky"—the ability to operate, extract, man'
+description: 'The BKOS-2026 indicator measures the inflection point where a sovereign entity achieves "Total Autarky"—the ability to operate, extract, man…'
 pubDate: 2026-07-05
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Workforce Economics of AI (2025-2026)'
-description: 'As of mid-2026, the global labor market is undergoing a structural transformation characterized by the transition from "AI as a Tool" to "AI'
+description: 'As of mid-2026, the global labor market is undergoing a structural transformation characterized by the transition from "AI as a Tool" to "AI…'
 pubDate: 2026-05-31
 category: 'invest'
 topic: 'research'

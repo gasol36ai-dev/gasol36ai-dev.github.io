@@ -1,6 +1,6 @@
 ---
 title: 'Synthetic Bio-Financial Markets (SBFM)'
-description: 'Synthetic Bio-Financial Markets (SBFM) represent the emerging intersection of synthetic biology, genomic engineering, and advanced financial'
+description: 'Synthetic Bio-Financial Markets (SBFM) represent the emerging intersection of synthetic biology, genomic engineering, and advanced financial…'
 pubDate: 2026-06-19
 category: 'invest'
 topic: 'research'

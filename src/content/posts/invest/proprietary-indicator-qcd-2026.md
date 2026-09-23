@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Quantum-Cognitive Divergence (QCD) Gate'
-description: 'The Quantum-Cognitive Divergence (QCD) Gate is a strategic judgment indicator designed to detect structural decoupling between the rate of c'
+description: 'The Quantum-Cognitive Divergence (QCD) Gate is a strategic judgment indicator designed to detect structural decoupling between the rate of c…'
 pubDate: 2026-06-09
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'KCRS: Kinetic-Cryptographic Regime Shift Indicator'
-description: 'The Kinetic-Cryptographic Regime Shift (KCRS) measures the widening gap between Information-Time (the latency overhead introduced by Post-Qu'
+description: 'The Kinetic-Cryptographic Regime Shift (KCRS) measures the widening gap between Information-Time (the latency overhead introduced by Post-Qu…'
 pubDate: 2026-06-05
 category: 'invest'
 topic: 'research'

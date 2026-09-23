@@ -1,6 +1,6 @@
 ---
 title: 'Frontier Quant Strategies 2026'
-description: 'The frontier of quantitative trading has moved beyond traditional factor models into high-frequency, non-linear, and multi-modal signal proc'
+description: 'The frontier of quantitative trading has moved beyond traditional factor models into high-frequency, non-linear, and multi-modal signal proc…'
 pubDate: 2026-06-01
 category: 'invest'
 topic: 'research'

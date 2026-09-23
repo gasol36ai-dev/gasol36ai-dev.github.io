@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Quantum-Sovereign Liquidity Buffer (QSLB)'
-description: 'The Quantum-Sovereign Liquidity Buffer (QSLB) is a proprietary judgment indicator designed to detect systemic liquidity fragility during the'
+description: 'The Quantum-Sovereign Liquidity Buffer (QSLB) is a proprietary judgment indicator designed to detect systemic liquidity fragility during the…'
 pubDate: 2026-06-11
 category: 'invest'
 topic: 'research'

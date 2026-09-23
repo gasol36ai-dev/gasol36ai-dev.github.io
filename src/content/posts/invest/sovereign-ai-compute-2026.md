@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign AI Infrastructure and Compute Geopolitics (2026 Report)'
-description: 'As of 2026, the global geopolitical landscape is defined by the "Compute Race." Artificial Intelligence has transitioned from a software-cen'
+description: 'As of 2026, the global geopolitical landscape is defined by the "Compute Race." Artificial Intelligence has transitioned from a software-cen…'
 pubDate: 2026-06-09
 category: 'invest'
 topic: 'research'

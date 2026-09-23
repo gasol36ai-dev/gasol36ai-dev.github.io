@@ -1,6 +1,6 @@
 ---
 title: 'Global Macro State - May 2026'
-description: 'The 2026 macro environment is defined by a shift from "Cyclical Economics" to "Structural Geopolitics". Traditional correlations (e.g., Real'
+description: 'The 2026 macro environment is defined by a shift from "Cyclical Economics" to "Structural Geopolitics". Traditional correlations (e.g., Real…'
 pubDate: 2026-05-01
 category: 'invest'
 topic: 'research'

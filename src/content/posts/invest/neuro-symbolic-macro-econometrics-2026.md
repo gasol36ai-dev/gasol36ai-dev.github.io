@@ -1,6 +1,6 @@
 ---
 title: 'Neuro-Symbolic Macro-Econometrics (NSME) 2026'
-description: 'Neuro-Symbolic Macro-Econometrics (NSME) represents a paradigm shift from pure statistical forecasting to causal, logic-driven macroeconomic'
+description: 'Neuro-Symbolic Macro-Econometrics (NSME) represents a paradigm shift from pure statistical forecasting to causal, logic-driven macroeconomic…'
 pubDate: 2026-06-11
 category: 'invest'
 topic: 'research'

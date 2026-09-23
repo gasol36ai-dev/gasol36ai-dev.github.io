@@ -1,6 +1,6 @@
 ---
 title: 'Global Digital Monetary Infrastructure (2025-2026)'
-description: 'The 2025-2026 period marks the transition of Central Bank Digital Currencies (CBDCs) from theoretical pilots to specialized production envir'
+description: 'The 2025-2026 period marks the transition of Central Bank Digital Currencies (CBDCs) from theoretical pilots to specialized production envir…'
 pubDate: 2026-05-30
 category: 'invest'
 topic: 'research'

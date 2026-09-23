@@ -1,6 +1,6 @@
 ---
 title: 'Report: Sovereign Bio-Digital Infrastructure (SBDI)'
-description: 'The convergence of synthetic biology, neuromorphic engineering, and decentralized computing has birthed the era of Sovereign Bio-Digital Inf'
+description: 'The convergence of synthetic biology, neuromorphic engineering, and decentralized computing has birthed the era of Sovereign Bio-Digital Inf…'
 pubDate: 2026-07-09
 category: 'invest'
 topic: 'research'

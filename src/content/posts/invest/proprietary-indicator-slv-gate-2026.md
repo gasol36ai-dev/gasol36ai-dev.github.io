@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Semantic Liquidity Vacuum (SLV) Gate'
-description: '$$\\text{SLV Index} = \\frac{\\sum (\\text{Agent Rationale Correlation})}{\\text{Normalized LOB Depth}} \\times \\text{Semantic Volatility}$$'
+description: '1. Hard-Stop Execution: Halt all agentic liquidity provision.'
 pubDate: 2026-06-14
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Macro-Micro Convergence (HMMC) Logic'
-description: 'The HMMC framework is a proprietary judgment indicator designed to identify high-probability reversal or trend-acceleration zones by analyzi'
+description: 'The HMMC framework is a proprietary judgment indicator designed to identify high-probability reversal or trend-acceleration zones by analyzi…'
 pubDate: 2026-05-23
 category: 'invest'
 topic: 'research'

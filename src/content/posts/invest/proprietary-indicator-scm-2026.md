@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Convergence Multiplier (SCM)'
-description: 'The Sovereign Convergence Multiplier (SCM) is a high-density proprietary indicator designed to quantify the strategic advantage gained when '
+description: 'The Sovereign Convergence Multiplier (SCM) is a high-density proprietary indicator designed to quantify the strategic advantage gained when …'
 pubDate: 2026-06-12
 category: 'invest'
 topic: 'research'

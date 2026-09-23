@@ -1,6 +1,6 @@
 ---
 title: 'zk-STARKs (Scalable Transparent Arguments of Knowledge)'
-description: 'zk-STARKs are a sophisticated class of zero-knowledge proofs that enable a "prover" to demonstrate the validity of a computation to a "verif'
+description: 'zk-STARKs are a sophisticated class of zero-knowledge proofs that enable a "prover" to demonstrate the validity of a computation to a "verif…'
 pubDate: 2026-07-12
 category: 'invest'
 topic: 'research'

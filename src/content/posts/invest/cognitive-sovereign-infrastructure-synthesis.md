@@ -1,6 +1,6 @@
 ---
 title: 'RESEARCH SYNTHESIS: Cognitive-Sovereign Infrastructure (CSI)'
-description: 'Cognitive-Sovereign Infrastructure (CSI) is the integrated hardware-software-economic substrate required to maintain individual and state au'
+description: 'Cognitive-Sovereign Infrastructure (CSI) is the integrated hardware-software-economic substrate required to maintain individual and state au…'
 pubDate: 2026-06-29
 category: 'invest'
 topic: 'research'

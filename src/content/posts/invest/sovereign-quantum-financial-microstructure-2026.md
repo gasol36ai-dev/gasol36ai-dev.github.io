@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign-Quantum Financial Microstructure'
-description: 'Sovereign-Quantum Financial Microstructure (SQFM) explores the intersection of quantum computing capabilities and the foundational plumbing '
+description: 'Sovereign-Quantum Financial Microstructure (SQFM) explores the intersection of quantum computing capabilities and the foundational plumbing …'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Post-Quantum Financial Microstructure (PQFM)'
-description: 'The transition to Post-Quantum Cryptography (PQC) introduces a fundamental conflict between the cryptographic security required to withstand'
+description: 'The transition to Post-Quantum Cryptography (PQC) introduces a fundamental conflict between the cryptographic security required to withstand…'
 pubDate: 2026-07-10
 category: 'invest'
 topic: 'research'

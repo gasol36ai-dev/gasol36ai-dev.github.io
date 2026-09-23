@@ -1,6 +1,6 @@
 ---
 title: 'Indicator: Sovereign Autonomy Convergence Gate (SACG-2026)'
-description: 'The SACG is a high-density proprietary indicator designed to detect the precise moment a sovereign entity transitions from "AI-Dependent" to'
+description: 'The SACG is a high-density proprietary indicator designed to detect the precise moment a sovereign entity transitions from "AI-Dependent" to…'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'research'

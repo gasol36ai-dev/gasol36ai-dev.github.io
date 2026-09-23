@@ -1,6 +1,6 @@
 ---
 title: 'ASEI Convergence Gate (2026)'
-description: 'The Autonomous Swarm-Edge Intelligence (ASEI) Convergence Gate is a proprietary judgment indicator designed to identify inflection points in'
+description: 'The Autonomous Swarm-Edge Intelligence (ASEI) Convergence Gate is a proprietary judgment indicator designed to identify inflection points in…'
 pubDate: 2026-06-09
 category: 'invest'
 topic: 'ai-robotics'

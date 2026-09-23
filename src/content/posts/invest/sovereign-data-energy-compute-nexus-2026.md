@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Synthesis: The Sovereign Data-Energy-Compute Nexus (2026)'
-description: 'The Sovereign Data-Energy-Compute Nexus (SDECN) is the structural convergence of three critical strategic pillars: Data Sovereignty, Energet'
+description: 'The Sovereign Data-Energy-Compute Nexus (SDECN) is the structural convergence of three critical strategic pillars: Data Sovereignty, Energet…'
 pubDate: 2026-07-09
 category: 'invest'
 topic: 'research'

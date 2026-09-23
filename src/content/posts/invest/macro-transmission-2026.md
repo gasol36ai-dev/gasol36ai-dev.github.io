@@ -1,6 +1,6 @@
 ---
 title: 'Macro Transmission Patterns 2026'
-description: 'The global economy is characterized by a sharp divergence between the Western Hemisphere (led by the US) and the Asia-Pacific/European regio'
+description: 'The global economy is characterized by a sharp divergence between the Western Hemisphere (led by the US) and the Asia-Pacific/European regio…'
 pubDate: 2026-05-23
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: SRCC — Sovereign Robotics Carbon-Compute Gate'
-description: 'The SRCC is a 3-domain synthesis indicator designed to detect the "structural ceiling" for humanoid robot fleet scaling. It identifies the i'
+description: 'The SRCC is a 3-domain synthesis indicator designed to detect the "structural ceiling" for humanoid robot fleet scaling. It identifies the i…'
 pubDate: 2026-05-29
 category: 'invest'
 topic: 'ai-robotics'

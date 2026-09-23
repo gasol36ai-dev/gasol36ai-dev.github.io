@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Topological Micro-Structure Flux (TMSF)'
-description: 'The Topological Micro-Structure Flux (TMSF) is a non-linear early warning indicator designed to detect structural ruptures in market liquidi'
+description: 'The Topological Micro-Structure Flux (TMSF) is a non-linear early warning indicator designed to detect structural ruptures in market liquidi…'
 pubDate: 2026-05-26
 category: 'invest'
 topic: 'research'

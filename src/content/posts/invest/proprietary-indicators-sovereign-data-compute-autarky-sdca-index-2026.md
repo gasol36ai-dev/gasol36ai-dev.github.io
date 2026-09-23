@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Data-Compute Autarky (SDCA) Index'
-description: 'The SDCA Index measures a nation-state''s (or large economic bloc''s) ability to maintain continuous, high-intelligence operations even during'
+description: 'The SDCA Index measures a nation-state''s (or large economic bloc''s) ability to maintain continuous, high-intelligence operations even during…'
 pubDate: 2026-06-04
 category: 'invest'
 topic: 'research'

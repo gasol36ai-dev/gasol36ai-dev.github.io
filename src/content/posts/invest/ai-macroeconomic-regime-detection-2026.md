@@ -1,6 +1,6 @@
 ---
 title: 'AI-Driven Macro-Economic Regime Detection (AI-MERD)'
-description: 'AI-MERD involves the use of deep learning and probabilistic models to identify shifts in macroeconomic regimes (e.g., from growth to stagfla'
+description: 'AI-MERD involves the use of deep learning and probabilistic models to identify shifts in macroeconomic regimes (e.g., from growth to stagfla…'
 pubDate: 2026-06-09
 category: 'invest'
 topic: 'research'

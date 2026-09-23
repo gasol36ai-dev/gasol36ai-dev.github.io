@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Kinetic Reflex (SKR-2026) Convergence Indicator'
-description: 'The SKR-2026 indicator synthesizes three distinct strategic domains into a single decision gate for assessing the "Kinetic Sovereignty" of a'
+description: 'The SKR-2026 indicator synthesizes three distinct strategic domains into a single decision gate for assessing the "Kinetic Sovereignty" of a…'
 pubDate: 2026-07-06
 category: 'invest'
 topic: 'ai-robotics'

@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Sovereign Finance (QSF) Synthesis Report: 2026'
-description: 'Quantum-Sovereign Finance (QSF) is the emergent paradigm defining the 2026 global financial regime. It represents the convergence of Post-Qu'
+description: 'Quantum-Sovereign Finance (QSF) is the emergent paradigm defining the 2026 global financial regime. It represents the convergence of Post-Qu…'
 pubDate: 2026-07-02
 category: 'invest'
 topic: 'research'

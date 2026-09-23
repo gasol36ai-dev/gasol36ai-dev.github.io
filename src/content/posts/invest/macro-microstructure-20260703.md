@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Macro-Microstructure Convergence (July 2026)'
-description: 'This report synthesizes current macro-economic pressures—characterized by inflation dominance and policy paralysis—and maps their convergenc'
+description: 'This report synthesizes current macro-economic pressures—characterized by inflation dominance and policy paralysis—and maps their convergenc…'
 pubDate: 2026-07-03
 category: 'invest'
 topic: 'research'

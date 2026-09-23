@@ -1,6 +1,6 @@
 ---
 title: 'Autonomous Geopolitical Arbitrage (AGA)'
-description: 'Autonomous Geopolitical Arbitrage (AGA) involves the deployment of agentic swarm intelligence to identify and exploit real-time discrepancie'
+description: 'Autonomous Geopolitical Arbitrage (AGA) involves the deployment of agentic swarm intelligence to identify and exploit real-time discrepancie…'
 pubDate: 2026-06-18
 category: 'invest'
 topic: 'research'

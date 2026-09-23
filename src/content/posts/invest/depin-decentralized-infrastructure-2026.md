@@ -1,6 +1,6 @@
 ---
 title: 'Decentralized Physical Infrastructure Networks (DePIN) 2025-2026'
-description: 'Decentralized Physical Infrastructure Networks (DePIN) represent a paradigm shift in how critical infrastructure is built and managed. By 20'
+description: 'Decentralized Physical Infrastructure Networks (DePIN) represent a paradigm shift in how critical infrastructure is built and managed. By 20…'
 pubDate: 2026-06-03
 category: 'invest'
 topic: 'ai-robotics'

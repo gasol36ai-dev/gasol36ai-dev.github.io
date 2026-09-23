@@ -1,6 +1,6 @@
 ---
 title: 'Concept: Sovereign Kinetic-Capital Nexus (SKCN-2026)'
-description: 'The Sovereign Kinetic-Capital Nexus (SKCN-2026) is a convergent judgment indicator that identifies the point of "Sovereign Escape Velocity" '
+description: 'The Sovereign Kinetic-Capital Nexus (SKCN-2026) is a convergent judgment indicator that identifies the point of "Sovereign Escape Velocity" …'
 pubDate: 2026-07-15
 category: 'invest'
 topic: 'research'

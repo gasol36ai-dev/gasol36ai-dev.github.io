@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Judgment Indicator: NQC-SENSE-2026'
-description: 'The NQC-SENSE-2026 indicator measures the "computational resonance" between biological-inspired event-driven processing (Neuromorphic) and h'
+description: 'The NQC-SENSE-2026 indicator measures the "computational resonance" between biological-inspired event-driven processing (Neuromorphic) and h…'
 pubDate: 2026-07-02
 category: 'invest'
 topic: 'research'

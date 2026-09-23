@@ -1,6 +1,6 @@
 ---
 title: 'Structura Wave Engine'
-description: 'The Structura Wave Engine is a proprietary, high-fidelity framework for analyzing market cyclicality and price structure through multi-scale'
+description: 'The Structura Wave Engine is a proprietary, high-fidelity framework for analyzing market cyclicality and price structure through multi-scale…'
 pubDate: 2026-06-01
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: The Compute-Energy Sovereignty Gap (CESG)'
-description: 'The Compute-Energy Sovereignty Gap (CESG) is a proprietary indicator designed to quantify the vulnerability of a nation-state''s (or large en'
+description: 'The Compute-Energy Sovereignty Gap (CESG) is a proprietary indicator designed to quantify the vulnerability of a nation-state''s (or large en…'
 pubDate: 2026-06-12
 category: 'invest'
 topic: 'research'

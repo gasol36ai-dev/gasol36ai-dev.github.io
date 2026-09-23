@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: The Quantum-Latency Arbitrage (QLA) Gate'
-description: 'The QLA Gate is a multi-domain judgment indicator designed to detect systemic shifts in market microstructure caused by the transition to Po'
+description: 'The QLA Gate is a multi-domain judgment indicator designed to detect systemic shifts in market microstructure caused by the transition to Po…'
 pubDate: 2026-06-13
 category: 'invest'
 topic: 'research'

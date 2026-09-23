@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Hermes Spectral Liquidity Resonance (SLR)'
-description: 'The Spectral Liquidity Resonance (SLR) indicator is a high-conviction judgment tool that synthesizes micro-structure order flow, spectral fr'
+description: 'The Spectral Liquidity Resonance (SLR) indicator is a high-conviction judgment tool that synthesizes micro-structure order flow, spectral fr…'
 pubDate: 2026-05-16
 category: 'invest'
 topic: 'research'

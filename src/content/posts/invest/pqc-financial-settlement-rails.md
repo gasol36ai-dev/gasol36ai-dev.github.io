@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Post-Quantum Cryptography (PQC) in Financial Settlement Rails'
-description: 'The arrival of a Cryptographically Relevant Quantum Computer (CRQC) poses a systemic risk to global financial stability. Financial settlemen'
+description: 'The arrival of a Cryptographically Relevant Quantum Computer (CRQC) poses a systemic risk to global financial stability. Financial settlemen…'
 pubDate: 2026-06-23
 category: 'invest'
 topic: 'research'

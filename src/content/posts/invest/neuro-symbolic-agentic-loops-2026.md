@@ -1,6 +1,6 @@
 ---
 title: 'Agentic Neuro-Symbolic Loops (2026)'
-description: 'The next generation of agentic AI involves moving beyond pure statistical reasoning (LLMs) towards hybrid systems that integrate Symbolic Re'
+description: 'The next generation of agentic AI involves moving beyond pure statistical reasoning (LLMs) towards hybrid systems that integrate Symbolic Re…'
 pubDate: 2026-05-28
 category: 'invest'
 topic: 'ai-robotics'

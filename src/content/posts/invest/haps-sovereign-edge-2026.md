@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: HAPS Sovereign Edge (2026)'
-description: 'High-Altitude Platform Stations (HAPS) are solar-powered aircraft or balloons operating in the stratosphere (approx. 20km altitude). When de'
+description: 'High-Altitude Platform Stations (HAPS) are solar-powered aircraft or balloons operating in the stratosphere (approx. 20km altitude). When de…'
 pubDate: 2026-07-13
 category: 'invest'
 topic: 'research'

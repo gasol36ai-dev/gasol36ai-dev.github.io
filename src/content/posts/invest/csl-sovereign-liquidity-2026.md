@@ -1,6 +1,6 @@
 ---
 title: 'Cognitive-Sovereign Liquidity (CSL): Synthesis Report 2026 (Enriched)'
-description: 'Cognitive-Sovereign Liquidity (CSL) represents the convergence of agentic memory, neuro-symbolic reasoning, and sovereign financial orchestr'
+description: 'Cognitive-Sovereign Liquidity (CSL) represents the convergence of agentic memory, neuro-symbolic reasoning, and sovereign financial orchestr…'
 pubDate: 2026-06-23
 category: 'invest'
 topic: 'research'

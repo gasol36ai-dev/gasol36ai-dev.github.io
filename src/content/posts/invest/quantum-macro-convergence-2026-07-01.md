@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Convergence of Quantum-Resistant Financial Infrastructure and Macro-Regime Detection Models'
-description: 'The impending "Quantum Horizon"—the point at which Cryptographically Relevant Quantum Computers (CRQC) can execute Shor''s algorithm to break'
+description: 'The impending "Quantum Horizon"—the point at which Cryptographically Relevant Quantum Computers (CRQC) can execute Shor''s algorithm to break…'
 pubDate: 2026-07-01
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Embodied Energy Gate (SEEG / HPI-60)'
-description: 'The Sovereign Embodied Energy Gate (SEEG) is a Hyper-Sovereign convergence indicator that monitors the alignment of three disparate but comp'
+description: 'The Sovereign Embodied Energy Gate (SEEG) is a Hyper-Sovereign convergence indicator that monitors the alignment of three disparate but comp…'
 pubDate: 2026-06-22
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Generative Microstructure Foundations: TradeFM & Clustered Flow (2026)'
-description: 'The paradigm of market microstructure is shifting from reactive, rule-based models to generative, scale-invariant foundation models. This ev'
+description: 'The paradigm of market microstructure is shifting from reactive, rule-based models to generative, scale-invariant foundation models. This ev…'
 pubDate: 2026-06-11
 category: 'invest'
 topic: 'research'

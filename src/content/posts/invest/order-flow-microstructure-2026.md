@@ -1,6 +1,6 @@
 ---
 title: 'Advanced Order Flow & Market Microstructure (2026)'
-description: 'Understanding the "plumbing" of financial markets—how orders move, interact, and impact price—is becoming the differentiator for quantitativ'
+description: 'Understanding the "plumbing" of financial markets—how orders move, interact, and impact price—is becoming the differentiator for quantitativ…'
 pubDate: 2026-05-28
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Agentic Liquidity-Volatility Resonance (ALVR)'
-description: 'Provides an early warning for "Agentic Flash Crashes"—events where the convergence of agentic reasoning and macro-volatility creates a self-'
+description: 'Provides an early warning for "Agentic Flash Crashes"—events where the convergence of agentic reasoning and macro-volatility creates a self-…'
 pubDate: 2026-06-14
 category: 'invest'
 topic: 'research'

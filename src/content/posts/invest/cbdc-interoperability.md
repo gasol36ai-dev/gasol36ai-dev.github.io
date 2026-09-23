@@ -1,6 +1,6 @@
 ---
 title: 'CBDC Interoperability (Expanded)'
-description: 'CBDC (Central Bank Digital Currency) Interoperability refers to the technical and legal ability of different national digital currencies to '
+description: 'CBDC (Central Bank Digital Currency) Interoperability refers to the technical and legal ability of different national digital currencies to …'
 pubDate: 2026-07-05
 category: 'invest'
 topic: 'research'

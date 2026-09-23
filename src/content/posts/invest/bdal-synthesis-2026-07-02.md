@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Bio-Digital Asset Liquidity (BDAL) - 2026-07-02'
-description: 'Bio-Digital Asset Liquidity (BDAL) represents the synthesis of biological production capacity (wetware) with decentralized financial protoco'
+description: 'Bio-Digital Asset Liquidity (BDAL) represents the synthesis of biological production capacity (wetware) with decentralized financial protoco…'
 pubDate: 2026-07-02
 category: 'invest'
 topic: 'research'

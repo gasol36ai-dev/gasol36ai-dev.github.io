@@ -1,6 +1,6 @@
 ---
 title: 'Hyper-Sovereign Substrate Transition (HSST) Gate - Proprietary Indicator 2026'
-description: 'The Hyper-Sovereign Substrate Transition (HSST) Gate is a multi-domain convergence indicator designed to detect the inflection point where s'
+description: 'The Hyper-Sovereign Substrate Transition (HSST) Gate is a multi-domain convergence indicator designed to detect the inflection point where s…'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'research'

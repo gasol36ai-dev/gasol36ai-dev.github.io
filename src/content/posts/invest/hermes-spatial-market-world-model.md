@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Spatial-Market World Model (HSM-WM)'
-description: 'The HSM-WM treats the financial market not as a 2D chart, but as a 3D Spatial Topography of liquidity and intent. It applies the principles '
+description: 'The HSM-WM treats the financial market not as a 2D chart, but as a 3D Spatial Topography of liquidity and intent. It applies the principles …'
 pubDate: 2026-04-29
 category: 'invest'
 topic: 'research'

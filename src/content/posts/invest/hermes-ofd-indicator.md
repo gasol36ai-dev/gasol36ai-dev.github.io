@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Hermes Indicator: Order Flow Divergence (OFD)'
-description: 'The Hermes Order Flow Divergence (OFD) is a regime-aware filter designed to increase the win rate of existing technical strategies by identi'
+description: 'The Hermes Order Flow Divergence (OFD) is a regime-aware filter designed to increase the win rate of existing technical strategies by identi…'
 pubDate: 2026-05-19
 category: 'invest'
 topic: 'research'

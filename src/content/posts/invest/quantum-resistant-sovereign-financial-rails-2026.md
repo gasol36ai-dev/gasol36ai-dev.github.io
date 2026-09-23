@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Resistant Sovereign Financial Rails (QR-SFR) 2026'
-description: 'As the threat of Cryptographically Relevant Quantum Computers (CRQCs) looms, the integrity of sovereign financial systems faces an existenti'
+description: 'As the threat of Cryptographically Relevant Quantum Computers (CRQCs) looms, the integrity of sovereign financial systems faces an existenti…'
 pubDate: 2026-06-11
 category: 'invest'
 topic: 'research'

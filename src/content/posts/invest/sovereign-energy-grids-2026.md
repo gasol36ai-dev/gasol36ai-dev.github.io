@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Energy Grids (SEG) for AI Scaling (2026)'
-description: 'The trajectory of Artificial General Intelligence (AGI) is currently bottlenecked not by compute (silicon) but by energy (electrons). The "E'
+description: 'The trajectory of Artificial General Intelligence (AGI) is currently bottlenecked not by compute (silicon) but by energy (electrons). The "E…'
 pubDate: 2026-06-26
 category: 'invest'
 topic: 'energy'

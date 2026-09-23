@@ -1,6 +1,6 @@
 ---
 title: 'Concept: Quantum-Safe Financial Rails'
-description: 'Quantum-Safe Financial Rails refer to the modernization of global payment, settlement, and clearing systems to be resilient against attacks '
+description: 'Quantum-Safe Financial Rails refer to the modernization of global payment, settlement, and clearing systems to be resilient against attacks …'
 pubDate: 2026-07-14
 category: 'invest'
 topic: 'research'

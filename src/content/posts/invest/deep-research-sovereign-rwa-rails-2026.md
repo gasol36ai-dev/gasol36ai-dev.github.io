@@ -1,6 +1,6 @@
 ---
 title: 'Deep Research: Sovereign RWA Liquidity Rails 2026'
-description: 'The financial architecture is transitioning from "tokenization as a wrapper" (mirroring assets) to Agentic Assets, where valuation, risk man'
+description: 'The financial architecture is transitioning from "tokenization as a wrapper" (mirroring assets) to Agentic Assets, where valuation, risk man…'
 pubDate: 2026-06-27
 category: 'invest'
 topic: 'research'

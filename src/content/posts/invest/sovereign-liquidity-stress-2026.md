@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Liquidity Stress (SLS)'
-description: '1. Geopolitcal Fragmentation Index: Measured by the frequency of cross-border payment system shifts and sovereign-backed digital asset adopt'
+description: '1. Geopolitcal Fragmentation Index: Measured by the frequency of cross-border payment system shifts and sovereign-backed digital asset adopt…'
 pubDate: 2026-05-28
 category: 'invest'
 topic: 'research'

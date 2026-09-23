@@ -1,6 +1,6 @@
 ---
 title: 'Frontier Order Flow & Quantitative Trading (2026)'
-description: 'Price Action reveals what happened; Order Flow reveals why it happened. The goal is to identify institutional commitment (absorption/imbalan'
+description: 'Price Action reveals what happened; Order Flow reveals why it happened. The goal is to identify institutional commitment (absorption/imbalan…'
 pubDate: 2026-05-16
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Deep-Tech Allocation Gate (SDAG / HPI-13)'
-description: 'SDAG detects the simultaneous institutional validation of three distinct deep-tech verticals — Sovereign Tokenized Finance, Industrial AI/Di'
+description: 'SDAG detects the simultaneous institutional validation of three distinct deep-tech verticals — Sovereign Tokenized Finance, Industrial AI/Di…'
 pubDate: 2026-05-29
 category: 'invest'
 topic: 'research'

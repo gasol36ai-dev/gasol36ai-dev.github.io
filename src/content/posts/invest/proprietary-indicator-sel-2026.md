@@ -1,6 +1,6 @@
 ---
 title: 'Spatial-Edge Labor (SEL) Indicator'
-description: 'The Spatial-Edge Labor (SEL) Indicator is a proprietary judgment framework designed to measure the divergence between the perceived "seamles'
+description: 'The Spatial-Edge Labor (SEL) Indicator is a proprietary judgment framework designed to measure the divergence between the perceived "seamles…'
 pubDate: 2026-06-07
 category: 'invest'
 topic: 'ai-glasses'

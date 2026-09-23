@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Bio-Digital Asset Sovereignty (BDAS)'
-description: 'Bio-Digital Asset Sovereignty (BDAS) represents a paradigm shift in ownership and identity where the biological substrate of a living organi'
+description: 'Bio-Digital Asset Sovereignty (BDAS) represents a paradigm shift in ownership and identity where the biological substrate of a living organi…'
 pubDate: 2026-07-05
 category: 'invest'
 topic: 'research'

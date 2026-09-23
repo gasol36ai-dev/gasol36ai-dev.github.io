@@ -1,6 +1,6 @@
 ---
 title: 'Research Analysis: Quantum-Resilient Macro'
-description: 'The advent of cryptographically relevant quantum computers (CRQCs) poses a systemic risk to the global financial architecture. Current encry'
+description: 'The advent of cryptographically relevant quantum computers (CRQCs) poses a systemic risk to the global financial architecture. Current encry…'
 pubDate: 2026-07-02
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Energy-Compute Nexus: SMR/Nuclear Autarky and Edge-Compute Sovereignty'
-description: 'The Sovereign Energy-Compute Nexus (SECN) is the strategic integration of Small Modular Reactors (SMRs) and next-generation nuclear energy w'
+description: 'The Sovereign Energy-Compute Nexus (SECN) is the strategic integration of Small Modular Reactors (SMRs) and next-generation nuclear energy w…'
 pubDate: 2026-06-23
 category: 'invest'
 topic: 'research'

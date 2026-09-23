@@ -1,6 +1,6 @@
 ---
 title: 'NSLB Indicator (Neuromorphic Sovereign Liquidity Buffer)'
-description: 'To provide an early-warning and automated mitigation signal for "Neuromorphic Liquidity Cascades" — where high-frequency, hardware-native (n'
+description: 'To provide an early-warning and automated mitigation signal for "Neuromorphic Liquidity Cascades" — where high-frequency, hardware-native (n…'
 pubDate: 2026-05-31
 category: 'invest'
 topic: 'research'

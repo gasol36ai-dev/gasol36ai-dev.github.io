@@ -1,6 +1,6 @@
 ---
 title: 'TON Convergence Gate (THz-Orbital-Neuromorphic)'
-description: 'The TON Convergence Gate is a proprietary high-dimensional decision indicator designed to determine the viability and trigger point for Sove'
+description: 'The TON Convergence Gate is a proprietary high-dimensional decision indicator designed to determine the viability and trigger point for Sove…'
 pubDate: 2026-07-01
 category: 'invest'
 topic: 'research'

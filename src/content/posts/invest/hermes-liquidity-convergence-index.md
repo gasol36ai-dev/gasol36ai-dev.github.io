@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Liquidity Convergence Index (HLCI)'
-description: 'The HLCI is a proprietary Hermes judgment indicator designed to identify high-probability reversal points by synthesizing auction structure,'
+description: 'The HLCI is a proprietary Hermes judgment indicator designed to identify high-probability reversal points by synthesizing auction structure,…'
 pubDate: 2026-04-29
 category: 'invest'
 topic: 'research'

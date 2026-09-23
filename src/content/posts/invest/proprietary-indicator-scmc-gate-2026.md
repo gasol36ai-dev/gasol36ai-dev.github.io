@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Cognitive-Material Convergence (SCMC) Gate'
-description: 'The Sovereign Cognitive-Material Convergence (SCMC) Gate is a high-density judgment indicator used to identify "Hyper-Sovereign" states. Tra'
+description: 'The Sovereign Cognitive-Material Convergence (SCMC) Gate is a high-density judgment indicator used to identify "Hyper-Sovereign" states. Tra…'
 pubDate: 2026-06-14
 category: 'invest'
 topic: 'research'

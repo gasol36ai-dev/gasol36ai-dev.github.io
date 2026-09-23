@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Bio-Digital Infrastructure 2026'
-description: 'Sovereign Bio-Digital Infrastructure represents the strategic convergence of synthetic biology, high-performance computing, and advanced aut'
+description: 'Sovereign Bio-Digital Infrastructure represents the strategic convergence of synthetic biology, high-performance computing, and advanced aut…'
 pubDate: 2026-06-08
 category: 'invest'
 topic: 'research'

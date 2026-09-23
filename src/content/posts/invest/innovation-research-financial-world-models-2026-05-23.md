@@ -1,6 +1,6 @@
 ---
 title: 'Innovation Research: Generative Financial World Models (The Hermes-LMM Framework)'
-description: 'The frontier of quantitative finance is moving from predictive modeling (guessing the next price) to generative world modeling (simulating t'
+description: 'The frontier of quantitative finance is moving from predictive modeling (guessing the next price) to generative world modeling (simulating t…'
 pubDate: 2026-05-23
 category: 'invest'
 topic: 'research'

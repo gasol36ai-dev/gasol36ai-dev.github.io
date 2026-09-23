@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Autarkic-Cognitive Synthesis Gate (ACSG-2026)'
-description: 'The Autarkic-Cognitive Synthesis Gate (ACSG) is a triple-domain convergence indicator designed to detect the transition from "Managed Autono'
+description: 'The Autarkic-Cognitive Synthesis Gate (ACSG) is a triple-domain convergence indicator designed to detect the transition from "Managed Autono…'
 pubDate: 2026-06-21
 category: 'invest'
 topic: 'research'

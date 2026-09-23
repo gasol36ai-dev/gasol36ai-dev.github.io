@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Autonomy Lag (SAL) Indicator'
-description: 'The Sovereign Autonomy Lag (SAL) indicator measures the critical decoupling between the operational complexity of autonomous agentic swarms '
+description: 'The Sovereign Autonomy Lag (SAL) indicator measures the critical decoupling between the operational complexity of autonomous agentic swarms …'
 pubDate: 2026-06-21
 category: 'invest'
 topic: 'ai-robotics'

@@ -1,6 +1,6 @@
 ---
 title: 'Energy Sovereignty (Sustaining Vector)'
-description: 'The ultimate bottleneck of Physical AI is the energy-density gap. Scaling autonomy requires the transition from "Grid-Dependent" to "Source-'
+description: 'The ultimate bottleneck of Physical AI is the energy-density gap. Scaling autonomy requires the transition from "Grid-Dependent" to "Source-…'
 pubDate: 2026-07-02
 category: 'invest'
 topic: 'energy'

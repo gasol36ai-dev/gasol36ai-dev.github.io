@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Hyper-Sovereign Autarky Gate (HSAG-2026)'
-description: 'The HSAG-2026 indicator monitors the transition of a sovereign entity from a "terrestrial-dependent actor" to a "Sovereign Node." This trans'
+description: 'The HSAG-2026 indicator monitors the transition of a sovereign entity from a "terrestrial-dependent actor" to a "Sovereign Node." This trans…'
 pubDate: 2026-06-21
 category: 'invest'
 topic: 'research'

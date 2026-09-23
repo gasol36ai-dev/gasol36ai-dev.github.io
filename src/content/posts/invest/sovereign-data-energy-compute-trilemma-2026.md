@@ -1,6 +1,6 @@
 ---
 title: 'The Sovereign Data-Energy-Compute Trilemma'
-description: 'The Sovereign Data-Energy-Compute Trilemma describes the fundamental tension that nation-states face when attempting to achieve autonomous c'
+description: 'The Sovereign Data-Energy-Compute Trilemma describes the fundamental tension that nation-states face when attempting to achieve autonomous c…'
 pubDate: 2026-06-05
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Post-Quantum Cryptography (PQC) and Sovereign Infrastructure Convergence: 2026 Research Report'
-description: 'As the horizon for "Q-Day"—the point at which a cryptographically relevant quantum computer (CRQC) can break current asymmetric encryption—d'
+description: 'As the horizon for "Q-Day"—the point at which a cryptographically relevant quantum computer (CRQC) can break current asymmetric encryption—d…'
 pubDate: 2026-05-30
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: The Bio-Macro-Orbital (BMO) Convergence Gate'
-description: 'The BMO Convergence Gate is a hyper-sovereign indicator that identifies the simultaneous alignment of three disparate but critical sovereign'
+description: 'The BMO Convergence Gate is a hyper-sovereign indicator that identifies the simultaneous alignment of three disparate but critical sovereign…'
 pubDate: 2026-06-26
 category: 'invest'
 topic: 'research'

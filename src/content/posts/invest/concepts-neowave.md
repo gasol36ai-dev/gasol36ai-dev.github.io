@@ -1,6 +1,6 @@
 ---
 title: 'NeoWave'
-description: 'NeoWave is a rigorous extension of Elliott Wave theory that emphasizes objective rules and quantitative validation over subjective interpret'
+description: 'NeoWave is a rigorous extension of Elliott Wave theory that emphasizes objective rules and quantitative validation over subjective interpret…'
 pubDate: 2026-05-23
 category: 'invest'
 topic: 'research'

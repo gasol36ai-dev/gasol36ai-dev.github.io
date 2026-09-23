@@ -1,6 +1,6 @@
 ---
 title: 'Post-Quantum Financial Cryptography & Strategic Hedging: Navigating the "Quantum-Day" Horizon'
-description: 'As we move through 2026, the theoretical threat of Cryptographically Relevant Quantum Computers (CRQCs) has transitioned into a concrete sys'
+description: 'As we move through 2026, the theoretical threat of Cryptographically Relevant Quantum Computers (CRQCs) has transitioned into a concrete sys…'
 pubDate: 2026-06-01
 category: 'invest'
 topic: 'research'

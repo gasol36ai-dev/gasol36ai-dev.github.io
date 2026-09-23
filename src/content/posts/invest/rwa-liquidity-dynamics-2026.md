@@ -1,6 +1,6 @@
 ---
 title: 'RWA Liquidity Dynamics 2026: Institutional DeFi and Yield-Bearing Assets'
-description: 'By 2026, the tokenization of Real World Assets (RWAs) has transitioned from experimental pilots to a foundational pillar of the global finan'
+description: 'By 2026, the tokenization of Real World Assets (RWAs) has transitioned from experimental pilots to a foundational pillar of the global finan…'
 pubDate: 2026-06-09
 category: 'invest'
 topic: 'research'

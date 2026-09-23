@@ -1,6 +1,6 @@
 ---
 title: 'Multi-Scale Order Flow & Adaptive Granularity Attention (AGA)'
-description: 'Traditional order flow analysis often suffers from the "resolution conflict": tick-level data provides microstructure detail but is noisy; m'
+description: 'Traditional order flow analysis often suffers from the "resolution conflict": tick-level data provides microstructure detail but is noisy; m…'
 pubDate: 2026-05-23
 category: 'invest'
 topic: 'research'

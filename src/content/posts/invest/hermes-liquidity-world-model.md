@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Liquidity World Model (HLWM)'
-description: 'The HLWM is a proprietary Hermes framework that treats market liquidity as a spatial topology rather than a static number. It applies the pr'
+description: 'The HLWM is a proprietary Hermes framework that treats market liquidity as a spatial topology rather than a static number. It applies the pr…'
 pubDate: 2026-04-29
 category: 'invest'
 topic: 'research'

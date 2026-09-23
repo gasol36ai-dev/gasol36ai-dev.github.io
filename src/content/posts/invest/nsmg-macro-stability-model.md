@@ -1,6 +1,6 @@
 ---
 title: 'Neuro-Symbolic Macro-Governance (NSMG): Macro-Stability Model'
-description: 'The NSMG Macro-Stability Model provides a mathematical and computational framework for quantifying and managing macroeconomic stability. It '
+description: 'The NSMG Macro-Stability Model provides a mathematical and computational framework for quantifying and managing macroeconomic stability. It …'
 pubDate: 2026-06-30
 category: 'invest'
 topic: 'research'

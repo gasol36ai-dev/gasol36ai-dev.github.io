@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Bio-Quantum Cloud Convergence Gate (BQCCG)'
-description: 'The BQCCG monitors the transition from specialized "isolated" compute (pure Quantum or pure Bio) to a Unified Heterogeneous Compute Fabric. '
+description: 'The BQCCG monitors the transition from specialized "isolated" compute (pure Quantum or pure Bio) to a Unified Heterogeneous Compute Fabric. …'
 pubDate: 2026-06-13
 category: 'invest'
 topic: 'research'

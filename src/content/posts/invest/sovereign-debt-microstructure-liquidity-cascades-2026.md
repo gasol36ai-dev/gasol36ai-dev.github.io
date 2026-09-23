@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Debt Microstructure & Liquidity Cascades (2026)'
-description: 'Sovereign debt microstructure focuses on the granular mechanics of how government bonds are traded, cleared, and settled. Unlike traditional'
+description: 'Sovereign debt microstructure focuses on the granular mechanics of how government bonds are traded, cleared, and settled. Unlike traditional…'
 pubDate: 2026-05-31
 category: 'invest'
 topic: 'research'

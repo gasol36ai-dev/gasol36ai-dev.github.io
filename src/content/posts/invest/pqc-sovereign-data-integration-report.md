@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: PQC Integration for Sovereign Data Rails'
-description: 'The transition to Post-Quantum Cryptography (PQC) is a strategic necessity for sovereign data rails to prevent systemic trust collapse. The '
+description: 'The transition to Post-Quantum Cryptography (PQC) is a strategic necessity for sovereign data rails to prevent systemic trust collapse. The …'
 pubDate: 2026-07-12
 category: 'invest'
 topic: 'research'

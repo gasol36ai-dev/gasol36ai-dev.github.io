@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Resistant Financial Microstructure (2026)'
-description: 'The "Quantum Threat" to classical asymmetric cryptography (RSA, ECC) has moved from a theoretical risk to an imminent operational requiremen'
+description: 'The "Quantum Threat" to classical asymmetric cryptography (RSA, ECC) has moved from a theoretical risk to an imminent operational requiremen…'
 pubDate: 2026-06-12
 category: 'invest'
 topic: 'research'

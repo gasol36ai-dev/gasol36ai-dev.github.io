@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: SOKS-2026 (Sovereign Organic Kinetic Stack)'
-description: 'The SOKS-2026 indicator tracks the convergence of three distinct strategic domains to identify a step-function shift in autonomous agency: S'
+description: 'Current kinetic agents are limited by the "Sensory-Actuation Gap" (latency in processing touch) and the "Thermal-Power Wall" (heat generated…'
 pubDate: 2026-07-09
 category: 'invest'
 topic: 'ai-robotics'

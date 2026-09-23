@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Physical AI Deployment Gate (SPADG-2026)'
-description: 'SPADG-2026 tracks the point at which three independent, currently-misaligned constraints on commercial Physical AI/humanoid-robotics deploym'
+description: 'SPADG-2026 tracks the point at which three independent, currently-misaligned constraints on commercial Physical AI/humanoid-robotics deploym…'
 pubDate: 2026-08-12
 category: 'invest'
 topic: 'ai-robotics'

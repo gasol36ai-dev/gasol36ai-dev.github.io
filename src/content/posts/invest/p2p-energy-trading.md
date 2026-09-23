@@ -1,6 +1,6 @@
 ---
 title: 'Peer-to-Peer (P2P) Energy Trading'
-description: 'P2P Energy Trading allows energy prosumers to sell excess electricity directly to their neighbors without a centralized utility intermediary'
+description: 'P2P Energy Trading allows energy prosumers to sell excess electricity directly to their neighbors without a centralized utility intermediary…'
 pubDate: 2026-07-13
 category: 'invest'
 topic: 'energy'

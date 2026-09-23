@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Physical-Macro Convergence Gate (PMCG)'
-description: 'The Physical-Macro Convergence Gate (PMCG) is a multi-domain judgment indicator designed to identify the inflection point where geopolitical'
+description: 'The Physical-Macro Convergence Gate (PMCG) is a multi-domain judgment indicator designed to identify the inflection point where geopolitical…'
 pubDate: 2026-06-08
 category: 'invest'
 topic: 'research'

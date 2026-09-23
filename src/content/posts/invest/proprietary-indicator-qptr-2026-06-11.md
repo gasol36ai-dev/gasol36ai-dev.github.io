@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Quantum-Physical Truth Resonance (QPTR)'
-description: 'The Quantum-Physical Truth Resonance (QPTR) indicator addresses the "Coherence Trap" in cognitive warfare. As MLLM-driven disinformation (NC'
+description: 'The Quantum-Physical Truth Resonance (QPTR) indicator addresses the "Coherence Trap" in cognitive warfare. As MLLM-driven disinformation (NC…'
 pubDate: 2026-06-11
 category: 'invest'
 topic: 'research'

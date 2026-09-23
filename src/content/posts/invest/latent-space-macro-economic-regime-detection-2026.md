@@ -1,6 +1,6 @@
 ---
 title: 'Latent Space Macro-Economic Regime Detection (LS-MERD)'
-description: 'Traditional macroeconomic modeling typically relies on aggregate, lagging indicators (e.g., GDP, CPI, Unemployment rates) which are subject '
+description: 'Traditional macroeconomic modeling typically relies on aggregate, lagging indicators (e.g., GDP, CPI, Unemployment rates) which are subject …'
 pubDate: 2026-06-12
 category: 'invest'
 topic: 'research'

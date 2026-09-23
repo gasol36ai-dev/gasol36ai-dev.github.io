@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Liquidity Vacuum Index (LVI)'
-description: 'The LVI is designed to identify "Sling-shot" reversals that occur when price enters a structural "vacuum" (extreme LVN) while simultaneously'
+description: 'The LVI is designed to identify "Sling-shot" reversals that occur when price enters a structural "vacuum" (extreme LVN) while simultaneously…'
 pubDate: 2026-05-19
 category: 'invest'
 topic: 'research'

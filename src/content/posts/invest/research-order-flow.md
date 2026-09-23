@@ -1,6 +1,6 @@
 ---
 title: 'Order Flow Analysis'
-description: 'Order Flow is the study of the actual buy and sell orders entering the market in real-time. It is the "microstructure" that drives the "macr'
+description: 'Order Flow is the study of the actual buy and sell orders entering the market in real-time. It is the "microstructure" that drives the "macr…'
 pubDate: 2026-05-01
 category: 'invest'
 topic: 'research'

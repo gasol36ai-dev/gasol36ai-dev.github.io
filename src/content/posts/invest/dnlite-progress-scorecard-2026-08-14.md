@@ -1,6 +1,6 @@
 ---
 title: '���� �� �� 🧬 DNlite Progress Scorecard — August 14, 2026'
-description: 'As of August 14, 2026 (Friday), DNlite monitoring detects no new material changes from the August 13, 2026 baseline. The previously reported'
+description: 'As of August 14, 2026 (Friday), DNlite monitoring detects no new material changes from the August 13, 2026 baseline. The previously reported…'
 pubDate: 2026-08-14
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Manifold Liquidity Curvature (MLC)'
-description: 'The Manifold Liquidity Curvature (MLC) indicator moves beyond linear volatility and standard order flow. It is inspired by Information Geome'
+description: 'The Manifold Liquidity Curvature (MLC) indicator moves beyond linear volatility and standard order flow. It is inspired by Information Geome…'
 pubDate: 2026-05-25
 category: 'invest'
 topic: 'research'

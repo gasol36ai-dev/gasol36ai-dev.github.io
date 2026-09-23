@@ -1,6 +1,6 @@
 ---
 title: 'Auction Market Theory (AMT)'
-description: 'AMT posits that the primary purpose of a financial market is to facilitate trade by finding a price acceptable to the maximum number of part'
+description: 'AMT posits that the primary purpose of a financial market is to facilitate trade by finding a price acceptable to the maximum number of part…'
 pubDate: 2026-04-29
 category: 'invest'
 topic: 'research'

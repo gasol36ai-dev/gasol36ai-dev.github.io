@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Synthetic Agentic Liquidity Resonance (SALR)'
-description: 'The SALR Indicator measures the non-linear feedback loop between Agentic Economic Activity (the volume and velocity of LLM-driven autonomous'
+description: 'The SALR Indicator measures the non-linear feedback loop between Agentic Economic Activity (the volume and velocity of LLM-driven autonomous…'
 pubDate: 2026-06-03
 category: 'invest'
 topic: 'research'

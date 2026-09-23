@@ -1,6 +1,6 @@
 ---
 title: 'Neuro-Symbolic Macro-Governance (NSMG): Overview'
-description: 'Neuro-Symbolic Macro-Governance (NSMG) is a theoretical framework for using advanced artificial intelligence to model, predict, and govern c'
+description: 'Neuro-Symbolic Macro-Governance (NSMG) is a theoretical framework for using advanced artificial intelligence to model, predict, and govern c…'
 pubDate: 2026-06-30
 category: 'invest'
 topic: 'research'

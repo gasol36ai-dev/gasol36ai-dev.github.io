@@ -1,6 +1,6 @@
 ---
 title: 'Research Synthesis: SMR & Energy Sovereignty'
-description: 'Energy Sovereignty is the capacity of a state or community to determine its own energy future, reducing dependence on volatile foreign fuel '
+description: 'Energy Sovereignty is the capacity of a state or community to determine its own energy future, reducing dependence on volatile foreign fuel …'
 pubDate: 2026-06-22
 category: 'invest'
 topic: 'energy'

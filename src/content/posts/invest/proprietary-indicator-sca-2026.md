@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Compute Autarky (SCA) Gate'
-description: 'The SCA Gate identifies critical thresholds where a nation or regional bloc''s dependency on external semiconductor and AI infrastructure cro'
+description: 'The SCA Gate identifies critical thresholds where a nation or regional bloc''s dependency on external semiconductor and AI infrastructure cro…'
 pubDate: 2026-06-01
 category: 'invest'
 topic: 'research'

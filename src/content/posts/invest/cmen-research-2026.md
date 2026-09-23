@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: The Critical Mineral-Energy Nexus for Sovereign Compute (CMEN) 2026'
-description: 'The Critical Mineral-Energy Nexus for Sovereign Compute (CMEN) describes the strategic convergence of raw material supply chains and baseloa'
+description: 'The CMEN thesis posits that AI sovereignty is impossible without the simultaneous achievement of Mineral Sovereignty (the ability to refine …'
 pubDate: 2026-07-13
 category: 'invest'
 topic: 'research'

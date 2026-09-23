@@ -1,6 +1,6 @@
 ---
 title: 'Real-World Assets (RWA) & Programmable Macro-Assets: 2026 Synthesis'
-description: 'As of 2026, the transition from traditional finance (TradFi) to tokenized on-chain ecosystems has moved from experimental pilots to institut'
+description: 'As of 2026, the transition from traditional finance (TradFi) to tokenized on-chain ecosystems has moved from experimental pilots to institut…'
 pubDate: 2026-06-02
 category: 'invest'
 topic: 'research'

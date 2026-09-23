@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Research: Sovereign Physical Asset Tokenization (SPAT) (2026)'
-description: 'Sovereign Physical Asset Tokenization (SPAT) represents the ultimate convergence of national security and financial engineering. By tokenizi'
+description: 'Sovereign Physical Asset Tokenization (SPAT) represents the ultimate convergence of national security and financial engineering. By tokenizi…'
 pubDate: 2026-06-15
 category: 'invest'
 topic: 'research'

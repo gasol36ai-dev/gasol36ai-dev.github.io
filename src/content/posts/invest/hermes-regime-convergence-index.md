@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Regime Convergence Index (HRCI)'
-description: 'The HRCI is designed to filter "Noise" from "Signal" by quantifying the convergence between Structural Phase and Liquidity Distribution. It '
+description: 'The HRCI is designed to filter "Noise" from "Signal" by quantifying the convergence between Structural Phase and Liquidity Distribution. It …'
 pubDate: 2026-04-30
 category: 'invest'
 topic: 'research'

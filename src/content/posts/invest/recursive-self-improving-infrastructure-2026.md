@@ -1,6 +1,6 @@
 ---
 title: 'Recursive Self-Improving Sovereign Infrastructure (RSISI)'
-description: 'Recursive Self-Improving Sovereign Infrastructure (RSISI) is a paradigm shift from "static" civil engineering to "dynamic" evolutionary syst'
+description: 'Recursive Self-Improving Sovereign Infrastructure (RSISI) is a paradigm shift from "static" civil engineering to "dynamic" evolutionary syst…'
 pubDate: 2026-06-15
 category: 'invest'
 topic: 'research'

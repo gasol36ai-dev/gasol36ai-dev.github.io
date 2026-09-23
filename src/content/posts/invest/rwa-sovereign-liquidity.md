@@ -1,6 +1,6 @@
 ---
 title: 'RESEARCH SYNTHESIS: RWA-Based Sovereign Liquidity (Blood)'
-description: 'Sovereign Liquidity (Blood) is the process of transforming static government debt into dynamic, programmable collateral. The goal is to deco'
+description: 'Sovereign Liquidity (Blood) is the process of transforming static government debt into dynamic, programmable collateral. The goal is to deco…'
 pubDate: 2026-06-25
 category: 'invest'
 topic: 'research'

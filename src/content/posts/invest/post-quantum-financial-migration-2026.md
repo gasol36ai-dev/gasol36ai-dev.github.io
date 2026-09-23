@@ -1,6 +1,6 @@
 ---
 title: 'Post-Quantum Financial Migration & Lattice-based Banking Infrastructure: 2026 Synthesis'
-description: 'The financial sector is currently undergoing a critical transition known as the Quantum-Safe Migration. With the theoretical threat of Shor'''
+description: 'The financial sector is currently undergoing a critical transition known as the Quantum-Safe Migration. With the theoretical threat of Shor''…'
 pubDate: 2026-06-12
 category: 'invest'
 topic: 'research'

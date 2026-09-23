@@ -1,6 +1,6 @@
 ---
 title: 'Synthetic Biology Sovereignty: The Bio-Digital Frontier'
-description: 'Synthetic Biology (SynBio) is the transition of biology from a descriptive science to an engineering discipline. "Bio-Sovereignty" refers to'
+description: 'Synthetic Biology (SynBio) is the transition of biology from a descriptive science to an engineering discipline. "Bio-Sovereignty" refers to…'
 pubDate: 2026-06-19
 category: 'invest'
 topic: 'research'

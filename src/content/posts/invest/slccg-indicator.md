@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Logic-Compute Convergence Gate (SLCCG)'
-description: 'The ultimate sovereign capability is not just "having compute" (silicon) or "having laws" (text), but the ability to execute verifiable, sec'
+description: 'The ultimate sovereign capability is not just "having compute" (silicon) or "having laws" (text), but the ability to execute verifiable, sec…'
 pubDate: 2026-06-18
 category: 'invest'
 topic: 'research'

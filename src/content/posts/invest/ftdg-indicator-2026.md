@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Fiscal-Technology Divergence Gate (FTDG)'
-description: 'The core thesis: Fiscal dominance doesn''t just affect bonds — it propagates into technology capex allocation. When the cost of capital rises'
+description: 'The core thesis: Fiscal dominance doesn''t just affect bonds — it propagates into technology capex allocation. When the cost of capital rises…'
 pubDate: 2026-05-27
 category: 'invest'
 topic: 'research'

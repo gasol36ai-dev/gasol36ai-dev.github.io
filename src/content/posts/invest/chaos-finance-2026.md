@@ -1,6 +1,6 @@
 ---
 title: 'Non-Linear Macro-Financial Feedback Loops: Chaos Theory in Finance (2026 Synthesis)'
-description: 'This synthesis explores the intersection of Chaos Theory and Macro-Financial systems, focusing on the transition from linear stochastic mode'
+description: 'This synthesis explores the intersection of Chaos Theory and Macro-Financial systems, focusing on the transition from linear stochastic mode…'
 pubDate: 2026-06-10
 category: 'invest'
 topic: 'research'

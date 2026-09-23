@@ -1,6 +1,6 @@
 ---
 title: 'Hydro-Edge Liquidity Resonance (HELR) Gate'
-description: 'The Hydro-Edge Liquidity Resonance (HELR) Gate is a proprietary judgment indicator designed to detect early-stage volatility in the burgeoni'
+description: 'The Hydro-Edge Liquidity Resonance (HELR) Gate is a proprietary judgment indicator designed to detect early-stage volatility in the burgeoni…'
 pubDate: 2026-06-19
 category: 'invest'
 topic: 'research'

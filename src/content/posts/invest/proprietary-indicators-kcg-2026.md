@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Kinetic Compute Gap (KCG) (2026 Synthesis)'
-description: 'The Kinetic Compute Gap (KCG) is a high-fidelity indicator designed to measure the structural divergence between a nation''s or corporation''s'
+description: 'The Kinetic Compute Gap (KCG) is a high-fidelity indicator designed to measure the structural divergence between a nation''s or corporation''s…'
 pubDate: 2026-06-17
 category: 'invest'
 topic: 'research'

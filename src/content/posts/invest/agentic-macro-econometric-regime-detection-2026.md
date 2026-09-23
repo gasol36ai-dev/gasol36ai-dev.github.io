@@ -1,6 +1,6 @@
 ---
 title: 'Agentic Macro-Econometric Regime Detection: 2025-2026 Synthesis'
-description: 'The period of 2025-2026 marked a paradigm shift in macro-econometric forecasting, moving from passive time-series analysis to Agentic Regime'
+description: 'The period of 2025-2026 marked a paradigm shift in macro-econometric forecasting, moving from passive time-series analysis to Agentic Regime…'
 pubDate: 2026-06-16
 category: 'invest'
 topic: 'research'

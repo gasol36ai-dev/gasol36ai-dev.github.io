@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Cognitive-Maritime Autarky Gate (CMA-Gate)'
-description: 'The Cognitive-Maritime Autarky Gate (CMA-Gate) is a proprietary judgment indicator designed to detect the non-linear threshold where materia'
+description: 'The Cognitive-Maritime Autarky Gate (CMA-Gate) is a proprietary judgment indicator designed to detect the non-linear threshold where materia…'
 pubDate: 2026-06-22
 category: 'invest'
 topic: 'research'

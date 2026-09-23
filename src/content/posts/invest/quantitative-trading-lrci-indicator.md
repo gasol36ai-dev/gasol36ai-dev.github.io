@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Liquidity-Regime Convergence Index (LRCI)'
-description: 'Market transitions from "Efficient Discovery" (trending) to "Absorptive Regime" (range-bound/reversal) are la transition preceded by a conve'
+description: 'Market transitions from "Efficient Discovery" (trending) to "Absorptive Regime" (range-bound/reversal) are la transition preceded by a conve…'
 pubDate: 2026-05-17
 category: 'invest'
 topic: 'research'

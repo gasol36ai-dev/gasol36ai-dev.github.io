@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Quantum-Cyber-Economic (QCE) Resilience Gate'
-description: 'The QCE Resilience Gate is a multi-domain convergence indicator designed to assess the systemic stability of a nation, corporation, or criti'
+description: 'The QCE Resilience Gate is a multi-domain convergence indicator designed to assess the systemic stability of a nation, corporation, or criti…'
 pubDate: 2026-06-12
 category: 'invest'
 topic: 'research'

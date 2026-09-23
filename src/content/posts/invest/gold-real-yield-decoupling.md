@@ -1,6 +1,6 @@
 ---
 title: 'Gold-Real Yield Decoupling (2026)'
-description: 'Historically, Gold and US Real Yields (TIPS) shared a strong negative correlation: Real Yields \\uparrow \\rightarrow Gold \\downarrow. In 2026'
+description: 'Gold is now rising or remaining stable despite elevated real yields (~1.9%). The driver has shifted from "Opportunity Cost Logic" to "System…'
 pubDate: 2026-09-23
 category: 'invest'
 topic: 'gold'

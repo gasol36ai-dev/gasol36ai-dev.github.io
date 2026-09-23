@@ -1,6 +1,6 @@
 ---
 title: 'Research Synthesis: Quantum-Resistant Financial Microstructure'
-description: 'Financial microstructure focuses on the specific mechanisms of trading, including order types, matching engines, liquidity provision, and th'
+description: 'Financial microstructure focuses on the specific mechanisms of trading, including order types, matching engines, liquidity provision, and th…'
 pubDate: 2026-06-09
 category: 'invest'
 topic: 'research'

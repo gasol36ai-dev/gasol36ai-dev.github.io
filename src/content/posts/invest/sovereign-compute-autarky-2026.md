@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Compute Autarky & The Energy-Compute Nexus (2026)'
-description: 'The global race for AI supremacy has transitioned from a battle of "algorithms" to a battle of "physical infrastructure." The core of this c'
+description: 'The global race for AI supremacy has transitioned from a battle of "algorithms" to a battle of "physical infrastructure." The core of this c…'
 pubDate: 2026-06-11
 category: 'invest'
 topic: 'research'

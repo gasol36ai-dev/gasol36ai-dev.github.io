@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Resistant Financial Infrastructure'
-description: 'This entry provides a high-density strategic analysis of the emerging domain of Quantum-Resistant Financial Infrastructure, focusing on the '
+description: 'This entry provides a high-density strategic analysis of the emerging domain of Quantum-Resistant Financial Infrastructure, focusing on the …'
 pubDate: 2026-06-10
 category: 'invest'
 topic: 'research'

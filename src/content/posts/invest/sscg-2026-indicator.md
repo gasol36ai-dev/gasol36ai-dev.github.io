@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Substrate Convergence Gate (SSCG-2026)'
-description: 'The SSCG-2026 is designed to detect the precise inflection point where a sovereign entity achieves Substrate Autonomy. This occurs when the '
+description: 'The SSCG-2026 is designed to detect the precise inflection point where a sovereign entity achieves Substrate Autonomy. This occurs when the …'
 pubDate: 2026-06-29
 category: 'invest'
 topic: 'research'

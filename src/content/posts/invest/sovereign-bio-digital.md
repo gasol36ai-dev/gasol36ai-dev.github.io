@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Sovereign Bio-Digital Infrastructure'
-description: 'Sovereign Bio-Digital Infrastructure (SBDI) is the architectural framework for integrating biological identity, health data, and cognitive s'
+description: 'Sovereign Bio-Digital Infrastructure (SBDI) is the architectural framework for integrating biological identity, health data, and cognitive s…'
 pubDate: 2026-06-22
 category: 'invest'
 topic: 'research'

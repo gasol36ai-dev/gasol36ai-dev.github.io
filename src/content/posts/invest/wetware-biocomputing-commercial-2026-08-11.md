@@ -1,6 +1,6 @@
 ---
 title: 'Wetware / Organoid Biocomputing — Commercial Deployment (2026-08-11)'
-description: 'Organoid intelligence ("wetware") crossed from lab curiosity to commercial data-center deployment in 2026. Cortical Labs (Melbourne) and Day'
+description: 'Organoid intelligence ("wetware") crossed from lab curiosity to commercial data-center deployment in 2026. Cortical Labs (Melbourne) and Day…'
 pubDate: 2026-08-11
 category: 'invest'
 topic: 'research'

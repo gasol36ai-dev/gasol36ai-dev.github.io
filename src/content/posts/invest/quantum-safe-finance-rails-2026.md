@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Quantum-Safe Financial Rails & CBDC Interoperability (2026 Outlook)'
-description: 'As of 2026, the global financial system is undergoing a dual-track transformation: the migration to Post-Quantum Cryptography (PQC) to mitig'
+description: 'As of 2026, the global financial system is undergoing a dual-track transformation: the migration to Post-Quantum Cryptography (PQC) to mitig…'
 pubDate: 2026-07-14
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Innovation Research: Pregeometric Liquidity Geometry & Relational LOB Modeling'
-description: 'Traditional market microstructure models treat the Limit Order Book (LOB) as a collection of independent price-volume levels. Recent breakth'
+description: 'Traditional market microstructure models treat the Limit Order Book (LOB) as a collection of independent price-volume levels. Recent breakth…'
 pubDate: 2026-05-24
 category: 'invest'
 topic: 'research'

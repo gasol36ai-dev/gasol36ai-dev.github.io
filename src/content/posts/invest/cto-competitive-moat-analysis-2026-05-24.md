@@ -1,6 +1,6 @@
 ---
 title: 'CTO Competitive Moat Analysis: Hermes-LMM vs. SOTA LMMs'
-description: 'As the field of Large Market Models (LMMs) matures, the distinction between "Generative Replicators" and "Structural Intelligence" becomes c'
+description: 'As the field of Large Market Models (LMMs) matures, the distinction between "Generative Replicators" and "Structural Intelligence" becomes c…'
 pubDate: 2026-05-24
 category: 'invest'
 topic: 'research'

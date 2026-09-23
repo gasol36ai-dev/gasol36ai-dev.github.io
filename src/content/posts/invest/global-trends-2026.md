@@ -1,6 +1,6 @@
 ---
 title: 'Global Macroeconomic Trends - April 2026'
-description: 'As of April 2026, the global economy is transitioning from a period of aggressive tightening to a volatile "Normalization" phase, heavily in'
+description: 'As of April 2026, the global economy is transitioning from a period of aggressive tightening to a volatile "Normalization" phase, heavily in…'
 pubDate: 2026-04-30
 category: 'invest'
 topic: 'research'

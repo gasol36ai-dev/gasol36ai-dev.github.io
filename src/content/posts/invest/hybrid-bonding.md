@@ -1,6 +1,6 @@
 ---
 title: 'Hybrid Bonding'
-description: 'Hybrid Bonding (Cu-to-Cu) is a bumpless interconnect technology that bonds copper pads and dielectric surfaces simultaneously, creating a di'
+description: 'Hybrid Bonding (Cu-to-Cu) is a bumpless interconnect technology that bonds copper pads and dielectric surfaces simultaneously, creating a di…'
 pubDate: 2026-07-11
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Bio-Quantum Compute Index (SBQCI) 2026'
-description: 'The SBQCI measures the capacity of a sovereign entity to accelerate biological synthesis and tokenization through the deployment of energy-a'
+description: 'The SBQCI measures the capacity of a sovereign entity to accelerate biological synthesis and tokenization through the deployment of energy-a…'
 pubDate: 2026-06-29
 category: 'invest'
 topic: 'research'

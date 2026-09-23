@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Wealth Fund (SWF) Digital Asset Tokenization & RWA Rails (2026)'
-description: 'By 2026, the tokenization of Real-World Assets (RWA) has transitioned from a phase of experimental pilots to the deployment of core financia'
+description: 'By 2026, the tokenization of Real-World Assets (RWA) has transitioned from a phase of experimental pilots to the deployment of core financia…'
 pubDate: 2026-06-08
 category: 'invest'
 topic: 'research'

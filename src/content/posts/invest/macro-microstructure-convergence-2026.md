@@ -1,6 +1,6 @@
 ---
 title: 'Macro-Microstructure Convergence: Synthesis 2026'
-description: 'Macro-Microstructure Convergence represents the collapse of the traditional separation between "top-down" macro strategy and "bottom-up" exe'
+description: 'Macro-Microstructure Convergence represents the collapse of the traditional separation between "top-down" macro strategy and "bottom-up" exe…'
 pubDate: 2026-06-29
 category: 'invest'
 topic: 'research'

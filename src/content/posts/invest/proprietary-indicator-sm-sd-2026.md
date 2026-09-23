@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sub-THz-Memristive Synchronization Divergence (SM-SD) Index'
-description: 'Measures the synchronization gap between ultra-fast analog-emulated computation (MIMC) and the high-bandwidth/low-latency communication fabr'
+description: 'Measures the synchronization gap between ultra-fast analog-emulated computation (MIMC) and the high-bandwidth/low-latency communication fabr…'
 pubDate: 2026-06-11
 category: 'invest'
 topic: 'research'

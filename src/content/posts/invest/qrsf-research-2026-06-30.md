@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Resilient Sovereign Finance (QRSF): Research Report'
-description: 'Quantum-Resilient Sovereign Finance (QRSF) represents the systemic integration of post-quantum cryptographic standards into the core archite'
+description: 'Quantum-Resilient Sovereign Finance (QRSF) represents the systemic integration of post-quantum cryptographic standards into the core archite…'
 pubDate: 2026-06-30
 category: 'invest'
 topic: 'research'

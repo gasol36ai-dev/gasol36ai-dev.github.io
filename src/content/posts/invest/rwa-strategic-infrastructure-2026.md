@@ -1,6 +1,6 @@
 ---
 title: 'RWA Tokenization of Strategic Infrastructure (2026)'
-description: 'The global financing of strategic infrastructure—Energy, Compute, and Transport—is undergoing a fundamental transition. Traditionally, these'
+description: 'The global financing of strategic infrastructure—Energy, Compute, and Transport—is undergoing a fundamental transition. Traditionally, these…'
 pubDate: 2026-07-04
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Cross-Border CBDC & Programmable Settlement Rails (2026)'
-description: 'The global financial architecture is currently undergoing its most significant transition since the Bretton Woods agreement. The legacy corr'
+description: 'The global financial architecture is currently undergoing its most significant transition since the Bretton Woods agreement. The legacy corr…'
 pubDate: 2026-06-07
 category: 'invest'
 topic: 'research'

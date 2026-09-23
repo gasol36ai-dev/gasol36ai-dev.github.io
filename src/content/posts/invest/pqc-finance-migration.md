@@ -1,6 +1,6 @@
 ---
 title: 'High-Density Report: Post-Quantum Cryptographic (PQC) Migration in Global Finance'
-description: 'The transition to Post-Quantum Cryptography (PQC) is a systemic imperative for the global financial sector. The emergence of a Cryptographic'
+description: 'The transition to Post-Quantum Cryptography (PQC) is a systemic imperative for the global financial sector. The emergence of a Cryptographic…'
 pubDate: 2026-06-19
 category: 'invest'
 topic: 'research'

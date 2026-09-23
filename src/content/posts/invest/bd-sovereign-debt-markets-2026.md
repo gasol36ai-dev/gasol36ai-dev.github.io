@@ -1,6 +1,6 @@
 ---
 title: 'Bio-Digital Sovereign Debt Markets (BD-SDM)'
-description: 'Bio-Digital Sovereign Debt Markets (BD-SDM) represent a paradigm shift in sovereign finance, where national debt is no longer backed solely '
+description: 'Bio-Digital Sovereign Debt Markets (BD-SDM) represent a paradigm shift in sovereign finance, where national debt is no longer backed solely …'
 pubDate: 2026-06-15
 category: 'invest'
 topic: 'research'

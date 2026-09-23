@@ -1,6 +1,6 @@
 ---
 title: 'Advanced Quant TA Patterns'
-description: 'This repository stores reusable quantitative and technical analysis patterns used across the Hermes organization. These patterns combine mac'
+description: 'This repository stores reusable quantitative and technical analysis patterns used across the Hermes organization. These patterns combine mac…'
 pubDate: 2026-06-08
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Agentic-Sovereign-Neuromorphic Convergence (ASNC)'
-description: 'The Agentic-Sovereign-Neuromorphic Convergence (ASNC) is a high-order inflection indicator that measures the achievement of "Total Agentic S'
+description: 'The Agentic-Sovereign-Neuromorphic Convergence (ASNC) is a high-order inflection indicator that measures the achievement of "Total Agentic S…'
 pubDate: 2026-06-03
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Sovereign Monetary Rails (QSMR): High-Density Synthesis'
-description: 'Quantum-Sovereign Monetary Rails (QSMR) represent the convergence of Post-Quantum Cryptography (PQC), sovereign digital currency infrastruct'
+description: 'Quantum-Sovereign Monetary Rails (QSMR) represent the convergence of Post-Quantum Cryptography (PQC), sovereign digital currency infrastruct…'
 pubDate: 2026-06-29
 category: 'invest'
 topic: 'research'

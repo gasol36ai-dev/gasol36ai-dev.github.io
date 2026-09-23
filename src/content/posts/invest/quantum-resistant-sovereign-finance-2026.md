@@ -1,6 +1,6 @@
 ---
 title: 'Synthesis Report: Quantum-Resistant Sovereign Financial Infrastructure'
-description: 'The emergence of Cryptographically Relevant Quantum Computers (CRQC) poses an existential threat to the integrity of sovereign financial sys'
+description: 'The emergence of Cryptographically Relevant Quantum Computers (CRQC) poses an existential threat to the integrity of sovereign financial sys…'
 pubDate: 2026-06-01
 category: 'invest'
 topic: 'research'

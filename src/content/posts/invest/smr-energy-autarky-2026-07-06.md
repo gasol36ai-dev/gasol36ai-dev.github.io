@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: SMR Energy Autarky and the Energy-Compute Nexus'
-description: 'Energy autarky—the state of being self-sufficient in energy production—is emerging as a critical strategic objective for the high-compute in'
+description: 'Energy autarky—the state of being self-sufficient in energy production—is emerging as a critical strategic objective for the high-compute in…'
 pubDate: 2026-07-06
 category: 'invest'
 topic: 'energy'

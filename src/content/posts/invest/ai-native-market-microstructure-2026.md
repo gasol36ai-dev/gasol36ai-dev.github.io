@@ -1,6 +1,6 @@
 ---
 title: 'AI-Native Market Microstructure: The Convergence of AI/ML and High-Frequency Trading'
-description: 'The architecture of financial markets is undergoing a fundamental transition from algorithmic trading (based on predefined rules and heurist'
+description: 'The architecture of financial markets is undergoing a fundamental transition from algorithmic trading (based on predefined rules and heurist…'
 pubDate: 2026-05-31
 category: 'invest'
 topic: 'research'

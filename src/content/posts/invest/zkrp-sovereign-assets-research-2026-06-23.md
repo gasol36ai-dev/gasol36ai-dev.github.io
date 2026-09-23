@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Zero-Knowledge Resource Provenance (ZKRP) & Tokenized Sovereign Assets'
-description: 'Zero-Knowledge Resource Provenance (ZKRP) represents a paradigm shift in the verification of high-value assets. By decoupled the fact of pro'
+description: 'Zero-Knowledge Resource Provenance (ZKRP) represents a paradigm shift in the verification of high-value assets. By decoupled the fact of pro…'
 pubDate: 2026-06-23
 category: 'invest'
 topic: 'research'

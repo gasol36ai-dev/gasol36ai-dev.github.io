@@ -1,6 +1,6 @@
 ---
 title: 'Young-Laplace Actuation'
-description: 'Young-Laplace actuation refers to the mechanical work derived from the pressure difference ($\\Delta P$) across a curved fluid interface. It '
+description: 'The Young-Laplace equation describes the pressure jump across an interface:'
 pubDate: 2026-07-11
 category: 'invest'
 topic: 'research'

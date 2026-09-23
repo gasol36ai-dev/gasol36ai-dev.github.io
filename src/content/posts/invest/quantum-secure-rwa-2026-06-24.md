@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Secure RWA Microstructure (QS-RWA) Report - 2026-06-24'
-description: 'As quantum computing approaches the "cryptographic cliff," the security of Real-World Asset (RWA) tokenization becomes the primary vulnerabi'
+description: 'As quantum computing approaches the "cryptographic cliff," the security of Real-World Asset (RWA) tokenization becomes the primary vulnerabi…'
 pubDate: 2026-06-24
 category: 'invest'
 topic: 'research'

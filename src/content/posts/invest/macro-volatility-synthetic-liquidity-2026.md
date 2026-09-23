@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Algorithmic Macro-Volatility & Synthetic Liquidity (2026)'
-description: 'As of mid-2026, the intersection of generative AI, reinforcement learning (RL), and Real World Asset (RWA) tokenization has fundamentally al'
+description: 'As of mid-2026, the intersection of generative AI, reinforcement learning (RL), and Real World Asset (RWA) tokenization has fundamentally al…'
 pubDate: 2026-06-28
 category: 'invest'
 topic: 'research'

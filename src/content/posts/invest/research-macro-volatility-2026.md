@@ -1,6 +1,6 @@
 ---
 title: 'Macroeconomic Volatility & Liquidity Regime Shifts (MAC-2026)'
-description: 'Structural shifts in global liquidity, driven by the decoupling of real yields and inflation expectations, are creating new regime-critical '
+description: 'Structural shifts in global liquidity, driven by the decoupling of real yields and inflation expectations, are creating new regime-critical …'
 pubDate: 2026-06-27
 category: 'invest'
 topic: 'research'

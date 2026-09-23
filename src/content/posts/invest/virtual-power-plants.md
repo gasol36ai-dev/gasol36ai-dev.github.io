@@ -1,6 +1,6 @@
 ---
 title: 'Virtual Power Plants (VPP)'
-description: 'A Virtual Power Plant (VPP) is a cloud-based distributed power plant that aggregates the capacities of various DERs (batteries, solar, contr'
+description: 'A Virtual Power Plant (VPP) is a cloud-based distributed power plant that aggregates the capacities of various DERs (batteries, solar, contr…'
 pubDate: 2026-07-13
 category: 'invest'
 topic: 'energy'

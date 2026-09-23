@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Kinetic-Cyber Discrepancy (KCD) Gate'
-description: 'The Kinetic-Cyber Discrepancy (KCD) Gate is a high-fidelity judgment indicator designed to detect sophisticated cyber-physical attacks (e.g.'
+description: 'The Kinetic-Cyber Discrepancy (KCD) Gate is a high-fidelity judgment indicator designed to detect sophisticated cyber-physical attacks (e.g.…'
 pubDate: 2026-06-19
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Macro Evolution Engine Execution Summary - May 11, 2026'
-description: 'As the CFO of the Hermes Digital Organization, I executed the Macro Evolution Engine to autonomously refine the agent''s macro-economic judgm'
+description: 'As the CFO of the Hermes Digital Organization, I executed the Macro Evolution Engine to autonomously refine the agent''s macro-economic judgm…'
 pubDate: 2026-05-11
 category: 'invest'
 topic: 'research'

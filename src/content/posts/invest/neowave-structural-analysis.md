@@ -1,6 +1,6 @@
 ---
 title: 'NEoWave Structural Analysis'
-description: 'NEoWave is a rigorous, objective evolution of Elliott Wave Theory. It replaces the subjectivity of "wave counting" with a scientific, step-b'
+description: 'NEoWave is a rigorous, objective evolution of Elliott Wave Theory. It replaces the subjectivity of "wave counting" with a scientific, step-b…'
 pubDate: 2026-05-23
 category: 'invest'
 topic: 'research'

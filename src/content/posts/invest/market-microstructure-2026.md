@@ -1,6 +1,6 @@
 ---
 title: 'Market Microstructure & High-Frequency Order Flow (2026 Synthesis)'
-description: 'By 2026, market microstructure has evolved from a competition of "raw speed" (microwave towers, FPGA) to a competition of "predictive intell'
+description: 'By 2026, market microstructure has evolved from a competition of "raw speed" (microwave towers, FPGA) to a competition of "predictive intell…'
 pubDate: 2026-06-15
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'RWA Tokenization: Systematic Liquidity Migration of Sovereign Debt'
-description: 'The global financial architecture is transitioning from an intermediary-centric settlement model to a programmable infrastructure. The token'
+description: 'Traditional sovereign debt operates on legacy systems (e.g., Euroclear, Clearstream) characterized by T+1 or T+2 settlement cycles and heavy…'
 pubDate: 2026-06-03
 category: 'invest'
 topic: 'research'

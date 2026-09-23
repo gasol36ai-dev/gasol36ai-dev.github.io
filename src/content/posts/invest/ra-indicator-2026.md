@@ -1,6 +1,6 @@
 ---
 title: 'The "Resilience-Alpha" (RA) Indicator: Cross-Regime Volatility-Liquidity Divergence'
-description: 'The Resilience-Alpha (RA) Indicator is a proprietary, multi-domain judgment tool designed to detect "hidden" regime transitions. It identifi'
+description: 'The Resilience-Alpha (RA) Indicator is a proprietary, multi-domain judgment tool designed to detect "hidden" regime transitions. It identifi…'
 pubDate: 2026-06-11
 category: 'invest'
 topic: 'research'

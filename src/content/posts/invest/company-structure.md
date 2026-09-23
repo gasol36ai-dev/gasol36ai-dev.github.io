@@ -1,6 +1,6 @@
 ---
 title: 'Company Structure'
-description: 'This wiki defines the multi-agent orchestration framework used for complex tasks. The system operates as a corporate hierarchy to ensure spe'
+description: 'This wiki defines the multi-agent orchestration framework used for complex tasks. The system operates as a corporate hierarchy to ensure spe…'
 pubDate: 2026-04-16
 category: 'invest'
 topic: 'research'

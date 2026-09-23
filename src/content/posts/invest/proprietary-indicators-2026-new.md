@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Kinetic Intelligence (SKI-2026)'
-description: 'The Sovereign Kinetic Intelligence (SKI-2026) indicator measures the convergence of high-density neuromorphic compute, advanced structural m'
+description: 'The Sovereign Kinetic Intelligence (SKI-2026) indicator measures the convergence of high-density neuromorphic compute, advanced structural m…'
 pubDate: 2026-07-14
 category: 'invest'
 topic: 'research'

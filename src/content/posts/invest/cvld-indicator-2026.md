@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Cross-Venue Liquidity Divergence (CVLD)'
-description: 'The Cross-Venue Liquidity Divergence (CVLD) indicator identifies high-risk liquidity "traps" where global order flow signals are decoupled f'
+description: 'The Cross-Venue Liquidity Divergence (CVLD) indicator identifies high-risk liquidity "traps" where global order flow signals are decoupled f…'
 pubDate: 2026-05-28
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Neuro-Photonics Sovereignty Gate (NPSG)'
-description: 'The Neuro-Photonics Sovereignty Gate (NPSG) is a proprietary judgment indicator that synthesizes the intersection of Neuromorphic Photonics '
+description: 'The Neuro-Photonics Sovereignty Gate (NPSG) is a proprietary judgment indicator that synthesizes the intersection of Neuromorphic Photonics …'
 pubDate: 2026-06-08
 category: 'invest'
 topic: 'research'

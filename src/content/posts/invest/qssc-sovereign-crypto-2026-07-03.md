@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Quantum-Safe Sovereign Cryptography (QSSC)'
-description: 'Quantum-Safe Sovereign Cryptography (QSSC) represents the strategic intersection of Post-Quantum Cryptography (PQC) and national cryptograph'
+description: 'Quantum-Safe Sovereign Cryptography (QSSC) represents the strategic intersection of Post-Quantum Cryptography (PQC) and national cryptograph…'
 pubDate: 2026-07-03
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Global Macro Divergence: Asia-Pacific vs. Western Hemisphere (2026)'
-description: 'The mid-2026 landscape is marked by a significant divergence in economic momentum between the Asia-Pacific region and the Western Hemisphere'
+description: 'The mid-2026 landscape is marked by a significant divergence in economic momentum between the Asia-Pacific region and the Western Hemisphere…'
 pubDate: 2026-05-26
 category: 'invest'
 topic: 'research'

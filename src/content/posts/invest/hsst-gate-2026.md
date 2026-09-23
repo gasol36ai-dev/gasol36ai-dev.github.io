@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Hyper-Sovereign Substrate Transition (HSST) Gate'
-description: 'The HSST Gate monitors the convergence of three distinct, high-frontier technological substrates. The transition is not additive but multipl'
+description: 'The HSST Gate monitors the convergence of three distinct, high-frontier technological substrates. The transition is not additive but multipl…'
 pubDate: 2026-06-30
 category: 'invest'
 topic: 'research'

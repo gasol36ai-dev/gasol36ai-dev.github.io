@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Clustered Liquidity Flows & AI-Native Microstructure (2026)'
-description: 'The financial microstructure landscape has undergone a fundamental regime shift from Raw LOB (Limit Order Book) Imbalance analysis to Cluste'
+description: 'The financial microstructure landscape has undergone a fundamental regime shift from Raw LOB (Limit Order Book) Imbalance analysis to Cluste…'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'research'

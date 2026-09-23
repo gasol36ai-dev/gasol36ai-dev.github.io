@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Compute-Energy Synchrony Index (SCESI)'
-description: 'The Sovereign Compute-Energy Synchrony Index (SCESI) is a multi-domain composite indicator designed to measure the structural stability of a'
+description: 'The Sovereign Compute-Energy Synchrony Index (SCESI) is a multi-domain composite indicator designed to measure the structural stability of a…'
 pubDate: 2026-06-07
 category: 'invest'
 topic: 'research'

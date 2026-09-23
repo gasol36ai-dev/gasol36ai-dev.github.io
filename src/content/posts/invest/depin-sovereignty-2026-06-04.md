@@ -1,6 +1,6 @@
 ---
 title: 'Research: DePIN in Sovereign Contexts'
-description: 'Decentralized Physical Infrastructure Networks (DePIN) represent a structural shift from centralized, capital-intensive infrastructure model'
+description: 'Decentralized Physical Infrastructure Networks (DePIN) represent a structural shift from centralized, capital-intensive infrastructure model…'
 pubDate: 2026-06-04
 category: 'invest'
 topic: 'research'

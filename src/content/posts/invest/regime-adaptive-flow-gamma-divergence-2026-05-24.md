@@ -1,6 +1,6 @@
 ---
 title: 'Regime-Adaptive Flow-Gamma Divergence (RA-FGD)'
-description: 'The RA-FGD is a proprietary indicator designed to identify the "inflection point of euphoria" by measuring the divergence between price mome'
+description: 'The RA-FGD is a proprietary indicator designed to identify the "inflection point of euphoria" by measuring the divergence between price mome…'
 pubDate: 2026-05-24
 category: 'invest'
 topic: 'research'

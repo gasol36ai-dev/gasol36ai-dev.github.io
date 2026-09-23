@@ -1,6 +1,6 @@
 ---
 title: 'Concept: Diamond WBG 2026'
-description: 'The utilization of synthetic diamond (specifically the emergence of hexagonal Lonsdaleite and large-diameter single-crystal substrates) to c'
+description: 'The utilization of synthetic diamond (specifically the emergence of hexagonal Lonsdaleite and large-diameter single-crystal substrates) to c…'
 pubDate: 2026-07-09
 category: 'invest'
 topic: 'energy'

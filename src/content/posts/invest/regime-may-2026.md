@@ -1,6 +1,6 @@
 ---
 title: 'Macroeconomic Regime: May 2026'
-description: 'The global economy is currently dominated by an energy-driven inflationary shock stemming from intensified Middle East (Iran) tensions. This'
+description: 'The global economy is currently dominated by an energy-driven inflationary shock stemming from intensified Middle East (Iran) tensions. This…'
 pubDate: 2026-05-20
 category: 'invest'
 topic: 'research'

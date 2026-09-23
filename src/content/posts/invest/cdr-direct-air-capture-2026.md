@@ -1,6 +1,6 @@
 ---
 title: 'Carbon Dioxide Removal (CDR) & Direct Air Capture (DAC) 2025-2026'
-description: '2025-2026 marks a pivotal transition from DAC/CDR "hype cycle" to "industrial realism." First-of-a-kind (FOAK) megatonne-scale facilities ar'
+description: '2025-2026 marks a pivotal transition from DAC/CDR "hype cycle" to "industrial realism." First-of-a-kind (FOAK) megatonne-scale facilities ar…'
 pubDate: 2026-06-03
 category: 'invest'
 topic: 'energy'

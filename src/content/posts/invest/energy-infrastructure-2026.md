@@ -1,6 +1,6 @@
 ---
 title: 'Next-Gen Energy Infrastructure (2026 Status Report)'
-description: 'As of 2026, the global energy landscape is undergoing a paradigm shift characterized by the decentralization of nuclear power, the transitio'
+description: 'As of 2026, the global energy landscape is undergoing a paradigm shift characterized by the decentralization of nuclear power, the transitio…'
 pubDate: 2026-06-02
 category: 'invest'
 topic: 'energy'

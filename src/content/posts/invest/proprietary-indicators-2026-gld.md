@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Geometric-Latency Divergence (GLD)'
-description: 'The Geometric-Latency Divergence (GLD) indicator is designed to identify structural instabilities in high-frequency physical-agent environme'
+description: 'The Geometric-Latency Divergence (GLD) indicator is designed to identify structural instabilities in high-frequency physical-agent environme…'
 pubDate: 2026-06-12
 category: 'invest'
 topic: 'ai-robotics'

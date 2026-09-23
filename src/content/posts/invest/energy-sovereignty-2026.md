@@ -1,6 +1,6 @@
 ---
 title: 'Domain: Next-Gen Energy Sovereignty'
-description: 'The shift toward Small Modular Reactors (SMRs) and compact fusion is decoupling industrial growth from centralized grid vulnerabilities. Rec'
+description: 'The shift toward Small Modular Reactors (SMRs) and compact fusion is decoupling industrial growth from centralized grid vulnerabilities. Rec…'
 pubDate: 2026-07-04
 category: 'invest'
 topic: 'energy'

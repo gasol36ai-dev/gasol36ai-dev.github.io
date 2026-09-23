@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Regime Filter (HRF)'
-description: 'The Hermes Regime Filter (HRF) is a proprietary judgment indicator designed to determine whether a price move is driven by Fundamental Macro'
+description: 'The Hermes Regime Filter (HRF) is a proprietary judgment indicator designed to determine whether a price move is driven by Fundamental Macro…'
 pubDate: 2026-04-27
 category: 'invest'
 topic: 'research'

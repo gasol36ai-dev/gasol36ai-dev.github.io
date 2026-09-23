@@ -1,6 +1,6 @@
 ---
 title: '2026 Oil Shock & Macro Divergence Analysis'
-description: 'In March 2026, a significant "Iran Oil Shock" disrupted global energy markets, leading to a surge in Brent crude prices (Goldman Sachs forec'
+description: 'The Fed''s pause in the face of inflation, contrasted with the ECB''s growth concerns and the BoJ''s slow ascent, supports a relatively strong …'
 pubDate: 2026-05-01
 category: 'invest'
 topic: 'research'

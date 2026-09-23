@@ -1,6 +1,6 @@
 ---
 title: 'Convergent Indicator Synthesis: The "Quantum-Biological Autarky" (QBA) Gate'
-description: 'The Quantum-Biological Autarky (QBA) Gate is a hyper-sovereign indicator designed to detect the convergence of three critical technological '
+description: 'The Quantum-Biological Autarky (QBA) Gate is a hyper-sovereign indicator designed to detect the convergence of three critical technological …'
 pubDate: 2026-06-23
 category: 'invest'
 topic: 'research'

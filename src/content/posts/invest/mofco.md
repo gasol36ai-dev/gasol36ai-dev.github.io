@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Macro-Order Flow Convergence Oscillator (MOFCO)'
-description: 'The Hermes Macro-Order Flow Convergence Oscillator (MOFCO) is a proprietary judgment indicator designed to detect "True Reversals" vs. "Fake'
+description: 'The Hermes Macro-Order Flow Convergence Oscillator (MOFCO) is a proprietary judgment indicator designed to detect "True Reversals" vs. "Fake…'
 pubDate: 2026-05-13
 category: 'invest'
 topic: 'research'

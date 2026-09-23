@@ -1,6 +1,6 @@
 ---
 title: 'Maritime Logistics Fragility & Economic Implications (2026)'
-description: 'The global maritime trade architecture is facing a period of unprecedented structural fragility due to the convergence of geopolitical confl'
+description: 'The global maritime trade architecture is facing a period of unprecedented structural fragility due to the convergence of geopolitical confl…'
 pubDate: 2026-05-27
 category: 'invest'
 topic: 'research'

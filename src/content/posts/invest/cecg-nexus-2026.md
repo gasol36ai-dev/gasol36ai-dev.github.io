@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: The Cognitive-Energetic-Capital Nexus (CECG)'
-description: 'The Cognitive-Energetic-Capital Nexus (CECG) represents a systemic framework for analyzing the co-evolutionary trajectories of computational'
+description: 'The Cognitive-Energetic-Capital Nexus (CECG) represents a systemic framework for analyzing the co-evolutionary trajectories of computational…'
 pubDate: 2026-06-26
 category: 'invest'
 topic: 'ai-robotics'

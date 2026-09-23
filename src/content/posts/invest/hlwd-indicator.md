@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Hermes Liquidity-Wave Divergence (HLWD)'
-description: 'The Hermes Liquidity-Wave Divergence (HLWD) is a synthetic judgment indicator that correlates high-level market structure (Elliott Wave), in'
+description: 'The Hermes Liquidity-Wave Divergence (HLWD) is a synthetic judgment indicator that correlates high-level market structure (Elliott Wave), in…'
 pubDate: 2026-04-28
 category: 'invest'
 topic: 'research'

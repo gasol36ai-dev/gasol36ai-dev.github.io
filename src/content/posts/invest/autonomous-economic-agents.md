@@ -1,6 +1,6 @@
 ---
 title: 'Autonomous Economic Agents (AEA) & Programmable Liquidity'
-description: 'Autonomous Economic Agents (AEAs) are intelligent software entities designed to act independently on behalf of a principal (human or organiz'
+description: 'Autonomous Economic Agents (AEAs) are intelligent software entities designed to act independently on behalf of a principal (human or organiz…'
 pubDate: 2026-06-02
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: MAT-AUT-Q Gate (2026-06-28)'
-description: 'The MAT-AUT-Q Gate identifies the ultimate state of "Impenetrable Material Autonomy." It represents the point where a subsea industrial ecos'
+description: 'The MAT-AUT-Q Gate identifies the ultimate state of "Impenetrable Material Autonomy." It represents the point where a subsea industrial ecos…'
 pubDate: 2026-06-28
 category: 'invest'
 topic: 'research'

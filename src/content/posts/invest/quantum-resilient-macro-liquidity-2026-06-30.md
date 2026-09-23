@@ -1,6 +1,6 @@
 ---
 title: 'QuantumResilientMacroLiquidity2026-06-30'
-description: 'The Quantum Liquidity Gap is defined as the systemic divergence in liquidity availability and velocity between \\"Quantum-Safe\\" (PQC-integra'
+description: 'The transition focuses on the implementation of:'
 pubDate: 2026-06-30
 category: 'invest'
 topic: 'research'

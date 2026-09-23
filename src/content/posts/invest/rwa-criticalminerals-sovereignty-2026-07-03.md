@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: RWA Tokenization of Critical Mineral Supply Chains & Sovereign Sovereignty'
-description: 'The transition toward a decarbonized global economy has elevated Critical Minerals (CMs)—specifically Rare Earth Elements (REEs), Lithium, C'
+description: 'The transition toward a decarbonized global economy has elevated Critical Minerals (CMs)—specifically Rare Earth Elements (REEs), Lithium, C…'
 pubDate: 2026-07-03
 category: 'invest'
 topic: 'research'

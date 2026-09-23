@@ -1,6 +1,6 @@
 ---
 title: 'Macro Intelligence Report - 2026-05-19'
-description: 'The global macro environment in mid-May 2026 is defined by "Divergent Stickiness". While the initial wave of post-pandemic inflation has coo'
+description: 'The global macro environment in mid-May 2026 is defined by "Divergent Stickiness". While the initial wave of post-pandemic inflation has coo…'
 pubDate: 2026-05-19
 category: 'invest'
 topic: 'research'

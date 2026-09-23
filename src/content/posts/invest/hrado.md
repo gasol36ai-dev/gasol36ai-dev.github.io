@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Regime-Adaptive Delta Oscillator (HRADO)'
-description: 'The HRADO is a proprietary synthetic indicator designed to solve the "Delta Noise" problem. Standard Cumulative Delta often provides false s'
+description: 'The HRADO is a proprietary synthetic indicator designed to solve the "Delta Noise" problem. Standard Cumulative Delta often provides false s…'
 pubDate: 2026-04-26
 category: 'invest'
 topic: 'research'

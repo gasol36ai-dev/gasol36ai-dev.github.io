@@ -1,6 +1,6 @@
 ---
 title: 'Capital Sovereignty: RWA Tokenization & Sovereign Finance (2026)'
-description: 'Real-World Asset (RWA) tokenization transforms stagnant physical capital (land, minerals, infrastructure) into liquid, programmable liquidit'
+description: 'Real-World Asset (RWA) tokenization transforms stagnant physical capital (land, minerals, infrastructure) into liquid, programmable liquidit…'
 pubDate: 2026-06-27
 category: 'invest'
 topic: 'research'

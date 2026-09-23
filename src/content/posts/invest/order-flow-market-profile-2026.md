@@ -1,6 +1,6 @@
 ---
 title: 'Frontier Quantitative Trading: Order Flow & Market Profile (2026)'
-description: 'The core philosophy is that the market is a continuous auction seeking "Fair Value." Price movement is the process of finding where institut'
+description: 'The core philosophy is that the market is a continuous auction seeking "Fair Value." Price movement is the process of finding where institut…'
 pubDate: 2026-05-22
 category: 'invest'
 topic: 'research'

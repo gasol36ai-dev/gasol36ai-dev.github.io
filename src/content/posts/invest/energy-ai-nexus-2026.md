@@ -1,6 +1,6 @@
 ---
 title: 'Energy-AI Nexus: Compute-Power Convergence (2026)'
-description: 'The Energy-AI Nexus defines the critical intersection where the scaling laws of Artificial Intelligence (intelligence density) meet the phys'
+description: 'The Energy-AI Nexus defines the critical intersection where the scaling laws of Artificial Intelligence (intelligence density) meet the phys…'
 pubDate: 2026-06-02
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Safe Sovereign Debt & Liquidity Corridors (2026)'
-description: 'The transition to Post-Quantum Cryptography (PQC) in sovereign finance creates a "Quantum Liquidity Gap." States that migrate early to PQC-s'
+description: 'The transition to Post-Quantum Cryptography (PQC) in sovereign finance creates a "Quantum Liquidity Gap." States that migrate early to PQC-s…'
 pubDate: 2026-07-02
 category: 'invest'
 topic: 'research'

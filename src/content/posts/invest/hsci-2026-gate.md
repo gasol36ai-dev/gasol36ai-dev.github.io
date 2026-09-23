@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: The Hyper-Sovereign Compute-Interconnect (HSCI) Gate (HSCI-2026)'
-description: 'The HSCI Gate identifies the critical inflection point where the physical constraints of AI scaling (thermal, power, and bandwidth) are simu'
+description: 'The HSCI Gate identifies the critical inflection point where the physical constraints of AI scaling (thermal, power, and bandwidth) are simu…'
 pubDate: 2026-06-24
 category: 'invest'
 topic: 'research'

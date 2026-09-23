@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Atmospheric-Cognitive Energy Gate (ACEG)'
-description: 'The Atmospheric-Cognitive Energy Gate (ACEG) is a multi-domain convergence indicator designed to detect the inflection point where the trans'
+description: 'The Atmospheric-Cognitive Energy Gate (ACEG) is a multi-domain convergence indicator designed to detect the inflection point where the trans…'
 pubDate: 2026-06-10
 category: 'invest'
 topic: 'research'

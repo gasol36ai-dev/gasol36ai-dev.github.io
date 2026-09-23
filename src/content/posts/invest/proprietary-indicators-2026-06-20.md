@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Asymmetric Sovereign-Liquidity Nexus (ASLN)'
-description: 'The Asymmetric Sovereign-Liquidity Nexus (ASLN) is a convergent indicator designed to detect the precise moment where macro-economic volatil'
+description: 'The Asymmetric Sovereign-Liquidity Nexus (ASLN) is a convergent indicator designed to detect the precise moment where macro-economic volatil…'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'research'

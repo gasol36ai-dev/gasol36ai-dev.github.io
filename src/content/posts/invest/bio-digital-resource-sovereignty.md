@@ -1,6 +1,6 @@
 ---
 title: 'Concept Stub: Bio-Digital Resource Sovereignty (B-DRS)'
-description: 'Bio-Digital Resource Sovereignty (B-DRS) is the strategic shift from geographical dependency on mineral deposits (Crustal Sovereignty) to th'
+description: 'Bio-Digital Resource Sovereignty (B-DRS) is the strategic shift from geographical dependency on mineral deposits (Crustal Sovereignty) to th…'
 pubDate: 2026-07-09
 category: 'invest'
 topic: 'research'

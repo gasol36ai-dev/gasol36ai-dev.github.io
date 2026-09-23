@@ -1,6 +1,6 @@
 ---
 title: 'Global Macro Divergence — KOF Barometers & PPI Transmission'
-description: 'The KOF Global Barometers for May 2026 reveal a critical structural divergence: Asia/Pacific economies are preparing for a downturn while We'
+description: 'The KOF Global Barometers for May 2026 reveal a critical structural divergence: Asia/Pacific economies are preparing for a downturn while We…'
 pubDate: 2026-05-26
 category: 'invest'
 topic: 'research'

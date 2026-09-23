@@ -1,6 +1,6 @@
 ---
 title: 'Synthesis: RWA Tokenization & Global Macro Liquidity Dynamics'
-description: 'The tokenization of Real-World Assets (RWAs)—converting rights to a physical or financial asset into a digital token on a blockchain—represe'
+description: 'RWA tokenization acts as a liquidity multiplier by addressing three primary frictions: Settlement Latency, Minimum Ticket Sizes, and Collate…'
 pubDate: 2026-06-12
 category: 'invest'
 topic: 'research'

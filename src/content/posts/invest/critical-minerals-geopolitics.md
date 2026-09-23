@@ -1,6 +1,6 @@
 ---
 title: 'Critical Minerals Geopolitics: The New Great Game'
-description: 'The shift from hydrocarbon-based energy to electron-based energy has pivoted global strategic competition from oil-rich corridors to mineral'
+description: 'The shift from hydrocarbon-based energy to electron-based energy has pivoted global strategic competition from oil-rich corridors to mineral…'
 pubDate: 2026-06-19
 category: 'invest'
 topic: 'research'

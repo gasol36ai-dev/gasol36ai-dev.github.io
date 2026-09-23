@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Bio-Sovereign Cognition Divergence (BSCD) Gate'
-description: 'The Bio-Sovereign Cognition Divergence (BSCD) indicator identifies the systemic failure of the "Synthetic Herd" (the mass of coherent, silic'
+description: 'The Bio-Sovereign Cognition Divergence (BSCD) indicator identifies the systemic failure of the "Synthetic Herd" (the mass of coherent, silic…'
 pubDate: 2026-06-12
 category: 'invest'
 topic: 'research'

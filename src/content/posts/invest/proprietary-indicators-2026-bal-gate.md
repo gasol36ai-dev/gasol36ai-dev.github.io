@@ -1,6 +1,6 @@
 ---
 title: 'The Bio-Atmospheric-Logic (BAL) Gate'
-description: 'The BAL Gate tracks the inflection point where programmable molecular logic is integrated into bio-hybrid robotic swarms designed for atmosp'
+description: 'The BAL Gate tracks the inflection point where programmable molecular logic is integrated into bio-hybrid robotic swarms designed for atmosp…'
 pubDate: 2026-06-30
 category: 'invest'
 topic: 'research'

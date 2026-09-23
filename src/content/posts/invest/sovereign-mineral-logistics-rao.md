@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Report: Sovereign Critical Mineral Logistics & Real-Time Asset Oracles (RAO)'
-description: 'The convergence of sovereign strategic interest in critical minerals (Lithium, Cobalt, REEs, Gallium, Germanium) and the evolution of Decent'
+description: 'The convergence of sovereign strategic interest in critical minerals (Lithium, Cobalt, REEs, Gallium, Germanium) and the evolution of Decent…'
 pubDate: 2026-07-02
 category: 'invest'
 topic: 'research'

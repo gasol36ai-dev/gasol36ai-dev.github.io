@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Research: AI-Driven Credit Risk & Synthetic Assets (2026)'
-description: 'The credit landscape has shifted from static, historical-based scoring (FICO/Moody''s) to dynamic, agentic risk assessment. The rise of Real-'
+description: 'The credit landscape has shifted from static, historical-based scoring (FICO/Moody''s) to dynamic, agentic risk assessment. The rise of Real-…'
 pubDate: 2026-06-15
 category: 'invest'
 topic: 'research'

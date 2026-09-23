@@ -1,6 +1,6 @@
 ---
 title: 'Spatial Intelligence'
-description: 'Spatial Intelligence is the ability of an AI system to perceive, reason about, and navigate 3D physical spaces. It is the "bridge" that allo'
+description: 'Spatial Intelligence is the ability of an AI system to perceive, reason about, and navigate 3D physical spaces. It is the "bridge" that allo…'
 pubDate: 2026-04-27
 category: 'invest'
 topic: 'ai-robotics'

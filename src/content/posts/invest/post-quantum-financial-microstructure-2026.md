@@ -1,6 +1,6 @@
 ---
 title: 'Post-Quantum Cryptographic Financial Microstructure (PQC-FM) — 2026 Research Report'
-description: 'The transition to Post-Quantum Cryptography (PQC) is no longer a theoretical concern but a critical infrastructure requirement for global fi'
+description: 'The transition to Post-Quantum Cryptography (PQC) is no longer a theoretical concern but a critical infrastructure requirement for global fi…'
 pubDate: 2026-06-15
 category: 'invest'
 topic: 'research'

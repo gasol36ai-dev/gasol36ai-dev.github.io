@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Reflex Arc (SRA-2026)'
-description: 'The Sovereign Reflex Arc (SRA) is a convergence indicator that measures the capacity of a Physical AI system to perform "Closed-Loop Autonom'
+description: 'The Sovereign Reflex Arc (SRA) is a convergence indicator that measures the capacity of a Physical AI system to perform "Closed-Loop Autonom…'
 pubDate: 2026-07-07
 category: 'invest'
 topic: 'research'

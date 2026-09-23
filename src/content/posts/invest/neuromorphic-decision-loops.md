@@ -1,6 +1,6 @@
 ---
 title: 'Neuromorphic Decision Loops in QNG (Enhanced)'
-description: 'Neuromorphic Decision Loops are high-speed, event-driven feedback cycles that process sovereign financial data using brain-inspired architec'
+description: 'Neuromorphic Decision Loops are high-speed, event-driven feedback cycles that process sovereign financial data using brain-inspired architec…'
 pubDate: 2026-07-09
 category: 'invest'
 topic: 'research'

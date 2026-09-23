@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Trust-Flow Convergence (TFC) Indicator'
-description: 'The TFC Indicator is a proprietary Hermes framework designed to identify high-probability regime reversals by detecting the convergence of S'
+description: 'The TFC Indicator is a proprietary Hermes framework designed to identify high-probability regime reversals by detecting the convergence of S…'
 pubDate: 2026-05-23
 category: 'invest'
 topic: 'research'

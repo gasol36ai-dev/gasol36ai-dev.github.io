@@ -1,6 +1,6 @@
 ---
 title: 'Weekly Self-Learning Synthesis Report'
-description: 'This week''s self-learning synthesis focuses on two key domains: AI Smart Glasses market dynamics and supply chain developments, and the regu'
+description: 'This week''s self-learning synthesis focuses on two key domains: AI Smart Glasses market dynamics and supply chain developments, and the regu…'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'ai-glasses'

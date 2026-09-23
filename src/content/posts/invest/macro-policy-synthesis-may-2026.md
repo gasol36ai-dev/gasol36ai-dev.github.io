@@ -1,6 +1,6 @@
 ---
 title: 'Macro Policy Synthesis: May 2026'
-description: 'The global macroeconomic landscape is currently characterized by a convergence of geopolitical instability and monetary policy deadlock. Cen'
+description: 'The global macroeconomic landscape is currently characterized by a convergence of geopolitical instability and monetary policy deadlock. Cen…'
 pubDate: 2026-05-30
 category: 'invest'
 topic: 'research'

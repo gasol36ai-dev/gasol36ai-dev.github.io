@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign RWA Settlement Infrastructure: Research Report'
-description: 'The global financial architecture is transitioning from legacy messaging-based settlement systems (e.g., SWIFT) toward tokenized settlement '
+description: 'The global financial architecture is transitioning from legacy messaging-based settlement systems (e.g., SWIFT) toward tokenized settlement …'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'research'

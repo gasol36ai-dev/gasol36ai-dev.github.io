@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign AI Geopolitics: GPU as Strategic Lever (2026)'
-description: 'AI compute has become the new strategic resource. The US is attempting to position Washington as the global gatekeeper for AI accelerator ch'
+description: 'AI compute has become the new strategic resource. The US is attempting to position Washington as the global gatekeeper for AI accelerator ch…'
 pubDate: 2026-05-27
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Quantum-Secure Logistics (QSL) and Trade Sovereignty'
-description: 'Quantum-Secure Logistics (QSL) represents the strategic integration of quantum-resistant cryptographic primitives and quantum communication '
+description: 'Quantum-Secure Logistics (QSL) represents the strategic integration of quantum-resistant cryptographic primitives and quantum communication …'
 pubDate: 2026-06-18
 category: 'invest'
 topic: 'research'

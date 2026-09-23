@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Orbital-Biological-Compute (OBC) Convergence Gate'
-description: 'The OBC Convergence Gate identifies systemic inflection points where the three pillars of future sovereign capability—Orbital Intelligence ('
+description: 'The OBC Convergence Gate identifies systemic inflection points where the three pillars of future sovereign capability—Orbital Intelligence (…'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'research'

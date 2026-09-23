@@ -1,6 +1,6 @@
 ---
 title: 'Macroeconomic Regime 2026: The Data-Dependent Pivot'
-description: 'The global economy is characterized by a fragile transition from a prolonged period of high interest rates to a data-dependent easing cycle.'
+description: 'The global economy is characterized by a fragile transition from a prolonged period of high interest rates to a data-dependent easing cycle.…'
 pubDate: 2026-04-30
 category: 'invest'
 topic: 'research'

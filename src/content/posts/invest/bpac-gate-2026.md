@@ -1,6 +1,6 @@
 ---
 title: 'PROPRIETARY INDICATOR: The Bio-Photonic Agentic Convergence Gate (BPAC-Gate)'
-description: 'The BPAC-Gate identifies the exact inflection point where the three vectors of the "Sovereign Intelligence Stack" align to create a new, non'
+description: 'The BPAC-Gate identifies the exact inflection point where the three vectors of the "Sovereign Intelligence Stack" align to create a new, non…'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'research'

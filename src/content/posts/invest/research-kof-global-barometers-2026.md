@@ -1,6 +1,6 @@
 ---
 title: '2026 KOF Globalisation Barometers & Macro Shifts'
-description: 'The KOF Globalisation Index reveals a fundamental transition from "Hyper-globalisation" to "Strategic Fragmentation." While digital trade an'
+description: 'The KOF Globalisation Index reveals a fundamental transition from "Hyper-globalisation" to "Strategic Fragmentation." While digital trade an…'
 pubDate: 2026-06-07
 category: 'invest'
 topic: 'research'

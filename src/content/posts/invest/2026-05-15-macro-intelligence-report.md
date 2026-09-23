@@ -1,6 +1,6 @@
 ---
 title: 'Macro Intelligence Report - 2026-05-15'
-description: 'The macro environment is characterized by a significant inflation surge, driven by both geopolitical tensions in the Middle East (energy pri'
+description: 'The macro environment is characterized by a significant inflation surge, driven by both geopolitical tensions in the Middle East (energy pri…'
 pubDate: 2026-05-15
 category: 'invest'
 topic: 'research'

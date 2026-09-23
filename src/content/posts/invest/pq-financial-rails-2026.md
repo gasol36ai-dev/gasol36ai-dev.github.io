@@ -1,6 +1,6 @@
 ---
 title: 'Post-Quantum Cryptographic Standards & Sovereign Financial Rails: A 2026 Research Brief'
-description: 'As of 2026, the intersection of quantum computing capabilities and global financial infrastructure represents one of the most critical syste'
+description: 'As of 2026, the intersection of quantum computing capabilities and global financial infrastructure represents one of the most critical syste…'
 pubDate: 2026-06-05
 category: 'invest'
 topic: 'research'

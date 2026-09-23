@@ -1,6 +1,6 @@
 ---
 title: 'Bio-Digital Autarky Index (BDAI)'
-description: 'The Bio-Digital Autarky Index (BDAI) is a high-order proprietary judgment indicator designed to measure the capacity of a localized territor'
+description: 'The Bio-Digital Autarky Index (BDAI) is a high-order proprietary judgment indicator designed to measure the capacity of a localized territor…'
 pubDate: 2026-06-29
 category: 'invest'
 topic: 'research'

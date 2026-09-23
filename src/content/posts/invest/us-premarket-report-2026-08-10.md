@@ -1,6 +1,6 @@
 ---
 title: '美股盤前策略報告 2026-08-10'
-description: '已驗證資料：CEG/VST/NUKZ/NGG/SPY/QQQ/NVDA 即時報價（Finnhub, DATA-01）；CEG Q2財報8/6發布，調整後EPS $2.55優於預期$2.28，全年指引上修至$11.50-12.50（DATA-02）；VST Q2財報基本EPS $0'
+description: '資料來源：Finnhub quote API（主Key，無需切換備援）；來源狀態：全部成功，未觸發降級。'
 pubDate: 2026-08-10
 category: 'invest'
 topic: 'warroom'

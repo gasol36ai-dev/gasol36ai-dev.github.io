@@ -1,6 +1,6 @@
 ---
 title: 'Concept: RWA Tokenization'
-description: 'Real World Asset (RWA) Tokenization is the process of converting the ownership or economic utility of a physical or intangible asset into a '
+description: 'Real World Asset (RWA) Tokenization is the process of converting the ownership or economic utility of a physical or intangible asset into a …'
 pubDate: 2026-07-11
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'State of RWA Tokenization of Sovereign Intelligence (RWA-SI) - 2026 Synthesis'
-description: 'As of 2026, the paradigm of "Sovereign Intelligence" (SI) has shifted from a strategic capability to a primary macroeconomic asset. The toke'
+description: 'As of 2026, the paradigm of "Sovereign Intelligence" (SI) has shifted from a strategic capability to a primary macroeconomic asset. The toke…'
 pubDate: 2026-06-30
 category: 'invest'
 topic: 'research'

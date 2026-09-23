@@ -1,6 +1,6 @@
 ---
 title: 'Macro Intelligence: Volatility & Liquidity (2026)'
-description: 'The 2026 financial landscape is defined by a structural decoupling between real yields and inflation expectations. This divergence has disma'
+description: 'The 2026 financial landscape is defined by a structural decoupling between real yields and inflation expectations. This divergence has disma…'
 pubDate: 2026-06-01
 category: 'invest'
 topic: 'research'

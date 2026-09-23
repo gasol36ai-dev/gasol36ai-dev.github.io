@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Kinetic Intelligence (SKI-2026)'
-description: 'The Sovereign Kinetic Intelligence (SKI-2026) indicator is a high-fidelity judgment metric designed to detect the threshold where an agentic'
+description: 'The Sovereign Kinetic Intelligence (SKI-2026) indicator is a high-fidelity judgment metric designed to detect the threshold where an agentic…'
 pubDate: 2026-07-13
 category: 'invest'
 topic: 'ai-robotics'

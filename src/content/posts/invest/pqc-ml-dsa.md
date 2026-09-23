@@ -1,6 +1,6 @@
 ---
 title: 'ML-DSA (Module-Lattice-Based Digital Signature Standard)'
-description: 'ML-DSA (formerly Dilithium) is a NIST-standardized (FIPS 204) post-quantum digital signature algorithm. It is designed to replace classical '
+description: 'ML-DSA (formerly Dilithium) is a NIST-standardized (FIPS 204) post-quantum digital signature algorithm. It is designed to replace classical …'
 pubDate: 2026-07-12
 category: 'invest'
 topic: 'research'

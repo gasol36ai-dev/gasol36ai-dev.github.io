@@ -1,6 +1,6 @@
 ---
 title: 'Bio-Digital-Quantum Convergence Gate (BDQCG) - HPI-30'
-description: 'The Bio-Digital-Quantum Convergence Gate (BDQCG) is a high-order strategic indicator designed to detect the transition from silicon-based ag'
+description: 'The Bio-Digital-Quantum Convergence Gate (BDQCG) is a high-order strategic indicator designed to detect the transition from silicon-based ag…'
 pubDate: 2026-06-05
 category: 'invest'
 topic: 'research'

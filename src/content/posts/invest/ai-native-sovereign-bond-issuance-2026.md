@@ -1,6 +1,6 @@
 ---
 title: 'RESEARCH REPORT: AI-Native Sovereign Bond Issuance & Synthetic Reserves'
-description: 'The transition from traditional sovereign reserves (gold, foreign exchange) to AI-Native Reserves marks a shift from static value stores to '
+description: 'The transition from traditional sovereign reserves (gold, foreign exchange) to AI-Native Reserves marks a shift from static value stores to …'
 pubDate: 2026-06-14
 category: 'invest'
 topic: 'research'

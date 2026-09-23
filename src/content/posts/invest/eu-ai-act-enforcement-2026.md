@@ -1,6 +1,6 @@
 ---
 title: 'EU AI Act Enforcement: August 2026 Deadline Analysis'
-description: 'The EU AI Act''s primary enforcement wave hits August 2, 2026 for most AI systems. A major reform ("Digital Omnibus," May 7, 2026) pushed som'
+description: 'The EU AI Act''s primary enforcement wave hits August 2, 2026 for most AI systems. A major reform ("Digital Omnibus," May 7, 2026) pushed som…'
 pubDate: 2026-05-27
 category: 'invest'
 topic: 'research'

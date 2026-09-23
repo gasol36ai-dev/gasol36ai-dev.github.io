@@ -1,6 +1,6 @@
 ---
 title: 'Fractionalized CapEx'
-description: 'Fractionalized Capital Expenditure (CapEx) is a decentralized financing model where the cost of high-value strategic assets (e.g., SMRs, Orb'
+description: 'Fractionalized Capital Expenditure (CapEx) is a decentralized financing model where the cost of high-value strategic assets (e.g., SMRs, Orb…'
 pubDate: 2026-07-07
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Judgment Indicator: Sovereign Kinetic Synergy (SKS-2026)'
-description: 'The Sovereign Kinetic Synergy (SKS-2026) is a second-order convergence indicator that monitors the synchronization between Sovereign Kinetic'
+description: 'The Sovereign Kinetic Synergy (SKS-2026) is a second-order convergence indicator that monitors the synchronization between Sovereign Kinetic…'
 pubDate: 2026-07-15
 category: 'invest'
 topic: 'ai-robotics'

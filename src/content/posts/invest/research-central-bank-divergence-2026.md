@@ -1,6 +1,6 @@
 ---
 title: 'Central Bank Divergence (May 2026)'
-description: 'The global monetary landscape in May 2026 is characterized by a sharp divergence in policy trajectories between the three major central bank'
+description: 'The global monetary landscape in May 2026 is characterized by a sharp divergence in policy trajectories between the three major central bank…'
 pubDate: 2026-05-04
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Orbital-Compute Latency Volatility (OCLV)'
-description: 'The Orbital-Compute Latency Volatility (OCLV) is a strategic judgment indicator designed to detect systemic instability in the emerging inte'
+description: 'The Orbital-Compute Latency Volatility (OCLV) is a strategic judgment indicator designed to detect systemic instability in the emerging inte…'
 pubDate: 2026-05-31
 category: 'invest'
 topic: 'research'

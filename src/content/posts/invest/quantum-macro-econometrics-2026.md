@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Macro Econometrics'
-description: 'Quantum-Macro Econometrics is an emerging interdisciplinary field that applies the mathematical formalism of quantum mechanics—specifically '
+description: 'Quantum-Macro Econometrics is an emerging interdisciplinary field that applies the mathematical formalism of quantum mechanics—specifically …'
 pubDate: 2026-06-02
 category: 'invest'
 topic: 'research'

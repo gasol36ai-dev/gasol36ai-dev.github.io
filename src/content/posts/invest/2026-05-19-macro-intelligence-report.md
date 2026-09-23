@@ -1,6 +1,6 @@
 ---
 title: 'Macro Intelligence Report - 2026-05-19'
-description: 'The global macro regime is currently characterized by "Hawkish Holds" and intensifying central bank divergence. The ongoing Middle East conf'
+description: 'The global macro regime is currently characterized by "Hawkish Holds" and intensifying central bank divergence. The ongoing Middle East conf…'
 pubDate: 2026-05-19
 category: 'invest'
 topic: 'research'

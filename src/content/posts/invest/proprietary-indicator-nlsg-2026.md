@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Neuro-Liquidity Synchronization Gate (NLSG)'
-description: 'The Neuro-Liquidity Synchronization Gate (NLSG) is a high-order convergence indicator designed to detect the moment when neural-symbolic AI '
+description: 'The Neuro-Liquidity Synchronization Gate (NLSG) is a high-order convergence indicator designed to detect the moment when neural-symbolic AI …'
 pubDate: 2026-06-06
 category: 'invest'
 topic: 'research'

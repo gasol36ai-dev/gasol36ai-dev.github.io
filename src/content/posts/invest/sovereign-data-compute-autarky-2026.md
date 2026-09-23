@@ -1,6 +1,6 @@
 ---
 title: 'Synthesis: Sovereign Data-Compute Autarky (SDCA)'
-description: 'Sovereign Data-Compute Autarky (SDCA) represents the strategic pursuit of absolute independence in the digital value chain. Unlike "Digital '
+description: 'Sovereign Data-Compute Autarky (SDCA) represents the strategic pursuit of absolute independence in the digital value chain. Unlike "Digital …'
 pubDate: 2026-06-06
 category: 'invest'
 topic: 'research'

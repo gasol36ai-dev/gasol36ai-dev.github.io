@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Sovereign Kinetic Capital & RWA Infrastructure (2026)'
-description: 'Sovereign Kinetic Capital represents the strategic shift from debt-based funding of technology to asset-backed, tokenized funding of "Kineti'
+description: 'Sovereign Kinetic Capital represents the strategic shift from debt-based funding of technology to asset-backed, tokenized funding of "Kineti…'
 pubDate: 2026-07-15
 category: 'invest'
 topic: 'research'

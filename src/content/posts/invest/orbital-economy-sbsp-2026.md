@@ -1,6 +1,6 @@
 ---
 title: '轨道经济与空间太阳能（SBSP）：2026年基础设施革命与主权竞争'
-description: '2025-2026年是轨道经济（Orbital Economy）从概念验证走向商业规模化的关键转折点。Starlink在轨卫星突破6000颗，Amazon Kuiper开始商业服务，中国"千帆星座"加速部署，标志着LEO（低轨）通信网络进入多极竞争时代。与此同时，空间太阳能（SB'
+description: '2025-2026年是轨道经济（Orbital Economy）从概念验证走向商业规模化的关键转折点。Starlink在轨卫星突破6000颗，Amazon Kuiper开始商业服务，中国"千帆星座"加速部署，标志着LEO（低轨）通信网络进入多极竞争时代。与此同时，空间太阳能（SB…'
 pubDate: 2026-06-07
 category: 'invest'
 topic: 'research'

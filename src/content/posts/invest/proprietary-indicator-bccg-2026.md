@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Bio-Cognitive Convergence Gate (BCCG)'
-description: 'The Bio-Cognitive Convergence Gate (BCCG) identifies the inflection point where biological data persistence (DNA storage) and high-bandwidth'
+description: 'The Bio-Cognitive Convergence Gate (BCCG) identifies the inflection point where biological data persistence (DNA storage) and high-bandwidth…'
 pubDate: 2026-06-01
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Concept: Diamond Wide Bandgap (WBG) Electronics'
-description: 'Diamond WBG Electronics refer to semiconductor devices utilizing synthetic diamond as the substrate and active channel material. Due to its '
+description: 'Diamond WBG Electronics refer to semiconductor devices utilizing synthetic diamond as the substrate and active channel material. Due to its …'
 pubDate: 2026-08-12
 category: 'invest'
 topic: 'research'

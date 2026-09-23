@@ -1,6 +1,6 @@
 ---
 title: 'Report: 2026 Macroeconomic Regime Shift Analysis'
-description: 'As of mid-2026, the global economy has transitioned from the "Great Volatility" of the early 2020s into a fragmented regime characterized by'
+description: 'As of mid-2026, the global economy has transitioned from the "Great Volatility" of the early 2020s into a fragmented regime characterized by…'
 pubDate: 2026-06-01
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Temporal POC Divergence Gate (TPDG)'
-description: 'The Temporal POC Divergence Gate (TPDG) is a proprietary judgment indicator that identifies high-probability institutional accumulation zone'
+description: 'The Temporal POC Divergence Gate (TPDG) is a proprietary judgment indicator that identifies high-probability institutional accumulation zone…'
 pubDate: 2026-05-26
 category: 'invest'
 topic: 'research'

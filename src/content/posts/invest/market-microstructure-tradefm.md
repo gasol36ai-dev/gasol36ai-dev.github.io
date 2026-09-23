@@ -1,6 +1,6 @@
 ---
 title: 'Market Microstructure Research Synthesis: TradeFM'
-description: 'TradeFM is a 524M-parameter generative foundation model developed by J.P. Morgan AI Research, designed to learn the universal dynamics of ma'
+description: 'TradeFM is a 524M-parameter generative foundation model developed by J.P. Morgan AI Research, designed to learn the universal dynamics of ma…'
 pubDate: 2026-05-30
 category: 'invest'
 topic: 'research'

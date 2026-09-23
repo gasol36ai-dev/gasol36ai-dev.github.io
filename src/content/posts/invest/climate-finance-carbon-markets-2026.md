@@ -1,6 +1,6 @@
 ---
 title: 'Climate Finance & Carbon Markets (2025-2026)'
-description: 'The period of 2025-2026 marks a pivotal transition in global climate finance, shifting from fragmented voluntary efforts toward a structured'
+description: 'The period of 2025-2026 marks a pivotal transition in global climate finance, shifting from fragmented voluntary efforts toward a structured…'
 pubDate: 2026-06-02
 category: 'invest'
 topic: 'research'

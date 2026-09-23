@@ -1,6 +1,6 @@
 ---
 title: 'Subsea-Quantum-Macro (SQM) Resonance Gate (2026)'
-description: 'The Subsea-Quantum-Macro (SQM) Resonance Gate is a hyper-sovereign judgment indicator designed to measure the structural resilience of a sov'
+description: 'The Subsea-Quantum-Macro (SQM) Resonance Gate is a hyper-sovereign judgment indicator designed to measure the structural resilience of a sov…'
 pubDate: 2026-06-29
 category: 'invest'
 topic: 'research'

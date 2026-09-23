@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: The Bio-Orbital-Compute (BOC) Gate (HPI-32)'
-description: 'The BOC Gate identifies the "Triple-Sovereignty Inflection Point"—the moment when an entity achieves simultaneous, self-sustaining control o'
+description: 'The BOC Gate identifies the "Triple-Sovereignty Inflection Point"—the moment when an entity achieves simultaneous, self-sustaining control o…'
 pubDate: 2026-07-01
 category: 'invest'
 topic: 'research'

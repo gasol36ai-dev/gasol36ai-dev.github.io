@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Infrastructure Convergence (2026)'
-description: 'The concept of Sovereign Infrastructure Convergence refers to the strategic integration of three critical technological and physical pillars'
+description: 'The concept of Sovereign Infrastructure Convergence refers to the strategic integration of three critical technological and physical pillars…'
 pubDate: 2026-06-05
 category: 'invest'
 topic: 'research'

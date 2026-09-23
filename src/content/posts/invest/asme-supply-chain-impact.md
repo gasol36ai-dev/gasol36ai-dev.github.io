@@ -1,6 +1,6 @@
 ---
 title: 'Autonomous Swarm Mineral Extraction (ASME): Supply Chain Impact'
-description: 'ASME represents a disruptive force in the global mineral supply chain, enabling the rapid, decentralized, and resilient acquisition of criti'
+description: 'ASME represents a disruptive force in the global mineral supply chain, enabling the rapid, decentralized, and resilient acquisition of criti…'
 pubDate: 2026-06-30
 category: 'invest'
 topic: 'ai-robotics'

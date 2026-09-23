@@ -1,6 +1,6 @@
 ---
 title: 'Bio-Orbital-Quantum (BOQ) Sovereignty Inflection Gate (HPI-31)'
-description: 'The Bio-Orbital-Quantum (BOQ) Sovereignty Inflection Gate (HPI-31) is a multi-domain convergence indicator designed to detect the inflection'
+description: 'The Bio-Orbital-Quantum (BOQ) Sovereignty Inflection Gate (HPI-31) is a multi-domain convergence indicator designed to detect the inflection…'
 pubDate: 2026-06-22
 category: 'invest'
 topic: 'research'

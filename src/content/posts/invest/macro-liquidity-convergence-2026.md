@@ -1,6 +1,6 @@
 ---
 title: 'Macro-Liquidity & Financial Microstructure Convergence (2026)'
-description: 'By 2026, the global financial architecture has shifted from a monolithic, USD-centric liquidity regime to a fragmented, multi-polar system c'
+description: 'By 2026, the global financial architecture has shifted from a monolithic, USD-centric liquidity regime to a fragmented, multi-polar system c…'
 pubDate: 2026-06-02
 category: 'invest'
 topic: 'research'

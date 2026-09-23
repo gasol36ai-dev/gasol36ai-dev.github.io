@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Macro-Transmission Cascades (June 2026)'
-description: 'A fundamental divergence has emerged where structural inflation—driven by the twin engines of AI-driven Capex and Energy Geopolitics—is deco'
+description: 'A fundamental divergence has emerged where structural inflation—driven by the twin engines of AI-driven Capex and Energy Geopolitics—is deco…'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'research'

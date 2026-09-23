@@ -1,6 +1,6 @@
 ---
 title: 'Biological-Digital Identity Sovereignty (BDIS): DNA-Based Identity Markers in Sovereign Digital Governance and Bio-Digit'
-description: 'Biological-Digital Identity Sovereignty (BDIS) represents the convergence of genomic uniqueness, cryptographic identity systems, and soverei'
+description: 'Biological-Digital Identity Sovereignty (BDIS) represents the convergence of genomic uniqueness, cryptographic identity systems, and soverei…'
 pubDate: 2026-06-13
 category: 'invest'
 topic: 'research'

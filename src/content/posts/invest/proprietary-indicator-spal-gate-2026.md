@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: SPAL Gate (Sovereign Physical-Agentic Liquidity Gate)'
-description: 'The Sovereign Physical-Agentic Liquidity Gate (SPAL Gate) is a high-order judgment indicator designed to detect the inflection point where t'
+description: 'The Sovereign Physical-Agentic Liquidity Gate (SPAL Gate) is a high-order judgment indicator designed to detect the inflection point where t…'
 pubDate: 2026-06-12
 category: 'invest'
 topic: 'research'

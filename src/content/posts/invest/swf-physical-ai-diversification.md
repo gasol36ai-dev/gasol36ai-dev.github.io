@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Wealth Fund (SWF) Algorithmic Diversification in the Physical AI Era'
-description: 'The transition from the "Digital AI" era (characterized by software-as-a-service and cloud-based LLMs) to the "Physical AI" era marks a fund'
+description: 'The transition from the "Digital AI" era (characterized by software-as-a-service and cloud-based LLMs) to the "Physical AI" era marks a fund…'
 pubDate: 2026-06-17
 category: 'invest'
 topic: 'research'

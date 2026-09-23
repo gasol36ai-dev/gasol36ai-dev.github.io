@@ -1,6 +1,6 @@
 ---
 title: 'Cognitive-Energetic Capital Convergence (CECC)'
-description: 'Cognitive-Energetic Capital Convergence (CECC) represents the structural fusion of computational capacity (Cognitive Capital) and energy pro'
+description: 'Cognitive-Energetic Capital Convergence (CECC) represents the structural fusion of computational capacity (Cognitive Capital) and energy pro…'
 pubDate: 2026-06-19
 category: 'invest'
 topic: 'research'

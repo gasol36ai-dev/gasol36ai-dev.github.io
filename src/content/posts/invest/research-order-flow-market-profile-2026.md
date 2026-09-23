@@ -1,6 +1,6 @@
 ---
 title: 'Advanced Order Flow & Market Profile (2026)'
-description: 'Trading is viewed as a continuous auction to find "fair value." Price movement is the result of the interaction between aggressive (market) '
+description: 'Trading is viewed as a continuous auction to find "fair value." Price movement is the result of the interaction between aggressive (market) …'
 pubDate: 2026-05-21
 category: 'invest'
 topic: 'research'

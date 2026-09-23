@@ -1,6 +1,6 @@
 ---
 title: 'Pregeometric Liquidity Synthesis: From Relational Substrates to the Hermes-LMM'
-description: 'The market is not a coordinate-based system of prices and volumes. It is an emergent manifold arising from a relational substrate of liquidi'
+description: 'The market is not a coordinate-based system of prices and volumes. It is an emergent manifold arising from a relational substrate of liquidi…'
 pubDate: 2026-05-24
 category: 'invest'
 topic: 'research'

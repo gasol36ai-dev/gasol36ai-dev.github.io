@@ -1,6 +1,6 @@
 ---
 title: 'Market Microstructure Synthesis 2026'
-description: 'This page synthesizes modern market microstructure dynamics, focusing on the transition from raw limit order book (LOB) analysis to clustere'
+description: 'This page synthesizes modern market microstructure dynamics, focusing on the transition from raw limit order book (LOB) analysis to clustere…'
 pubDate: 2026-05-27
 category: 'invest'
 topic: 'research'

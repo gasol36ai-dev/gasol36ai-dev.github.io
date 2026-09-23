@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Photonic-Quantum Energy Gate (PQEG-2026)'
-description: 'The Photonic-Quantum Energy Gate (PQEG-2026) is a convergent judgment indicator that synthesizes three disparate strategic domains: Ambient '
+description: 'The Photonic-Quantum Energy Gate (PQEG-2026) is a convergent judgment indicator that synthesizes three disparate strategic domains: Ambient …'
 pubDate: 2026-06-24
 category: 'invest'
 topic: 'research'

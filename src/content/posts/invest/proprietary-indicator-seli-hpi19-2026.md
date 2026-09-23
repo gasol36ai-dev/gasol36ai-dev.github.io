@@ -1,6 +1,6 @@
 ---
 title: 'SELI: Spatial-Edge-Labor Inflection Gate (HPI-19)'
-description: 'The Spatial-Edge-Labor Inflection Gate (SELI) is a proprietary judgment indicator that fires when three converging forces — the mass deploym'
+description: 'The Spatial-Edge-Labor Inflection Gate (SELI) is a proprietary judgment indicator that fires when three converging forces — the mass deploym…'
 pubDate: 2026-05-31
 category: 'invest'
 topic: 'ai-glasses'

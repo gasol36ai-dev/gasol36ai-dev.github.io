@@ -1,6 +1,6 @@
 ---
 title: 'Post-Quantum Cryptographic Financial Microstructure (2026)'
-description: 'The transition of global financial microstructure from classical asymmetric cryptography (RSA/ECC) to Post-Quantum Cryptography (PQC) is no '
+description: 'The transition of global financial microstructure from classical asymmetric cryptography (RSA/ECC) to Post-Quantum Cryptography (PQC) is no …'
 pubDate: 2026-06-07
 category: 'invest'
 topic: 'research'

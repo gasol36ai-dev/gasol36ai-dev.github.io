@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Energy-Compute Nexus (2026)'
-description: 'The Sovereign Energy-Compute Nexus (SECN) is a strategic framework for achieving "Compute Autarky"—the ability of a state or entity to susta'
+description: 'The Sovereign Energy-Compute Nexus (SECN) is a strategic framework for achieving "Compute Autarky"—the ability of a state or entity to susta…'
 pubDate: 2026-06-29
 category: 'invest'
 topic: 'research'

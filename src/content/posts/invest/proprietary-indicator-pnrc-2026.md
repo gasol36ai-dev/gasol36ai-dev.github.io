@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: PQ-NSI-RCI Convergence Gate (PNRC)'
-description: 'The PNRC Gate is a high-order, multi-domain decision indicator designed to identify systemic inflection points where the transition to Post-'
+description: 'The PNRC Gate is a high-order, multi-domain decision indicator designed to identify systemic inflection points where the transition to Post-…'
 pubDate: 2026-06-09
 category: 'invest'
 topic: 'research'

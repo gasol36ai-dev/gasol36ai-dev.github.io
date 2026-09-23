@@ -1,6 +1,6 @@
 ---
 title: 'Institutional Order Flow & Liquidity'
-description: 'Order Flow analysis is the study of the actual executed transactions and resting limit orders in the market. It reveals the "intent" of inst'
+description: 'Order Flow analysis is the study of the actual executed transactions and resting limit orders in the market. It reveals the "intent" of inst…'
 pubDate: 2026-04-30
 category: 'invest'
 topic: 'research'

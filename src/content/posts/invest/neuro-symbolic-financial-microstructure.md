@@ -1,6 +1,6 @@
 ---
 title: 'Neuro-Symbolic Financial Microstructure (NSFM)'
-description: 'Neuro-Symbolic Financial Microstructure (NSFM) is an emerging paradigm in algorithmic trading that integrates the pattern-recognition power '
+description: 'Neuro-Symbolic Financial Microstructure (NSFM) is an emerging paradigm in algorithmic trading that integrates the pattern-recognition power …'
 pubDate: 2026-06-11
 category: 'invest'
 topic: 'research'

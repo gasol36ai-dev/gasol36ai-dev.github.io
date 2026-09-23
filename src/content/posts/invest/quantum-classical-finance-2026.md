@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Classical Financial Microstructure (2026 Update)'
-description: 'The intersection of Post-Quantum Cryptography (PQC) and high-frequency liquidity dynamics is creating a new layer of complexity in global fi'
+description: 'The intersection of Post-Quantum Cryptography (PQC) and high-frequency liquidity dynamics is creating a new layer of complexity in global fi…'
 pubDate: 2026-06-19
 category: 'invest'
 topic: 'research'

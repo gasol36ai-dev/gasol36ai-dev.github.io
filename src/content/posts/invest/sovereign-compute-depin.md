@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Compute-as-a-Service (SCaaS) & DePIN Architectures'
-description: 'Sovereign Compute-as-a-Service (SCaaS) and Decentralized Physical Infrastructure Networks (DePIN) represent a paradigm shift in how computin'
+description: 'Sovereign Compute-as-a-Service (SCaaS) and Decentralized Physical Infrastructure Networks (DePIN) represent a paradigm shift in how computin…'
 pubDate: 2026-06-02
 category: 'invest'
 topic: 'research'

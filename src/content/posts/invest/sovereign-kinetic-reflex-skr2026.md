@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Kinetic Reflex (SKR-2026) Indicator'
-description: 'The Sovereign Kinetic Reflex (SKR-2026) is a convergent judgment indicator that signals the transition of Physical AI from "Centralized Plan'
+description: 'The Sovereign Kinetic Reflex (SKR-2026) is a convergent judgment indicator that signals the transition of Physical AI from "Centralized Plan…'
 pubDate: 2026-07-10
 category: 'invest'
 topic: 'ai-robotics'

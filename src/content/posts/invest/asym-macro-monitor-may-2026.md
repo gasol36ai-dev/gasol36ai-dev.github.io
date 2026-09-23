@@ -1,6 +1,6 @@
 ---
 title: 'Executive Summary'
-description: 'Asymmetric Intelligence: Policy paralysis at Fed/ECB between inflation and growth. USTR Section 301 investigations deepening stagflationary '
+description: 'Asymmetric Intelligence: Policy paralysis at Fed/ECB between inflation and growth. USTR Section 301 investigations deepening stagflationary …'
 pubDate: 2026-06-05
 category: 'invest'
 topic: 'research'

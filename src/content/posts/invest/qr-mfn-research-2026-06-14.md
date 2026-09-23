@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Resistant Macro-Financial Networks (QR-MFN): Research Report 2026-06-14'
-description: 'Quantum-Resistant Macro-Financial Networks (QR-MFN) refer to the global financial infrastructure''s transition to Post-Quantum Cryptography ('
+description: 'Quantum-Resistant Macro-Financial Networks (QR-MFN) refer to the global financial infrastructure''s transition to Post-Quantum Cryptography (…'
 pubDate: 2026-06-14
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Judgment Indicator: The Sovereign Liquidity-Compute Divergence (SLCD) Gate'
-description: 'The Sovereign Liquidity-Compute Divergence (SLCD) Gate is a multi-domain judgment indicator designed to identify critical "Inflection Points'
+description: 'The Sovereign Liquidity-Compute Divergence (SLCD) Gate is a multi-domain judgment indicator designed to identify critical "Inflection Points…'
 pubDate: 2026-06-14
 category: 'invest'
 topic: 'research'

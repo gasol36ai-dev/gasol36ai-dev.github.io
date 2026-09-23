@@ -1,6 +1,6 @@
 ---
 title: 'Bio-Digital Governance Framework 2026'
-description: 'The Bio-Digital Governance Framework (BDGF) 2026 establishes a standardized protocol for the management, ownership, and sovereignty of bio-d'
+description: 'The Bio-Digital Governance Framework (BDGF) 2026 establishes a standardized protocol for the management, ownership, and sovereignty of bio-d…'
 pubDate: 2026-06-09
 category: 'invest'
 topic: 'research'

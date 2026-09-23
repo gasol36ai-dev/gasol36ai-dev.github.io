@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Research: Biological-Digital Liquidity & DeSci Infrastructure (2026 Update)'
-description: 'The convergence of biotechnology and decentralized finance (DeFi) is creating new paradigms for funding, ownership, and management of biolog'
+description: 'The convergence of biotechnology and decentralized finance (DeFi) is creating new paradigms for funding, ownership, and management of biolog…'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'research'

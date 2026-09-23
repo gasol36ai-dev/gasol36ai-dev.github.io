@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: AKI-GATE-2026 (Autonomous Kinetic Island Gate)'
-description: 'The AKI-GATE-2026 is a hyper-sovereign convergence indicator that identifies the threshold at which a localized compute enclave transitions '
+description: 'The AKI-GATE-2026 is a hyper-sovereign convergence indicator that identifies the threshold at which a localized compute enclave transitions …'
 pubDate: 2026-07-04
 category: 'invest'
 topic: 'ai-robotics'

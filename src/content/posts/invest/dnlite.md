@@ -1,6 +1,6 @@
 ---
 title: 'DNlite (Shin-Ying Biomed)'
-description: 'DNlite is a diagnostic biomarker developed by Shin-Ying Biomed, focusing on post-translationally modified fetuin-A (uPTM-FeA) in urine for t'
+description: 'DNlite is a diagnostic biomarker developed by Shin-Ying Biomed, focusing on post-translationally modified fetuin-A (uPTM-FeA) in urine for t…'
 pubDate: 2026-07-09
 category: 'invest'
 topic: 'research'

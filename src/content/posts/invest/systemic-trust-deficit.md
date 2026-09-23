@@ -1,6 +1,6 @@
 ---
 title: 'Systemic Trust Deficit Regime (2026)'
-description: 'A macroeconomic state where traditional correlations (specifically the Gold-Real Yield correlation) break down because investors prioritize '
+description: 'A macroeconomic state where traditional correlations (specifically the Gold-Real Yield correlation) break down because investors prioritize …'
 pubDate: 2026-04-30
 category: 'invest'
 topic: 'gold'

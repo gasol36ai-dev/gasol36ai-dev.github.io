@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Divergence-Flow Nexus (DFN)'
-description: 'The Hermes Divergence-Flow Nexus (DFN) is a proprietary judgment framework designed to filter micro-structural price signals through the len'
+description: 'The Hermes Divergence-Flow Nexus (DFN) is a proprietary judgment framework designed to filter micro-structural price signals through the len…'
 pubDate: 2026-05-23
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Quantum-Resilient Financial Rails (QRF)'
-description: 'The global financial system is undergoing a forced migration from classical asymmetric cryptography (RSA, ECC) to Post-Quantum Cryptography '
+description: 'The global financial system is undergoing a forced migration from classical asymmetric cryptography (RSA, ECC) to Post-Quantum Cryptography …'
 pubDate: 2026-06-28
 category: 'invest'
 topic: 'research'

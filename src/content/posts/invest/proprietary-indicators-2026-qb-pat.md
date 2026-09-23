@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Quantum-Bio-Photonic Autonomy Threshold (QB-PAT)'
-description: 'The Quantum-Bio-Photonic Autonomy Threshold (QB-PAT) is a proprietary convergence indicator designed to detect the inflection point where au'
+description: 'The Quantum-Bio-Photonic Autonomy Threshold (QB-PAT) is a proprietary convergence indicator designed to detect the inflection point where au…'
 pubDate: 2026-06-13
 category: 'invest'
 topic: 'research'

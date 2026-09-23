@@ -1,6 +1,6 @@
 ---
 title: '🧬 DNlite Progress Scorecard — August 10, 2026'
-description: 'As of August 10, 2026 (Monday), DNlite monitoring shows no new developments across all tracked dimensions. The ClinicalTrials.gov database w'
+description: 'As of August 10, 2026 (Monday), DNlite monitoring shows no new developments across all tracked dimensions. The ClinicalTrials.gov database w…'
 pubDate: 2026-08-10
 category: 'invest'
 topic: 'research'

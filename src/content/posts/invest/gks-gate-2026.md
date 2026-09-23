@@ -1,6 +1,6 @@
 ---
 title: 'The Geo-Kinetic Sovereignty Gate (GKS-2026)'
-description: 'The Geo-Kinetic Sovereignty Gate (GKS-2026) is a proprietary judgment indicator that identifies the critical intersection where a sovereign '
+description: 'The Geo-Kinetic Sovereignty Gate (GKS-2026) is a proprietary judgment indicator that identifies the critical intersection where a sovereign …'
 pubDate: 2026-07-01
 category: 'invest'
 topic: 'research'

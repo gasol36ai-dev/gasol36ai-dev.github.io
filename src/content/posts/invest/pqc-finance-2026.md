@@ -1,6 +1,6 @@
 ---
 title: 'PQC-Finance: Post-Quantum Cryptography in Global Finance (2025-2026 Report)'
-description: 'As of mid-2026, the intersection of quantum computing advancements and global financial stability has become a paramount concern for regulat'
+description: 'As of mid-2026, the intersection of quantum computing advancements and global financial stability has become a paramount concern for regulat…'
 pubDate: 2026-06-05
 category: 'invest'
 topic: 'research'

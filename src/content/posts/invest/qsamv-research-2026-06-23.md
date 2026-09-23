@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Quantum-Safe Algorithmic Macro-Volatility (QSAMV)'
-description: 'The emergence of Cryptographically Relevant Quantum Computers (CRQC) poses a systemic risk to the global financial architecture, specificall'
+description: 'The emergence of Cryptographically Relevant Quantum Computers (CRQC) poses a systemic risk to the global financial architecture, specificall…'
 pubDate: 2026-06-23
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: RWA Tokenization & Sovereign Finance (2026) - ULTRA DENSITY'
-description: 'Real World Asset (RWA) tokenization is the process of mapping physical or legal assets (Treasuries, Real Estate, Commodities, IP) onto a blo'
+description: 'Real World Asset (RWA) tokenization is the process of mapping physical or legal assets (Treasuries, Real Estate, Commodities, IP) onto a blo…'
 pubDate: 2026-07-11
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Bio-Photonic Orbital Convergence (BPOC) Gate - 2026'
-description: 'The Bio-Photonic Orbital Convergence (BPOC) Gate is a high-density, non-linear judgment indicator designed to detect the synchronization bet'
+description: 'The Bio-Photonic Orbital Convergence (BPOC) Gate is a high-density, non-linear judgment indicator designed to detect the synchronization bet…'
 pubDate: 2026-06-30
 category: 'invest'
 topic: 'research'

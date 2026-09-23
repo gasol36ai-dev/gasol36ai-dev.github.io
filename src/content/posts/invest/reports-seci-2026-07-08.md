@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Energy-Compute Integration (SECI) High-Density Report'
-description: 'Sovereign Energy-Compute Integration (SECI) is the strategic alignment of a nation-state''s energy production and distribution infrastructure'
+description: 'Sovereign Energy-Compute Integration (SECI) is the strategic alignment of a nation-state''s energy production and distribution infrastructure…'
 pubDate: 2026-07-08
 category: 'invest'
 topic: 'research'

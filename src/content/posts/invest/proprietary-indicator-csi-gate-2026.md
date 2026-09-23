@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Cosmic-Sovereign Inflection (CSI) Gate (HPI-42)'
-description: 'The Cosmic-Sovereign Inflection (CSI) Gate identifies the critical convergence point where space-based economic and political actors achieve'
+description: 'The Cosmic-Sovereign Inflection (CSI) Gate identifies the critical convergence point where space-based economic and political actors achieve…'
 pubDate: 2026-06-23
 category: 'invest'
 topic: 'research'

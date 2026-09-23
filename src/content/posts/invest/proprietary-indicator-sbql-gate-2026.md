@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Bio-Quantum Liquidity Gate (SBQL-Gate)'
-description: 'The SBQL-Gate is a high-order judgment indicator used to identify the ''inflection point'' where a nation''s sovereign capability shifts from d'
+description: 'The SBQL-Gate is a high-order judgment indicator used to identify the ''inflection point'' where a nation''s sovereign capability shifts from d…'
 pubDate: 2026-06-08
 category: 'invest'
 topic: 'research'

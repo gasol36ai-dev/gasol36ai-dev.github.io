@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Communication Mesh Design'
-description: 'In the context of QRMN, sovereignty refers to the ability of a network and its participants to maintain absolute control over their communic'
+description: 'In the context of QRMN, sovereignty refers to the ability of a network and its participants to maintain absolute control over their communic…'
 pubDate: 2026-06-30
 category: 'invest'
 topic: 'research'

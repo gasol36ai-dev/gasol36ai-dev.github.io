@@ -1,6 +1,6 @@
 ---
 title: 'Robotic Labor Economics: The Transition to Autonomous Physical Labor (2026)'
-description: 'The integration of autonomous physical labor—driven by advancements in humanoid robotics, General Purpose Robots (GPRs), and multimodal AI—m'
+description: 'The integration of autonomous physical labor—driven by advancements in humanoid robotics, General Purpose Robots (GPRs), and multimodal AI—m…'
 pubDate: 2026-06-01
 category: 'invest'
 topic: 'ai-robotics'

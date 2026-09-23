@@ -1,6 +1,6 @@
 ---
 title: 'Indicator: BOC-INFLECTION-GATE-2026'
-description: 'The BOC-INFLECTION-GATE-2026 is a proprietary high-density indicator marking the transition from fragmented biological, orbital, and photoni'
+description: 'The BOC-INFLECTION-GATE-2026 is a proprietary high-density indicator marking the transition from fragmented biological, orbital, and photoni…'
 pubDate: 2026-07-01
 category: 'invest'
 topic: 'research'

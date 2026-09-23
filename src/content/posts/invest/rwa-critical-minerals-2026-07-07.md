@@ -1,6 +1,6 @@
 ---
 title: 'RWA Tokenization of Critical Minerals: Strategic Research Report 2026-07-07'
-description: 'The strategic management of critical minerals (Lithium, Cobalt, Neodymium, Gallium) is shifting from opaque bilateral contracts to blockchai'
+description: 'The strategic management of critical minerals (Lithium, Cobalt, Neodymium, Gallium) is shifting from opaque bilateral contracts to blockchai…'
 pubDate: 2026-07-07
 category: 'invest'
 topic: 'research'

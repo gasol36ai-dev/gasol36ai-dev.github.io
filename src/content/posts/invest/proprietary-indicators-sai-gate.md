@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: The Sovereign Autonomy Inflection (SAI) Gate'
-description: 'The Sovereign Autonomy Inflection (SAI) Gate is a multi-domain convergence indicator designed to predict the phase shift from centralized, c'
+description: 'The Sovereign Autonomy Inflection (SAI) Gate is a multi-domain convergence indicator designed to predict the phase shift from centralized, c…'
 pubDate: 2026-06-02
 category: 'invest'
 topic: 'research'

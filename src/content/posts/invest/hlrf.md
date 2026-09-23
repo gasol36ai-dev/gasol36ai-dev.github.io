@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Liquidity-Regime Filter (HLRF) v3.0'
-description: 'The HLRF is a proprietary judgment gate that filters Order Flow signals based on the current Market World State. Version 3.0 evolves the fil'
+description: 'The HLRF is a proprietary judgment gate that filters Order Flow signals based on the current Market World State. Version 3.0 evolves the fil…'
 pubDate: 2026-05-01
 category: 'invest'
 topic: 'research'

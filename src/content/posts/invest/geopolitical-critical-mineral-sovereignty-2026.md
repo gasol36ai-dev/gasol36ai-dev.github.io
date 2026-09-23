@@ -1,6 +1,6 @@
 ---
 title: 'Geopolitical Critical Mineral Sovereignty (2026 Synthesis)'
-description: 'The geopolitical landscape of 2026 has transitioned from a Rare Earth Element (REE) centric dependency model to a diversified "Frontier Sove'
+description: 'The geopolitical landscape of 2026 has transitioned from a Rare Earth Element (REE) centric dependency model to a diversified "Frontier Sove…'
 pubDate: 2026-06-30
 category: 'invest'
 topic: 'research'

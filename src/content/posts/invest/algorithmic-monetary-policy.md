@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Algorithmic Monetary Policy & AI-Central Banking'
-description: 'The migration of monetary policy from human-centric committees (e.g., FOMC) to AI-driven Predictive Monetary Policy (PMP) systems. This shif'
+description: 'The migration of monetary policy from human-centric committees (e.g., FOMC) to AI-driven Predictive Monetary Policy (PMP) systems. This shif…'
 pubDate: 2026-06-26
 category: 'invest'
 topic: 'research'

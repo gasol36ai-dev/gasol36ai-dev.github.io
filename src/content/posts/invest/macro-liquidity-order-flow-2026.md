@@ -1,6 +1,6 @@
 ---
 title: 'Research Entry: Macro-Liquidity & Order Flow Microstructure'
-description: 'The intersection of macro-liquidity and order flow microstructure reveals a complex feedback loop where systemic volatility (driven by infla'
+description: 'The intersection of macro-liquidity and order flow microstructure reveals a complex feedback loop where systemic volatility (driven by infla…'
 pubDate: 2026-06-08
 category: 'invest'
 topic: 'research'

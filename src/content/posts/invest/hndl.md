@@ -1,6 +1,6 @@
 ---
 title: 'Harvest Now, Decrypt Later (HNDL)'
-description: '"Harvest Now, Decrypt Later" (HNDL) is a cyber-attack strategy where an adversary captures and archives encrypted data today, with the inten'
+description: '"Harvest Now, Decrypt Later" (HNDL) is a cyber-attack strategy where an adversary captures and archives encrypted data today, with the inten…'
 pubDate: 2026-07-10
 category: 'invest'
 topic: 'research'

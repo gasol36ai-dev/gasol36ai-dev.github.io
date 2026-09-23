@@ -1,6 +1,6 @@
 ---
 title: 'Solvent Extraction'
-description: 'Solvent Extraction (SX) is a chemical separation process that uses two immiscible liquids (typically an aqueous phase and an organic phase) '
+description: 'Solvent Extraction (SX) is a chemical separation process that uses two immiscible liquids (typically an aqueous phase and an organic phase) …'
 pubDate: 2026-07-12
 category: 'invest'
 topic: 'research'

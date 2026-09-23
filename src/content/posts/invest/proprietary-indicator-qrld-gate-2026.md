@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Quantum-Risk Liquidity Dislocation (QRLD) Gate'
-description: 'The Quantum-Risk Liquidity Dislocation (QRLD) Gate is a cross-domain indicator designed to monitor the stability of global financial liquidi'
+description: 'The Quantum-Risk Liquidity Dislocation (QRLD) Gate is a cross-domain indicator designed to monitor the stability of global financial liquidi…'
 pubDate: 2026-06-08
 category: 'invest'
 topic: 'research'

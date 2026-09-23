@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: The Sovereign Intelligence Convergence Gate (SICG-2026)'
-description: 'The Sovereign Intelligence Convergence Gate (SICG-2026) is a high-density judgment indicator designed to detect the exact moment a nation-st'
+description: 'The Sovereign Intelligence Convergence Gate (SICG-2026) is a high-density judgment indicator designed to detect the exact moment a nation-st…'
 pubDate: 2026-06-30
 category: 'invest'
 topic: 'research'

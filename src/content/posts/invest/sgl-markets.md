@@ -1,6 +1,6 @@
 ---
 title: 'SGL (Sovereign Governance Layer) Markets: Decentralized Sovereign Finance'
-description: 'The Sovereign Governance Layer (SGL) is the emergence of a programmable, decentralized layer that sits between a nation''s traditional treasu'
+description: 'The Sovereign Governance Layer (SGL) is the emergence of a programmable, decentralized layer that sits between a nation''s traditional treasu…'
 pubDate: 2026-06-19
 category: 'invest'
 topic: 'research'

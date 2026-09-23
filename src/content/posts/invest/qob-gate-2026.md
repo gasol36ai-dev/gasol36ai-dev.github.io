@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Q-O-B Gate (Quantum-Orbital-Bio Gate)'
-description: 'The Q-O-B Gate is a high-density judgment indicator designed for "Hyper-Sovereign" actors (state-level entities, planetary-scale DAOs, or au'
+description: 'The Q-O-B Gate is a high-density judgment indicator designed for "Hyper-Sovereign" actors (state-level entities, planetary-scale DAOs, or au…'
 pubDate: 2026-07-01
 category: 'invest'
 topic: 'research'

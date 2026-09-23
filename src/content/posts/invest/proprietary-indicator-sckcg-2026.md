@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Cognitive-Kinetic Convergence Gate (SCKCG)'
-description: 'The Sovereign Cognitive-Kinetic Convergence Gate (SCKCG) is a high-order judgment indicator designed to identify the transition of a nation-'
+description: 'The Sovereign Cognitive-Kinetic Convergence Gate (SCKCG) is a high-order judgment indicator designed to identify the transition of a nation-…'
 pubDate: 2026-06-11
 category: 'invest'
 topic: 'research'

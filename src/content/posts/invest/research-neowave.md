@@ -1,6 +1,6 @@
 ---
 title: 'NEoWave'
-description: 'NEoWave is an advanced evolution of Elliott Wave Theory. While Elliott Wave is often criticized for subjectivity, NEoWave introduces a more '
+description: 'NEoWave is an advanced evolution of Elliott Wave Theory. While Elliott Wave is often criticized for subjectivity, NEoWave introduces a more …'
 pubDate: 2026-05-01
 category: 'invest'
 topic: 'research'

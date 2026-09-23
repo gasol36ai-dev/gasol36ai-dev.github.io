@@ -1,6 +1,6 @@
 ---
 title: 'Macro Intelligence Report - 2026-05-12'
-description: 'The global macro environment is currently defined by a "Hawkish Hold" regime. While major central banks (Fed, ECB, BoE) have maintained rate'
+description: 'The global macro environment is currently defined by a "Hawkish Hold" regime. While major central banks (Fed, ECB, BoE) have maintained rate…'
 pubDate: 2026-05-12
 category: 'invest'
 topic: 'research'

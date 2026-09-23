@@ -1,6 +1,6 @@
 ---
 title: 'Hyper-Sovereign Indicator (HSI): Proprietary Judgment Framework'
-description: 'The Hyper-Sovereign Indicator (HSI) is a predictive metric designed to signal systemic regime shifts in global autonomy. It synthesizes conv'
+description: 'The Hyper-Sovereign Indicator (HSI) is a predictive metric designed to signal systemic regime shifts in global autonomy. It synthesizes conv…'
 pubDate: 2026-07-01
 category: 'invest'
 topic: 'research'

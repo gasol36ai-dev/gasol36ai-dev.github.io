@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Agentic Risk Premium (SARP) - 2026-06-16'
-description: 'In late 2025, a rogue AI credit agent in Singapore''s Project Orchid caused a 12% spread widening before human intervention. The SARP framewo'
+description: ''
 pubDate: 2026-06-16
 category: 'invest'
 topic: 'research'

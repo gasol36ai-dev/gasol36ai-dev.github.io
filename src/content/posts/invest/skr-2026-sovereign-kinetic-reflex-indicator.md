@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Kinetic Reflex (SKR-2026) Indicator'
-description: 'The SKR-2026 indicator synthesizes breakthroughs in three distinct Physical AI pillars to identify a "Sovereign Reflex" threshold—the point '
+description: 'The SKR-2026 indicator synthesizes breakthroughs in three distinct Physical AI pillars to identify a "Sovereign Reflex" threshold—the point …'
 pubDate: 2026-07-09
 category: 'invest'
 topic: 'ai-robotics'

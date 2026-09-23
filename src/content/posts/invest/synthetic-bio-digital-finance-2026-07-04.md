@@ -1,6 +1,6 @@
 ---
 title: 'Synthetic Bio-Digital Finance (SBDF) Report (2026-07-04)'
-description: 'The next frontier of financial markets lies in the convergence of biological compute and digital asset rails. Synthetic Bio-Digital Finance '
+description: 'The next frontier of financial markets lies in the convergence of biological compute and digital asset rails. Synthetic Bio-Digital Finance …'
 pubDate: 2026-07-04
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Astro-Photonic Intelligence (API) Gate (HPI-55)'
-description: 'The Astro-Photonic Intelligence (API) Gate is a triple-domain convergence indicator that identifies the transition of intelligence from terr'
+description: 'The Astro-Photonic Intelligence (API) Gate is a triple-domain convergence indicator that identifies the transition of intelligence from terr…'
 pubDate: 2026-06-22
 category: 'invest'
 topic: 'research'

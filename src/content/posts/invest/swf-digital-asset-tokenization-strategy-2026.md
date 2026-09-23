@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Wealth Fund Digital Asset & Tokenization Strategy 2026'
-description: 'By 2026, Sovereign Wealth Funds (SWFs) have transitioned from cautious observers of digital assets to strategic architects of the Tokenized '
+description: 'By 2026, Sovereign Wealth Funds (SWFs) have transitioned from cautious observers of digital assets to strategic architects of the Tokenized …'
 pubDate: 2026-05-29
 category: 'invest'
 topic: 'research'

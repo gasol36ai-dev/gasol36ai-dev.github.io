@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Geometric Liquidity-Volatility Divergence (GLVD)'
-description: 'The Geometric Liquidity-Volatility Divergence (GLVD) is a high-order synthesis indicator designed to detect the "phase transition" from stab'
+description: 'The Geometric Liquidity-Volatility Divergence (GLVD) is a high-order synthesis indicator designed to detect the "phase transition" from stab…'
 pubDate: 2026-05-26
 category: 'invest'
 topic: 'research'

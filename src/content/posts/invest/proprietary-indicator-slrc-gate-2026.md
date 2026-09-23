@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Liquidity-Resource Convergence (SLRC) Gate'
-description: 'The Sovereign Liquidity-Resource Convergence (SLRC) Gate is a hyper-sovereign judgment indicator that synthesizes three distinct strategic d'
+description: 'The Sovereign Liquidity-Resource Convergence (SLRC) Gate is a hyper-sovereign judgment indicator that synthesizes three distinct strategic d…'
 pubDate: 2026-06-29
 category: 'invest'
 topic: 'research'

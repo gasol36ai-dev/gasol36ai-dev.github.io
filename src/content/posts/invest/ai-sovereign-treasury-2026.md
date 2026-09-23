@@ -1,6 +1,6 @@
 ---
 title: 'AI-Native Sovereign Treasury Management: Breakthroughs 2025–2026'
-description: 'The sovereign treasury function is transforming from a reactive reporting mechanism to a proactive, AI-driven strategic operator. This shift'
+description: 'The sovereign treasury function is transforming from a reactive reporting mechanism to a proactive, AI-driven strategic operator. This shift…'
 pubDate: 2026-06-04
 category: 'invest'
 topic: 'research'

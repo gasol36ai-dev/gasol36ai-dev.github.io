@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: SCIC-Gate (Sovereign Critical Infrastructure Cascade Gate)'
-description: 'The Sovereign Critical Infrastructure Cascade Gate (SCIC-Gate) identifies the point at which three independent critical infrastructure domai'
+description: 'The Sovereign Critical Infrastructure Cascade Gate (SCIC-Gate) identifies the point at which three independent critical infrastructure domai…'
 pubDate: 2026-06-15
 category: 'invest'
 topic: 'research'

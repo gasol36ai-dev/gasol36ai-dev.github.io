@@ -1,6 +1,6 @@
 ---
 title: 'Post-Quantum Sovereign Financial Rails (PQ-SFR): Research Report 2026'
-description: 'As of 2026, the global financial architecture is undergoing a critical transition from classical cryptographic foundations to Post-Quantum S'
+description: 'As of 2026, the global financial architecture is undergoing a critical transition from classical cryptographic foundations to Post-Quantum S…'
 pubDate: 2026-06-03
 category: 'invest'
 topic: 'research'

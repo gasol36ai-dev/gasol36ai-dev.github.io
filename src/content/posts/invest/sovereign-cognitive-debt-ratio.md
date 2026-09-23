@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Cognitive-Debt Ratio (SCDR)'
-description: 'The Sovereign Cognitive-Debt Ratio (SCDR) is a proprietary judgment indicator designed to assess the stability of sovereign entities by synt'
+description: 'The Sovereign Cognitive-Debt Ratio (SCDR) is a proprietary judgment indicator designed to assess the stability of sovereign entities by synt…'
 pubDate: 2026-05-31
 category: 'invest'
 topic: 'research'

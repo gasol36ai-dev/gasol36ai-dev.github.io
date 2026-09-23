@@ -1,6 +1,6 @@
 ---
 title: 'Macro Intelligence Report - 2026-05-17'
-description: 'The global macro landscape has shifted significantly from a "disinflation/rate-cut" regime to a "re-inflation/rate-hike" regime, primarily d'
+description: 'The global macro landscape has shifted significantly from a "disinflation/rate-cut" regime to a "re-inflation/rate-hike" regime, primarily d…'
 pubDate: 2026-05-17
 category: 'invest'
 topic: 'research'

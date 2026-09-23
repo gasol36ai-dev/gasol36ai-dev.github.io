@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: BDIC-2026 Convergence Gate'
-description: 'The BDIC-2026 Indicator tracks the alignment of three critical technological vectors: Wetware Sensing, Post-Quantum Financial Rails, and Sov'
+description: 'The BDIC-2026 Indicator tracks the alignment of three critical technological vectors: Wetware Sensing, Post-Quantum Financial Rails, and Sov…'
 pubDate: 2026-07-12
 category: 'invest'
 topic: 'research'

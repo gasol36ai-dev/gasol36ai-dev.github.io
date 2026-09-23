@@ -1,6 +1,6 @@
 ---
 title: 'Tokenized Real-World Assets (RWA) & Institutional Finance 2026'
-description: 'By 2026, RWA tokenization has transitioned from experimental pilots to a foundational layer of global finance. The defining shift: "institut'
+description: 'By 2026, RWA tokenization has transitioned from experimental pilots to a foundational layer of global finance. The defining shift: "institut…'
 pubDate: 2026-05-29
 category: 'invest'
 topic: 'research'

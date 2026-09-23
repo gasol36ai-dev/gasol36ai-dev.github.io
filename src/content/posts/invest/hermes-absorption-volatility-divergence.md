@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Absorption-Volatility Divergence (HAVD)'
-description: 'The HAVD is a proprietary Hermes judgment indicator designed to filter low-probability reversal signals in Order Flow trading by integrating'
+description: 'The HAVD is a proprietary Hermes judgment indicator designed to filter low-probability reversal signals in Order Flow trading by integrating…'
 pubDate: 2026-05-01
 category: 'invest'
 topic: 'research'

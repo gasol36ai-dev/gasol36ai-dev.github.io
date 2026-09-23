@@ -1,6 +1,6 @@
 ---
 title: 'Research Synthesis: Energetic-Sovereign Compute (ESC) breakthroughs'
-description: 'The "AI Power Paradox" of 2024-2025—where compute scaling was throttled by legacy grid constraints—has been resolved via Energetic-Sovereign'
+description: 'The "AI Power Paradox" of 2024-2025—where compute scaling was throttled by legacy grid constraints—has been resolved via Energetic-Sovereign…'
 pubDate: 2026-06-23
 category: 'invest'
 topic: 'research'

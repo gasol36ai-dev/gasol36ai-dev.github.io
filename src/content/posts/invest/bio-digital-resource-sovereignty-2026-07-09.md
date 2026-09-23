@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Bio-Digital Resource Sovereignty (B-DRS)'
-description: 'Bio-Digital Resource Sovereignty (B-DRS) defines a new paradigm of national autonomy where the control of physical resources is decoupled fr'
+description: 'Bio-Digital Resource Sovereignty (B-DRS) defines a new paradigm of national autonomy where the control of physical resources is decoupled fr…'
 pubDate: 2026-07-09
 category: 'invest'
 topic: 'research'

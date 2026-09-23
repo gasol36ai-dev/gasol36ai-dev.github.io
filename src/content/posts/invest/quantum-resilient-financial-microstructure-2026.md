@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Resilient Financial Microstructure (2026)'
-description: 'As Quantum Computing approaches the "Shor''s Algorithm Threat Horizon," financial microstructures are undergoing a fundamental transformation'
+description: 'As Quantum Computing approaches the "Shor''s Algorithm Threat Horizon," financial microstructures are undergoing a fundamental transformation…'
 pubDate: 2026-07-01
 category: 'invest'
 topic: 'research'

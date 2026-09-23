@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Hermes Liquidity-Macro Divergence (HLMD)'
-description: 'The HLMD indicator is designed to detect "Regime Shifts" by identifying divergences between high-level macroeconomic trends and low-level in'
+description: 'The HLMD indicator is designed to detect "Regime Shifts" by identifying divergences between high-level macroeconomic trends and low-level in…'
 pubDate: 2026-05-12
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Edge-Compute Inflection Gate (SECI)'
-description: 'The SECI indicator monitors the convergence of three critical sovereign infrastructure vectors. When these three thresholds are crossed simu'
+description: 'The SECI indicator monitors the convergence of three critical sovereign infrastructure vectors. When these three thresholds are crossed simu…'
 pubDate: 2026-06-04
 category: 'invest'
 topic: 'research'

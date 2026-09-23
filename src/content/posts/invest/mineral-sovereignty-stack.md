@@ -1,6 +1,6 @@
 ---
 title: 'Mineral Sovereignty Stack'
-description: 'The Mineral Sovereignty Stack is the end-to-end pipeline required to transform raw geological deposits of critical minerals into high-perfor'
+description: 'The Mineral Sovereignty Stack is the end-to-end pipeline required to transform raw geological deposits of critical minerals into high-perfor…'
 pubDate: 2026-07-13
 category: 'invest'
 topic: 'research'

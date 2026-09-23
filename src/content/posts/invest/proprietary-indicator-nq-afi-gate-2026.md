@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: The NQ-AFI Gate (Neuromorphic-Quantum Agentic Fragility Indicator)'
-description: 'The NQ-AFI Gate is a hyper-sovereign convergence indicator designed to detect the precise moment when advanced computing architectures (Neur'
+description: 'The NQ-AFI Gate is a hyper-sovereign convergence indicator designed to detect the precise moment when advanced computing architectures (Neur…'
 pubDate: 2026-06-27
 category: 'invest'
 topic: 'research'

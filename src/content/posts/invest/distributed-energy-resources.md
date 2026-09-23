@@ -1,6 +1,6 @@
 ---
 title: 'Distributed Energy Resources (DERs)'
-description: 'Distributed Energy Resources (DERs) are small-scale energy generation or storage technologies located close to the load they serve. Unlike t'
+description: 'Distributed Energy Resources (DERs) are small-scale energy generation or storage technologies located close to the load they serve. Unlike t…'
 pubDate: 2026-07-13
 category: 'invest'
 topic: 'energy'

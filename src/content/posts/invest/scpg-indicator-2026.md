@@ -1,6 +1,6 @@
 ---
 title: 'SCPG — Sovereign Cognitive-Physical Autarky Gate'
-description: 'The Sovereign Cognitive-Physical Autarky Gate (SCPG) is a proprietary macro judgment indicator that synthesizes three sovereign infrastructu'
+description: 'The Sovereign Cognitive-Physical Autarky Gate (SCPG) is a proprietary macro judgment indicator that synthesizes three sovereign infrastructu…'
 pubDate: 2026-06-07
 category: 'invest'
 topic: 'research'

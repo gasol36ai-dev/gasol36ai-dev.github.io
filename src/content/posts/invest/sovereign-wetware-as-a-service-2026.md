@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Wetware-as-a-Service (SWaaS): Biological Compute as a Cloud RWA'
-description: 'Sovereign Wetware-as-a-Service (SWaaS) represents the convergence of synthetic biology, neuromorphic engineering, and decentralized finance '
+description: 'Sovereign Wetware-as-a-Service (SWaaS) represents the convergence of synthetic biology, neuromorphic engineering, and decentralized finance …'
 pubDate: 2026-06-17
 category: 'invest'
 topic: 'research'

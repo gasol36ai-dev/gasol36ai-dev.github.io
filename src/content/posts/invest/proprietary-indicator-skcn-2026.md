@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Kinetic-Compute Nexus (SKCN-2026)'
-description: 'The Sovereign Kinetic-Compute Nexus (SKCN-2026) is a proprietary judgment indicator that measures the structural convergence of event-driven'
+description: 'The Sovereign Kinetic-Compute Nexus (SKCN-2026) is a proprietary judgment indicator that measures the structural convergence of event-driven…'
 pubDate: 2026-07-15
 category: 'invest'
 topic: 'ai-glasses'

@@ -1,6 +1,6 @@
 ---
 title: 'Market Profile: Fear-Driven Volatility Regimes'
-description: 'This research explores the microstructure of market volatility during periods of extreme sentiment shifts, specifically focusing on the "Fea'
+description: 'This research explores the microstructure of market volatility during periods of extreme sentiment shifts, specifically focusing on the "Fea…'
 pubDate: 2026-06-12
 category: 'invest'
 topic: 'research'

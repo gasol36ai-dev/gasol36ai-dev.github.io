@@ -1,6 +1,6 @@
 ---
 title: 'US Fiscal Dominance & Bond Regime Transition (May 2026)'
-description: 'May 2026 marks the transition from the "Great Inflation" era to structural fragmentation and policy divergence. The primary catalyst: US fis'
+description: 'May 2026 marks the transition from the "Great Inflation" era to structural fragmentation and policy divergence. The primary catalyst: US fis…'
 pubDate: 2026-05-28
 category: 'invest'
 topic: 'research'

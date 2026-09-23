@@ -1,6 +1,6 @@
 ---
 title: 'Central Bank Divergence 2026'
-description: 'The era of synchronized monetary policy has transitioned into a period of intense divergence driven by localized inflationary pressures and '
+description: 'The era of synchronized monetary policy has transitioned into a period of intense divergence driven by localized inflationary pressures and …'
 pubDate: 2026-06-01
 category: 'invest'
 topic: 'research'

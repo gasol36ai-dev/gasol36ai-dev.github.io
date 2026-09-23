@@ -1,6 +1,6 @@
 ---
 title: 'Order Flow Trading'
-description: 'The analysis of the Limit Order Book (LOB) and the Time & Sales (the "Tape") to identify real-time aggression and institutional intent. Orde'
+description: 'The analysis of the Limit Order Book (LOB) and the Time & Sales (the "Tape") to identify real-time aggression and institutional intent. Orde…'
 pubDate: 2026-04-27
 category: 'invest'
 topic: 'research'

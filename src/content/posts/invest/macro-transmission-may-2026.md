@@ -1,6 +1,6 @@
 ---
 title: 'Macro Transmission Report: May 2026'
-description: 'The May 2026 macro environment is characterized by a critical tension between stubborn inflation pressures and lagging growth confirmation. '
+description: 'The May 2026 macro environment is characterized by a critical tension between stubborn inflation pressures and lagging growth confirmation. …'
 pubDate: 2026-06-01
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Innovation Research: Geometric Counterfactuals (GC) for Stress-Testing Relational Markets'
-description: 'Current generative market models (e.g., MarS, TRADES) focus on replicating observed market data. However, for robust risk management and age'
+description: 'Current generative market models (e.g., MarS, TRADES) focus on replicating observed market data. However, for robust risk management and age…'
 pubDate: 2026-05-24
 category: 'invest'
 topic: 'research'

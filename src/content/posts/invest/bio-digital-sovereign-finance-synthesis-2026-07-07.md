@@ -1,6 +1,6 @@
 ---
 title: 'Bio-Digital Sovereign Finance Synthesis 2026-07-07'
-description: 'Bio-Digital Sovereign Finance represents the systemic convergence of synthetic biology, neuro-symbolic AI governance, and blockchain-based R'
+description: 'Bio-Digital Sovereign Finance represents the systemic convergence of synthetic biology, neuro-symbolic AI governance, and blockchain-based R…'
 pubDate: 2026-07-07
 category: 'invest'
 topic: 'research'

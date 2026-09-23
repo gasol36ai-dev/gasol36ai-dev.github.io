@@ -1,6 +1,6 @@
 ---
 title: 'Market Profile & Volume Analysis'
-description: 'ightarrow$ Absolute fair value consensus. High conviction.'
+description: ''
 pubDate: 2026-05-15
 category: 'invest'
 topic: 'research'

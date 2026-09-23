@@ -1,6 +1,6 @@
 ---
 title: 'Hermes SIF Proprietary Logic Wiki'
-description: 'This document defines the proprietary judgment indicators and logic gates used by the Hermes Strategic Investment Framework (SIF). These ind'
+description: 'This document defines the proprietary judgment indicators and logic gates used by the Hermes Strategic Investment Framework (SIF). These ind…'
 pubDate: 2026-05-23
 category: 'invest'
 topic: 'research'

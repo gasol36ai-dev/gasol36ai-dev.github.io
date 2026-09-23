@@ -1,6 +1,6 @@
 ---
 title: 'Order Flow Imbalance (OFI)'
-description: 'Order Flow Imbalance is a quantitative measure of the net difference between buying and selling pressure at the best bid and ask prices in t'
+description: 'Order Flow Imbalance is a quantitative measure of the net difference between buying and selling pressure at the best bid and ask prices in t…'
 pubDate: 2026-04-29
 category: 'invest'
 topic: 'research'

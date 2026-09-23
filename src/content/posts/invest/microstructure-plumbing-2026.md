@@ -1,6 +1,6 @@
 ---
 title: 'Microstructure Plumbing: Lambda & VPIN (2026 Analysis)'
-description: 'Understanding the "plumbing" of market microstructure is essential for distinguishing between noise and informed trading. Two key metrics do'
+description: ''
 pubDate: 2026-05-26
 category: 'invest'
 topic: 'research'

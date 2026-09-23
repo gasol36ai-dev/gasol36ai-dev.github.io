@@ -1,6 +1,6 @@
 ---
 title: 'Post-Quantum Macro-Financials'
-description: 'Post-Quantum Macro-Financials describes the structural evolution of global financial stability in the face of Cryptographically Relevant Qua'
+description: 'Post-Quantum Macro-Financials describes the structural evolution of global financial stability in the face of Cryptographically Relevant Qua…'
 pubDate: 2026-07-12
 category: 'invest'
 topic: 'research'

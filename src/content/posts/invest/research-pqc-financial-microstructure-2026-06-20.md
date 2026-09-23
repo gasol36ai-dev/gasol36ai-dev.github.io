@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Post-Quantum Financial Microstructure (PQC-FM)'
-description: 'The transition to Post-Quantum Cryptography (PQC) represents a non-linear shift in the structural integrity of global financial microstructu'
+description: 'The transition to Post-Quantum Cryptography (PQC) represents a non-linear shift in the structural integrity of global financial microstructu…'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'research'

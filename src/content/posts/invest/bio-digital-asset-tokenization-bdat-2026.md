@@ -1,6 +1,6 @@
 ---
 title: 'Bio-Digital Asset Tokenization (BDAT) (2026)'
-description: 'BDAT is the process of representing biological assets—ranging from proprietary genetic sequences (DNA) to synthetic organoids and bio-manufa'
+description: 'BDAT is the process of representing biological assets—ranging from proprietary genetic sequences (DNA) to synthetic organoids and bio-manufa…'
 pubDate: 2026-06-29
 category: 'invest'
 topic: 'research'

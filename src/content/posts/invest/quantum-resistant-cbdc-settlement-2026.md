@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Quantum-Resistant CBDC Settlement & Financial Microstructure (2026)'
-description: 'The impending "Quantum Break" poses an existential threat to the global financial microstructure. The collapse of current Public Key Infrast'
+description: 'The impending "Quantum Break" poses an existential threat to the global financial microstructure. The collapse of current Public Key Infrast…'
 pubDate: 2026-06-25
 category: 'invest'
 topic: 'research'

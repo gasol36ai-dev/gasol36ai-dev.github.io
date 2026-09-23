@@ -1,6 +1,6 @@
 ---
 title: 'Technical Report: Algorithmic RWA-Commodity Pegging (ARCP)'
-description: 'Algorithmic RWA-Commodity Pegging (ARCP) refers to the mechanism of using Decentralized Finance (DeFi) primitives—specifically Automated Mar'
+description: 'Algorithmic RWA-Commodity Pegging (ARCP) refers to the mechanism of using Decentralized Finance (DeFi) primitives—specifically Automated Mar…'
 pubDate: 2026-06-19
 category: 'invest'
 topic: 'research'

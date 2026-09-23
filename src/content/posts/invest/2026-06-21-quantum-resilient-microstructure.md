@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Quantum-Resilient Financial Microstructure and PQC Impacts'
-description: 'The emergence of Cryptographically Relevant Quantum Computers (CRQC) threatens the foundational security of the global financial system. Whi'
+description: 'The emergence of Cryptographically Relevant Quantum Computers (CRQC) threatens the foundational security of the global financial system. Whi…'
 pubDate: 2026-06-21
 category: 'invest'
 topic: 'research'

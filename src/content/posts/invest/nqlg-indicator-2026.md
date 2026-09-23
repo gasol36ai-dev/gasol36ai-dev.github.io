@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Neuro-Quantum Liquidity Gap (NQLG)'
-description: 'The Neuro-Quantum Liquidity Gap (NQLG) is a strategic indicator designed to detect systemic instability arising from the convergence of quan'
+description: 'The Neuro-Quantum Liquidity Gap (NQLG) is a strategic indicator designed to detect systemic instability arising from the convergence of quan…'
 pubDate: 2026-06-09
 category: 'invest'
 topic: 'research'

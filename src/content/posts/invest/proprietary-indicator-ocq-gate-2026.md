@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Oceanic-Cognitive-Quantum (OCQ) Convergence Gate (2026)'
-description: 'The OCQ Gate identifies the inflection point where physical, cognitive, and financial sovereignty converge into a single, unassailable "Deep'
+description: 'The OCQ Gate identifies the inflection point where physical, cognitive, and financial sovereignty converge into a single, unassailable "Deep…'
 pubDate: 2026-06-28
 category: 'invest'
 topic: 'research'

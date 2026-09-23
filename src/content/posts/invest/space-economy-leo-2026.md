@@ -1,6 +1,6 @@
 ---
 title: 'Space Economy and LEO Manufacturing Synthesis (2025-2026)'
-description: 'As of mid-2026, the space economy has transitioned from a period of "exploratory capability" to one of "industrial operationalization." The '
+description: 'As of mid-2026, the space economy has transitioned from a period of "exploratory capability" to one of "industrial operationalization." The …'
 pubDate: 2026-06-02
 category: 'invest'
 topic: 'research'

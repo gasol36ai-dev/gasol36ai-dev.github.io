@@ -1,6 +1,6 @@
 ---
 title: 'Distributed Energy Sovereignty'
-description: 'Distributed Energy Sovereignty (DES) is an evolutionary synthesis of Energy Democracy, Energy Justice, and the technical proliferation of Di'
+description: 'Distributed Energy Sovereignty (DES) is an evolutionary synthesis of Energy Democracy, Energy Justice, and the technical proliferation of Di…'
 pubDate: 2026-06-22
 category: 'invest'
 topic: 'energy'

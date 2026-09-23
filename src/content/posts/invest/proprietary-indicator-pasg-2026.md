@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Physical Autonomy Sovereignty Gate (PASG)'
-description: 'Three simultaneous infrastructure transitions — programmable digital settlement (CBDC), domestic nuclear baseload energy (SMR/Fusion), and i'
+description: 'Three simultaneous infrastructure transitions — programmable digital settlement (CBDC), domestic nuclear baseload energy (SMR/Fusion), and i…'
 pubDate: 2026-05-30
 category: 'invest'
 topic: 'research'

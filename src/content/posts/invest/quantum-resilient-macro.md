@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Resilient Macro: Cryptographic Sovereignty & Financial Stability'
-description: 'The transition to Post-Quantum Cryptography (PQC) is a macro-prudential necessity. The vulnerability of current asymmetric encryption (RSA/E'
+description: 'The transition to Post-Quantum Cryptography (PQC) is a macro-prudential necessity. The vulnerability of current asymmetric encryption (RSA/E…'
 pubDate: 2026-07-02
 category: 'invest'
 topic: 'research'

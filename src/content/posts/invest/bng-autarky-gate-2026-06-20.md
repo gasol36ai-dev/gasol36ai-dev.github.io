@@ -1,6 +1,6 @@
 ---
 title: 'BNG Autarky Gate (Bio-Neural-Grid Autarky Gate)'
-description: 'The Bio-Neural-Grid (BNG) Autarky Gate marks the transition from centralized, energy-intensive silicon computation to a decentralized, sover'
+description: 'The Bio-Neural-Grid (BNG) Autarky Gate marks the transition from centralized, energy-intensive silicon computation to a decentralized, sover…'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'research'

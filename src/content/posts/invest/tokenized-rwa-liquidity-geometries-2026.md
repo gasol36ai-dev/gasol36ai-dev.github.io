@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Tokenized RWA Liquidity Geometries & Market Microstructure'
-description: 'The "liquidity geometry" of Real-World Assets (RWAs) refers to the structural arrangement and flow of capital between on-chain representatio'
+description: 'The "liquidity geometry" of Real-World Assets (RWAs) refers to the structural arrangement and flow of capital between on-chain representatio…'
 pubDate: 2026-05-30
 category: 'invest'
 topic: 'research'

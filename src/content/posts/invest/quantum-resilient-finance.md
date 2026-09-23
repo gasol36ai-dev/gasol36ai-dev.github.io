@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Quantum-Resilient Financial Microstructure'
-description: 'The transition to Post-Quantum Cryptography (PQC) in financial rails—specifically Central Bank Digital Currencies (CBDCs) and high-speed set'
+description: 'The transition to Post-Quantum Cryptography (PQC) in financial rails—specifically Central Bank Digital Currencies (CBDCs) and high-speed set…'
 pubDate: 2026-06-26
 category: 'invest'
 topic: 'research'

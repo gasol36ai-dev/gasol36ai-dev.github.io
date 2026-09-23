@@ -1,6 +1,6 @@
 ---
 title: 'Concept: Quantum-Resilient Financial Rails'
-description: 'Quantum-Resilient Financial Rails (QRFR) refer to the systemic overhaul of global financial settlement, messaging, and asset ownership layer'
+description: 'Quantum-Resilient Financial Rails (QRFR) refer to the systemic overhaul of global financial settlement, messaging, and asset ownership layer…'
 pubDate: 2026-06-27
 category: 'invest'
 topic: 'research'

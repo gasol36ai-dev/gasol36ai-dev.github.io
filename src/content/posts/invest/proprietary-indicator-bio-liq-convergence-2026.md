@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator Bio-Algorithmic Liquidity Threshold [BALT-2026]'
-description: 'The Bio-Algorithmic Liquidity Threshold (BALT-2026) is a proprietary judgment indicator designed to identify the critical tipping point wher'
+description: 'The Bio-Algorithmic Liquidity Threshold (BALT-2026) is a proprietary judgment indicator designed to identify the critical tipping point wher…'
 pubDate: 2026-06-02
 category: 'invest'
 topic: 'research'

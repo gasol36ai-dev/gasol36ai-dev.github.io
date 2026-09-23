@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: "Sovereign Intelligence Convergence (SIC) Gate"'
-description: 'The SIC Gate is a multi-domain judgment indicator designed to detect the moment when three distinct sovereign vectors—Compute (Energy-Anchor'
+description: 'The SIC Gate is a multi-domain judgment indicator designed to detect the moment when three distinct sovereign vectors—Compute (Energy-Anchor…'
 pubDate: 2026-06-14
 category: 'invest'
 topic: 'research'

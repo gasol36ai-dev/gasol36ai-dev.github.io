@@ -1,6 +1,6 @@
 ---
 title: 'SMR & Fusion Energy Sovereignty for AI Autonomy'
-description: 'The trajectory of Artificial General Intelligence (AGI) is fundamentally constrained not by algorithmic efficiency, but by the physical avai'
+description: 'The trajectory of Artificial General Intelligence (AGI) is fundamentally constrained not by algorithmic efficiency, but by the physical avai…'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'energy'

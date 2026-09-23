@@ -1,6 +1,6 @@
 ---
 title: 'Report: Synthetic Bio-Compute Markets (SBCM)'
-description: 'Synthetic Bio-Compute Markets (SBCM) represent the emergent financial infrastructure designed to quantify, tokenize, and trade biological pr'
+description: 'As the market matures, the focus shifts from spot-trading compute capacity to complex derivatives.'
 pubDate: 2026-06-13
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Autonomous Sovereign Resource-Jurisdiction Gate (ASRJ-Gate)'
-description: 'The ASRJ-Gate represents the terminal inflection point where a sovereign entity achieves absolute decoupling from global resource supply cha'
+description: 'The ASRJ-Gate represents the terminal inflection point where a sovereign entity achieves absolute decoupling from global resource supply cha…'
 pubDate: 2026-06-15
 category: 'invest'
 topic: 'research'

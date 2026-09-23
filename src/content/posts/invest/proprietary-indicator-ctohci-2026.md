@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: CTO-HCI (Chiplet Heterogeneity Compute Inflection Gate)'
-description: 'The CTO-HCI Gate detects when the convergence of three compute architecture vectors crosses a critical threshold, triggering a non-linear so'
+description: 'The CTO-HCI Gate detects when the convergence of three compute architecture vectors crosses a critical threshold, triggering a non-linear so…'
 pubDate: 2026-06-11
 category: 'invest'
 topic: 'research'

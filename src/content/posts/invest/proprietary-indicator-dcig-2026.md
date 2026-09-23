@@ -1,6 +1,6 @@
 ---
 title: 'Decentralized Command Integrity Gap (DCIG)'
-description: 'The Decentralized Command Integrity Gap (DCIG) is a proprietary strategic indicator designed to measure the systemic vulnerability of autono'
+description: 'The Decentralized Command Integrity Gap (DCIG) is a proprietary strategic indicator designed to measure the systemic vulnerability of autono…'
 pubDate: 2026-06-03
 category: 'invest'
 topic: 'ai-robotics'

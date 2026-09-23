@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Compute-Energy Asymmetry Gate (CEAG)'
-description: 'The Compute-Energy Asymmetry Gate (CEAG) is a proprietary judgment indicator designed to identify regime shifts in sovereign power dynamics.'
+description: 'The Compute-Energy Asymmetry Gate (CEAG) is a proprietary judgment indicator designed to identify regime shifts in sovereign power dynamics.…'
 pubDate: 2026-06-13
 category: 'invest'
 topic: 'research'

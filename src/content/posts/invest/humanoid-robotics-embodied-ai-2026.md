@@ -1,6 +1,6 @@
 ---
 title: 'Humanoid Robotics & Embodied AI: State of the Art 2026'
-description: 'As of 2026, the field of humanoid robotics has transitioned from experimental prototypes to "pilot-to-platform" deployment. The convergence '
+description: 'As of 2026, the field of humanoid robotics has transitioned from experimental prototypes to "pilot-to-platform" deployment. The convergence …'
 pubDate: 2026-06-07
 category: 'invest'
 topic: 'ai-robotics'

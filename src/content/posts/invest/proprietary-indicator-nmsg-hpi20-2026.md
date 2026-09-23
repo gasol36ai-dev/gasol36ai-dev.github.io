@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Neural-Material Sovereignty Gate (NMSG / HPI-20)'
-description: 'The NMSG indicator synthesizes signals from three distinct strategic layers to detect the emergence of a "Closed-Loop Sovereign Intelligence'
+description: 'The NMSG indicator synthesizes signals from three distinct strategic layers to detect the emergence of a "Closed-Loop Sovereign Intelligence…'
 pubDate: 2026-05-31
 category: 'invest'
 topic: 'research'

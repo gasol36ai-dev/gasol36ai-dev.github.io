@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Research: Macro-Microstructure Convergence (MMC)'
-description: 'Macroeconomic shocks (interest rate pivots, geopolitical shifts, sovereign debt crises) do not just move prices; they alter the fundamental '
+description: 'Macroeconomic shocks (interest rate pivots, geopolitical shifts, sovereign debt crises) do not just move prices; they alter the fundamental …'
 pubDate: 2026-07-02
 category: 'invest'
 topic: 'research'

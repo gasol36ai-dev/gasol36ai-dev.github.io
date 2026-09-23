@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: SCLC Gate (Spatial-Compute-Latency Convergence)'
-description: 'The Spatial-Compute-Latency Convergence (SCLC) Gate is a multi-domain indicator designed to identify the systemic failure point where embodi'
+description: 'The Spatial-Compute-Latency Convergence (SCLC) Gate is a multi-domain indicator designed to identify the systemic failure point where embodi…'
 pubDate: 2026-06-06
 category: 'invest'
 topic: 'ai-robotics'

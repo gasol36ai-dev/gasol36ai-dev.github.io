@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Research: Cross-Border CBDC Liquidity Dynamics (2025-2026)'
-description: 'The 2025-2026 fiscal landscape is defined by the "Liquidity Fragmentation Crisis." As sovereign entities transition from retail experiments '
+description: 'The 2025-2026 fiscal landscape is defined by the "Liquidity Fragmentation Crisis." As sovereign entities transition from retail experiments …'
 pubDate: 2026-06-14
 category: 'invest'
 topic: 'research'

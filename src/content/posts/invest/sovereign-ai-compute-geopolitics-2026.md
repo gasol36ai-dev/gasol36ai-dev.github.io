@@ -1,6 +1,6 @@
 ---
 title: 'Research: Sovereign AI Compute Geopolitics'
-description: 'Sovereign AI has evolved from a technical capability into a primary pillar of national security and economic competitiveness. The current la'
+description: 'Sovereign AI has evolved from a technical capability into a primary pillar of national security and economic competitiveness. The current la…'
 pubDate: 2026-05-31
 category: 'invest'
 topic: 'research'

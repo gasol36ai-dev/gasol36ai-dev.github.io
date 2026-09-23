@@ -1,6 +1,6 @@
 ---
 title: 'Critical Mineral Mid-Stream Sovereignty: 2026 Geopolitical Inflection Point'
-description: 'By 2026, the global struggle for critical mineral security has transitioned from a focus on extraction (upstream) to a desperate race for mi'
+description: 'By 2026, the global struggle for critical mineral security has transitioned from a focus on extraction (upstream) to a desperate race for mi…'
 pubDate: 2026-06-08
 category: 'invest'
 topic: 'research'

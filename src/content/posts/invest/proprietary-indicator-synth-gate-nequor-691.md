@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Judgment Indicator: SYNTH-GATE-NEQUOR-691'
-description: 'This indicator aims to identify non-linear convergence points between Neuromorphic Edge-Intelligence, Quantum-Secure Financial Microstructur'
+description: 'This indicator aims to identify non-linear convergence points between Neuromorphic Edge-Intelligence, Quantum-Secure Financial Microstructur…'
 pubDate: 2026-06-08
 category: 'invest'
 topic: 'research'

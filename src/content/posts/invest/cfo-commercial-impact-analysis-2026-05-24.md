@@ -1,6 +1,6 @@
 ---
 title: 'Commercial Impact & Market Viability Analysis: Hermes-LMM'
-description: 'The Hermes-LMM represents a paradigm shift in financial market simulation. While current SOTA models (e.g., Microsoft MarS, TradeFM) focus o'
+description: 'The Hermes-LMM represents a paradigm shift in financial market simulation. While current SOTA models (e.g., Microsoft MarS, TradeFM) focus o…'
 pubDate: 2026-05-24
 category: 'invest'
 topic: 'research'

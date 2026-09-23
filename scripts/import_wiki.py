@@ -34,15 +34,20 @@ def slugify(name: str) -> str:
 
 
 def first_paragraph(body: str) -> str:
+    """取首段作為摘要；剝除 Markdown 與 LaTeX 標記，過長加省略號。"""
     for raw in body.split("\n"):
         line = raw.strip()
         if not line or line.startswith("#") or line.startswith("|") or line.startswith(">"):
             continue
         if line.startswith(("-", "*", "```")):
             continue
-        txt = re.sub(r"[*_`\[\]]|\(http[^)]*\)", "", line).strip()
+        # 含 LaTeX／跳脫字元的行直接跳過，改取第一段乾淨散文（避免碎片外露）
+        if "$" in line or "\\" in line:
+            continue
+        txt = re.sub(r"[*_`\[\]]|\(http[^)]*\)", "", line)
+        txt = re.sub(r"\s{2,}", " ", txt).strip(" -·|")
         if len(txt) >= 12:
-            return txt[:140]
+            return txt[:140] + ("…" if len(txt) > 140 else "")
     return ""
 
 

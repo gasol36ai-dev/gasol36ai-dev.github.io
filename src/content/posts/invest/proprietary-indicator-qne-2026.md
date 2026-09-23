@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: The Quantum-Neuromorphic Energy (QNE) Gate'
-description: 'The QNE Gate is a Hyper-Sovereign indicator that synthesizes three distinct strategic domains: Sovereign Quantum Finance, Neuromorphic Edge '
+description: 'The QNE Gate is a Hyper-Sovereign indicator that synthesizes three distinct strategic domains: Sovereign Quantum Finance, Neuromorphic Edge …'
 pubDate: 2026-06-25
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicators - 2026-07-05'
-description: '6389\\text{PAF}{score} = \\left( \\frac{\\text{Bandwidth}{\\text{photon}}}{\\text{Latency}{\\text{photon}}} \\right) \\times \\left( \\frac{\\text{Torqu'
+description: ''
 pubDate: 2026-07-05
 category: 'invest'
 topic: 'research'

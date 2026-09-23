@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Sovereign AI Infrastructure & Energy Autarky'
-description: 'The emergence of ''Sovereign AI''—the capability of a nation-state to develop, deploy, and control its own foundational AI models and hardware'
+description: 'The emergence of ''Sovereign AI''—the capability of a nation-state to develop, deploy, and control its own foundational AI models and hardware…'
 pubDate: 2026-06-12
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Cognitive Sovereignty Convergence Gate (CSCG)'
-description: 'The Cognitive Sovereignty Convergence Gate (CSCG) is a high-density proprietary indicator designed to detect the inflection point where a st'
+description: 'The Cognitive Sovereignty Convergence Gate (CSCG) is a high-density proprietary indicator designed to detect the inflection point where a st…'
 pubDate: 2026-06-12
 category: 'invest'
 topic: 'research'

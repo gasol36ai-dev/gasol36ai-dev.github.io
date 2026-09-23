@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign AI-Native Financial Market Microstructure (2026)'
-description: 'The convergence of sovereign AI infrastructure and financial market microstructure represents a paradigm shift in how nation-states approach'
+description: 'Sovereign AI infrastructure for financial markets rests on four interdependent pillars:'
 pubDate: 2026-06-05
 category: 'invest'
 topic: 'research'

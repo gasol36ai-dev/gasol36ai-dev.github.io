@@ -1,6 +1,6 @@
 ---
 title: 'Post-Quantum Financial Microstructure (2026)'
-description: 'The transition to Post-Quantum Cryptography (PQC) represents a fundamental shift in the technical substrate of global financial markets. Whi'
+description: 'The transition to Post-Quantum Cryptography (PQC) represents a fundamental shift in the technical substrate of global financial markets. Whi…'
 pubDate: 2026-06-06
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Neuromorphic-Liquidity Resonance (NLR) Gate'
-description: 'Identifies the convergence point where decentralized physical intelligence (Edge AI) meets high-speed liquid financial markets (RWA/DeFi). T'
+description: 'Identifies the convergence point where decentralized physical intelligence (Edge AI) meets high-speed liquid financial markets (RWA/DeFi). T…'
 pubDate: 2026-06-09
 category: 'invest'
 topic: 'research'

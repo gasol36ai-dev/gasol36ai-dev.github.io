@@ -1,6 +1,6 @@
 ---
 title: 'China Embodied AI Capital Surge & Robot Brain Race — 2026-08-11'
-description: 'H1 2026 marks a decisive capital-allocation pivot in China''s robotics sector: financing has shifted from hardware (the robot body) to "robot'
+description: 'H1 2026 marks a decisive capital-allocation pivot in China''s robotics sector: financing has shifted from hardware (the robot body) to "robot…'
 pubDate: 2026-08-11
 category: 'invest'
 topic: 'ai-robotics'

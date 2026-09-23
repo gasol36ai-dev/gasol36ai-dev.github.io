@@ -1,6 +1,6 @@
 ---
 title: 'Macro Intelligence Report - May 20, 2026'
-description: 'The global macro regime is currently characterized by Geopolitical Stagflationary Pressures and a Structural Breakdown in Traditional Asset '
+description: ''
 pubDate: 2026-05-20
 category: 'invest'
 topic: 'research'

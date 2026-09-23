@@ -1,6 +1,6 @@
 ---
 title: 'AI-Driven Liquidity Regime Shifts: Agentic Order Flow and Market Microstructure Transformation'
-description: 'The integration of Large Language Models (LLMs), agentic AI systems, and machine learning-driven execution into financial markets is fundame'
+description: 'The integration of Large Language Models (LLMs), agentic AI systems, and machine learning-driven execution into financial markets is fundame…'
 pubDate: 2026-06-13
 category: 'invest'
 topic: 'research'

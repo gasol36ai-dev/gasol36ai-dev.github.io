@@ -1,6 +1,6 @@
 ---
 title: 'RESEARCH SYNTHESIS: Agentic Swarms & Macro-Liquidity (2026)'
-description: 'In 2026, Algorithmic Coherence is defined as the emergent state where independent agentic swarms—despite differing underlying architectures—'
+description: 'In 2026, Algorithmic Coherence is defined as the emergent state where independent agentic swarms—despite differing underlying architectures—…'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'research'

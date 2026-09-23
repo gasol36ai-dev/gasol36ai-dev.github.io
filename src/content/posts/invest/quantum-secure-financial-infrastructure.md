@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Secure Sovereign Financial Infrastructure (QSSFI)'
-description: 'Quantum-Secure Sovereign Financial Infrastructure (QSSFI) refers to the architectural evolution of national monetary systems to withstand th'
+description: 'Quantum-Secure Sovereign Financial Infrastructure (QSSFI) refers to the architectural evolution of national monetary systems to withstand th…'
 pubDate: 2026-06-07
 category: 'invest'
 topic: 'research'

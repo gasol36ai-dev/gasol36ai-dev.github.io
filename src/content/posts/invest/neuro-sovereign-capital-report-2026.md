@@ -1,6 +1,6 @@
 ---
 title: 'STRATEGIC SYNTHESIS: Neuro-Sovereign Capital (NSC)'
-description: 'Neuro-Sovereign Capital (NSC) is the emergent economic paradigm where cognitive capacity, neural output, and intent-driven intelligence are '
+description: 'Neuro-Sovereign Capital (NSC) is the emergent economic paradigm where cognitive capacity, neural output, and intent-driven intelligence are …'
 pubDate: 2026-06-28
 category: 'invest'
 topic: 'ai-robotics'

@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Regime Transition Index (RTI)'
-description: 'The RTI is a proprietary Hermes judgment indicator designed to distinguish between simple mean-reversion signals and genuine market regime s'
+description: 'The RTI is a proprietary Hermes judgment indicator designed to distinguish between simple mean-reversion signals and genuine market regime s…'
 pubDate: 2026-04-28
 category: 'invest'
 topic: 'research'

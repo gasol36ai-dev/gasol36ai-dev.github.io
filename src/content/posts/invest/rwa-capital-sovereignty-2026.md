@@ -1,6 +1,6 @@
 ---
 title: 'RWA Tokenization & Decentralized Capital: 2025-2026 Breakthrough Report'
-description: 'The period of 2025-2026 marks the transition of Real World Asset (RWA) tokenization from "Proof of Concept" to "Systemic Integration." The p'
+description: 'The period of 2025-2026 marks the transition of Real World Asset (RWA) tokenization from "Proof of Concept" to "Systemic Integration." The p…'
 pubDate: 2026-06-17
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Bio-Quantum Neuro-Governance (BQNG) Nexus: Proprietary Judgment Indicator'
-description: 'The Bio-Quantum Neuro-Governance (BQNG) Nexus is a hyper-sovereign indicator designed to detect the convergence of biological, quantum, and '
+description: 'The Bio-Quantum Neuro-Governance (BQNG) Nexus is a hyper-sovereign indicator designed to detect the convergence of biological, quantum, and …'
 pubDate: 2026-07-01
 category: 'invest'
 topic: 'research'

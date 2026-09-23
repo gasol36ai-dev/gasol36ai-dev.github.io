@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: The Orbital-Bio-Governance (OBG) Gate'
-description: 'The OBG Gate identifies the inflection point where an entity achieves a "Closed-Loop Sovereign Cycle" across three disparate domains: Orbita'
+description: 'The OBG Gate identifies the inflection point where an entity achieves a "Closed-Loop Sovereign Cycle" across three disparate domains: Orbita…'
 pubDate: 2026-06-25
 category: 'invest'
 topic: 'research'

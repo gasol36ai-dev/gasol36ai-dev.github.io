@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Bio-Photonic-Kinetic (SBPK-2026) Convergence Indicator'
-description: 'The SBPK-2026 indicator identifies the emergence of a unified "Living Intelligence" architecture. This architecture converges three previous'
+description: 'The SBPK-2026 indicator identifies the emergence of a unified "Living Intelligence" architecture. This architecture converges three previous…'
 pubDate: 2026-07-11
 category: 'invest'
 topic: 'research'

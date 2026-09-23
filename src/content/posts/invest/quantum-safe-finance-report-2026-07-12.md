@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Quantum-Safe Macro-Financial Infrastructure (2026-07-12)'
-description: 'The arrival of Cryptographically Relevant Quantum Computers (CRQCs) creates a systemic "Cryptographic Breakpoint." For macro-finance, this i'
+description: 'The arrival of Cryptographically Relevant Quantum Computers (CRQCs) creates a systemic "Cryptographic Breakpoint." For macro-finance, this i…'
 pubDate: 2026-07-12
 category: 'invest'
 topic: 'research'

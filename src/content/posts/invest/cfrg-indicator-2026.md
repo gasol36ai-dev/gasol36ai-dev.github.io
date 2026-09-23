@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Judgment Indicator: Clustered Flow Regime Gate (CFRG)'
-description: 'The CFRG indicator is a next-generation execution filter that replaces raw LOB imbalance signals with intent-classified clustered flow, gate'
+description: 'The CFRG indicator is a next-generation execution filter that replaces raw LOB imbalance signals with intent-classified clustered flow, gate…'
 pubDate: 2026-05-26
 category: 'invest'
 topic: 'research'

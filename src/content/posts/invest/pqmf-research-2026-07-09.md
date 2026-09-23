@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Post-Quantum Macro-Financials (PQMF) Trends (2025-2026)'
-description: 'The 2025-2026 period marks the "Critical Migration Window." As NIST PQC standards move from specification to deep integration, the global fi'
+description: 'The 2025-2026 period marks the "Critical Migration Window." As NIST PQC standards move from specification to deep integration, the global fi…'
 pubDate: 2026-07-09
 category: 'invest'
 topic: 'research'

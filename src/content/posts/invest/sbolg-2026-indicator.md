@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Bio-Orbital Liquidity Gate (SBOLG-2026)'
-description: 'The Sovereign Bio-Orbital Liquidity Gate (SBOLG-2026) is a convergence indicator and execution mechanism that bridges biological existence w'
+description: 'The Sovereign Bio-Orbital Liquidity Gate (SBOLG-2026) is a convergence indicator and execution mechanism that bridges biological existence w…'
 pubDate: 2026-07-07
 category: 'invest'
 topic: 'research'

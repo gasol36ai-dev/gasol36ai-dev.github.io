@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: PQC Hardware Acceleration & Sovereign Encryption Mesh'
-description: 'The transition to Post-Quantum Cryptography (PQC) is shifting from algorithmic validation to hardware optimization. The primary bottleneck i'
+description: 'The transition to Post-Quantum Cryptography (PQC) is shifting from algorithmic validation to hardware optimization. The primary bottleneck i…'
 pubDate: 2026-06-27
 category: 'invest'
 topic: 'research'

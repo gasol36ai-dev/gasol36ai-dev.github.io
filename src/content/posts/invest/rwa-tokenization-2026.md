@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: RWA Tokenization & The DeFi Plumbing Revolution (2025-2026)'
-description: 'The "Financialization of Everything" has moved from speculative crypto-assets to the tokenization of Real-World Assets (RWAs). This transiti'
+description: 'The "Financialization of Everything" has moved from speculative crypto-assets to the tokenization of Real-World Assets (RWAs). This transiti…'
 pubDate: 2026-06-24
 category: 'invest'
 topic: 'research'

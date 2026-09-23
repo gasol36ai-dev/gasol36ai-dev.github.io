@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: The Quantum-Neuromorphic-Logistics (QNL) Convergence Gate (2026)'
-description: 'The Quantum-Neuromorphic-Logistics (QNL) Convergence Gate is a hyper-sovereign, triple-domain judgment indicator designed to detect the prec'
+description: 'The Quantum-Neuromorphic-Logistics (QNL) Convergence Gate is a hyper-sovereign, triple-domain judgment indicator designed to detect the prec…'
 pubDate: 2026-06-29
 category: 'invest'
 topic: 'research'

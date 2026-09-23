@@ -1,6 +1,6 @@
 ---
 title: 'The Compute Standard for Sovereign Assets'
-description: 'The "Compute Standard" represents a paradigm shift in monetary theory where sovereign value is decoupled from debt-based fiat systems and an'
+description: 'The "Compute Standard" represents a paradigm shift in monetary theory where sovereign value is decoupled from debt-based fiat systems and an…'
 pubDate: 2026-06-11
 category: 'invest'
 topic: 'research'

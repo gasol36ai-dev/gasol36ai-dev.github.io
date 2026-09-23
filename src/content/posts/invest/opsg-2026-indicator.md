@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Judgment Indicator: Omni-Presence Sovereignty Gate (OPSG-2026)'
-description: 'The Omni-Presence Sovereignty Gate (OPSG-2026) marks the transition from "Geographic Sovereignty" to "Existential Sovereignty." It identifie'
+description: 'The Omni-Presence Sovereignty Gate (OPSG-2026) marks the transition from "Geographic Sovereignty" to "Existential Sovereignty." It identifie…'
 pubDate: 2026-06-26
 category: 'invest'
 topic: 'research'

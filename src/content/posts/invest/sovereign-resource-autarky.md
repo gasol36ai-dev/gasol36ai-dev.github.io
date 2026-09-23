@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Resource Autarky (SRA): Critical Minerals & Mid-stream Processing'
-description: 'Sovereign Resource Autarky (SRA) is a strategic framework designed to eliminate systemic dependencies on external actors for the procurement'
+description: 'Sovereign Resource Autarky (SRA) is a strategic framework designed to eliminate systemic dependencies on external actors for the procurement…'
 pubDate: 2026-06-23
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Kinetic-Sovereignty Divergence Index (KSDI)'
-description: 'The KSDI measures the delta between the terrestrial concentration of critical mineral processing (Mid-Stream Vulnerability) and the technica'
+description: 'The KSDI measures the delta between the terrestrial concentration of critical mineral processing (Mid-Stream Vulnerability) and the technica…'
 pubDate: 2026-07-04
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Innovation Stack Gate (SISG)'
-description: 'The Sovereign Innovation Stack Gate (SISG) identifies the moment when a nation-state transitions from a participant in global supply chains '
+description: 'The Sovereign Innovation Stack Gate (SISG) identifies the moment when a nation-state transitions from a participant in global supply chains …'
 pubDate: 2026-06-03
 category: 'invest'
 topic: 'research'

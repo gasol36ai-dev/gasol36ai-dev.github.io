@@ -1,6 +1,6 @@
 ---
 title: 'Post-Quantum Cryptographic Financial Orchestration (PQC-FO)'
-description: 'Event: Arrival of a CRQC $\\rightarrow$ Mechanism: Shor''s Algorithm breaks RSA/ECC asymmetric keys $\\rightarrow$ Reaction: Instantaneous coll'
+description: 'The base layer of PQC-FO consists of Central Bank Digital Currencies leveraging PQC for core ledger integrity.'
 pubDate: 2026-06-08
 category: 'invest'
 topic: 'research'

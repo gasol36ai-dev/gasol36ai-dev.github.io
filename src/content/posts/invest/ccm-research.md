@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Cognitive Capital Markets (CCM)'
-description: 'Cognitive Capital Markets (CCM) represent the financialization of human and artificial intelligence. As traditional labor markets undergo st'
+description: 'Cognitive Capital Markets (CCM) represent the financialization of human and artificial intelligence. As traditional labor markets undergo st…'
 pubDate: 2026-06-15
 category: 'invest'
 topic: 'research'

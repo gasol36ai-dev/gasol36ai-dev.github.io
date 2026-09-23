@@ -1,6 +1,6 @@
 ---
 title: 'Microgrid Control Systems'
-description: 'A Microgrid Control System (MCS) is the "brain" of a localized energy grid. It manages the balance between energy production, storage, and c'
+description: 'A Microgrid Control System (MCS) is the "brain" of a localized energy grid. It manages the balance between energy production, storage, and c…'
 pubDate: 2026-07-13
 category: 'invest'
 topic: 'energy'

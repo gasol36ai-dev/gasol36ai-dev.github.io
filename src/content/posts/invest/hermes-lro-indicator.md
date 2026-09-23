@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Proprietary Logic: Liquidity-Regime Oscillator (LRO)'
-description: 'The LRO is a proprietary judgment filter designed to distinguish between "Efficient Discovery" and "Toxic Absorption" regimes. Most indicato'
+description: 'The LRO is a proprietary judgment filter designed to distinguish between "Efficient Discovery" and "Toxic Absorption" regimes. Most indicato…'
 pubDate: 2026-05-14
 category: 'invest'
 topic: 'research'

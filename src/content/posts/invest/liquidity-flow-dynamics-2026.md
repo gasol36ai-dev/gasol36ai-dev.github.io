@@ -1,6 +1,6 @@
 ---
 title: 'Liquidity Flow Dynamics 2026: Microstructure, Plumbing, and Generative Modeling'
-description: 'The landscape of market microstructure in 2026 is characterized by the convergence of high-frequency clustered flow, the recognition of syst'
+description: 'The landscape of market microstructure in 2026 is characterized by the convergence of high-frequency clustered flow, the recognition of syst…'
 pubDate: 2026-05-28
 category: 'invest'
 topic: 'research'

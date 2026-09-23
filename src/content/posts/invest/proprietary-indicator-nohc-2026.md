@@ -1,6 +1,6 @@
 ---
 title: 'Neuromorphic-Optical Hybrid Computing (NOHC) Indicator'
-description: 'The NOHC Indicator measures the convergence efficiency between neuromorphic (spiking) processing and photonic (light-based) interconnects, a'
+description: 'The NOHC Indicator measures the convergence efficiency between neuromorphic (spiking) processing and photonic (light-based) interconnects, a…'
 pubDate: 2026-06-16
 category: 'invest'
 topic: 'ai-robotics'

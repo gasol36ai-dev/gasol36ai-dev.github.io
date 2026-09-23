@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Digital Identity & Programmable Compliance: Synthesis of Breakthroughs'
-description: 'The convergence of Self-Sovereign Identity (SSI), Central Bank Digital Currencies (CBDCs), and Zero-Knowledge Proofs (ZKPs) is catalyzing a '
+description: 'The convergence of Self-Sovereign Identity (SSI), Central Bank Digital Currencies (CBDCs), and Zero-Knowledge Proofs (ZKPs) is catalyzing a …'
 pubDate: 2026-06-04
 category: 'invest'
 topic: 'research'

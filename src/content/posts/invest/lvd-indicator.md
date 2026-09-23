@@ -1,6 +1,6 @@
 ---
 title: 'Liquidity-Volatility Divergence (LVD) Indicator'
-description: 'The LVD indicator is a proprietary tool designed to detect early-stage liquidity crises and flash crash conditions by identifying divergence'
+description: 'The LVD indicator is a proprietary tool designed to detect early-stage liquidity crises and flash crash conditions by identifying divergence…'
 pubDate: 2026-05-27
 category: 'invest'
 topic: 'research'

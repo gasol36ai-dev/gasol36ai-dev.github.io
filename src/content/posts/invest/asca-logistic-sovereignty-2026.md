@@ -1,6 +1,6 @@
 ---
 title: 'Synthesis: Autonomous Supply Chain Autarky (ASCA) & AI-Driven Logistic Sovereignty'
-description: 'The convergence of Autonomous Supply Chain Autarky (ASCA) and AI-Driven Logistic Sovereignty represents a strategic shift from globalized, i'
+description: 'While traditional autonomy focuses on efficiency (reducing human intervention), sovereignty and autarky focus on control (reducing external …'
 pubDate: 2026-06-14
 category: 'invest'
 topic: 'research'

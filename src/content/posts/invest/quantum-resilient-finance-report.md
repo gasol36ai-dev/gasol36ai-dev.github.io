@@ -1,6 +1,6 @@
 ---
 title: 'Report: Synthesis of Quantum-Resilient Financial Infrastructure and Microstructure'
-description: 'The financial system faces a systemic risk from Cryptographically Relevant Quantum Computers (CRQCs), which threaten the asymmetric cryptogr'
+description: 'The financial system faces a systemic risk from Cryptographically Relevant Quantum Computers (CRQCs), which threaten the asymmetric cryptogr…'
 pubDate: 2026-06-27
 category: 'invest'
 topic: 'research'

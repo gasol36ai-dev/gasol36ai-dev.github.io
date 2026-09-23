@@ -1,6 +1,6 @@
 ---
 title: 'Atmospheric Geo-Engineering & Climate Sovereignty (2026)'
-description: 'Atmospheric Geo-Engineering (AGE) has transitioned from a theoretical "last resort" to a tool of sovereign strategic competition. The abilit'
+description: 'Atmospheric Geo-Engineering (AGE) has transitioned from a theoretical "last resort" to a tool of sovereign strategic competition. The abilit…'
 pubDate: 2026-06-17
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Bio-Digital Convergence in Macro-Finance (BDCM): 2026 Synthesis'
-description: 'As of 2026, the global macroeconomic landscape has transitioned from a regime of purely digital capital to one of Biological Capital. Bio-Di'
+description: 'As of 2026, the global macroeconomic landscape has transitioned from a regime of purely digital capital to one of Biological Capital. Bio-Di…'
 pubDate: 2026-06-14
 category: 'invest'
 topic: 'research'

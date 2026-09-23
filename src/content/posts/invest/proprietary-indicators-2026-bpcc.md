@@ -1,6 +1,6 @@
 ---
 title: 'Bio-Physical-Cognitive Convergence (BPCC) Gate'
-description: 'The BPCC Gate marks the transition from "Enhanced Humanity" to "Sovereign Biological Architecture." It occurs when the ability to secure phy'
+description: 'The BPCC Gate marks the transition from "Enhanced Humanity" to "Sovereign Biological Architecture." It occurs when the ability to secure phy…'
 pubDate: 2026-06-19
 category: 'invest'
 topic: 'research'

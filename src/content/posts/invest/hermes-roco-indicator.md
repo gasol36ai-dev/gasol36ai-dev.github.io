@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Proprietary Indicator: The "Regime-OrderFlow Convergence Oscillator" (ROCO)'
-description: 'Traditional Order Flow indicators (like Delta) are "blind" to the macro regime. A bullish Delta imbalance in a bearish macro regime is often'
+description: 'Traditional Order Flow indicators (like Delta) are "blind" to the macro regime. A bullish Delta imbalance in a bearish macro regime is often…'
 pubDate: 2026-05-05
 category: 'invest'
 topic: 'research'

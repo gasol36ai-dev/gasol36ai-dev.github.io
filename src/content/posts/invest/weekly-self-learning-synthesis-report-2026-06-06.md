@@ -1,6 +1,6 @@
 ---
 title: 'Weekly Self-Learning Synthesis Report (2026-06-06)'
-description: 'The past week of research has revealed a profound structural shift: the transition from "AI as a tool" to "AI as the Sovereign Economic Subs'
+description: 'The past week of research has revealed a profound structural shift: the transition from "AI as a tool" to "AI as the Sovereign Economic Subs…'
 pubDate: 2026-06-06
 category: 'invest'
 topic: 'research'

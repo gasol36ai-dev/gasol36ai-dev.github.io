@@ -1,6 +1,6 @@
 ---
 title: 'Evolutionary Volatility Divergence (EVD)'
-description: 'The Evolutionary Volatility Divergence (EVD) is a proprietary metric designed to measure the gap between expected market volatility (based o'
+description: 'The Evolutionary Volatility Divergence (EVD) is a proprietary metric designed to measure the gap between expected market volatility (based o…'
 pubDate: 2026-06-01
 category: 'invest'
 topic: 'research'

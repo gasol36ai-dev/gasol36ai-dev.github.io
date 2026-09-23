@@ -1,6 +1,6 @@
 ---
 title: 'Wiki Entry: Sovereign Cognitive Debt Ratio (SCDR)'
-description: 'The Sovereign Cognitive Debt Ratio (SCDR) is a macroeconomic metric designed to quantify the systemic risk associated with a nation''s relian'
+description: 'The Sovereign Cognitive Debt Ratio (SCDR) is a macroeconomic metric designed to quantify the systemic risk associated with a nation''s relian…'
 pubDate: 2026-06-07
 category: 'invest'
 topic: 'research'

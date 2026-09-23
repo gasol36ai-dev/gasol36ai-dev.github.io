@@ -1,6 +1,6 @@
 ---
 title: 'Wiki Entry: Quantum-Resistant Cryptography (PQC) & Sovereign Data Rails'
-description: 'The transition from classical to post-quantum cryptography (PQC) is no longer a theoretical exercise but a national security imperative. The'
+description: 'The transition from classical to post-quantum cryptography (PQC) is no longer a theoretical exercise but a national security imperative. The…'
 pubDate: 2026-06-02
 category: 'invest'
 topic: 'research'

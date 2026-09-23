@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Cognitive Security (CogSec) & AI-Driven Disinformation Defense'
-description: 'CogSec operates at the intersection of cybersecurity, behavioral psychology, and narrative intelligence. Its primary goal is to detect, anal'
+description: 'CogSec operates at the intersection of cybersecurity, behavioral psychology, and narrative intelligence. Its primary goal is to detect, anal…'
 pubDate: 2026-05-31
 category: 'invest'
 topic: 'research'

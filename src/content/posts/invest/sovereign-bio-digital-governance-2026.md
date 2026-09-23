@@ -1,6 +1,6 @@
 ---
 title: 'Technical Synthesis: Sovereign Bio-Digital Governance (SBDG)'
-description: 'Sovereign Bio-Digital Governance (SBDG) is the regulatory and technical framework by which nation-states manage the integration of biologica'
+description: 'Sovereign Bio-Digital Governance (SBDG) is the regulatory and technical framework by which nation-states manage the integration of biologica…'
 pubDate: 2026-06-12
 category: 'invest'
 topic: 'research'

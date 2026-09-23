@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: The Sovereign Cognition Gateway (SCG-2026)'
-description: 'The Sovereign Cognition Gateway (SCG) is a hyper-sovereign indicator designed to detect the emergence of a "Post-Grid Intelligence State"—an'
+description: 'The Sovereign Cognition Gateway (SCG) is a hyper-sovereign indicator designed to detect the emergence of a "Post-Grid Intelligence State"—an…'
 pubDate: 2026-06-23
 category: 'invest'
 topic: 'research'

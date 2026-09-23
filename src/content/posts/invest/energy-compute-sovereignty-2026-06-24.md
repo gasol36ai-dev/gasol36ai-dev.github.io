@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Energy-Compute Nexus (SECN) Report - 2026-06-24'
-description: 'The decoupling of compute capacity from centralized, macro-scale power grids is a prerequisite for sovereign intelligence. The SECN framewor'
+description: 'The decoupling of compute capacity from centralized, macro-scale power grids is a prerequisite for sovereign intelligence. The SECN framewor…'
 pubDate: 2026-06-24
 category: 'invest'
 topic: 'energy'

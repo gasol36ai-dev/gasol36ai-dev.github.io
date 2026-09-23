@@ -1,6 +1,6 @@
 ---
 title: 'Global Macro-Volatility & Transmission Mechanisms (2026 Synthesis)'
-description: 'As of 2026, global macro-volatility has transitioned from being primarily policy-driven (central bank pivots) to being technology-driven (AI'
+description: 'As of 2026, global macro-volatility has transitioned from being primarily policy-driven (central bank pivots) to being technology-driven (AI…'
 pubDate: 2026-06-15
 category: 'invest'
 topic: 'research'

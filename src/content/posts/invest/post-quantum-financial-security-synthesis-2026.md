@@ -1,6 +1,6 @@
 ---
 title: 'Post-Quantum Financial Security (PQFS): Synthesis 2026'
-description: 'Post-Quantum Financial Security (PQFS) represents the systemic transition of the global financial architecture to cryptographic standards re'
+description: 'Post-Quantum Financial Security (PQFS) represents the systemic transition of the global financial architecture to cryptographic standards re…'
 pubDate: 2026-06-12
 category: 'invest'
 topic: 'research'

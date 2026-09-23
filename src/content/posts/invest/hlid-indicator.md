@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Hermes Liquidity-Intent Divergence (HLID)'
-description: 'The HLID indicator is designed to detect "Institutional Traps" by correlating the structural void of the market with participant-type intent'
+description: 'The HLID indicator is designed to detect "Institutional Traps" by correlating the structural void of the market with participant-type intent…'
 pubDate: 2026-05-22
 category: 'invest'
 topic: 'research'

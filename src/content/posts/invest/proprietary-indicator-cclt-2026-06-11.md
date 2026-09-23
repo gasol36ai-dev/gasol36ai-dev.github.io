@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Cognitive Consensus Latency Threshold (CCLT)'
-description: 'The Cognitive Consensus Latency Threshold (CCLT) is a high-order judgment indicator designed to detect systemic instability in agentic econo'
+description: 'The Cognitive Consensus Latency Threshold (CCLT) is a high-order judgment indicator designed to detect systemic instability in agentic econo…'
 pubDate: 2026-06-11
 category: 'invest'
 topic: 'research'

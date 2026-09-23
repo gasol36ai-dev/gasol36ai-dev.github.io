@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Report: Critical Minerals Geopolitics (2025-2026)'
-description: 'The 2025-2026 period marks a transition from "Globalized Efficiency" to "Geopolitical Resilience." The critical minerals landscape has shift'
+description: 'The 2025-2026 period marks a transition from "Globalized Efficiency" to "Geopolitical Resilience." The critical minerals landscape has shift…'
 pubDate: 2026-06-24
 category: 'invest'
 topic: 'research'

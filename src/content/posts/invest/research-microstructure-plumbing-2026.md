@@ -1,6 +1,6 @@
 ---
 title: 'Market Microstructure Plumbing: The Substrate of Liquidity'
-description: 'Market microstructure refers to the granular mechanics of how trades are executed, how orders are matched, and how information is incorporat'
+description: 'Market microstructure refers to the granular mechanics of how trades are executed, how orders are matched, and how information is incorporat…'
 pubDate: 2026-06-05
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'NEoWave Theory'
-description: 'Developed by Glenn Neely, NEoWave is a highly structured, objective evolution of the Elliott Wave Principle. While traditional Elliott Wave '
+description: 'Developed by Glenn Neely, NEoWave is a highly structured, objective evolution of the Elliott Wave Principle. While traditional Elliott Wave …'
 pubDate: 2026-05-01
 category: 'invest'
 topic: 'research'

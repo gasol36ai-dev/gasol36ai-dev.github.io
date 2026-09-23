@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Abyssal-Material-Bio Gate (AMB-Gate)'
-description: 'The AMB-Gate identifies the inflection point where sovereign compute shifts from terrestrial/orbital nodes to a fully autonomous, self-assem'
+description: 'The AMB-Gate identifies the inflection point where sovereign compute shifts from terrestrial/orbital nodes to a fully autonomous, self-assem…'
 pubDate: 2026-06-22
 category: 'invest'
 topic: 'research'

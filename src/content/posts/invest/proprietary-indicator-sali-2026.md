@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Algorithmic Liquidity Inflection (SALI) (HPI-29)'
-description: 'Detects the inflection point where sovereign debt issuance transitions from manual, human-led policy to autonomous, agentic, RWA-based marke'
+description: 'Detects the inflection point where sovereign debt issuance transitions from manual, human-led policy to autonomous, agentic, RWA-based marke…'
 pubDate: 2026-06-06
 category: 'invest'
 topic: 'research'

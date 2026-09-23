@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Research: Cross-Border CBDC Liquidity Corridors (2026)'
-description: 'The transition from correspondent banking to multilateral Central Bank Digital Currency (mCBDC) liquidity corridors has fundamentally altere'
+description: 'The transition from correspondent banking to multilateral Central Bank Digital Currency (mCBDC) liquidity corridors has fundamentally altere…'
 pubDate: 2026-06-15
 category: 'invest'
 topic: 'research'

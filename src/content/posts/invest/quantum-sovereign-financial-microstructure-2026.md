@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Sovereign Financial Microstructure: Strategic Synthesis'
-description: 'The transition to a Quantum-Sovereign Financial Microstructure represents the shift from classical asymmetric encryption (RSA/ECC) to a hybr'
+description: 'The transition to a Quantum-Sovereign Financial Microstructure represents the shift from classical asymmetric encryption (RSA/ECC) to a hybr…'
 pubDate: 2026-06-22
 category: 'invest'
 topic: 'research'

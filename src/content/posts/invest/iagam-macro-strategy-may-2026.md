@@ -1,6 +1,6 @@
 ---
 title: 'IAGAM Macro Strategy: May-June 2026'
-description: 'In an environment characterized by Liquidity Mirages and Agentic Drift, the traditional "Buy the Dip" strategy is obsolete. The IAGAM (Integ'
+description: 'In an environment characterized by Liquidity Mirages and Agentic Drift, the traditional "Buy the Dip" strategy is obsolete. The IAGAM (Integ…'
 pubDate: 2026-06-07
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Bio-Digital Financial Microstructure (BDFM): A Framework for Biological Integration in Global Markets'
-description: 'Bio-Digital Financial Microstructure (BDFM) represents the convergence of synthetic biology, organoid intelligence (OI), and high-frequency '
+description: 'Bio-Digital Financial Microstructure (BDFM) represents the convergence of synthetic biology, organoid intelligence (OI), and high-frequency …'
 pubDate: 2026-06-30
 category: 'invest'
 topic: 'research'

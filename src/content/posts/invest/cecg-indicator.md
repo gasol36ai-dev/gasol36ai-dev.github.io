@@ -1,6 +1,6 @@
 ---
 title: 'Cognitive-Energetic-Capital Gate (CECG)'
-description: 'The CECG is a Convergent Gate that identifies the moment when three distinct sovereignty vectors—Cognitive Compute (Neuromorphic Physical AI'
+description: 'The CECG is a Convergent Gate that identifies the moment when three distinct sovereignty vectors—Cognitive Compute (Neuromorphic Physical AI…'
 pubDate: 2026-06-17
 category: 'invest'
 topic: 'research'

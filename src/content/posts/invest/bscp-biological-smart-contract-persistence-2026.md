@@ -1,6 +1,6 @@
 ---
 title: 'Synthesis Report: Biological Smart-Contract Persistence (BSCP)'
-description: 'The core of BSCP lies in the bidirectional mapping of information across disparate substrates. The "Transmission Map" defines the translatio'
+description: 'The core of BSCP lies in the bidirectional mapping of information across disparate substrates. The "Transmission Map" defines the translatio…'
 pubDate: 2026-06-12
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Bio-Neuromorphic Sovereign Liquidity Gate (BNSL-Gate)'
-description: 'The Bio-Neuromorphic Sovereign Liquidity Gate (BNSL-Gate) is a high-density proprietary judgment indicator that synthesizes three disparate '
+description: 'The Bio-Neuromorphic Sovereign Liquidity Gate (BNSL-Gate) is a high-density proprietary judgment indicator that synthesizes three disparate …'
 pubDate: 2026-06-14
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Neuro-Symbolic Macro-Governance (NSMG): Technical Framework'
-description: 'The NSMG technical framework provides the computational foundation for integrating deep learning with formal symbolic reasoning to govern co'
+description: 'The NSMG technical framework provides the computational foundation for integrating deep learning with formal symbolic reasoning to govern co…'
 pubDate: 2026-06-30
 category: 'invest'
 topic: 'research'

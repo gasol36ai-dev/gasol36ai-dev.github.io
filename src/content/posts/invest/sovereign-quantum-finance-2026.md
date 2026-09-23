@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Quantum Finance 2026: High-Density Synthesis'
-description: 'The transition to Sovereign Quantum Finance is no longer theoretical but an operational imperative driven by the "Harvest Now, Decrypt Later'
+description: 'The transition to Sovereign Quantum Finance is no longer theoretical but an operational imperative driven by the "Harvest Now, Decrypt Later…'
 pubDate: 2026-06-25
 category: 'invest'
 topic: 'research'

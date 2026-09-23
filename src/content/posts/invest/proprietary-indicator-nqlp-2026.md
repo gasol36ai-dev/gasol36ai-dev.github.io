@@ -1,6 +1,6 @@
 ---
 title: 'Neuro-Quantum Liquidity Pulse (NQLP)'
-description: 'The Neuro-Quantum Liquidity Pulse (NQLP) is a proprietary, high-order judgment indicator designed to detect systemic "phase transitions" in '
+description: 'The Neuro-Quantum Liquidity Pulse (NQLP) is a proprietary, high-order judgment indicator designed to detect systemic "phase transitions" in …'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'research'

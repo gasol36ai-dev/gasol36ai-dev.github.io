@@ -1,6 +1,6 @@
 ---
 title: 'Order Flow and Liquidity Trading (2026 Perspective)'
-description: 'Order Flow trading focuses on the actual buy and sell orders entering the market, rather than lagging indicators. In 2026, the focus has shi'
+description: 'Order Flow trading focuses on the actual buy and sell orders entering the market, rather than lagging indicators. In 2026, the focus has shi…'
 pubDate: 2026-04-30
 category: 'invest'
 topic: 'research'

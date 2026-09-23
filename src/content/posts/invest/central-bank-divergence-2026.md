@@ -1,6 +1,6 @@
 ---
 title: 'Central Bank Divergence 2026'
-description: 'In 2026, the global monetary landscape is characterized by a significant divergence in policy paths between the major central banks, breakin'
+description: 'In 2026, the global monetary landscape is characterized by a significant divergence in policy paths between the major central banks, breakin…'
 pubDate: 2026-04-26
 category: 'invest'
 topic: 'research'

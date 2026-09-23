@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Entropy-Intelligence Coefficient (EIC)'
-description: 'The Entropy-Intelligence Coefficient (EIC) is a strategic judgment indicator used to assess the viability and required autonomy level of dep'
+description: 'The Entropy-Intelligence Coefficient (EIC) is a strategic judgment indicator used to assess the viability and required autonomy level of dep…'
 pubDate: 2026-06-10
 category: 'invest'
 topic: 'research'

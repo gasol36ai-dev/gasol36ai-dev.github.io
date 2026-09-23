@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Proprietary Indicators: Macro-Flow Convergence (MFC)'
-description: 'Based on the observation that macroeconomic news often creates a "first-wave" price move, but the sustainability of that move is determined '
+description: 'Based on the observation that macroeconomic news often creates a "first-wave" price move, but the sustainability of that move is determined …'
 pubDate: 2026-05-17
 category: 'invest'
 topic: 'research'

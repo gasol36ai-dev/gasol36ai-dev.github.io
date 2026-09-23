@@ -1,6 +1,6 @@
 ---
 title: 'Generative Market Microstructure: The TradeFM Framework'
-description: 'The transition from traditional, asset-specific microstructure models to Generative Foundation Models for Trade-flow (TradeFM) represents a '
+description: 'The transition from traditional, asset-specific microstructure models to Generative Foundation Models for Trade-flow (TradeFM) represents a …'
 pubDate: 2026-06-29
 category: 'invest'
 topic: 'research'

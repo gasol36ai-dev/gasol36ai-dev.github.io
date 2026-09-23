@@ -1,6 +1,6 @@
 ---
 title: 'Bio-Orbital-Quantum (BOQ) Convergence Gate (BOQCG)'
-description: 'The Bio-Orbital-Quantum (BOQ) Convergence Gate (BOQCG) is a high-order proprietary judgment indicator designed to detect the emergence of Bi'
+description: 'The Bio-Orbital-Quantum (BOQ) Convergence Gate (BOQCG) is a high-order proprietary judgment indicator designed to detect the emergence of Bi…'
 pubDate: 2026-06-27
 category: 'invest'
 topic: 'research'

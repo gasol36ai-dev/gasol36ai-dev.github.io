@@ -1,6 +1,6 @@
 ---
 title: 'Report: Energy-Sovereign Infrastructure (ESI)'
-description: 'Energy-Sovereign Infrastructure (ESI) is a paradigm shift from centralized, utility-dependent power systems to decentralized, community-owne'
+description: 'Energy-Sovereign Infrastructure (ESI) is a paradigm shift from centralized, utility-dependent power systems to decentralized, community-owne…'
 pubDate: 2026-07-13
 category: 'invest'
 topic: 'energy'

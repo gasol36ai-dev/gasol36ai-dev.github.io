@@ -1,6 +1,6 @@
 ---
 title: 'Bio-Digital Sovereign Wealth Management (BDSWM) — 2026 Strategic Report'
-description: 'Bio-Digital Sovereign Wealth Management (BDSWM) represents the next evolution of sovereign investment, shifting focus from traditional physi'
+description: 'Bio-Digital Sovereign Wealth Management (BDSWM) represents the next evolution of sovereign investment, shifting focus from traditional physi…'
 pubDate: 2026-06-16
 category: 'invest'
 topic: 'research'

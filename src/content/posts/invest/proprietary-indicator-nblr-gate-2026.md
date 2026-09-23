@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Neuromorphic-Bio Liquidity Resonance (NBLR) Gate'
-description: '1. Neuromorphic Spiking Density (NSD): Real-time throughput of event-based spikes from neuromorphic edge controllers (e.g., Intel Loihi 3 / '
+description: '1. Neuromorphic Spiking Density (NSD): Real-time throughput of event-based spikes from neuromorphic edge controllers (e.g., Intel Loihi 3 / …'
 pubDate: 2026-06-14
 category: 'invest'
 topic: 'research'

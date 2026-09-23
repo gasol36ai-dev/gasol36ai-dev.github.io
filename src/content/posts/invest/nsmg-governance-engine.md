@@ -1,6 +1,6 @@
 ---
 title: 'Neuro-Symbolic Macro-Governance (NSMG): Governance Engine'
-description: 'The NSMG Governance Engine is the decision-making core of the macro-governance framework. It integrates neural-driven predictions with symbo'
+description: 'The NSMG Governance Engine is the decision-making core of the macro-governance framework. It integrates neural-driven predictions with symbo…'
 pubDate: 2026-06-30
 category: 'invest'
 topic: 'research'

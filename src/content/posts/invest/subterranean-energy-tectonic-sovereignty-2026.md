@@ -1,6 +1,6 @@
 ---
 title: 'Subterranean Energy & Tectonic Sovereignty (2026)'
-description: 'The convergence of deep-bore geothermal technology and tectonic resource extraction creates a new paradigm of "Sub-Surface Autarky." By acce'
+description: 'The convergence of deep-bore geothermal technology and tectonic resource extraction creates a new paradigm of "Sub-Surface Autarky." By acce…'
 pubDate: 2026-07-02
 category: 'invest'
 topic: 'energy'

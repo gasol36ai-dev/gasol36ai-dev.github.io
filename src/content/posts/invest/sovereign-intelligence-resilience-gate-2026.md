@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Intelligence Resilience (SIR) Gate'
-description: 'The Sovereign Intelligence Resilience (SIR) Gate is a high-density proprietary judgment indicator designed to evaluate the structural and co'
+description: 'The Sovereign Intelligence Resilience (SIR) Gate is a high-density proprietary judgment indicator designed to evaluate the structural and co…'
 pubDate: 2026-06-18
 category: 'invest'
 topic: 'research'

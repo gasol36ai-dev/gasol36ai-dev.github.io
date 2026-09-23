@@ -1,6 +1,6 @@
 ---
 title: 'Concept: Glass-CPO Foundation for Sovereign AI'
-description: 'The Glass-CPO Foundation is the architectural synthesis of Glass Substrates and Co-Packaged Optics (CPO). This foundation replaces the tradi'
+description: 'The Glass-CPO Foundation is the architectural synthesis of Glass Substrates and Co-Packaged Optics (CPO). This foundation replaces the tradi…'
 pubDate: 2026-07-15
 category: 'invest'
 topic: 'research'

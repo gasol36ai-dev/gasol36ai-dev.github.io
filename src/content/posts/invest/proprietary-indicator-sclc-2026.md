@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Cognitive-Logistics Convergence (SCLC) Gate'
-description: 'The Sovereign Cognitive-Logistics Convergence (SCLC) Gate is a high-order judgment indicator designed to detect the point of "Post-Labor Sov'
+description: 'The Sovereign Cognitive-Logistics Convergence (SCLC) Gate is a high-order judgment indicator designed to detect the point of "Post-Labor Sov…'
 pubDate: 2026-06-16
 category: 'invest'
 topic: 'research'

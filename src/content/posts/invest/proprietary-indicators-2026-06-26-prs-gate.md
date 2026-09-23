@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Programmable Resource Scarcity (PRS) Convergence Gate'
-description: 'The PRS-GATE-2026 indicator monitors the critical instability window created by the convergence of Atomically Precise Manufacturing (APM) an'
+description: 'The PRS-GATE-2026 indicator monitors the critical instability window created by the convergence of Atomically Precise Manufacturing (APM) an…'
 pubDate: 2026-06-26
 category: 'invest'
 topic: 'research'

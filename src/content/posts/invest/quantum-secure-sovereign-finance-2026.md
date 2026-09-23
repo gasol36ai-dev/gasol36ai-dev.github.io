@@ -1,6 +1,6 @@
 ---
 title: 'Technical Report: Quantum-Secure Sovereign Financial Infrastructure'
-description: 'The advent of cryptographically relevant quantum computers (CRQCs) poses an existential threat to the global financial order. Current sovere'
+description: 'The advent of cryptographically relevant quantum computers (CRQCs) poses an existential threat to the global financial order. Current sovere…'
 pubDate: 2026-06-13
 category: 'invest'
 topic: 'research'

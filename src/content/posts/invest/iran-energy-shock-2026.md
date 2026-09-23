@@ -1,6 +1,6 @@
 ---
 title: 'Iran Energy Shock 2026'
-description: 'The escalation of the Iran-Israel conflict in early 2026 triggered a severe global energy supply disruption, marking the most significant sh'
+description: 'The escalation of the Iran-Israel conflict in early 2026 triggered a severe global energy supply disruption, marking the most significant sh…'
 pubDate: 2026-05-01
 category: 'invest'
 topic: 'energy'

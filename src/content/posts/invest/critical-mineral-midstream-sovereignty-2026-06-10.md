@@ -1,6 +1,6 @@
 ---
 title: 'Critical Mineral Mid-Stream Sovereignty: The New Geopolitical Frontier (2026)'
-description: 'While historical geopolitical conflicts centered on the extraction of raw materials (up-stream sovereignty), the 21st-century strategic bott'
+description: 'While historical geopolitical conflicts centered on the extraction of raw materials (up-stream sovereignty), the 21st-century strategic bott…'
 pubDate: 2026-06-10
 category: 'invest'
 topic: 'research'

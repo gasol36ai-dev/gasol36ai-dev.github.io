@@ -1,6 +1,6 @@
 ---
 title: 'Carbon Markets & Climate Finance (2026)'
-description: 'Climate finance has transitioned from peripheral CSR activity to a core financial risk and asset management function. The market is defined '
+description: 'Climate finance has transitioned from peripheral CSR activity to a core financial risk and asset management function. The market is defined …'
 pubDate: 2026-05-29
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Market Microstructure — Fear Markets, POC Divergence & Structura Wave Engine'
-description: 'Three complementary microstructure frameworks synthesize into a unified model of fear-regime market behavior: Market Profile''s structural fo'
+description: 'Three complementary microstructure frameworks synthesize into a unified model of fear-regime market behavior: Market Profile''s structural fo…'
 pubDate: 2026-05-26
 category: 'invest'
 topic: 'research'

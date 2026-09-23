@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Debt Microstructure & Liquidity Cascades (2026)'
-description: 'Sovereign debt microstructure refers to the study of the specific mechanisms through which government bonds are traded, the formation of pri'
+description: 'Sovereign debt microstructure refers to the study of the specific mechanisms through which government bonds are traded, the formation of pri…'
 pubDate: 2026-05-31
 category: 'invest'
 topic: 'research'

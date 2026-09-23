@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Secured Macro-Financial Orchestration (QS-MFO) — 2026 Synthesis'
-description: 'Quantum-Secured Macro-Financial Orchestration (QS-MFO) is the systemic coordination of global liquidity across quantum-resistant infrastruct'
+description: 'Quantum-Secured Macro-Financial Orchestration (QS-MFO) is the systemic coordination of global liquidity across quantum-resistant infrastruct…'
 pubDate: 2026-06-16
 category: 'invest'
 topic: 'research'

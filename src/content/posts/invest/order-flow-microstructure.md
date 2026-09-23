@@ -1,6 +1,6 @@
 ---
 title: 'Order Flow and Market Microstructure (2026 Frontier)'
-description: 'Order flow trading analysis examines the real-time stream of buy and sell orders to reveal the buying and selling pressures that drive price'
+description: 'Order flow trading analysis examines the real-time stream of buy and sell orders to reveal the buying and selling pressures that drive price…'
 pubDate: 2026-05-15
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Synthesis Report: Post-Quantum Macro-Finance'
-description: 'The global financial architecture is entering a convergence regime where the fundamental nature of sovereign security (Quantum Resistance) a'
+description: 'The global financial architecture is entering a convergence regime where the fundamental nature of sovereign security (Quantum Resistance) a…'
 pubDate: 2026-07-12
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Digital Identity & Self-Sovereign Identity (SSI) Landscape (2025-2026)'
-description: 'As of 2026, Digital Identity has transitioned from a theoretical "Self-Sovereign" ideal to a pragmatic, regulatory-driven infrastructure. Th'
+description: 'As of 2026, Digital Identity has transitioned from a theoretical "Self-Sovereign" ideal to a pragmatic, regulatory-driven infrastructure. Th…'
 pubDate: 2026-06-02
 category: 'invest'
 topic: 'research'

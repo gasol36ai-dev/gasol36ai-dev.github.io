@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Agentic Liquidity-Spatial Resonance (ALSR)'
-description: 'The Agentic Liquidity-Spatial Resonance (ALSR) indicator detects a high-order convergence between Market Microstructure (Agentic Flow) and P'
+description: 'The Agentic Liquidity-Spatial Resonance (ALSR) indicator detects a high-order convergence between Market Microstructure (Agentic Flow) and P…'
 pubDate: 2026-06-03
 category: 'invest'
 topic: 'research'

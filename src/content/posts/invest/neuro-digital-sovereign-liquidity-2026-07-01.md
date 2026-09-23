@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Research: Neuro-Digital Sovereign Liquidity (NDSL)'
-description: 'Traditional digital finance is limited by the "Input Bottleneck" of manual interaction. NDSL bypasses this through BCI-enabled "Neural Trans'
+description: 'Traditional digital finance is limited by the "Input Bottleneck" of manual interaction. NDSL bypasses this through BCI-enabled "Neural Trans…'
 pubDate: 2026-07-01
 category: 'invest'
 topic: 'research'

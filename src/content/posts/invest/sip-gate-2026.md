@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Intelligence-Physicality (SIP) Gate'
-description: 'The Sovereign Intelligence-Physicality (SIP) Gate is a hyper-sovereign convergence indicator that measures the synchronized threshold crossi'
+description: 'The Sovereign Intelligence-Physicality (SIP) Gate is a hyper-sovereign convergence indicator that measures the synchronized threshold crossi…'
 pubDate: 2026-06-26
 category: 'invest'
 topic: 'research'

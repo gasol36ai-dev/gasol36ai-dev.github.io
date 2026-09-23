@@ -1,6 +1,6 @@
 ---
 title: 'Macro Economics Overview (May 2026)'
-description: 'The macroeconomic landscape in May 2026 is characterized by a shift from synchronized monetary policy to a regime of Central Bank Divergence'
+description: 'The macroeconomic landscape in May 2026 is characterized by a shift from synchronized monetary policy to a regime of Central Bank Divergence…'
 pubDate: 2026-05-01
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Quantum-Energy-Sovereignty Convergence (QESC / HPI-21)'
-description: 'The Quantum-Energy-Sovereignty Convergence (QESC) indicator detects the non-linear re-rating of a nation-state''s strategic value when it ach'
+description: 'The Quantum-Energy-Sovereignty Convergence (QESC) indicator detects the non-linear re-rating of a nation-state''s strategic value when it ach…'
 pubDate: 2026-06-01
 category: 'invest'
 topic: 'research'

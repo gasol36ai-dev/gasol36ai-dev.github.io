@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Regime-Filter (HRF)'
-description: 'The Hermes Regime-Filter (HRF) is a proprietary judgment indicator designed to filter high-frequency Order Flow signals using a macro-econom'
+description: 'The Hermes Regime-Filter (HRF) is a proprietary judgment indicator designed to filter high-frequency Order Flow signals using a macro-econom…'
 pubDate: 2026-05-01
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Macro-Economic Volatility & Liquidity: 2026 Synthesis'
-description: 'As of 2026, the global macroeconomic landscape is characterized by a shift from synchronized policy cycles to a regime of high fragmentation'
+description: 'As of 2026, the global macroeconomic landscape is characterized by a shift from synchronized policy cycles to a regime of high fragmentation…'
 pubDate: 2026-06-03
 category: 'invest'
 topic: 'research'

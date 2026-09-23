@@ -1,6 +1,6 @@
 ---
 title: 'Predictive Monetary Policy (PMP)'
-description: 'A monetary policy framework where AI models predict economic trends using high-frequency, multi-modal data streams and execute liquidity adj'
+description: 'A monetary policy framework where AI models predict economic trends using high-frequency, multi-modal data streams and execute liquidity adj…'
 pubDate: 2026-07-08
 category: 'invest'
 topic: 'research'

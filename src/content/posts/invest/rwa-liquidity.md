@@ -1,6 +1,6 @@
 ---
 title: 'Research Synthesis: RWA Liquidity & Institutional DeFi'
-description: 'Real World Asset (RWA) liquidity is the bridge between the $\\$300\\text{T}+$ traditional finance (TradFi) market and the efficiency of decent'
+description: 'The RWA ecosystem operates through a three-layer stack: Asset Origination, Tokenization Layer, and Liquidity Layer.'
 pubDate: 2026-06-19
 category: 'invest'
 topic: 'research'

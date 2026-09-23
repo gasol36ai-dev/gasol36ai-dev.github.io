@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Research Index - 2026-07-13'
-description: '1. Organoid Intelligence (OI) & Biological Computing $\\rightarrow$ Pending'
+description: ''
 pubDate: 2026-07-13
 category: 'invest'
 topic: 'research'

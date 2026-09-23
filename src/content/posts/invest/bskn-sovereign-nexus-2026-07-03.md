@@ -1,6 +1,6 @@
 ---
 title: 'PROPRIETARY INDICATOR: Bio-Sovereign Kinetic Nexus (BSKN-2026)'
-description: 'The Bio-Sovereign Kinetic Nexus (BSKN-2026) is a proprietary judgment indicator used to identify the inflection point where a Physical AI ag'
+description: 'The Bio-Sovereign Kinetic Nexus (BSKN-2026) is a proprietary judgment indicator used to identify the inflection point where a Physical AI ag…'
 pubDate: 2026-07-03
 category: 'invest'
 topic: 'ai-robotics'

@@ -1,6 +1,6 @@
 ---
 title: 'World Models & Spatial Intelligence'
-description: 'World Models are AI systems designed to simulate the physical environment, enabling agents to predict the evolution of a scene over time. Th'
+description: 'World Models are AI systems designed to simulate the physical environment, enabling agents to predict the evolution of a scene over time. Th…'
 pubDate: 2026-04-27
 category: 'invest'
 topic: 'ai-robotics'

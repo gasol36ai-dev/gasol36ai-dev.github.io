@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Research: Post-Quantum Sovereign Debt Rails (PQC-SDR)'
-description: 'The transition to Post-Quantum Sovereign Debt Rails (PQC-SDR) is the critical defensive layer for the global financial architecture. Soverei'
+description: 'The transition to Post-Quantum Sovereign Debt Rails (PQC-SDR) is the critical defensive layer for the global financial architecture. Soverei…'
 pubDate: 2026-07-01
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Quantum-Sovereign Divergence Gate (QSDG)'
-description: 'The Quantum-Sovereign Divergence Gate (QSDG) is a multi-domain judgment indicator designed to detect the non-linear inflection point where a'
+description: 'The Quantum-Sovereign Divergence Gate (QSDG) is a multi-domain judgment indicator designed to detect the non-linear inflection point where a…'
 pubDate: 2026-06-13
 category: 'invest'
 topic: 'research'

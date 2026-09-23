@@ -1,6 +1,6 @@
 ---
 title: 'Macro-to-Asset Transmission Library'
-description: 'This library documents the causal links between key macro variables and specific asset class reactions, used to power the Macro Judgment Bas'
+description: 'This library documents the causal links between key macro variables and specific asset class reactions, used to power the Macro Judgment Bas…'
 pubDate: 2026-05-21
 category: 'invest'
 topic: 'research'

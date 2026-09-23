@@ -1,6 +1,6 @@
 ---
 title: 'Concept: The Optical I/O Pivot (CPO)'
-description: 'AI cluster scaling is fundamentally a data-movement problem. The "Electrical Wall" occurs when the energy required to move a bit across a PC'
+description: 'AI cluster scaling is fundamentally a data-movement problem. The "Electrical Wall" occurs when the energy required to move a bit across a PC…'
 pubDate: 2026-07-09
 category: 'invest'
 topic: 'research'

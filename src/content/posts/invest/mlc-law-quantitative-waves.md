@@ -1,6 +1,6 @@
 ---
 title: 'MLC Law (Morphological Least-Cost Law)'
-description: 'The MLC Law, introduced in Zhu (2026), provides the first rigorous quantitative foundation for Elliott Wave Theory, moving it from subjectiv'
+description: 'The MLC Law, introduced in Zhu (2026), provides the first rigorous quantitative foundation for Elliott Wave Theory, moving it from subjectiv…'
 pubDate: 2026-05-04
 category: 'invest'
 topic: 'research'

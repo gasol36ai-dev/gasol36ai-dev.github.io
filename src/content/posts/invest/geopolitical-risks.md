@@ -1,6 +1,6 @@
 ---
 title: 'Geopolitical Risk Landscape 2026'
-description: 'Geopolitical fragmentation is no longer a peripheral risk but a core driver of macro volatility, supply chain reconfiguration, and the emerg'
+description: 'Geopolitical fragmentation is no longer a peripheral risk but a core driver of macro volatility, supply chain reconfiguration, and the emerg…'
 pubDate: 2026-06-01
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Compute & AI Infrastructure (2026 Geopolitics)'
-description: 'By 2026, the global geopolitical landscape has shifted from a struggle over territorial borders and energy resources to a struggle over "Com'
+description: 'By 2026, the global geopolitical landscape has shifted from a struggle over territorial borders and energy resources to a struggle over "Com…'
 pubDate: 2026-06-02
 category: 'invest'
 topic: 'research'

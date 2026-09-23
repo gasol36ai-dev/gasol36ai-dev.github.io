@@ -1,6 +1,6 @@
 ---
 title: 'Decentralized Physical Infrastructure Networks (DePIN) 2026'
-description: 'Decentralized Physical Infrastructure Networks (DePIN) represent a convergence of blockchain technology and real-world physical assets. Unli'
+description: 'Decentralized Physical Infrastructure Networks (DePIN) represent a convergence of blockchain technology and real-world physical assets. Unli…'
 pubDate: 2026-06-08
 category: 'invest'
 topic: 'research'

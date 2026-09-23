@@ -1,6 +1,6 @@
 ---
 title: 'Advanced Market Microstructure & Order Flow: TradeFM and Clustered Flow'
-description: 'Modern market microstructure has transitioned from predictive regression models to generative foundation models and agentic liquidity provid'
+description: 'Modern market microstructure has transitioned from predictive regression models to generative foundation models and agentic liquidity provid…'
 pubDate: 2026-06-03
 category: 'invest'
 topic: 'research'

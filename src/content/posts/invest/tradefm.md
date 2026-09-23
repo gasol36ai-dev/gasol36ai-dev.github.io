@@ -1,6 +1,6 @@
 ---
 title: 'TradeFM (Generative Foundation Model for Trade-flow)'
-description: 'TradeFM is a 524M-parameter generative Transformer designed to capture the universal dynamics of market microstructure by learning from bill'
+description: 'TradeFM is a 524M-parameter generative Transformer designed to capture the universal dynamics of market microstructure by learning from bill…'
 pubDate: 2026-05-23
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Post-Quantum Cryptography (PQC) Sovereign Debt'
-description: 'The advent of Cryptographically Relevant Quantum Computers (CRQC) poses an existential threat to the asymmetric encryption (RSA, ECC) that s'
+description: 'The advent of Cryptographically Relevant Quantum Computers (CRQC) poses an existential threat to the asymmetric encryption (RSA, ECC) that s…'
 pubDate: 2026-06-18
 category: 'invest'
 topic: 'research'

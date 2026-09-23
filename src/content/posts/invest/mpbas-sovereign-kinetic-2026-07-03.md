@@ -1,6 +1,6 @@
 ---
 title: 'RESEARCH REPORT: Molecular Protein-Based Actuators (MPBAs) for Sovereign Physical AI'
-description: 'This report synthesizes the architectural requirements and mechanistic foundations of Molecular Protein-Based Actuators (MPBAs) as the prima'
+description: 'This report synthesizes the architectural requirements and mechanistic foundations of Molecular Protein-Based Actuators (MPBAs) as the prima…'
 pubDate: 2026-07-03
 category: 'invest'
 topic: 'ai-robotics'

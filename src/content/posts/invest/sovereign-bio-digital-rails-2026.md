@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Bio-Digital Rails: Research Synthesis 2026'
-description: 'BDAT is the process of converting biological properties, capacities, and data into programmable, tradeable digital assets. This moves beyond'
+description: 'BDAT is the process of converting biological properties, capacities, and data into programmable, tradeable digital assets. This moves beyond…'
 pubDate: 2026-06-29
 category: 'invest'
 topic: 'research'

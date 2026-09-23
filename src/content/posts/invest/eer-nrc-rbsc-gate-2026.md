@@ -1,6 +1,6 @@
 ---
 title: 'The EER-NRC-RBSC Convergence Gate (The Autarky Trifecta)'
-description: 'The EER-NRC-RBSC Convergence Gate marks the transition to "Full-Stack Sovereign Autonomy." While previous indicators focused on specific dom'
+description: 'The EER-NRC-RBSC Convergence Gate marks the transition to "Full-Stack Sovereign Autonomy." While previous indicators focused on specific dom…'
 pubDate: 2026-07-02
 category: 'invest'
 topic: 'ai-robotics'

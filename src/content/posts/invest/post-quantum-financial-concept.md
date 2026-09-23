@@ -1,6 +1,6 @@
 ---
 title: 'Concept: Post-Quantum Financial Microstructure (PQFM)'
-description: '1. The Latency-Security Trade-off: PQC algorithms generally require larger keys and longer computation times for signatures/verification. In'
+description: '1. The Latency-Security Trade-off: PQC algorithms generally require larger keys and longer computation times for signatures/verification. In…'
 pubDate: 2026-07-10
 category: 'invest'
 topic: 'research'

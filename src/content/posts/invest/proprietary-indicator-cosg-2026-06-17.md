@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Cognitive-Orbital Synthesis Gate (COSG)'
-description: 'The Cognitive-Orbital Synthesis Gate (COSG) is a high-order judgment indicator designed to predict structural shifts in sovereign power when'
+description: 'The Cognitive-Orbital Synthesis Gate (COSG) is a high-order judgment indicator designed to predict structural shifts in sovereign power when…'
 pubDate: 2026-06-17
 category: 'invest'
 topic: 'research'

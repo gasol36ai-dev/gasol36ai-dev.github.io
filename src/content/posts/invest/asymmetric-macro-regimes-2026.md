@@ -1,6 +1,6 @@
 ---
 title: 'Asymmetric Macro Regimes & The Stagflationary Trap (2026)'
-description: 'The global macroeconomic environment is undergoing a structural shift characterized by an asymmetric reaction function from major central ba'
+description: 'The global macroeconomic environment is undergoing a structural shift characterized by an asymmetric reaction function from major central ba…'
 pubDate: 2026-06-11
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Judgment Indicator: Bio-Photonic Reflexive Autonomy (BPRA-2026)'
-description: 'The Bio-Photonic Reflexive Autonomy (BPRA-2026) indicator detects the critical inflection point where an autonomous agent (subsea, orbital, '
+description: 'The Bio-Photonic Reflexive Autonomy (BPRA-2026) indicator detects the critical inflection point where an autonomous agent (subsea, orbital, …'
 pubDate: 2026-07-13
 category: 'invest'
 topic: 'research'

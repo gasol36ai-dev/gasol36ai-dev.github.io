@@ -1,6 +1,6 @@
 ---
 title: 'Solar Radiation Management (SRM) & Commodity Macro-Volatility'
-description: 'Solar Radiation Management (SRM), specifically Stratospheric Aerosol Injection (SAI), represents a high-leverage climate intervention with t'
+description: 'Solar Radiation Management (SRM), specifically Stratospheric Aerosol Injection (SAI), represents a high-leverage climate intervention with t…'
 pubDate: 2026-05-30
 category: 'invest'
 topic: 'research'

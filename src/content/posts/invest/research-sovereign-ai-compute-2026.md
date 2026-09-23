@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign AI Compute Infrastructure (2026)'
-description: 'Sovereign AI Compute Infrastructure refers to the strategic deployment of AI compute facilities—including high-density GPU clusters, special'
+description: 'Sovereign AI Compute Infrastructure refers to the strategic deployment of AI compute facilities—including high-density GPU clusters, special…'
 pubDate: 2026-06-03
 category: 'invest'
 topic: 'research'

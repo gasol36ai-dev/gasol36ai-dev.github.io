@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: The Sovereign Bio-Kinetic Gate (SBK-GATE)'
-description: 'The Sovereign Bio-Kinetic Gate (SBK-GATE) is a hyper-sovereign convergence indicator that monitors the alignment of Neuro-Sovereign Capital '
+description: 'The Sovereign Bio-Kinetic Gate (SBK-GATE) is a hyper-sovereign convergence indicator that monitors the alignment of Neuro-Sovereign Capital …'
 pubDate: 2026-06-28
 category: 'invest'
 topic: 'research'

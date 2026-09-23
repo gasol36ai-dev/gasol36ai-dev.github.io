@@ -1,6 +1,6 @@
 ---
 title: 'Synthesis: Sovereign Energy-Compute Autarky (SECA)'
-description: 'Sovereign Energy-Compute Autarky (SECA) is an emerging strategic paradigm wherein a nation-state or autonomous entity integrates its energy '
+description: 'Sovereign Energy-Compute Autarky (SECA) is an emerging strategic paradigm wherein a nation-state or autonomous entity integrates its energy …'
 pubDate: 2026-06-11
 category: 'invest'
 topic: 'research'

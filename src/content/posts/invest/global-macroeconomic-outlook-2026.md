@@ -1,6 +1,6 @@
 ---
 title: 'Global Macroeconomic Outlook 2026'
-description: 'The global economy in 2026 is characterized by slowing growth, persistent inflationary pressures, geoeconomic fragmentation, and rising fina'
+description: 'The global economy in 2026 is characterized by slowing growth, persistent inflationary pressures, geoeconomic fragmentation, and rising fina…'
 pubDate: 2026-04-24
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Liquidity Pools for Critical Minerals Synthesis Report (2025-2026 Horizon)'
-description: 'The geopolitical landscape of 2025-2026 is defined by the "Mineral-Compute Nexus." As AI and advanced robotics scale, the demand for Rare Ea'
+description: 'The geopolitical landscape of 2025-2026 is defined by the "Mineral-Compute Nexus." As AI and advanced robotics scale, the demand for Rare Ea…'
 pubDate: 2026-06-24
 category: 'invest'
 topic: 'research'

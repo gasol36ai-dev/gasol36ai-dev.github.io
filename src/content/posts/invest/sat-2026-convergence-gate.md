@@ -1,6 +1,6 @@
 ---
 title: '🧠 Convergent Gate: The Sovereign Autonomy Trifecta (SAT-2026)'
-description: 'The Sovereign Autonomy Trifecta (SAT-2026) is a non-linear convergence indicator designed to detect the tipping point where a nation-state o'
+description: 'The Sovereign Autonomy Trifecta (SAT-2026) is a non-linear convergence indicator designed to detect the tipping point where a nation-state o…'
 pubDate: 2026-06-21
 category: 'invest'
 topic: 'research'

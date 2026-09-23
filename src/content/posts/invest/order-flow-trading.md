@@ -1,6 +1,6 @@
 ---
 title: 'Order Flow Trading'
-description: 'Order Flow analysis focuses on the micro-structure of the market, examining the actual buy and sell orders entering the limit order book (LO'
+description: 'Order Flow analysis focuses on the micro-structure of the market, examining the actual buy and sell orders entering the limit order book (LO…'
 pubDate: 2026-05-23
 category: 'invest'
 topic: 'research'

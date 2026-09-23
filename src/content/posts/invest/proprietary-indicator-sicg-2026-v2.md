@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Judgment Indicator: The Sovereign Intelligence Convergence Gate (SICG)'
-description: 'The Sovereign Intelligence Convergence Gate (SICG) is a high-order decision gate designed to detect the precise inflection point where a nat'
+description: 'The Sovereign Intelligence Convergence Gate (SICG) is a high-order decision gate designed to detect the precise inflection point where a nat…'
 pubDate: 2026-06-09
 category: 'invest'
 topic: 'research'

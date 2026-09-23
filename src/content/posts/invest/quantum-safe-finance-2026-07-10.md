@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Safe Finance: Sustaining & Security (2026)'
-description: 'The financial sector faces an existential threat from Cryptographically Relevant Quantum Computers (CRQC). The transition to Post-Quantum Cr'
+description: 'The financial sector faces an existential threat from Cryptographically Relevant Quantum Computers (CRQC). The transition to Post-Quantum Cr…'
 pubDate: 2026-07-10
 category: 'invest'
 topic: 'research'

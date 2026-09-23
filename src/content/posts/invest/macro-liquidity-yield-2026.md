@@ -1,6 +1,6 @@
 ---
 title: 'Macroeconomic Liquidity & Yield Divergence (2026 Outlook)'
-description: 'The macroeconomic landscape in 2026 is characterized by a growing divergence between traditional fixed-income yields and liquidity-driven co'
+description: 'The macroeconomic landscape in 2026 is characterized by a growing divergence between traditional fixed-income yields and liquidity-driven co…'
 pubDate: 2026-05-28
 category: 'invest'
 topic: 'research'

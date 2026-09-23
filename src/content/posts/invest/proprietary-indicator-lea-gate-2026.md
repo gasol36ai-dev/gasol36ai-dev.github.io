@@ -1,6 +1,6 @@
 ---
 title: 'Liquid-Energy-Agentic (LEA) Convergence Gate'
-description: 'The LEA Gate is a proprietary high-density judgment indicator that synthesizes breakthroughs in Liquid Neural Networks (LNNs), Ambient Energ'
+description: 'The LEA Gate is a proprietary high-density judgment indicator that synthesizes breakthroughs in Liquid Neural Networks (LNNs), Ambient Energ…'
 pubDate: 2026-06-22
 category: 'invest'
 topic: 'research'

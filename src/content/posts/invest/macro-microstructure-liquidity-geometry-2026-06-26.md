@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Macro-Microstructure Liquidity Geometry'
-description: 'The traditional separation between "Macro" (interest rates, GDP, fiscal policy) and "Microstructure" (order books, liquidity, spreads) is co'
+description: 'The traditional separation between "Macro" (interest rates, GDP, fiscal policy) and "Microstructure" (order books, liquidity, spreads) is co…'
 pubDate: 2026-06-26
 category: 'invest'
 topic: 'research'

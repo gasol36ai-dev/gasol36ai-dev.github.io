@@ -1,6 +1,6 @@
 ---
 title: 'Concept: Bio-Digital Sovereignty'
-description: 'Bio-Digital Sovereignty is the principle of absolute individual and collective ownership over the biological data streams (neural, genomic, '
+description: 'Bio-Digital Sovereignty is the principle of absolute individual and collective ownership over the biological data streams (neural, genomic, …'
 pubDate: 2026-07-09
 category: 'invest'
 topic: 'research'

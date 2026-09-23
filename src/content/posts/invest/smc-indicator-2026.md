@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Spatial-Macro Convergence (SMC) Indicator'
-description: 'The Spatial-Macro Convergence (SMC) Indicator is a high-order decision gate designed to predict non-linear regime shifts in physical-commodi'
+description: 'The Spatial-Macro Convergence (SMC) Indicator is a high-order decision gate designed to predict non-linear regime shifts in physical-commodi…'
 pubDate: 2026-06-08
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Neuro-Kinetic Sovereignty (NKS) Gate'
-description: 'The Neuro-Kinetic Sovereignty (NKS) Gate is a composite indicator designed to detect the convergence of cognitive market instability and the'
+description: 'The Neuro-Kinetic Sovereignty (NKS) Gate is a composite indicator designed to detect the convergence of cognitive market instability and the…'
 pubDate: 2026-06-25
 category: 'invest'
 topic: 'research'

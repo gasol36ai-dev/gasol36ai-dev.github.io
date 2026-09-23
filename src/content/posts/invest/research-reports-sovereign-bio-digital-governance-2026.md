@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Synthesis Report: Sovereign Bio-Digital Governance (2026)'
-description: 'Sovereign Bio-Digital Governance (SBDG) represents the emerging regulatory and technical framework managing the intersection of domestic syn'
+description: 'Sovereign Bio-Digital Governance (SBDG) represents the emerging regulatory and technical framework managing the intersection of domestic syn…'
 pubDate: 2026-06-26
 category: 'invest'
 topic: 'research'

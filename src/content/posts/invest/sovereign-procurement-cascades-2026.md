@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Cross-Layer Sovereign Procurement Cascades (2026)'
-description: 'The shift is characterized by a move from Just-in-Time market efficiency to Just-in-Case sovereign resilience. Governments are now treating '
+description: 'The shift is characterized by a move from Just-in-Time market efficiency to Just-in-Case sovereign resilience. Governments are now treating …'
 pubDate: 2026-06-14
 category: 'invest'
 topic: 'research'

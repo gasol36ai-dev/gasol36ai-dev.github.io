@@ -1,6 +1,6 @@
 ---
 title: 'Climate-Adaptive Infrastructure & Sovereign Energy Modeling (2025-2026)'
-description: 'The convergence of AI foundation models and climate science has produced a step-function improvement in the precision and granularity of cli'
+description: 'The convergence of AI foundation models and climate science has produced a step-function improvement in the precision and granularity of cli…'
 pubDate: 2026-06-15
 category: 'invest'
 topic: 'research'

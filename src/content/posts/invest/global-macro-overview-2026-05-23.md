@@ -1,6 +1,6 @@
 ---
 title: 'Global Macro Overview (2026-05-23)'
-description: 'The global macroeconomic landscape is currently dominated by a "Geopolitical-Energy Shock" regime, primarily driven by conflicts in the Midd'
+description: 'The global macroeconomic landscape is currently dominated by a "Geopolitical-Energy Shock" regime, primarily driven by conflicts in the Midd…'
 pubDate: 2026-05-23
 category: 'invest'
 topic: 'research'

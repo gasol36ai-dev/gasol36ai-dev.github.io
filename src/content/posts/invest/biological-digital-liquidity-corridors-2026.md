@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Biological-Digital Liquidity Corridors'
-description: 'Traditional synthetic biology funding is characterized by "lumpy" liquidity—massive infusions of VC capital followed by long periods of illi'
+description: 'Traditional synthetic biology funding is characterized by "lumpy" liquidity—massive infusions of VC capital followed by long periods of illi…'
 pubDate: 2026-06-17
 category: 'invest'
 topic: 'research'

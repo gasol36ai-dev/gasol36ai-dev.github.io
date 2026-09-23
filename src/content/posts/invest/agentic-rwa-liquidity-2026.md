@@ -1,6 +1,6 @@
 ---
 title: 'Agentic RWA Liquidity Oracles & Synthetic Assets'
-description: 'In agent-driven economies, AI agents operate at "machine speed" (millisecond execution), while Real-World Assets (RWAs)—such as real estate,'
+description: 'In agent-driven economies, AI agents operate at "machine speed" (millisecond execution), while Real-World Assets (RWAs)—such as real estate,…'
 pubDate: 2026-06-22
 category: 'invest'
 topic: 'research'

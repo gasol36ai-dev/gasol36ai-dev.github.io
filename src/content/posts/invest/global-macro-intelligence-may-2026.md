@@ -1,6 +1,6 @@
 ---
 title: 'Macro Intelligence Report - May 2026'
-description: 'The macro regime has shifted to a Geopolitical-Inflationary Shock phase. The "Bright Spot at neutral" framing has collapsed, replaced by a s'
+description: 'The macro regime has shifted to a Geopolitical-Inflationary Shock phase. The "Bright Spot at neutral" framing has collapsed, replaced by a s…'
 pubDate: 2026-05-19
 category: 'invest'
 topic: 'research'

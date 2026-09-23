@@ -1,6 +1,6 @@
 ---
 title: 'Geopolitical Risk: Iran-Israel Conflict (2026)'
-description: 'The escalation of conflict in early 2026 represents a watershed event in global economics, primarily through the disruption of energy suppli'
+description: 'The escalation of conflict in early 2026 represents a watershed event in global economics, primarily through the disruption of energy suppli…'
 pubDate: 2026-04-30
 category: 'invest'
 topic: 'research'

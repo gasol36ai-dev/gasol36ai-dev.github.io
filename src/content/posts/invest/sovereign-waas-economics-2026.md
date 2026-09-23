@@ -1,6 +1,6 @@
 ---
 title: 'RESEARCH SYNTHESIS: Sovereign Wetware-as-a-Service (WaaS) Economic & Legal Framework (2026)'
-description: 'WaaS represents the transition of biological computation from laboratory curiosity to a strategic state asset. Sovereign WaaS is the nationa'
+description: 'WaaS represents the transition of biological computation from laboratory curiosity to a strategic state asset. Sovereign WaaS is the nationa…'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Financial Cryptography & Post-Quantum Trading Infrastructure'
-description: 'The advent of cryptographically relevant quantum computers (CRQCs) poses an existential threat to current financial market security, specifi'
+description: 'The advent of cryptographically relevant quantum computers (CRQCs) poses an existential threat to current financial market security, specifi…'
 pubDate: 2026-06-17
 category: 'invest'
 topic: 'research'

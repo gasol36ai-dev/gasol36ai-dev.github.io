@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Resistant Sovereign Digital Rails (QRSR)'
-description: 'Quantum-Resistant Sovereign Digital Rails (QRSR) refer to the foundational technological infrastructure used by nation-states to transmit di'
+description: 'Quantum-Resistant Sovereign Digital Rails (QRSR) refer to the foundational technological infrastructure used by nation-states to transmit di…'
 pubDate: 2026-06-03
 category: 'invest'
 topic: 'research'

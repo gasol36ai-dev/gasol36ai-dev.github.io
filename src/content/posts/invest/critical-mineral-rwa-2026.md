@@ -1,6 +1,6 @@
 ---
 title: 'Technical Synthesis: Critical Mineral RWA (CMRWA) and Sovereign Supply Chain Finance'
-description: 'The Critical Mineral Real-World Asset (CMRWA) framework proposes the transformation of sovereign mineral reserves (Lithium, Cobalt, Rare Ear'
+description: 'The CMRWA model employs a tiered tokenization structure. Reserves are not tokenized as a single block but as "Reserve Tranches" based on pro…'
 pubDate: 2026-07-01
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Bio-Orbital Convergence Gate (BOCG-2026)'
-description: 'The Bio-Orbital Convergence Gate (BOCG) is a triple-domain convergence indicator that identifies the emergence of a "Distributed Sovereign C'
+description: 'The Bio-Orbital Convergence Gate (BOCG) is a triple-domain convergence indicator that identifies the emergence of a "Distributed Sovereign C…'
 pubDate: 2026-06-22
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Concept Pointer: PQC-Sovereign Control Loop'
-description: 'Sovereign Physical AI is only as sovereign as its lowest-level cryptographic primitive. If the control signal from the AI "Brain" to the phy'
+description: 'Sovereign Physical AI is only as sovereign as its lowest-level cryptographic primitive. If the control signal from the AI "Brain" to the phy…'
 pubDate: 2026-07-13
 category: 'invest'
 topic: 'research'

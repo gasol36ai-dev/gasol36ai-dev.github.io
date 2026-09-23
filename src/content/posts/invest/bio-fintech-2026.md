@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Bio-Synthetic Financial Markets (2026)'
-description: 'The emergence of Bio-Synthetic Financial Markets represents a paradigm shift from silicon-centric finance to a hybrid "Wetware-Linked" econo'
+description: 'The emergence of Bio-Synthetic Financial Markets represents a paradigm shift from silicon-centric finance to a hybrid "Wetware-Linked" econo…'
 pubDate: 2026-07-11
 category: 'invest'
 topic: 'research'

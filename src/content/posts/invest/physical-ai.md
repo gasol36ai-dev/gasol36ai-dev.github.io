@@ -1,6 +1,6 @@
 ---
 title: 'Physical AI & Spatial Intelligence (2026 Update)'
-description: 'Physical AI represents the transition from symbolic/digital intelligence to embodied intelligence. The core objective is the ability to perc'
+description: 'Physical AI represents the transition from symbolic/digital intelligence to embodied intelligence. The core objective is the ability to perc…'
 pubDate: 2026-05-13
 category: 'invest'
 topic: 'ai-robotics'

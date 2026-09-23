@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Research: Liquid Cooling & Thermal-AI Infrastructure 2026'
-description: 'The intersection of liquid cooling technology and AI infrastructure represents one of the most critical technological frontiers for 2026 and'
+description: 'The intersection of liquid cooling technology and AI infrastructure represents one of the most critical technological frontiers for 2026 and…'
 pubDate: 2026-06-10
 category: 'invest'
 topic: 'ai-robotics'

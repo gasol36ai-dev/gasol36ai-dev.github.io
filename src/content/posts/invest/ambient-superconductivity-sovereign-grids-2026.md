@@ -1,6 +1,6 @@
 ---
 title: 'Synthesis Report: Ambient Superconductivity & Sovereign Energy Grids'
-description: 'The realization of ambient (room-temperature and pressure) superconductivity represents a "black swan" event for global energy architecture.'
+description: 'The realization of ambient (room-temperature and pressure) superconductivity represents a "black swan" event for global energy architecture.…'
 pubDate: 2026-06-24
 category: 'invest'
 topic: 'research'

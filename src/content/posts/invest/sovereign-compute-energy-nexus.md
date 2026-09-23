@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Compute-Energy Nexus'
-description: 'The Sovereign Compute-Energy Nexus represents the critical interdependence between a nation''s (or entity''s) ability to maintain independent,'
+description: 'The Sovereign Compute-Energy Nexus represents the critical interdependence between a nation''s (or entity''s) ability to maintain independent,…'
 pubDate: 2026-06-05
 category: 'invest'
 topic: 'research'

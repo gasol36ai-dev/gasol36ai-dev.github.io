@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Liquidity-Sovereignty Convergence (SLSC)'
-description: 'Synthesizing the current trend of "Sovereign Liquidity" (the ability of a state to maintain funding in a fragmented global system) with the '
+description: 'Synthesizing the current trend of "Sovereign Liquidity" (the ability of a state to maintain funding in a fragmented global system) with the …'
 pubDate: 2026-06-16
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: The Material-Quantum Sovereignty Gate (MQ-Sovereignty)'
-description: 'The Material-Quantum Sovereignty Gate is a hyper-sovereign indicator designed to detect the inflection point where compute is no longer a le'
+description: 'The Material-Quantum Sovereignty Gate is a hyper-sovereign indicator designed to detect the inflection point where compute is no longer a le…'
 pubDate: 2026-07-03
 category: 'invest'
 topic: 'research'

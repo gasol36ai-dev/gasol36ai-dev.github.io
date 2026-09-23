@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Resilient Privacy Ledger (QRPL)'
-description: 'The Quantum-Resilient Privacy Ledger (QRPL) is a high-integrity, token-based digital currency architecture designed to serve as the foundati'
+description: 'The Quantum-Resilient Privacy Ledger (QRPL) is a high-integrity, token-based digital currency architecture designed to serve as the foundati…'
 pubDate: 2026-07-12
 category: 'invest'
 topic: 'research'

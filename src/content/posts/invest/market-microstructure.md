@@ -1,6 +1,6 @@
 ---
 title: 'Market Microstructure & Order Flow'
-description: 'Market Microstructure is the study of the mechanics behind price movements—specifically how volume, aggressive orders, and institutional act'
+description: 'Market Microstructure is the study of the mechanics behind price movements—specifically how volume, aggressive orders, and institutional act…'
 pubDate: 2026-04-29
 category: 'invest'
 topic: 'research'

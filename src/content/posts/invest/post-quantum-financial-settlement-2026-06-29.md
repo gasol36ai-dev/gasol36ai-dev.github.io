@@ -1,6 +1,6 @@
 ---
 title: 'Post-Quantum Financial Settlement: 2026 Synthesis'
-description: 'As the global financial architecture transitions to Post-Quantum Sovereign Financial Rails (PQ-SFR), the critical challenge shifts from mere'
+description: 'As the global financial architecture transitions to Post-Quantum Sovereign Financial Rails (PQ-SFR), the critical challenge shifts from mere…'
 pubDate: 2026-06-29
 category: 'invest'
 topic: 'research'

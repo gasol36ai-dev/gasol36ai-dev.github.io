@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Post-Quantum Financial Microstructure (PQC-FM)'
-description: 'The transition to Post-Quantum Cryptography (PQC) represents a systemic necessity for the global financial microstructure. The "Store Now, D'
+description: 'The transition to Post-Quantum Cryptography (PQC) represents a systemic necessity for the global financial microstructure. The "Store Now, D…'
 pubDate: 2026-06-15
 category: 'invest'
 topic: 'research'

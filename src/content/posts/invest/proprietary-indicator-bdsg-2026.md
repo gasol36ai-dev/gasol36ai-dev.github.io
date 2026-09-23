@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Bio-Digital Synchrony Gate (BDSG)'
-description: 'The Bio-Digital Synchrony Gate (BDSG) is a hyper-sovereign convergence indicator that measures the alignment and integration of three distin'
+description: 'The Bio-Digital Synchrony Gate (BDSG) is a hyper-sovereign convergence indicator that measures the alignment and integration of three distin…'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'research'

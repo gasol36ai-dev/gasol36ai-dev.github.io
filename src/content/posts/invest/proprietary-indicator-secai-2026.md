@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Energy-Compute Autarky Index (SECAI)'
-description: 'The SECAI measures a nation-state or large-scale enterprise''s ability to maintain autonomous, high-density computational intelligence withou'
+description: 'The SECAI measures a nation-state or large-scale enterprise''s ability to maintain autonomous, high-density computational intelligence withou…'
 pubDate: 2026-06-04
 category: 'invest'
 topic: 'research'

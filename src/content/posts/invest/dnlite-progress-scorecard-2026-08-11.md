@@ -1,6 +1,6 @@
 ---
 title: '🧬 DNlite Progress Scorecard — August 11, 2026'
-description: 'As of August 11, 2026 (Tuesday), DNlite monitoring detects significant new developments not captured in the August 10 baseline. The most mat'
+description: 'As of August 11, 2026 (Tuesday), DNlite monitoring detects significant new developments not captured in the August 10 baseline. The most mat…'
 pubDate: 2026-08-11
 category: 'invest'
 topic: 'research'

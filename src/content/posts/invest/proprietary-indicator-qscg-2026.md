@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Q-Sovereign Convergence Gate (QSCG) — 2026'
-description: 'The Q-Sovereign Convergence Gate (QSCG) is a hyper-sovereign decision metric designed to detect the non-linear transition of a state from a '
+description: 'The Q-Sovereign Convergence Gate (QSCG) is a hyper-sovereign decision metric designed to detect the non-linear transition of a state from a …'
 pubDate: 2026-06-15
 category: 'invest'
 topic: 'research'

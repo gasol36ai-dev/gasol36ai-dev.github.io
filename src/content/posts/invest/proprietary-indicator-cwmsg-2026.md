@@ -1,6 +1,6 @@
 ---
 title: 'Cognitive Wetware-Mesh Sovereignty Gate (CWMSG): HPI-43'
-description: 'The Cognitive Wetware-Mesh Sovereignty Gate (CWMSG) defines the conditions for a nation-state to achieve "Full-Stack Cognitive Sovereignty"—'
+description: 'The Cognitive Wetware-Mesh Sovereignty Gate (CWMSG) defines the conditions for a nation-state to achieve "Full-Stack Cognitive Sovereignty"—…'
 pubDate: 2026-06-17
 category: 'invest'
 topic: 'research'

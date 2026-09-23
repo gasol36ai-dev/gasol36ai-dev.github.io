@@ -1,6 +1,6 @@
 ---
 title: 'Market Profile (TPO)'
-description: 'Market Profile, or Time Price Opportunity (TPO), organizes price data by time and volume to reveal the "Auction Market Theory" (AMT) in acti'
+description: 'Market Profile, or Time Price Opportunity (TPO), organizes price data by time and volume to reveal the "Auction Market Theory" (AMT) in acti…'
 pubDate: 2026-05-01
 category: 'invest'
 topic: 'research'

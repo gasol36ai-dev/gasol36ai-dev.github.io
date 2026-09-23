@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Hermes Regime-Flow Filter (HRFF)'
-description: 'The HRFF is a proprietary logic gate designed to filter out "False Breakouts" by correlating Micro-Order Flow (LOB) with Macro-Volatility Re'
+description: 'The HRFF is a proprietary logic gate designed to filter out "False Breakouts" by correlating Micro-Order Flow (LOB) with Macro-Volatility Re…'
 pubDate: 2026-05-16
 category: 'invest'
 topic: 'research'

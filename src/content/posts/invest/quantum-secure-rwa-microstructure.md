@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Secure RWA Microstructure: QRL, RWA Tokenization, and High-Frequency Liquidity Flows'
-description: 'Quantum-Secure RWA Microstructure (QSRM) is the architectural framework for the tokenization of Real-World Assets (RWAs)—such as real estate'
+description: 'Quantum-Secure RWA Microstructure (QSRM) is the architectural framework for the tokenization of Real-World Assets (RWAs)—such as real estate…'
 pubDate: 2026-06-23
 category: 'invest'
 topic: 'research'

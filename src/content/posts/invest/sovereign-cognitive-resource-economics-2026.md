@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Cognitive Resource Economics (SCRE)'
-description: 'Sovereign Cognitive Resource Economics (SCRE) is a theoretical framework analyzing the transition of intelligence from a distributed human t'
+description: 'Sovereign Cognitive Resource Economics (SCRE) is a theoretical framework analyzing the transition of intelligence from a distributed human t…'
 pubDate: 2026-06-11
 category: 'invest'
 topic: 'research'

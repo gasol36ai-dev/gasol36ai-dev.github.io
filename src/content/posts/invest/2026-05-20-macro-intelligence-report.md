@@ -1,6 +1,6 @@
 ---
 title: 'Macro Intelligence Report - 2026-05-20'
-description: 'The global macroeconomic environment remains dominated by the ongoing geopolitical instability in the Middle East, which has introduced sign'
+description: 'The global macroeconomic environment remains dominated by the ongoing geopolitical instability in the Middle East, which has introduced sign…'
 pubDate: 2026-05-20
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Orbital-Industrial Convergence (OIC) Indicator'
-description: 'The OIC Indicator identifies the inflection point where the economic advantage of microgravity-enabled manufacturing (Space-for-Earth) overc'
+description: 'The OIC Indicator identifies the inflection point where the economic advantage of microgravity-enabled manufacturing (Space-for-Earth) overc…'
 pubDate: 2026-05-31
 category: 'invest'
 topic: 'research'

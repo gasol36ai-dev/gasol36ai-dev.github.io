@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Post-Quantum Financial Microstructure and Sovereign Stability'
-description: 'The transition to Post-Quantum Cryptography (PQC) is not a transparent software update but a structural shift in financial market microstruc'
+description: 'The transition to Post-Quantum Cryptography (PQC) is not a transparent software update but a structural shift in financial market microstruc…'
 pubDate: 2026-07-10
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'The Convergence-Divergence Lock (CDL)'
-description: 'Traditional technical analysis fails because it looks at indicators in a vacuum. The CDL is a proprietary logic gate that filters micro-sign'
+description: 'Traditional technical analysis fails because it looks at indicators in a vacuum. The CDL is a proprietary logic gate that filters micro-sign…'
 pubDate: 2026-05-21
 category: 'invest'
 topic: 'research'

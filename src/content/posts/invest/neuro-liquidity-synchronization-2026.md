@@ -1,6 +1,6 @@
 ---
 title: 'Neuro-Liquidity Synchronization (NLS)'
-description: 'Neuro-Liquidity Synchronization (NLS) represents a paradigm shift in the management of sovereign debt markets, moving away from purely stoch'
+description: 'Neuro-Liquidity Synchronization (NLS) represents a paradigm shift in the management of sovereign debt markets, moving away from purely stoch…'
 pubDate: 2026-06-06
 category: 'invest'
 topic: 'research'

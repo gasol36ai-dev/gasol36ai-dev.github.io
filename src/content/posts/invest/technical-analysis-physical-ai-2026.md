@@ -1,6 +1,6 @@
 ---
 title: 'Physical AI & Spatial Intelligence (2026 Update)'
-description: 'The transition from pure LLMs to ''Physical AI'' involves World Foundation Models (WFMs) that can simulate and predict physical reality, closi'
+description: 'The transition from pure LLMs to ''Physical AI'' involves World Foundation Models (WFMs) that can simulate and predict physical reality, closi…'
 pubDate: 2026-05-20
 category: 'invest'
 topic: 'ai-robotics'

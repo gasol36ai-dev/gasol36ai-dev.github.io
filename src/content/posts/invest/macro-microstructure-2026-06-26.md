@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Macro-Microstructure Convergence'
-description: 'Macro-Microstructure Convergence refers to the phenomenon where high-level macroeconomic drivers manifest directly as microstructural instab'
+description: 'Macro-Microstructure Convergence refers to the phenomenon where high-level macroeconomic drivers manifest directly as microstructural instab…'
 pubDate: 2026-06-26
 category: 'invest'
 topic: 'research'

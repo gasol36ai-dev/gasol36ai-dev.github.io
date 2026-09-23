@@ -1,6 +1,6 @@
 ---
 title: 'Market Microstructure & Order Flow'
-description: 'Traditional "Raw LOB Imbalance" signals have largely flattened. The frontier has moved toward Clustered Flow Analysis and Regime-Permissive '
+description: 'Traditional "Raw LOB Imbalance" signals have largely flattened. The frontier has moved toward Clustered Flow Analysis and Regime-Permissive …'
 pubDate: 2026-05-23
 category: 'invest'
 topic: 'research'

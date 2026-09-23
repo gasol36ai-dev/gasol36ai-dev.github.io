@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Intelligence Fabric Gate (SIFG-2026)'
-description: 'The Sovereign Intelligence Fabric Gate (SIFG) is a hyper-sovereign convergence indicator that measures the systemic alignment of a state''s C'
+description: 'The Sovereign Intelligence Fabric Gate (SIFG) is a hyper-sovereign convergence indicator that measures the systemic alignment of a state''s C…'
 pubDate: 2026-06-27
 category: 'invest'
 topic: 'research'

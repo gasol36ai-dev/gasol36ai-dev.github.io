@@ -1,6 +1,6 @@
 ---
 title: 'CLSG: Cognitive Liquidity Sovereignty Gate (HPI-38)'
-description: 'The CLSG identifies a non-linear sovereign liquidity cascade where the convergence of AI-native microstructure shifts, RWA yield geometry di'
+description: 'The CLSG identifies a non-linear sovereign liquidity cascade where the convergence of AI-native microstructure shifts, RWA yield geometry di…'
 pubDate: 2026-06-16
 category: 'invest'
 topic: 'research'

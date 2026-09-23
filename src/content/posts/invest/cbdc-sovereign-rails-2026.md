@@ -1,6 +1,6 @@
 ---
 title: 'CBDC Digital Monetary Infrastructure & Sovereign Rails (2026)'
-description: 'By 2026, the global financial landscape has shifted toward the implementation of "Sovereign Rails"—dedicated, state-controlled digital monet'
+description: 'By 2026, the global financial landscape has shifted toward the implementation of "Sovereign Rails"—dedicated, state-controlled digital monet…'
 pubDate: 2026-06-01
 category: 'invest'
 topic: 'research'

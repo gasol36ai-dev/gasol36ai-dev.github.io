@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Macro-Micro Convergence Oscillator (HMCO)'
-description: 'The Hermes Macro-Micro Convergence Oscillator (HMCO) is a proprietary indicator designed to distinguish between "False Breakouts" (Absorptio'
+description: 'The Hermes Macro-Micro Convergence Oscillator (HMCO) is a proprietary indicator designed to distinguish between "False Breakouts" (Absorptio…'
 pubDate: 2026-05-01
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Orbital Sovereignty Integrity Gate (OSIG)'
-description: 'The Orbital Sovereignty Integrity Gate (OSIG) is a strategic judgment indicator designed to monitor the convergence of Orbital DePIN, Sovere'
+description: 'The Orbital Sovereignty Integrity Gate (OSIG) is a strategic judgment indicator designed to monitor the convergence of Orbital DePIN, Sovere…'
 pubDate: 2026-05-31
 category: 'invest'
 topic: 'research'

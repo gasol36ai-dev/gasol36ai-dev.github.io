@@ -1,6 +1,6 @@
 ---
 title: 'Technical Synthesis: Quantum-Resilient Sovereign Macro-Liquidity (QR-SML)'
-description: 'The emergence of Cryptographically Relevant Quantum Computers (CRQCs) poses an existential threat to the integrity of sovereign bond settlem'
+description: 'The emergence of Cryptographically Relevant Quantum Computers (CRQCs) poses an existential threat to the integrity of sovereign bond settlem…'
 pubDate: 2026-06-30
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Safe Macro-Econometrics'
-description: 'The shift from classical Public Key Infrastructure (PKI) to PQC is anchored by the 2024-2025 NIST standards. The macroeconomic stability of '
+description: 'The shift from classical Public Key Infrastructure (PKI) to PQC is anchored by the 2024-2025 NIST standards. The macroeconomic stability of …'
 pubDate: 2026-06-03
 category: 'invest'
 topic: 'research'

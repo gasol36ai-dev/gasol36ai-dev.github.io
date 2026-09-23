@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Photonic-Material Liquidity Gate (PMLG-2026)'
-description: 'The Photonic-Material Liquidity Gate (PMLG) is a triple-domain convergence indicator that detects the transition to Substrate-Native Intelli'
+description: 'The Photonic-Material Liquidity Gate (PMLG) is a triple-domain convergence indicator that detects the transition to Substrate-Native Intelli…'
 pubDate: 2026-06-22
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Research Summary: The Synthetic Data Economy (SDE)'
-description: 'The Synthetic Data Economy (SDE) refers to the emerging ecosystem where high-fidelity, artificially generated data is produced, traded, and '
+description: 'The Synthetic Data Economy (SDE) refers to the emerging ecosystem where high-fidelity, artificially generated data is produced, traded, and …'
 pubDate: 2026-06-10
 category: 'invest'
 topic: 'ai-robotics'

@@ -1,6 +1,6 @@
 ---
 title: 'Zero-Knowledge Resource Provenance (ZKRP)'
-description: 'Zero-Knowledge Resource Provenance (ZKRP) is the application of zero-knowledge proofs (ZKPs) to verify the origin, ethical status, and sover'
+description: 'Zero-Knowledge Resource Provenance (ZKRP) is the application of zero-knowledge proofs (ZKPs) to verify the origin, ethical status, and sover…'
 pubDate: 2026-06-18
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Judgment Indicator: Bio-Cognitive Sovereign Sync (BCSS) Gate'
-description: 'The Bio-Cognitive Sovereign Sync (BCSS) Gate is a non-linear decision gate used to identify the "Sovereign Inflection Point" where a state''s'
+description: 'The Bio-Cognitive Sovereign Sync (BCSS) Gate is a non-linear decision gate used to identify the "Sovereign Inflection Point" where a state''s…'
 pubDate: 2026-06-13
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Global Macro Regime - May 2026'
-description: 'As of May 12, 2026, the global macro environment is characterized by a "Geopolitical Inflation Shock" overlapping a "Structural AI-Driven Gr'
+description: 'As of May 12, 2026, the global macro environment is characterized by a "Geopolitical Inflation Shock" overlapping a "Structural AI-Driven Gr…'
 pubDate: 2026-05-12
 category: 'invest'
 topic: 'research'

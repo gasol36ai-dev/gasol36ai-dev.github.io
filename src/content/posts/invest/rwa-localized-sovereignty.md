@@ -1,6 +1,6 @@
 ---
 title: 'RWA Tokenization & Localized Capital Sovereignty'
-description: 'The core thesis is that by tokenizing local assets (land, machinery, energy grids, local produce) and managing them via AI agents, communiti'
+description: 'The core thesis is that by tokenizing local assets (land, machinery, energy grids, local produce) and managing them via AI agents, communiti…'
 pubDate: 2026-06-27
 category: 'invest'
 topic: 'research'

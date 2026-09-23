@@ -1,6 +1,6 @@
 ---
 title: 'Macro-Economic Volatility & Liquidity Dynamics (2026)'
-description: 'In 2026, global markets are characterized by extreme sensitivity to liquidity transitions and structural decoupling between asset classes. U'
+description: 'In 2026, global markets are characterized by extreme sensitivity to liquidity transitions and structural decoupling between asset classes. U…'
 pubDate: 2026-05-26
 category: 'invest'
 topic: 'research'

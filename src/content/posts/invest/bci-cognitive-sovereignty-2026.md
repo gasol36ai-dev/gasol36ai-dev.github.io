@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: BCI & Cognitive Sovereignty (2026) - ENRICHED'
-description: 'This report examines the rapid evolution of high-bandwidth, non-invasive Brain-Computer Interfaces (BCI) and the emerging imperative of ''Cog'
+description: 'This report examines the rapid evolution of high-bandwidth, non-invasive Brain-Computer Interfaces (BCI) and the emerging imperative of ''Cog…'
 pubDate: 2026-06-26
 category: 'invest'
 topic: 'ai-robotics'

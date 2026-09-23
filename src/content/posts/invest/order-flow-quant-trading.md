@@ -1,6 +1,6 @@
 ---
 title: 'Advanced Order Flow & Quant Trading (2026)'
-description: 'Order flow is the study of the actual buy and sell orders entering the market, focusing on the microstructure of the market rather than hist'
+description: 'Order flow is the study of the actual buy and sell orders entering the market, focusing on the microstructure of the market rather than hist…'
 pubDate: 2026-05-13
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Convergence Index (HCI)'
-description: 'The Hermes Convergence Index (HCI) is a proprietary judgment indicator designed to filter high-probability trade entries by converging Micro'
+description: 'The Hermes Convergence Index (HCI) is a proprietary judgment indicator designed to filter high-probability trade entries by converging Micro…'
 pubDate: 2026-04-29
 category: 'invest'
 topic: 'research'

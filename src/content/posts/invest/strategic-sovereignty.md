@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Sovereignty (Political-Technical Framework)'
-description: 'Strategic Sovereignty is the capacity of a state or entity to maintain independent decision-making power over its critical technological and'
+description: 'Strategic Sovereignty is the capacity of a state or entity to maintain independent decision-making power over its critical technological and…'
 pubDate: 2026-07-05
 category: 'invest'
 topic: 'research'

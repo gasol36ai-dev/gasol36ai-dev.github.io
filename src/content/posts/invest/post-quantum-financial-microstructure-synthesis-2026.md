@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Synthesis: Post-Quantum Financial Microstructure (2026)'
-description: 'The global financial microstructure faces an existential crisis termed the "Quantum Break"—the point at which a Cryptographically Relevant Q'
+description: 'The global financial microstructure faces an existential crisis termed the "Quantum Break"—the point at which a Cryptographically Relevant Q…'
 pubDate: 2026-06-28
 category: 'invest'
 topic: 'research'

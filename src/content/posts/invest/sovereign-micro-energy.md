@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Micro-Energy Autarky: SMRs & Micro-Fusion'
-description: 'The transition from centralized energy grids to decentralized, high-density power sources (SMRs and Micro-Fusion) is driven by the exponenti'
+description: 'The transition from centralized energy grids to decentralized, high-density power sources (SMRs and Micro-Fusion) is driven by the exponenti…'
 pubDate: 2026-06-22
 category: 'invest'
 topic: 'energy'

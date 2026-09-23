@@ -1,6 +1,6 @@
 ---
 title: 'Subsea Oceanic Compute Nexus (SOCN): Technical and Strategic Analysis (2026)'
-description: 'The Subsea Oceanic Compute Nexus (SOCN) represents a paradigm shift in global computing infrastructure, transitioning from land-based hypers'
+description: 'The Subsea Oceanic Compute Nexus (SOCN) represents a paradigm shift in global computing infrastructure, transitioning from land-based hypers…'
 pubDate: 2026-06-15
 category: 'invest'
 topic: 'research'

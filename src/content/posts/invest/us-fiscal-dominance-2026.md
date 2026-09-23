@@ -1,6 +1,6 @@
 ---
 title: 'US Fiscal Dominance & Sovereign Debt Risk (2026)'
-description: 'Moody''s downgraded US sovereign credit Aaa → Aa1 on May 16, 2025, completing the triple-downgrade trilogy (S&P 2011, Fitch 2023, Moody''s 202'
+description: 'Moody''s downgraded US sovereign credit Aaa → Aa1 on May 16, 2025, completing the triple-downgrade trilogy (S&P 2011, Fitch 2023, Moody''s 202…'
 pubDate: 2026-05-27
 category: 'invest'
 topic: 'research'

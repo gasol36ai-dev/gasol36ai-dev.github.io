@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Proprietary Indicators (v1.0)'
-description: 'Hermes does not rely on single-variable indicators. Instead, we use Convergence/Divergence Filters that cross-pollinate Macro-Regime data wi'
+description: 'Hermes does not rely on single-variable indicators. Instead, we use Convergence/Divergence Filters that cross-pollinate Macro-Regime data wi…'
 pubDate: 2026-05-20
 category: 'invest'
 topic: 'research'

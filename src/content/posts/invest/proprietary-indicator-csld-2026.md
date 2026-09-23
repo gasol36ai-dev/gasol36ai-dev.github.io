@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Compute-Sovereign Liquidity Divergence (CSLD) 2026'
-description: 'The Compute-Sovereign Liquidity Divergence (CSLD) is a high-order judgment indicator designed to detect systemic instability at the intersec'
+description: 'The Compute-Sovereign Liquidity Divergence (CSLD) is a high-order judgment indicator designed to detect systemic instability at the intersec…'
 pubDate: 2026-06-11
 category: 'invest'
 topic: 'research'

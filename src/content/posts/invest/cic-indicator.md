@@ -1,6 +1,6 @@
 ---
 title: 'Indicator: Cognitive Infrastructure Convergence (CIC)'
-description: 'The Cognitive Infrastructure Convergence (CIC) indicator identifies the critical transition point where Decentralized Physical Infrastructur'
+description: 'The Cognitive Infrastructure Convergence (CIC) indicator identifies the critical transition point where Decentralized Physical Infrastructur…'
 pubDate: 2026-06-08
 category: 'invest'
 topic: 'research'

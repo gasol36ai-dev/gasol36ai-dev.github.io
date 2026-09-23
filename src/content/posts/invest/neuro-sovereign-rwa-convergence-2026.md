@@ -1,6 +1,6 @@
 ---
 title: 'Neuro-Sovereign RWA Convergence: 2026 Breakthroughs Research Report'
-description: 'The convergence of Neuro-symbolic AI, Sovereign Wealth Fund (SWF) mandates, and Real-World Asset (RWA) tokenization has evolved from concept'
+description: 'The convergence of Neuro-symbolic AI, Sovereign Wealth Fund (SWF) mandates, and Real-World Asset (RWA) tokenization has evolved from concept…'
 pubDate: 2026-06-14
 category: 'invest'
 topic: 'research'

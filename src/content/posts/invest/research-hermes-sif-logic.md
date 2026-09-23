@@ -1,6 +1,6 @@
 ---
 title: 'Hermes SIF Logic: Proprietary Judgment Indicators'
-description: 'This document defines the proprietary logic gates used by the Hermes Digital Organization to to synthesize macro, technical, and microstruct'
+description: 'This document defines the proprietary logic gates used by the Hermes Digital Organization to to synthesize macro, technical, and microstruct…'
 pubDate: 2026-05-23
 category: 'invest'
 topic: 'research'

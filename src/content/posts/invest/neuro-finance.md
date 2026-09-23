@@ -1,6 +1,6 @@
 ---
 title: 'Research Synthesis: Cognitive-Market Microstructure (Neuro-Finance)'
-description: 'This research explores the intersection of neuroscience, cognitive psychology, and market microstructure, a domain termed Cognitive-Market M'
+description: 'Neuro-finance transcends traditional behavioral finance by moving from the observation of biased outcomes to the identification of the neura…'
 pubDate: 2026-06-25
 category: 'invest'
 topic: 'research'

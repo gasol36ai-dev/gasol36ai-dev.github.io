@@ -1,6 +1,6 @@
 ---
 title: 'Cross-Domain Intelligence Fusion (CDIF) in Macro-Economic Prediction'
-description: 'When applied to Macro-Economic Prediction, CDIF leverages Multi-Agent Systems (MAS) to simulate, model, and forecast complex economic phenom'
+description: 'When applied to Macro-Economic Prediction, CDIF leverages Multi-Agent Systems (MAS) to simulate, model, and forecast complex economic phenom…'
 pubDate: 2026-06-04
 category: 'invest'
 topic: 'research'

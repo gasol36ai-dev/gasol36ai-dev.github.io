@@ -1,6 +1,6 @@
 ---
 title: 'RESEARCH: RWA Tokenization & Sovereign Capital (2026)'
-description: 'The period of 2025-2026 marks the transition of Real World Asset (RWA) tokenization from "Experimental Proof-of-Concepts" to "Institutional '
+description: 'The period of 2025-2026 marks the transition of Real World Asset (RWA) tokenization from "Experimental Proof-of-Concepts" to "Institutional …'
 pubDate: 2026-06-26
 category: 'invest'
 topic: 'research'

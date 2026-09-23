@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Liquidity-Trust Divergence (SLTD) Gate'
-description: 'The Sovereign Liquidity-Trust Divergence (SLTD) Gate is a high-order convergent indicator designed to detect the precise moment when the glo'
+description: 'The Sovereign Liquidity-Trust Divergence (SLTD) Gate is a high-order convergent indicator designed to detect the precise moment when the glo…'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'research'

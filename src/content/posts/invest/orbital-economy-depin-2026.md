@@ -1,6 +1,6 @@
 ---
 title: 'Orbital Economy & Space-Based DePIN (2026)'
-description: 'As of 2026, the space economy has transitioned from a government-led exploration phase to a commercially driven "Orbital Economy." This econ'
+description: 'As of 2026, the space economy has transitioned from a government-led exploration phase to a commercially driven "Orbital Economy." This econ…'
 pubDate: 2026-06-07
 category: 'invest'
 topic: 'research'

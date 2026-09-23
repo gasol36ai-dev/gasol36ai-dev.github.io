@@ -1,6 +1,6 @@
 ---
 title: 'Cognitive Labor-Capital Parity (CLCP)'
-description: 'The core of CLCP lies in the transition from Cognitive Labor (Lc)—defined by hourly wages, education costs, and biological limits—to Cogniti'
+description: 'The core of CLCP lies in the transition from Cognitive Labor (Lc)—defined by hourly wages, education costs, and biological limits—to Cogniti…'
 pubDate: 2026-06-16
 category: 'invest'
 topic: 'ai-robotics'

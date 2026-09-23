@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Quantum-Resilient Liquidity Divergence (QRLD) Gate'
-description: 'The Quantum-Resilient Liquidity Divergence (QRLD) Gate is a multi-domain synthetic indicator designed to detect the emergence of a "Quantum '
+description: 'The Quantum-Resilient Liquidity Divergence (QRLD) Gate is a multi-domain synthetic indicator designed to detect the emergence of a "Quantum …'
 pubDate: 2026-06-14
 category: 'invest'
 topic: 'research'

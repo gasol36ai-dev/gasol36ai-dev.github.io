@@ -1,6 +1,6 @@
 ---
 title: 'Autonomous Maritime-Mesh Sovereignty (AMMS): Subsea Compute, OTEC, and Maritime AI'
-description: 'The foundation of AMMS is the deployment of Ocean Thermal Energy Conversion (OTEC) systems. OTEC leverages the temperature gradient between '
+description: 'The foundation of AMMS is the deployment of Ocean Thermal Energy Conversion (OTEC) systems. OTEC leverages the temperature gradient between …'
 pubDate: 2026-06-17
 category: 'invest'
 topic: 'research'

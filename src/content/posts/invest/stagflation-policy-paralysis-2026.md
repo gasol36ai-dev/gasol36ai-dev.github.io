@@ -1,6 +1,6 @@
 ---
 title: 'Stagflationary Policy Paralysis — 2026-05'
-description: 'The Fed and ECB are trapped in a policy paralysis regime: inflation remains above target due to supply-side shocks, while growth is softenin'
+description: 'The Fed and ECB are trapped in a policy paralysis regime: inflation remains above target due to supply-side shocks, while growth is softenin…'
 pubDate: 2026-05-26
 category: 'invest'
 topic: 'research'

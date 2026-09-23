@@ -1,6 +1,6 @@
 ---
 title: '🧬 DNlite Progress Scorecard — June 26, 2026'
-description: 'As of June 26, 2026, no new clinical trial entries were identified for DNlite (Shin-Ying Biomed) via ClinicalTrials.gov search since the las'
+description: 'As of June 26, 2026, no new clinical trial entries were identified for DNlite (Shin-Ying Biomed) via ClinicalTrials.gov search since the las…'
 pubDate: 2026-06-26
 category: 'invest'
 topic: 'research'

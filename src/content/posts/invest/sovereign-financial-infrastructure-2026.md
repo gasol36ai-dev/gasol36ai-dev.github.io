@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Financial Infrastructure (2026 Update)'
-description: 'The 2026 financial landscape is defined by the integration of Wholesale CBDCs and Real-World Asset (RWA) Tokenization into a unified, progra'
+description: 'The 2026 financial landscape is defined by the integration of Wholesale CBDCs and Real-World Asset (RWA) Tokenization into a unified, progra…'
 pubDate: 2026-06-04
 category: 'invest'
 topic: 'research'

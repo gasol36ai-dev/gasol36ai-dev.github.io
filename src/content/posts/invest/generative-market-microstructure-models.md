@@ -1,6 +1,6 @@
 ---
 title: 'Generative Market Microstructure Models (GMMM)'
-description: 'Generative Market Microstructure Models (GMMM) represent a paradigm shift in quantitative finance, moving from traditional stochastic point '
+description: 'Generative Market Microstructure Models (GMMM) represent a paradigm shift in quantitative finance, moving from traditional stochastic point …'
 pubDate: 2026-05-23
 category: 'invest'
 topic: 'research'

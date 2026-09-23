@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Autonomy Nexus (SAN-2026)'
-description: 'The Sovereign Autonomy Nexus (SAN-2026) is a high-density convergence indicator designed to detect the transition of a sovereign entity from'
+description: 'The Sovereign Autonomy Nexus (SAN-2026) is a high-density convergence indicator designed to detect the transition of a sovereign entity from…'
 pubDate: 2026-06-30
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'High-Density Report: DePIN & RWA Tokenization (June 2026)'
-description: 'By 2026, the boundaries between decentralized digital networks and physical infrastructure have collapsed. The convergence of Decentralized '
+description: 'By 2026, the boundaries between decentralized digital networks and physical infrastructure have collapsed. The convergence of Decentralized …'
 pubDate: 2026-06-13
 category: 'invest'
 topic: 'research'

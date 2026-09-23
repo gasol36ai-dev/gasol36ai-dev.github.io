@@ -1,6 +1,6 @@
 ---
 title: 'RWA Tokenization & AI-Native Finance (2026 Outlook)'
-description: 'As of 2026, Real World Asset (RWA) tokenization has evolved from simple blockchain mirroring to AI-Native Finance. The integration of Artifi'
+description: 'As of 2026, Real World Asset (RWA) tokenization has evolved from simple blockchain mirroring to AI-Native Finance. The integration of Artifi…'
 pubDate: 2026-06-06
 category: 'invest'
 topic: 'research'

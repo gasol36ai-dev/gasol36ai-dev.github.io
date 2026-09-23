@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Logistics-Macro Convergence Divergence (LMCD) (2026)'
-description: 'The Logistics-Macro Convergence Divergence (LMCD) is a multi-domain synthesis indicator that bridges Maritime Logistics Fragility with Asymm'
+description: 'The Logistics-Macro Convergence Divergence (LMCD) is a multi-domain synthesis indicator that bridges Maritime Logistics Fragility with Asymm…'
 pubDate: 2026-05-27
 category: 'invest'
 topic: 'research'

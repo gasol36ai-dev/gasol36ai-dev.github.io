@@ -1,6 +1,6 @@
 ---
 title: 'Synthesis: Proprietary Innovation - HSCI Gate'
-description: 'The HSCI Gate is a multi-domain convergence indicator. It identifies the moment when the "AI Scaling Wall" (Power, Memory, Interconnect) is '
+description: 'The HSCI Gate is a multi-domain convergence indicator. It identifies the moment when the "AI Scaling Wall" (Power, Memory, Interconnect) is …'
 pubDate: 2026-06-24
 category: 'invest'
 topic: 'research'

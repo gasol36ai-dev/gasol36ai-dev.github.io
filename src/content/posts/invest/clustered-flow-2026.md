@@ -1,6 +1,6 @@
 ---
 title: 'Clustered Flow: The Evolution of Execution Signals'
-description: 'For years, "Order Book Imbalance" (the ratio of bid-size to ask-size) was a primary signal for short-term price movement. However, as of 202'
+description: 'For years, "Order Book Imbalance" (the ratio of bid-size to ask-size) was a primary signal for short-term price movement. However, as of 202…'
 pubDate: 2026-06-01
 category: 'invest'
 topic: 'research'

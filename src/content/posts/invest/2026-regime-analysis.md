@@ -1,6 +1,6 @@
 ---
 title: '2026 Macro Regime Analysis'
-description: 'The 2026 environment is characterized by the intersection of two divergent forces: systemic instability and unprecedented technological scal'
+description: 'The 2026 environment is characterized by the intersection of two divergent forces: systemic instability and unprecedented technological scal…'
 pubDate: 2026-05-01
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Bio-Photonic Sovereignty Convergence Gate (BPSC-Gate)'
-description: 'The Bio-Photonic Sovereignty Convergence Gate (BPSC-Gate) is a high-order judgment indicator that monitors the simultaneous threshold crossi'
+description: 'The Bio-Photonic Sovereignty Convergence Gate (BPSC-Gate) is a high-order judgment indicator that monitors the simultaneous threshold crossi…'
 pubDate: 2026-06-13
 category: 'invest'
 topic: 'research'

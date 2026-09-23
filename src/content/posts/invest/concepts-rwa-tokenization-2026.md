@@ -1,6 +1,6 @@
 ---
 title: 'Technical Report: The RWA Tokenization Paradigm Shift (2025-2026)'
-description: 'The 2025-2026 era marks the transition of Real World Asset (RWA) tokenization from experimental pilots to institutional-grade production. Th'
+description: 'The 2025-2026 era marks the transition of Real World Asset (RWA) tokenization from experimental pilots to institutional-grade production. Th…'
 pubDate: 2026-06-24
 category: 'invest'
 topic: 'research'

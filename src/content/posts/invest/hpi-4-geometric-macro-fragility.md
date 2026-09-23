@@ -1,6 +1,6 @@
 ---
 title: 'HPI-4: Geometric-Macro Fragility (GMF)'
-description: 'The Geometric-Macro Fragility (GMF) indicator is a high-order synthetic judgment metric. It moves beyond traditional volume/price imbalance '
+description: 'The Geometric-Macro Fragility (GMF) indicator is a high-order synthetic judgment metric. It moves beyond traditional volume/price imbalance …'
 pubDate: 2026-05-24
 category: 'invest'
 topic: 'research'

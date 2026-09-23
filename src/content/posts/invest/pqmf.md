@@ -1,6 +1,6 @@
 ---
 title: 'Concept: Post-Quantum Macro-Financials (PQMF)'
-description: 'Post-Quantum Macro-Financials (PQMF) is the study and management of macroeconomic stability and financial system integrity during the transi'
+description: 'Post-Quantum Macro-Financials (PQMF) is the study and management of macroeconomic stability and financial system integrity during the transi…'
 pubDate: 2026-07-09
 category: 'invest'
 topic: 'research'

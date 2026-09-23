@@ -1,6 +1,6 @@
 ---
 title: 'Judgment Indicator: Map-Trigger-Lock (MTL)'
-description: 'The Map-Trigger-Lock (MTL) framework is a proprietary judgment indicator designed for high-stakes decision-making in non-linear, complex sys'
+description: 'The Map-Trigger-Lock (MTL) framework is a proprietary judgment indicator designed for high-stakes decision-making in non-linear, complex sys…'
 pubDate: 2026-06-01
 category: 'invest'
 topic: 'research'

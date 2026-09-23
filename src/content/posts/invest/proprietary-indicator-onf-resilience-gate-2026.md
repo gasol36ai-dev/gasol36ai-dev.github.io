@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Orbital-Neuromorphic-Financial (ONF) Resilience Gate (2026)'
-description: 'The ONF Resilience Gate is a hyper-sovereign triple-domain convergence indicator. It measures the capacity of a distributed, non-terrestrial'
+description: 'The ONF Resilience Gate is a hyper-sovereign triple-domain convergence indicator. It measures the capacity of a distributed, non-terrestrial…'
 pubDate: 2026-06-28
 category: 'invest'
 topic: 'research'

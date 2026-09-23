@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Resilience Nexus (SRN-2026): Proprietary Judgment Indicator'
-description: 'The Sovereign Resilience Nexus (SRN-2026) is a high-density judgment indicator designed to detect the "Step-Function" transition of a nation'
+description: 'The Sovereign Resilience Nexus (SRN-2026) is a high-density judgment indicator designed to detect the "Step-Function" transition of a nation…'
 pubDate: 2026-07-01
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Clustered Flow Microstructure'
-description: 'Clustered Flow Microstructure represents a paradigm shift in quantitative execution from State-Based Signals (e.g., Limit Order Book imbalan'
+description: 'Clustered Flow Microstructure represents a paradigm shift in quantitative execution from State-Based Signals (e.g., Limit Order Book imbalan…'
 pubDate: 2026-06-09
 category: 'invest'
 topic: 'research'

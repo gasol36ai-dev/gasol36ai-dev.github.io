@@ -1,6 +1,6 @@
 ---
 title: 'Concept: Bio-Digital Capital Convergence'
-description: 'The systemic integration of biological value (genomic sequences, biomass, bio-compute capacity) into programmable digital financial primitiv'
+description: 'The systemic integration of biological value (genomic sequences, biomass, bio-compute capacity) into programmable digital financial primitiv…'
 pubDate: 2026-07-13
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Geopolitical Risk 2026: The Security Networks Paradigm'
-description: 'The closure of the Strait of Hormuz (carrying ~27% of global maritime petroleum trade) transformed geopolitical risk from a "headline risk" '
+description: 'The closure of the Strait of Hormuz (carrying ~27% of global maritime petroleum trade) transformed geopolitical risk from a "headline risk" …'
 pubDate: 2026-04-26
 category: 'invest'
 topic: 'research'

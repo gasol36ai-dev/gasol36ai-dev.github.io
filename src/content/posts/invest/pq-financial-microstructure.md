@@ -1,6 +1,6 @@
 ---
 title: 'Concept: Post-Quantum Financial Microstructure (PQFM)'
-description: 'The primary challenge in PQFM is the Payload Penalty. Quantum-safe primitives (specifically lattice-based ones) require significantly larger'
+description: 'The primary challenge in PQFM is the Payload Penalty. Quantum-safe primitives (specifically lattice-based ones) require significantly larger…'
 pubDate: 2026-07-10
 category: 'invest'
 topic: 'research'

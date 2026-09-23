@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Bio-Digital Infrastructure (2026)'
-description: 'Sovereign Bio-Digital Infrastructure represents the strategic fusion of national compute capacity, genomic data sovereignty, and agentic AI.'
+description: 'Sovereign Bio-Digital Infrastructure represents the strategic fusion of national compute capacity, genomic data sovereignty, and agentic AI.…'
 pubDate: 2026-06-07
 category: 'invest'
 topic: 'research'

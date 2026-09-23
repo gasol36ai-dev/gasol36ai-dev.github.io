@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Kinetic Autonomy Gate (SKAG-2026)'
-description: 'The Sovereign Kinetic Autonomy Gate (SKAG-2026) is a high-density proprietary indicator that signals the transition of an autonomous system '
+description: 'The Sovereign Kinetic Autonomy Gate (SKAG-2026) is a high-density proprietary indicator that signals the transition of an autonomous system …'
 pubDate: 2026-07-09
 category: 'invest'
 topic: 'ai-robotics'

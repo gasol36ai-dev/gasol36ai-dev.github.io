@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Bio-Compute-Cognition Convergence Gate (BCCCG)'
-description: 'The Bio-Compute-Cognition Convergence Gate (BCCCG) is a proprietary multi-domain decision gate that detects the simultaneous industrializati'
+description: 'The Bio-Compute-Cognition Convergence Gate (BCCCG) is a proprietary multi-domain decision gate that detects the simultaneous industrializati…'
 pubDate: 2026-06-10
 category: 'invest'
 topic: 'research'

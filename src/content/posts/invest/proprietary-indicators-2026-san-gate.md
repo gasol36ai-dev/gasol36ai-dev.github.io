@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Autarkic Node (SAN) Indicator'
-description: 'The SAN indicator tracks the emergence of localized, self-sustaining strategic units that decouple from global dependencies in energy, cogni'
+description: 'The SAN indicator tracks the emergence of localized, self-sustaining strategic units that decouple from global dependencies in energy, cogni…'
 pubDate: 2026-06-24
 category: 'invest'
 topic: 'ai-robotics'

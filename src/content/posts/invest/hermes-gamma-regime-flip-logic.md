@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Gamma-Regime Exhaustion (HGRE) Logic'
-description: 'The HGRE indicator identifies high-probability "fake-out" rallies in a stabilizing (Positive Gamma) regime. It detects when price attempts t'
+description: 'The HGRE indicator identifies high-probability "fake-out" rallies in a stabilizing (Positive Gamma) regime. It detects when price attempts t…'
 pubDate: 2026-05-24
 category: 'invest'
 topic: 'research'

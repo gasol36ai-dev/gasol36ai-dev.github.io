@@ -1,6 +1,6 @@
 ---
 title: 'QPAICG: Quantum-Physical AI Convergence Gate (HPI-xx)'
-description: 'QPAICG is a sovereign innovation gate that fires when Quantum-Classical Hybrid Orchestration (QCHO) is integrated into Physical AI World-Act'
+description: 'QPAICG is a sovereign innovation gate that fires when Quantum-Classical Hybrid Orchestration (QCHO) is integrated into Physical AI World-Act…'
 pubDate: 2026-06-17
 category: 'invest'
 topic: 'research'

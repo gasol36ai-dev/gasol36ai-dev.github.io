@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Safe Financial Rails & CBDC Interoperability'
-description: 'The impending "Q-Day" (when quantum computers can break RSA/ECC) necessitates a complete overhaul of the global financial plumbing. The tran'
+description: 'The impending "Q-Day" (when quantum computers can break RSA/ECC) necessitates a complete overhaul of the global financial plumbing. The tran…'
 pubDate: 2026-06-10
 category: 'invest'
 topic: 'research'

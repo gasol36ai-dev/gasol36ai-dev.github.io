@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Autonomy Inflection (SAI) Gate'
-description: 'The Sovereign Autonomy Inflection (SAI) Gate is a hyper-sovereign decision gate that identifies the exact moment a nation or organization ac'
+description: 'The Sovereign Autonomy Inflection (SAI) Gate is a hyper-sovereign decision gate that identifies the exact moment a nation or organization ac…'
 pubDate: 2026-06-27
 category: 'invest'
 topic: 'research'

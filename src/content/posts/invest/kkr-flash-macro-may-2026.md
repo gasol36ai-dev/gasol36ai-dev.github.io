@@ -1,6 +1,6 @@
 ---
 title: 'kkr-flash-macro-may-2026'
-description: 'KKR: ''Security of Everything'' thesis. Transition to economic nationalism, resource hoarding, and weaponization of strategically important re'
+description: 'KKR: ''Security of Everything'' thesis. Transition to economic nationalism, resource hoarding, and weaponization of strategically important re…'
 pubDate: 2026-05-23
 category: 'invest'
 topic: 'research'

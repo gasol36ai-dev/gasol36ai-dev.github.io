@@ -1,6 +1,6 @@
 ---
 title: 'Tokenized Real World Assets (RWA) & Cross-Chain Liquidity Rails (2026)'
-description: 'As of 2026, the tokenization of Real World Assets (RWA) has transitioned from an experimental "DeFi yield" phase to the establishment of ins'
+description: 'As of 2026, the tokenization of Real World Assets (RWA) has transitioned from an experimental "DeFi yield" phase to the establishment of ins…'
 pubDate: 2026-06-03
 category: 'invest'
 topic: 'research'

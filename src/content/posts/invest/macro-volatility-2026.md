@@ -1,6 +1,6 @@
 ---
 title: 'Macro-Economic Volatility & Liquidity 2026'
-description: 'The global macro environment is characterized by structural decoupling. Real yields are increasingly diverging from inflation expectations, '
+description: 'The global macro environment is characterized by structural decoupling. Real yields are increasingly diverging from inflation expectations, …'
 pubDate: 2026-05-27
 category: 'invest'
 topic: 'research'

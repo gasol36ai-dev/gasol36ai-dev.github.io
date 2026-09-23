@@ -1,6 +1,6 @@
 ---
 title: 'Gallium Oxide Skin'
-description: '1. Structural Stability: Provides a "pseudo-solid" shell. This allows LM to maintain shapes (like wires, bridges, or complex 3D lattices) th'
+description: '1. Structural Stability: Provides a "pseudo-solid" shell. This allows LM to maintain shapes (like wires, bridges, or complex 3D lattices) th…'
 pubDate: 2026-07-11
 category: 'invest'
 topic: 'research'

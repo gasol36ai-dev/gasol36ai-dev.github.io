@@ -1,6 +1,6 @@
 ---
 title: 'Advanced Quantitative Technical Analysis'
-description: 'Institutional trading has shifted toward understanding the "Auction" process—how the market seeks fair value through the interaction of time'
+description: 'Institutional trading has shifted toward understanding the "Auction" process—how the market seeks fair value through the interaction of time…'
 pubDate: 2026-05-23
 category: 'invest'
 topic: 'research'

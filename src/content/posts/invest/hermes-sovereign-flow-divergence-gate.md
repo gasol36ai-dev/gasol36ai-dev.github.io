@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Sovereign-Flow Divergence Gate (SFDG)'
-description: 'The SFDG is a proprietary judgment logic designed to distinguish between "Noise-driven Anomaly" and "Structural Regime Shift" by detecting c'
+description: 'The SFDG is a proprietary judgment logic designed to distinguish between "Noise-driven Anomaly" and "Structural Regime Shift" by detecting c…'
 pubDate: 2026-05-23
 category: 'invest'
 topic: 'research'

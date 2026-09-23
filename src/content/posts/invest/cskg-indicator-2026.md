@@ -1,6 +1,6 @@
 ---
 title: 'Cognitive-Sovereign Kinetic Gate (CSKG)'
-description: 'The Cognitive-Sovereign Kinetic Gate (CSKG) is a high-density proprietary judgment indicator designed to detect the "Critical Threshold of A'
+description: 'The Cognitive-Sovereign Kinetic Gate (CSKG) is a high-density proprietary judgment indicator designed to detect the "Critical Threshold of A…'
 pubDate: 2026-06-19
 category: 'invest'
 topic: 'ai-robotics'

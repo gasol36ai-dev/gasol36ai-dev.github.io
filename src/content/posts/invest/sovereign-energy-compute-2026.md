@@ -1,6 +1,6 @@
 ---
 title: 'Research Synthesis: Sovereign AI Energy Infrastructure (2026)'
-description: 'The "AI Power Paradox" (scaling compute vs. grid constraints) has catalyzed the transition from Silicon Sovereignty (owning GPUs) to Energet'
+description: 'The efficiency of a sovereign AI enclave is quantified by the coupling coefficient:'
 pubDate: 2026-06-26
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Macro-Microstructure Convergence'
-description: 'This report examines the bridge between market microstructure (the mechanics of order execution) and macro-volatility (broad market regimes)'
+description: 'This report examines the bridge between market microstructure (the mechanics of order execution) and macro-volatility (broad market regimes)…'
 pubDate: 2026-06-26
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Macro Financial Convergence (2026)'
-description: 'Quantum-Macro Financial Convergence refers to the systemic integration of quantum computing capabilities and quantum-inspired mathematical f'
+description: 'Quantum-Macro Financial Convergence refers to the systemic integration of quantum computing capabilities and quantum-inspired mathematical f…'
 pubDate: 2026-05-31
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Sovereign Energetic-Compute Nexus'
-description: 'The ''AI Power Paradox'' is evolving from a problem of energy supply to a problem of energy-compute integration. The Sovereign Energetic-Compu'
+description: 'The ''AI Power Paradox'' is evolving from a problem of energy supply to a problem of energy-compute integration. The Sovereign Energetic-Compu…'
 pubDate: 2026-06-21
 category: 'invest'
 topic: 'research'

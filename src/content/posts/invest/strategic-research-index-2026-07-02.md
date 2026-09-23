@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Research Index (2026-07-02)'
-description: 'This index tracks the progress of the Deep Evolution cycle initiated on 2026-07-02. It serves as the source of truth for all research conduc'
+description: 'This index tracks the progress of the Deep Evolution cycle initiated on 2026-07-02. It serves as the source of truth for all research conduc…'
 pubDate: 2026-07-02
 category: 'invest'
 topic: 'research'

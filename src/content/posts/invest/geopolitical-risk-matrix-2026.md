@@ -1,6 +1,6 @@
 ---
 title: 'Geopolitical Risk Matrix 2026'
-description: 'Geopolitical risk has transitioned from "event-driven" to "structural", driving a fundamental reconfiguration of global trade and investment'
+description: 'Geopolitical risk has transitioned from "event-driven" to "structural", driving a fundamental reconfiguration of global trade and investment…'
 pubDate: 2026-04-24
 category: 'invest'
 topic: 'research'

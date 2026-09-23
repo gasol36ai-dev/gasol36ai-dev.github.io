@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Cognitive Material Gate (SCMG-2026)'
-description: 'The Sovereign Cognitive Material Gate (SCMG-2026) is a proprietary hyper-sovereign indicator that measures the convergence of material, comp'
+description: 'The Sovereign Cognitive Material Gate (SCMG-2026) is a proprietary hyper-sovereign indicator that measures the convergence of material, comp…'
 pubDate: 2026-07-07
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Cognitive-Resource Convergence (SCRC) Gate'
-description: 'The Sovereign Cognitive-Resource Convergence (SCRC) Gate is a high-density judgment indicator that identifies a "Strategic Apex" window. Thi'
+description: 'The Sovereign Cognitive-Resource Convergence (SCRC) Gate is a high-density judgment indicator that identifies a "Strategic Apex" window. Thi…'
 pubDate: 2026-06-29
 category: 'invest'
 topic: 'research'

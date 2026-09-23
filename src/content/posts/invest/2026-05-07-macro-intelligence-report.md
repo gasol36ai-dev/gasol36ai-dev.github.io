@@ -1,6 +1,6 @@
 ---
 title: 'Macro Intelligence Report - 20260507'
-description: 'As of May 2026, the global macro landscape is characterized by regional divergence in inflation and monetary policy, driven by differing fis'
+description: 'As of May 2026, the global macro landscape is characterized by regional divergence in inflation and monetary policy, driven by differing fis…'
 pubDate: 2026-05-07
 category: 'invest'
 topic: 'research'

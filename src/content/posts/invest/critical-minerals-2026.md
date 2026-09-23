@@ -1,6 +1,6 @@
 ---
 title: 'Report: Critical Minerals Geopolitics & Supply Chain Sovereignty (2026)'
-description: 'The transition to a decarbonized economy and the advancement of high-tech defense systems have shifted the center of geopolitical gravity fr'
+description: 'The transition to a decarbonized economy and the advancement of high-tech defense systems have shifted the center of geopolitical gravity fr…'
 pubDate: 2026-06-06
 category: 'invest'
 topic: 'research'

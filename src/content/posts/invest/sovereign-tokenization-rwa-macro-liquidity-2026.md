@@ -1,6 +1,6 @@
 ---
 title: 'Synthesis: Sovereign Tokenization & RWA Macro Liquidity 2026'
-description: '2026 marks the critical transition from tokenization as a conceptual experiment to tokenization as core market infrastructure. The defining '
+description: '2026 marks the critical transition from tokenization as a conceptual experiment to tokenization as core market infrastructure. The defining …'
 pubDate: 2026-06-14
 category: 'invest'
 topic: 'research'

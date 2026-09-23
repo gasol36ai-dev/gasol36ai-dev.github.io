@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Research: Quantum-Resilient Financial Networks & RWA Tokenization'
-description: 'The transition to a post-quantum world presents an existential threat to current financial cryptographic foundations. Simultaneously, the di'
+description: 'The transition to a post-quantum world presents an existential threat to current financial cryptographic foundations. Simultaneously, the di…'
 pubDate: 2026-06-21
 category: 'invest'
 topic: 'research'

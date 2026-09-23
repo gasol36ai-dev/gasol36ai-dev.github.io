@@ -1,6 +1,6 @@
 ---
 title: 'Global Macroeconomic Asset Realignment: 2026 Outlook'
-description: 'The year 2026 represents a pivotal inflection point in the global financial architecture. The prevailing "Great Moderation" and the era of U'
+description: 'The year 2026 represents a pivotal inflection point in the global financial architecture. The prevailing "Great Moderation" and the era of U…'
 pubDate: 2026-06-08
 category: 'invest'
 topic: 'research'

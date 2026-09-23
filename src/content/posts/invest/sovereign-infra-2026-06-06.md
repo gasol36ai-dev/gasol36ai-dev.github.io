@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Infrastructure (2026 Outlook)'
-description: 'As of 2026, Sovereign Infrastructure is characterized by a critical convergence between decentralized energy generation and centralized digi'
+description: 'As of 2026, Sovereign Infrastructure is characterized by a critical convergence between decentralized energy generation and centralized digi…'
 pubDate: 2026-06-06
 category: 'invest'
 topic: 'research'

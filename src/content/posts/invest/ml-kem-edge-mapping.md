@@ -1,6 +1,6 @@
 ---
 title: 'ML-KEM Edge Mapping'
-description: 'The process of fragmenting, sequencing, and mapping ML-KEM (Module-Lattice-based Key Encapsulation Mechanism, formerly Kyber) ciphertexts an'
+description: 'The process of fragmenting, sequencing, and mapping ML-KEM (Module-Lattice-based Key Encapsulation Mechanism, formerly Kyber) ciphertexts an…'
 pubDate: 2026-07-08
 category: 'invest'
 topic: 'research'

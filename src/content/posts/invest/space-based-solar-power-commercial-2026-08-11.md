@@ -1,6 +1,6 @@
 ---
 title: 'Space-Based Solar Power (SBSP) — Commercial Inflection (2026-08-11)'
-description: '2026 marks SBSP''s transition from "vaporware" to funded, contracted, hardware-track infrastructure, driven overwhelmingly by AI data-center '
+description: '2026 marks SBSP''s transition from "vaporware" to funded, contracted, hardware-track infrastructure, driven overwhelmingly by AI data-center …'
 pubDate: 2026-08-11
 category: 'invest'
 topic: 'energy'

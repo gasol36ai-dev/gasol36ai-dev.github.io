@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Judgment Indicator: Synthetic Bio-Logistics Energetic Gate (SAE-Gate)'
-description: 'The Synthetic Bio-Logistics Energetic Gate (SAE-Gate) identifies the inflection point where synthetic biology transcends laboratory-scale pr'
+description: 'The Synthetic Bio-Logistics Energetic Gate (SAE-Gate) identifies the inflection point where synthetic biology transcends laboratory-scale pr…'
 pubDate: 2026-06-19
 category: 'invest'
 topic: 'research'

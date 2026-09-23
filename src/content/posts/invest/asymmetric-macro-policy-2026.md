@@ -1,6 +1,6 @@
 ---
 title: 'Asymmetric Macro Policy & Stagflationary Constraints (2026)'
-description: 'Central banks (Fed, ECB) are navigating a regime of "Policy Paralysis," where the traditional trade-offs between inflation control and econo'
+description: 'Central banks (Fed, ECB) are navigating a regime of "Policy Paralysis," where the traditional trade-offs between inflation control and econo…'
 pubDate: 2026-05-27
 category: 'invest'
 topic: 'research'

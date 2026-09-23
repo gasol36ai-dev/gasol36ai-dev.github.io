@@ -1,6 +1,6 @@
 ---
 title: 'Agentic Macro-Microstructure Convergence (2026)'
-description: 'The disconnect between high-frequency market microstructures and long-term macro-economic regimes is the primary source of systemic volatili'
+description: 'The disconnect between high-frequency market microstructures and long-term macro-economic regimes is the primary source of systemic volatili…'
 pubDate: 2026-06-29
 category: 'invest'
 topic: 'research'

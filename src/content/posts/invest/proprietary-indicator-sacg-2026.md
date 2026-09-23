@@ -1,6 +1,6 @@
 ---
 title: 'PROPRIETARY INDICATOR: Sovereign Autarky Convergence Gate (SACG-2026)'
-description: 'The Sovereign Autarky Convergence Gate (SACG-2026) is a hyper-sovereign judgment indicator that monitors the simultaneous alignment of three'
+description: 'The Sovereign Autarky Convergence Gate (SACG-2026) is a hyper-sovereign judgment indicator that monitors the simultaneous alignment of three…'
 pubDate: 2026-06-26
 category: 'invest'
 topic: 'research'

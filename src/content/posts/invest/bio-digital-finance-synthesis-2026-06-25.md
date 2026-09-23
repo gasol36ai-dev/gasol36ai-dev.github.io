@@ -1,6 +1,6 @@
 ---
 title: 'Bio-Digital Finance Synthesis - 2026-06-25'
-description: 'The convergence of Sovereign Wealth Funds (SWFs) and Synthetic Biology creates a new asset class: "Bio-Programmable Capital." In this regime'
+description: 'The convergence of Sovereign Wealth Funds (SWFs) and Synthetic Biology creates a new asset class: "Bio-Programmable Capital." In this regime…'
 pubDate: 2026-06-25
 category: 'invest'
 topic: 'research'

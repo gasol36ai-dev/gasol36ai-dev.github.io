@@ -1,6 +1,6 @@
 ---
 title: 'Report: Quantum-Safe Financial Microstructure (QSFM) Analysis'
-description: 'The transition to Post-Quantum Cryptography (PQC) introduces a fundamental shift in the physics of financial microstructure. While classical'
+description: 'The transition to Post-Quantum Cryptography (PQC) introduces a fundamental shift in the physics of financial microstructure. While classical…'
 pubDate: 2026-07-14
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'TradeFM: Generative Foundation Model for Market Microstructure'
-description: 'TradeFM is a Generative Foundation Model designed specifically for the analysis and prediction of trade-flow and market microstructure. Unli'
+description: 'TradeFM is a Generative Foundation Model designed specifically for the analysis and prediction of trade-flow and market microstructure. Unli…'
 pubDate: 2026-06-01
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'CFO Macro Evolution Engine Report - 2026-05-24'
-description: 'On 2026-05-24, the CFO executed the Macro Evolution Engine to synthesize recent high-impact research and market structural observations. The'
+description: 'On 2026-05-24, the CFO executed the Macro Evolution Engine to synthesize recent high-impact research and market structural observations. The…'
 pubDate: 2026-05-24
 category: 'invest'
 topic: 'research'

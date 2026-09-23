@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Data Autarky: Frameworks for National AI Independence'
-description: 'To achieve this, national AI strategies must converge three critical technologies: Trusted Execution Environments (TEEs), Fully Homomorphic '
+description: 'To achieve this, national AI strategies must converge three critical technologies: Trusted Execution Environments (TEEs), Fully Homomorphic …'
 pubDate: 2026-06-16
 category: 'invest'
 topic: 'ai-robotics'

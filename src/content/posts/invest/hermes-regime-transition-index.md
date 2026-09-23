@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Regime Transition Index (HRTI)'
-description: 'The Hermes Regime Transition Index (HRTI) is a proprietary synthetic indicator designed to filter technical signals based on the underlying '
+description: 'The Hermes Regime Transition Index (HRTI) is a proprietary synthetic indicator designed to filter technical signals based on the underlying …'
 pubDate: 2026-04-30
 category: 'invest'
 topic: 'research'

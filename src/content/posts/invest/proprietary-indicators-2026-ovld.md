@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Orbital-Vacuum Latency Divergence (OVLD)'
-description: 'The Orbital-Vacuum Latency Divergence (OVLD) is a high-frequency systemic risk indicator designed to detect periods of extreme macro-fragili'
+description: 'The Orbital-Vacuum Latency Divergence (OVLD) is a high-frequency systemic risk indicator designed to detect periods of extreme macro-fragili…'
 pubDate: 2026-06-12
 category: 'invest'
 topic: 'research'

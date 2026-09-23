@@ -1,6 +1,6 @@
 ---
 title: 'Neuro-Financial Interfaces (NFI) & Emotional-Sentiment Arbitrage'
-description: 'The emergence of high-fidelity Neuro-Financial Interfaces (NFIs)—BCIs (Brain-Computer Interfaces) capable of real-time biometric and neural '
+description: 'The emergence of high-fidelity Neuro-Financial Interfaces (NFIs)—BCIs (Brain-Computer Interfaces) capable of real-time biometric and neural …'
 pubDate: 2026-06-17
 category: 'invest'
 topic: 'research'

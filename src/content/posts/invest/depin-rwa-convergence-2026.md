@@ -1,6 +1,6 @@
 ---
 title: 'DePIN & RWA Tokenization Convergence 2026'
-description: 'The intersection of Decentralized Physical Infrastructure Networks (DePIN) and Real-World Asset (RWA) Tokenization has created a powerful "f'
+description: 'The intersection of Decentralized Physical Infrastructure Networks (DePIN) and Real-World Asset (RWA) Tokenization has created a powerful "f…'
 pubDate: 2026-06-02
 category: 'invest'
 topic: 'research'

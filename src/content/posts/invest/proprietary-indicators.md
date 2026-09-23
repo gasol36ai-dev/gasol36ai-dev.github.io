@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Proprietary Judgment Indicators (HPI)'
-description: 'The Hermes Proprietary Indicators (HPI) are synthetic judgment metrics designed to bridge the gap between raw technical data (Order Flow/VP)'
+description: 'The Hermes Proprietary Indicators (HPI) are synthetic judgment metrics designed to bridge the gap between raw technical data (Order Flow/VP)…'
 pubDate: 2026-06-18
 category: 'invest'
 topic: 'research'

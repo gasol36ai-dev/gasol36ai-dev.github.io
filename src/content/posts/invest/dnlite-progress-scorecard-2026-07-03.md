@@ -1,6 +1,6 @@
 ---
 title: '🧬 DNlite Progress Scorecard — July 3, 2026'
-description: 'As of July 3, 2026, DNlite (Shin-Ying Biomed) monitoring shows no new developments across any tracked dimension. Two ClinicalTrials.gov stud'
+description: 'As of July 3, 2026, DNlite (Shin-Ying Biomed) monitoring shows no new developments across any tracked dimension. Two ClinicalTrials.gov stud…'
 pubDate: 2026-07-03
 category: 'invest'
 topic: 'research'

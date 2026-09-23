@@ -1,6 +1,6 @@
 ---
 title: 'QSIG: Quantum-Spatial Sovereignty Inflection Gate (HPI-24)'
-description: 'The Quantum-Spatial Sovereignty Inflection Gate (QSIG) is a multi-domain proprietary indicator that detects the convergence of three distinc'
+description: 'The Quantum-Spatial Sovereignty Inflection Gate (QSIG) is a multi-domain proprietary indicator that detects the convergence of three distinc…'
 pubDate: 2026-06-02
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Swarm Autarky Gate (SSAG)'
-description: 'The SSAG measures the transition of agentic swarms from "tethered tools" (dependent on grid power, cloud backhaul, and volatile memory) to "'
+description: 'The SSAG measures the transition of agentic swarms from "tethered tools" (dependent on grid power, cloud backhaul, and volatile memory) to "…'
 pubDate: 2026-06-14
 category: 'invest'
 topic: 'research'

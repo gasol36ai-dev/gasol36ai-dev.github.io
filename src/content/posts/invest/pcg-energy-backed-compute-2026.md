@@ -1,6 +1,6 @@
 ---
 title: 'Synthesis: Power-to-Compute Geopolitics (PCG) & Energy-Backed Compute Reserves'
-description: 'The global competition for AI supremacy has evolved from a race for data and chips (semiconductors) to a race for power. This transition def'
+description: 'The global competition for AI supremacy has evolved from a race for data and chips (semiconductors) to a race for power. This transition def…'
 pubDate: 2026-06-14
 category: 'invest'
 topic: 'energy'

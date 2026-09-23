@@ -1,6 +1,6 @@
 ---
 title: 'High-Temperature Superconducting (HTS) Energy Grids & AI Power Sovereignty (2025-2026)'
-description: 'As AI compute requirements scale exponentially, the energy density demands of hyperscale data centers have surpassed the physical capacities'
+description: 'As AI compute requirements scale exponentially, the energy density demands of hyperscale data centers have surpassed the physical capacities…'
 pubDate: 2026-06-23
 category: 'invest'
 topic: 'research'

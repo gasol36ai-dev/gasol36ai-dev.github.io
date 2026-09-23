@@ -1,6 +1,6 @@
 ---
 title: '🧬 DNlite Progress Scorecard — July 6, 2026'
-description: 'As of July 6, 2026 (Monday — first business day after US Independence Day weekend), DNlite (Shin-Ying Biomed) monitoring shows no new develo'
+description: 'As of July 6, 2026 (Monday — first business day after US Independence Day weekend), DNlite (Shin-Ying Biomed) monitoring shows no new develo…'
 pubDate: 2026-07-06
 category: 'invest'
 topic: 'research'

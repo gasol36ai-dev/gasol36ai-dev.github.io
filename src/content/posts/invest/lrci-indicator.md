@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Liquidity-Regime Convergence Index (LRCI)'
-description: 'Price action is often misleading when viewed in isolation. True directional conviction occurs when Micro-Order Flow (immediate liquidity) co'
+description: 'Price action is often misleading when viewed in isolation. True directional conviction occurs when Micro-Order Flow (immediate liquidity) co…'
 pubDate: 2026-05-13
 category: 'invest'
 topic: 'research'

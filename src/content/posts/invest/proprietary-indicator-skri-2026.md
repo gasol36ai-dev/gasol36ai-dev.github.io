@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Kinetic Resilience Index (SKRI-2026)'
-description: 'The Sovereign Kinetic Resilience Index (SKRI-2026) is a convergence indicator that measures the structural viability of a Physical AI deploy'
+description: 'The Sovereign Kinetic Resilience Index (SKRI-2026) is a convergence indicator that measures the structural viability of a Physical AI deploy…'
 pubDate: 2026-07-10
 category: 'invest'
 topic: 'ai-robotics'

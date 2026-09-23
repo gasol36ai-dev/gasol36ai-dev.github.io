@@ -1,6 +1,6 @@
 ---
 title: 'Agentic Macro-Economics'
-description: 'Autonomous agents fundamentally alter the nature of market liquidity by decoupling execution from human latency and psychological hesitation'
+description: 'Autonomous agents fundamentally alter the nature of market liquidity by decoupling execution from human latency and psychological hesitation…'
 pubDate: 2026-06-06
 category: 'invest'
 topic: 'research'

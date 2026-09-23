@@ -1,6 +1,6 @@
 ---
 title: 'The Autarkic Intelligence Loop (AIL) Gate'
-description: 'The Autarkic Intelligence Loop (AIL) Gate is a sovereign convergence indicator that signals the transition of an AI system from "Dependent I'
+description: 'The Autarkic Intelligence Loop (AIL) Gate is a sovereign convergence indicator that signals the transition of an AI system from "Dependent I…'
 pubDate: 2026-06-25
 category: 'invest'
 topic: 'ai-robotics'

@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Resistant Financial Microstructure: Research 2026'
-description: 'As of 2026, the financial sector faces a systemic risk known as the "Quantum Threat." The advent of cryptographically relevant quantum compu'
+description: 'As of 2026, the financial sector faces a systemic risk known as the "Quantum Threat." The advent of cryptographically relevant quantum compu…'
 pubDate: 2026-06-07
 category: 'invest'
 topic: 'research'

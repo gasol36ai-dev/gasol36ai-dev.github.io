@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: The Coherence-Fragility Index (CFI)'
-description: 'The CFI maps the intersection of Algorithmic Coherence (from Swarm intelligence) and Fractal Liquidity Dimension (from Macro-Financial Fract'
+description: 'The CFI maps the intersection of Algorithmic Coherence (from Swarm intelligence) and Fractal Liquidity Dimension (from Macro-Financial Fract…'
 pubDate: 2026-06-12
 category: 'invest'
 topic: 'research'

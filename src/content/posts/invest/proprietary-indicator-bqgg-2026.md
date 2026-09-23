@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Bio-Quantum Governance Gate (BQGG)'
-description: 'The Bio-Quantum Governance Gate (BQGG) is a high-order synthesis indicator designed to detect the inflection point where Biological-Digital '
+description: 'The Bio-Quantum Governance Gate (BQGG) is a high-order synthesis indicator designed to detect the inflection point where Biological-Digital …'
 pubDate: 2026-06-08
 category: 'invest'
 topic: 'research'

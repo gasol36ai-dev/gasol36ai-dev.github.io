@@ -1,6 +1,6 @@
 ---
 title: 'Liquidity Geometric Divergence Gate (LGDG)'
-description: 'The LGDG is a proprietary Hermes judgment logic designed to identify "Structural Liquidity Traps"—regimes where the market''s relational subs'
+description: 'The LGDG is a proprietary Hermes judgment logic designed to identify "Structural Liquidity Traps"—regimes where the market''s relational subs…'
 pubDate: 2026-05-24
 category: 'invest'
 topic: 'research'

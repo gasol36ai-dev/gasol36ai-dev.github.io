@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: The Kinetic-Liquidity-Logic (KLL) Gate (2026)'
-description: 'The Kinetic-Liquidity-Logic (KLL) Gate is a hyper-sovereign convergence indicator that measures a state''s ability to synchronize Provable Ph'
+description: 'The Kinetic-Liquidity-Logic (KLL) Gate is a hyper-sovereign convergence indicator that measures a state''s ability to synchronize Provable Ph…'
 pubDate: 2026-06-28
 category: 'invest'
 topic: 'research'

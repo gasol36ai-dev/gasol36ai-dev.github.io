@@ -1,6 +1,6 @@
 ---
 title: 'Critical Minerals Geopolitics (2026)'
-description: 'The global critical minerals landscape in 2026 is characterized by a "tactical thaw" from China masking an accelerating structural race for '
+description: 'The global critical minerals landscape in 2026 is characterized by a "tactical thaw" from China masking an accelerating structural race for …'
 pubDate: 2026-05-28
 category: 'invest'
 topic: 'research'

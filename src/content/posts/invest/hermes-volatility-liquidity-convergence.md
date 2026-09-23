@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Volatility-Liquidity Convergence Indicator (HVLC)'
-description: 'The Hermes Volatility-Liquidity Convergence (HVLC) indicator is a proprietary judgment logic designed to identify "High-Conviction Reversals'
+description: 'The Hermes Volatility-Liquidity Convergence (HVLC) indicator is a proprietary judgment logic designed to identify "High-Conviction Reversals…'
 pubDate: 2026-05-05
 category: 'invest'
 topic: 'research'

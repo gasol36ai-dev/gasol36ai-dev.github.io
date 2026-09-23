@@ -1,6 +1,6 @@
 ---
 title: 'Synthesis: Terahertz (THz) Communications and 6G Sovereignty'
-description: 'The transition to 6G introduces Terahertz (THz) frequencies (0.1 THz to 10 THz), creating a paradigm shift in "Sovereign Connectivity." Unli'
+description: 'The transition to 6G introduces Terahertz (THz) frequencies (0.1 THz to 10 THz), creating a paradigm shift in "Sovereign Connectivity." Unli…'
 pubDate: 2026-06-27
 category: 'invest'
 topic: 'research'

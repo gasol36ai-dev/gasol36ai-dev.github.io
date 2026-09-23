@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign AI-Native Law & Jurisprudence (SAIL) Framework 2026'
-description: 'Sovereign AI-Native Law (SAIL) represents a paradigm shift from interpretive law (human-mediated) to executable law (algorithmically enforce'
+description: 'Sovereign AI-Native Law (SAIL) represents a paradigm shift from interpretive law (human-mediated) to executable law (algorithmically enforce…'
 pubDate: 2026-06-15
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Bio-mimetic Stiffness Tuning'
-description: 'The ability of a soft actuator to transition from a flexible state to a rigid state. In LMAs, this is often achieved by controlling the ther'
+description: 'The ability of a soft actuator to transition from a flexible state to a rigid state. In LMAs, this is often achieved by controlling the ther…'
 pubDate: 2026-07-11
 category: 'invest'
 topic: 'research'

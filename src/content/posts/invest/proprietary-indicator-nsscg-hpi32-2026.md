@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Neuro-Symbolic Sovereign Compute Gate (NSSCG) — HPI-32'
-description: 'The NSSCG is a convergent sovereign judgment indicator that monitors the intersection of three mutually-dependent infrastructure layers requ'
+description: 'The NSSCG is a convergent sovereign judgment indicator that monitors the intersection of three mutually-dependent infrastructure layers requ…'
 pubDate: 2026-06-16
 category: 'invest'
 topic: 'research'

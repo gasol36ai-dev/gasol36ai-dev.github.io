@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Sovereign Kinetic Autonomy (SKA-2026)'
-description: 'The Sovereign Kinetic Autonomy (SKA-2026) indicator signals the transition of an autonomous system from "reactive robotics" to a "sovereign '
+description: 'The Sovereign Kinetic Autonomy (SKA-2026) indicator signals the transition of an autonomous system from "reactive robotics" to a "sovereign …'
 pubDate: 2026-07-14
 category: 'invest'
 topic: 'ai-robotics'

@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Atmospheric Energy Harvesting & Plasma Power (2026) - ENRICHED'
-description: 'This report examines the frontier of high-frequency atmospheric energy harvesting and plasma-based power systems. The goal is the realizatio'
+description: 'This report examines the frontier of high-frequency atmospheric energy harvesting and plasma-based power systems. The goal is the realizatio…'
 pubDate: 2026-06-26
 category: 'invest'
 topic: 'research'

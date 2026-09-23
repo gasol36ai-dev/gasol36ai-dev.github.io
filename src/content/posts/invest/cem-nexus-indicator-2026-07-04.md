@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Judgment Indicator: The CEM Nexus Indicator (2026)'
-description: 'The Continuous-Energy-Mineral (CEM) Nexus Indicator is a hyper-sovereign judgment gate synthesized from the convergence of three distinct st'
+description: 'The Continuous-Energy-Mineral (CEM) Nexus Indicator is a hyper-sovereign judgment gate synthesized from the convergence of three distinct st…'
 pubDate: 2026-07-04
 category: 'invest'
 topic: 'research'

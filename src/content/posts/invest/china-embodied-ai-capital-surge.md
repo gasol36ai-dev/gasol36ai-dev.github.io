@@ -1,6 +1,6 @@
 ---
 title: 'China Embodied AI Capital Surge'
-description: 'This concept pointer is part of the 2026-08 Physical AI / Sovereign Infrastructure research cycle. It cross-references sibling indicators an'
+description: 'This concept pointer is part of the 2026-08 Physical AI / Sovereign Infrastructure research cycle. It cross-references sibling indicators an…'
 pubDate: 2026-08-12
 category: 'invest'
 topic: 'ai-robotics'

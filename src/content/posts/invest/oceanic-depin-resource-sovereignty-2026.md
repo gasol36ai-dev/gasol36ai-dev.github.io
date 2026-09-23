@@ -1,6 +1,6 @@
 ---
 title: 'Report: Oceanic DePIN & Resource Sovereignty'
-description: 'Oceanic DePIN (Decentralized Physical Infrastructure Networks) represents the convergence of blockchain-incentivized hardware deployment and'
+description: 'The transition of compute to the ocean floor is driven by the thermodynamics of the deep.'
 pubDate: 2026-06-13
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: '🧬 DNlite Progress Scorecard — July 2, 2026'
-description: 'As of July 2, 2026, the clinical trial landscape for DNlite (Shin-Ying Biomed) shows mixed signals. Study NCT05963126 ("Fetuin A as a Predic'
+description: 'As of July 2, 2026, the clinical trial landscape for DNlite (Shin-Ying Biomed) shows mixed signals. Study NCT05963126 ("Fetuin A as a Predic…'
 pubDate: 2026-07-02
 category: 'invest'
 topic: 'research'

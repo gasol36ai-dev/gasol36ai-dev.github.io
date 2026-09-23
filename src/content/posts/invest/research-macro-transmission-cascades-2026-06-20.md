@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Macro-Transmission Cascades (June 2026)'
-description: 'Macro-Transmission Cascades in 2026 have evolved from linear, rate-sensitive adjustments to non-linear, structural "step-function" shifts. T'
+description: 'Macro-Transmission Cascades in 2026 have evolved from linear, rate-sensitive adjustments to non-linear, structural "step-function" shifts. T…'
 pubDate: 2026-06-20
 category: 'invest'
 topic: 'research'

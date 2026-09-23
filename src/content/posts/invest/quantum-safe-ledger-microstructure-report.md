@@ -1,6 +1,6 @@
 ---
 title: 'Research Report: Quantum-Safe Distributed Ledger Microstructure in Sovereign Financial Systems'
-description: 'The migration of sovereign financial systems to quantum-safe distributed ledgers is necessitated by the looming threat of Shor''s algorithm t'
+description: 'The migration of sovereign financial systems to quantum-safe distributed ledgers is necessitated by the looming threat of Shor''s algorithm t…'
 pubDate: 2026-07-09
 category: 'invest'
 topic: 'research'

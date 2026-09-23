@@ -1,6 +1,6 @@
 ---
 title: 'Neuro-Symbolic Financial Microstructure (NSFM): 2026 Synthesis'
-description: 'Neuro-Symbolic Financial Microstructure (NSFM) represents the synthesis of connectionist AI (Deep Learning) and symbolic AI (Formal Logic) t'
+description: 'Neuro-Symbolic Financial Microstructure (NSFM) represents the synthesis of connectionist AI (Deep Learning) and symbolic AI (Formal Logic) t…'
 pubDate: 2026-06-23
 category: 'invest'
 topic: 'research'

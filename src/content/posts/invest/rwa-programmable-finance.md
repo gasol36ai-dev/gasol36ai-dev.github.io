@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Research: RWA Tokenization & Programmable Finance (HPI-44)'
-description: 'This report examines the transformation of traditional financial assets into programmable, liquid, and hyper-efficient digital tokens via Re'
+description: 'This report examines the transformation of traditional financial assets into programmable, liquid, and hyper-efficient digital tokens via Re…'
 pubDate: 2026-06-19
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Hermes Gamma-Liquidity Filter (HGLF)'
-description: 'The HGLF is a high-precision filter designed to distinguish between "true breakouts" and "liquidity traps" by analyzing the interaction betw'
+description: 'The HGLF is a high-precision filter designed to distinguish between "true breakouts" and "liquidity traps" by analyzing the interaction betw…'
 pubDate: 2026-04-25
 category: 'invest'
 topic: 'research'

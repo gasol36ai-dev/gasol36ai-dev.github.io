@@ -1,6 +1,6 @@
 ---
 title: 'Resource-Strategic Fragility Gate (RSFG)'
-description: 'The RSFG is a high-fidelity indicator designed to detect the onset of "Resource Weaponization" and "Supply Chain Fragmentation" cycles. It i'
+description: 'The RSFG is a high-fidelity indicator designed to detect the onset of "Resource Weaponization" and "Supply Chain Fragmentation" cycles. It i…'
 pubDate: 2026-05-26
 category: 'invest'
 topic: 'research'

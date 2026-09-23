@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: Hermes Regime-Aware Order Flow Filter (RA-OFF)'
-description: 'Existing order flow signals (like Delta Divergence) often fail in strong trending regimes because they signal reversals that are simply "abs'
+description: 'Existing order flow signals (like Delta Divergence) often fail in strong trending regimes because they signal reversals that are simply "abs…'
 pubDate: 2026-06-27
 category: 'invest'
 topic: 'research'

@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Energy Governance'
-description: 'Sovereign Energy Governance refers to the legal, social, and organizational frameworks used by communities to manage their own energy assets'
+description: 'Sovereign Energy Governance refers to the legal, social, and organizational frameworks used by communities to manage their own energy assets…'
 pubDate: 2026-07-13
 category: 'invest'
 topic: 'energy'

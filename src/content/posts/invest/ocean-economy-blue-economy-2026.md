@@ -1,6 +1,6 @@
 ---
 title: 'Ocean Economy & Blue Economy Infrastructure 2026'
-description: 'The Blue Economy in 2026 is estimated at ~USD 2.46 trillion globally, growing at ~6.8% CAGR. It encompasses the sustainable use of ocean res'
+description: 'The Blue Economy in 2026 is estimated at ~USD 2.46 trillion globally, growing at ~6.8% CAGR. It encompasses the sustainable use of ocean res…'
 pubDate: 2026-05-30
 category: 'invest'
 topic: 'research'

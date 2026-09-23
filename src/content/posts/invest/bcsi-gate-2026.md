@@ -1,6 +1,6 @@
 ---
 title: 'Bio-Computational Sovereignty Inflection (BCSI) Gate'
-description: 'The Bio-Computational Sovereignty Inflection (BCSI) Gate is a high-order, multi-domain convergent indicator. It identifies the critical infl'
+description: 'The Bio-Computational Sovereignty Inflection (BCSI) Gate is a high-order, multi-domain convergent indicator. It identifies the critical infl…'
 pubDate: 2026-06-17
 category: 'invest'
 topic: 'research'

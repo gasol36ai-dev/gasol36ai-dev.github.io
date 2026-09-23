@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Judgment Indicator: Quantum-Sovereign Morphological Gate (QSMG)'
-description: 'The Quantum-Sovereign Morphological Gate (QSMG) is a high-order synthesis indicator designed to detect the inflection point where a state''s '
+description: 'The Quantum-Sovereign Morphological Gate (QSMG) is a high-order synthesis indicator designed to detect the inflection point where a state''s …'
 pubDate: 2026-06-11
 category: 'invest'
 topic: 'research'

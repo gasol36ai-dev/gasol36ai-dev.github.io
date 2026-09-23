@@ -1,6 +1,6 @@
 ---
 title: 'Resource-to-Intelligence Ratio ($\\chi{ce}$)'
-description: 'The Resource-to-Intelligence Ratio ($\\chi{ce}$) is a strategic metric used to quantify the efficiency with which a sovereign entity converts'
+description: 'The ratio is conceptualized as:'
 pubDate: 2026-07-13
 category: 'invest'
 topic: 'research'

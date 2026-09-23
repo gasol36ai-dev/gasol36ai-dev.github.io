@@ -1,6 +1,6 @@
 ---
 title: 'Synthesis: Cross-Chain Sovereign Credit-Swap Layers for AI-Native Financial Autonomy'
-description: 'The transition from Centralized Clearing (CC) to AI-Driven Cross-Chain Layers represents a move from institutional trust to computational pr'
+description: 'The transition from Centralized Clearing (CC) to AI-Driven Cross-Chain Layers represents a move from institutional trust to computational pr…'
 pubDate: 2026-06-21
 category: 'invest'
 topic: 'research'

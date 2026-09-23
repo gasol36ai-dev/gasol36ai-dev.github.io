@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicator: The Quantum-Latency-Liquidity (QLL) Divergence Gate'
-description: 'The indicator is triggered when the Quantum-Latency-Liquidity (QLL) Coefficient ($\\Omega{QLL}$) exceeds a critical threshold ($\\sigma$).'
+description: '1. Latency Spike: The sudden increase in signing/verification overhead (PQC) causes a measurable rise in the micro-latency floor.'
 pubDate: 2026-07-01
 category: 'invest'
 topic: 'research'

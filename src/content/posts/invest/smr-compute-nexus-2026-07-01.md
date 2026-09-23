@@ -1,6 +1,6 @@
 ---
 title: 'Strategic Research: SMR-integrated Hyper-scale Compute (The Energy-Compute Nexus)'
-description: 'The convergence of Small Modular Reactors (SMRs) and Hyper-Scale AI Compute has evolved from a strategic ambition to a critical sovereign re'
+description: 'The convergence of Small Modular Reactors (SMRs) and Hyper-Scale AI Compute has evolved from a strategic ambition to a critical sovereign re…'
 pubDate: 2026-07-01
 category: 'invest'
 topic: 'research'

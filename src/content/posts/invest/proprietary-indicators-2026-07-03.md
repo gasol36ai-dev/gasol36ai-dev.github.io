@@ -1,6 +1,6 @@
 ---
 title: 'Proprietary Indicators - 2026-07-03'
-description: '$$\\text{EAT}{Active} = \\left( \\frac{\\text{Energy}{Harvested}}{\\text{Energy}{Consumed}} \\right) \\cdot \\left( \\frac{\\text{Actuation}{Reliabili'
+description: ''
 pubDate: 2026-07-03
 category: 'invest'
 topic: 'research'

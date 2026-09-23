@@ -1,6 +1,6 @@
 ---
 title: 'Concept: RWA Liquidity Scaling'
-description: 'The process of increasing the depth, velocity, and accessibility of Real World Asset (RWA) tokenized versions on-chain, moving from fragment'
+description: 'The process of increasing the depth, velocity, and accessibility of Real World Asset (RWA) tokenized versions on-chain, moving from fragment…'
 pubDate: 2026-07-14
 category: 'invest'
 topic: 'research'

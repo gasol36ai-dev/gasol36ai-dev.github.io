@@ -1,6 +1,6 @@
 ---
 title: 'Sovereign Compute Infrastructure: Geopolitics & Chip Manufacturing (2026 Synthesis)'
-description: 'As of 2026, "Sovereign Compute" has evolved from a procurement strategy (buying GPUs) to a full-stack architectural mandate. The global land'
+description: 'As of 2026, "Sovereign Compute" has evolved from a procurement strategy (buying GPUs) to a full-stack architectural mandate. The global land…'
 pubDate: 2026-06-17
 category: 'invest'
 topic: 'research'
