@@ -56,6 +56,7 @@ def report(status, note=""):
             f"· 新增分類：{R.get('newly', 0)} 檔",
             f"· 文章總數：{R.get('posts', '?')} 篇（排除 {R.get('excluded', '?')} 檔）",
             f"· IPO 跑馬燈：{R.get('ipo', '?')}",
+            f"· 圖表：{R.get('charts', '?')}",
             "· 機密閘門：通過（BLOCK = 0）",
             f"· 建置：{R.get('pages', '?')}",
             f"· 推送：{R.get('push', '?')}",
@@ -109,6 +110,17 @@ def main():
                 R["ipo"] = "無資料"
         except Exception as e:
             R["ipo"] = f"抓取異常（非致命）：{type(e).__name__}"
+
+        # 2c. 圖表（非致命）：語料統計圖 → public/charts/
+        try:
+            PY = os.path.join(ROOT, ".venv", "bin", "python")
+            PY = PY if os.path.exists(PY) else sys.executable
+            ch = subprocess.run([PY, "scripts/make_charts.py"], cwd=ROOT,
+                                capture_output=True, text=True, timeout=900)
+            line = next((l.strip() for l in ch.stderr.splitlines() if l.startswith("CHARTS：")), None)
+            R["charts"] = line.replace("CHARTS：", "") if line else "無輸出（非致命）"
+        except Exception as e:
+            R["charts"] = f"異常（非致命）：{type(e).__name__}"
 
         # 3. 機密閘門（fail-closed）
         g = subprocess.run([sys.executable, "scripts/nda_check.py"], cwd=ROOT,

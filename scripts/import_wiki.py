@@ -2,6 +2,10 @@
 # -*- coding: utf-8 -*-
 """
 Step 2：讀 wiki_index.json → 產生 Astro 文章（含 frontmatter、NDA 宣告）
+
+圖表：wiki 筆記內的本機圖片連結會先同步到 public/charts/，並改寫成 /charts/<檔名>
+      （否則相對連結在網站上必定 404；見 sync_charts.py）。
+
 用法：
     python3 scripts/import_wiki.py --dry-run    # 只報告，不寫檔
     python3 scripts/import_wiki.py              # 實際寫入 src/content/posts/invest/
@@ -11,6 +15,7 @@ import argparse, json, os, re, shutil, sys, unicodedata
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "scripts"))
 import nda_check
+import sync_charts
 
 WIKI = os.path.expanduser("~/.hermes/wiki/投資")
 INDEX = os.path.join(ROOT, "scripts", "wiki_index.json")
@@ -56,7 +61,7 @@ def first_paragraph(body: str) -> str:
         line = raw.strip()
         if not line or line.startswith("#") or line.startswith("|") or line.startswith(">"):
             continue
-        if line.startswith(("-", "*", "```")):
+        if line.startswith(("-", "*", "```", "![")):
             continue
         # 含 LaTeX／跳脫字元的行直接跳過，改取第一段乾淨散文（避免碎片外露）
         if "$" in line or "\\" in line:
@@ -81,8 +86,11 @@ def main():
         sys.exit(f"❌ 找不到 {INDEX}，請先執行 classify_wiki.py")
     idx = json.load(open(INDEX, encoding="utf-8"))
 
+    # 圖表同步（wiki 圖片 → public/charts/）；dry-run 時只計算不複製
+    chart_map = sync_charts.sync(dry_run=args.dry_run)
+
     used = set()
-    plan, skipped = [], []
+    plan, skipped, with_charts = [], [], []
 
     for rel in sorted(idx):
         info = idx[rel]
@@ -107,6 +115,11 @@ def main():
             skipped.append((rel, f"READ: {e}"))
             continue
         body = FM_RE.sub("", raw).strip()
+        if chart_map:
+            new_body = sync_charts.rewrite(body, src_path, chart_map)
+            if new_body != body:
+                with_charts.append(rel)
+            body = new_body
 
         slug = slugify(os.path.splitext(os.path.basename(rel))[0])
         if slug in used:
@@ -141,6 +154,7 @@ def main():
         plan.append((slug, topic, rel, out))
 
     print(f"可匯入 {len(plan)} 檔；排除 {len(skipped)} 檔")
+    print(f"圖表 {len(chart_map)} 張（引用筆記 {len(with_charts)} 篇）")
     from collections import Counter
     print("\n═══ 分類分佈 ═══")
     for k, v in Counter(t for _, t, _, _ in plan).most_common():

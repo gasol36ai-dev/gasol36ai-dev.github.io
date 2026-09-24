@@ -5,6 +5,10 @@ dist/
 # dependencies
 node_modules/
 
+# Python（圖表產生器用；uv venv 會自建 .venv/.gitignore，這裡再明示一層防呆）
+.venv/
+scripts/.charts_manifest.json
+
 # logs
 npm-debug.log*
 pnpm-debug.log*
