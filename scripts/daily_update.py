@@ -172,7 +172,10 @@ def main():
             return 4
 
         bad = []
-        for p in ["/", "/invest/", "/about/", "/invest/research/", "/rss.xml"]:
+        MUST_EXIST = ["/", "/invest/", "/invest/research/", "/rss.xml", "/sitemap-index.xml"]
+        # 已移除的路由：必須 404（防止誤復活）
+        MUST_404 = ["/about/"]
+        for p in MUST_EXIST:
             try:
                 c = subprocess.run(["curl", "-s", "-o", "/dev/null", "-w", "%{http_code}",
                                     BASE_URL + p], capture_output=True, text=True, timeout=30).stdout.strip()
@@ -180,10 +183,18 @@ def main():
                 c = "ERR"
             if c != "200":
                 bad.append(f"{p}={c}")
+        for p in MUST_404:
+            try:
+                c = subprocess.run(["curl", "-s", "-o", "/dev/null", "-w", "%{http_code}",
+                                    BASE_URL + p], capture_output=True, text=True, timeout=30).stdout.strip()
+            except Exception:
+                c = "ERR"
+            if c == "200":
+                bad.append(f"{p} 應為 404 卻回 200")
         if bad:
             ERR.append("線上實查失敗：" + ", ".join(bad))
             return 5
-        R["live"] = "5 條關鍵路由全 200"
+        R["live"] = f"{len(MUST_EXIST)} 條關鍵路由全 200、{len(MUST_404)} 條已移除路由全 404"
         R["secs"] = f"{time.time()-t0:.0f}"
         print(report("ok"))
         return 0
