@@ -7,6 +7,7 @@
   0. 前置檢查（Ollama 可用）
   1. classify_wiki.py  只分類新增檔案（斷點續傳）
   2. import_wiki.py    重建文章（來源已刪除者自動移除）
+  2b. fetch_ipo.py     抓今日 IPO 申購截止 → src/data/ipo.json（首頁跑馬燈；非致命）
   3. nda_check.py      ★ 機密閘門：BLOCK → 中止，絕不推送
   4. pnpm build
   5. git commit + push（無變更則跳過）
@@ -54,6 +55,7 @@ def report(status, note=""):
             f"· wiki 檔案：{R.get('wiki', '?')} 個 .md",
             f"· 新增分類：{R.get('newly', 0)} 檔",
             f"· 文章總數：{R.get('posts', '?')} 篇（排除 {R.get('excluded', '?')} 檔）",
+            f"· IPO 跑馬燈：{R.get('ipo', '?')}",
             "· 機密閘門：通過（BLOCK = 0）",
             f"· 建置：{R.get('pages', '?')}",
             f"· 推送：{R.get('push', '?')}",
@@ -94,6 +96,19 @@ def main():
             if "可匯入" in l:
                 R["posts"] = l.split("可匯入")[1].split("檔")[0].strip()
                 R["excluded"] = l.split("排除")[1].split("檔")[0].strip()
+
+        # 2b. IPO 申購資料（首頁跑馬燈）— 非致命：失敗不影響 wiki 同步
+        try:
+            ip = subprocess.run([sys.executable, "scripts/fetch_ipo.py"], cwd=ROOT,
+                                capture_output=True, text=True, timeout=900)
+            line = next((l.strip() for l in ip.stderr.splitlines()
+                         if l.startswith("IPO：") or "IPO 抓取失敗" in l), None)
+            if line:
+                R["ipo"] = line.replace("IPO：", "").replace("IPO 抓取失敗（非致命）：", "抓取失敗 ")
+            else:
+                R["ipo"] = "無資料"
+        except Exception as e:
+            R["ipo"] = f"抓取異常（非致命）：{type(e).__name__}"
 
         # 3. 機密閘門（fail-closed）
         g = subprocess.run([sys.executable, "scripts/nda_check.py"], cwd=ROOT,

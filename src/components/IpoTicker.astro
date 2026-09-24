@@ -1,0 +1,239 @@
+---
+/**
+ * IPO 申購跑馬燈（首頁置頂）
+ *
+ * 設計要點：
+ *  1. 「當天才有效」→ 前端以**日期＋時間雙閘門**判斷，過期一律不顯示：
+ *       資料日期 != 今天（瀏覽器）  → 完全不顯示
+ *       今天但已過 14:00（申購截止）→ 顯示為「已截止」靜態條
+ *       今天且未過 14:00           → 跑馬燈（可點擊連結）
+ *  2. 伺服器端先渲染成 hidden，由 JS 決定是否顯示 —— 避免舊資料一閃。
+ *  3. 無當日標的時整個區塊不輸出。
+ */
+import ipoData from '../data/ipo.json';
+
+const items = (ipoData.items ?? []) as Array<{
+  code: string; name: string; market: string; period: string;
+  underwrite_price: number | null; market_price: number | null;
+  spread: number | null; lottery_date: string | null; qualified: boolean;
+}>;
+
+const show = ipoData.source_ok && items.length > 0;
+const qualifiedCount = items.filter((i) => i.qualified).length;
+---
+
+{show && (
+  <section
+    id="ipo-ticker"
+    class="ipo"
+    hidden
+    data-date={ipoData.date}
+    data-source-ok={String(ipoData.source_ok)}
+  >
+    <div class="ipo__bar">
+      <span class="ipo__label">
+        <span class="ipo__dot" aria-hidden="true"></span>
+        <span class="ipo__label-active">今日申購截止</span>
+        <span class="ipo__label-closed">已截止</span>
+      </span>
+
+      <div class="ipo__viewport">
+        <div class="ipo__track">
+          {[0, 1].map((dup) => (
+            <div class={`ipo__group${dup === 1 ? ' ipo__group--dup' : ''}`} aria-hidden={dup === 1 ? 'true' : undefined}>
+              {items.map((it) => (
+                <span class={`ipo__item${it.qualified ? ' is-hot' : ''}`}>
+                  <b>{it.code}</b> {it.name}
+                  <i class="ipo__sep">｜</i>{it.market}
+                  <i class="ipo__sep">｜</i>申購 {it.period}
+                  {it.underwrite_price != null && (<><i class="ipo__sep">｜</i>承銷價 {it.underwrite_price}</>)}
+                  {it.market_price != null && (<><i class="ipo__sep">｜</i>市價 {it.market_price}</>)}
+                  {it.spread != null && (
+                    <><i class="ipo__sep">｜</i><em>報酬率 {it.spread}%</em></>
+                  )}
+                  {it.lottery_date && (<><i class="ipo__sep">｜</i>抽籤 {it.lottery_date.slice(5).replace('-', '/')}</>)}
+                  {it.qualified && <u class="ipo__hot">達 30% 門檻</u>}
+                </span>
+              ))}
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <a class="ipo__cta" href="/invest/ipo/">全部 →</a>
+    </div>
+    <p class="ipo__note">
+      <span>公開申購截止為當日 <b>14:00</b>，須於此前透過券商完成申購（每人限 1 張）。</span>
+      {qualifiedCount > 0 && <span>本日符合 30% 門檻：<b>{qualifiedCount}</b> 檔。</span>}
+      <span>資料來源：TWSE 公開申購公告 ＋ HiStock。</span>
+    </p>
+  </section>
+)}
+
+<style>
+  .ipo {
+    margin: -0.5rem 0 2rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--bg-elev);
+    overflow: hidden;
+  }
+  .ipo__bar {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.5rem 0.75rem;
+    border-bottom: 1px solid var(--border);
+    background: linear-gradient(90deg, color-mix(in srgb, #d33 12%, transparent), transparent 45%);
+  }
+  .ipo__label {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    flex: 0 0 auto;
+    padding-right: 0.75rem;
+    border-right: 1px solid var(--border);
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: #c0392b;
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+  }
+  :global(html[data-theme='dark']) .ipo__label { color: #ff7b6b; }
+  .ipo__dot {
+    width: 0.5rem; height: 0.5rem; border-radius: 50%;
+    background: #d33; animation: ipo-pulse 1.6s ease-in-out infinite;
+  }
+  @keyframes ipo-pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50%      { opacity: 0.35; transform: scale(0.8); }
+  }
+
+  /* 已截止狀態 */
+  .ipo__label-closed { display: none; }
+  .ipo[data-closed='true'] .ipo__label-active { display: none; }
+  .ipo[data-closed='true'] .ipo__label-closed { display: inline; }
+  .ipo[data-closed='true'] .ipo__label { color: var(--fg-faint); }
+  .ipo[data-closed='true'] .ipo__dot { background: var(--fg-faint); animation: none; }
+  .ipo[data-closed='true'] .ipo__track { animation: none; }
+  .ipo[data-closed='true'] .ipo__cta { display: none; }
+
+  .ipo__viewport {
+    flex: 1 1 auto;
+    overflow: hidden;
+    position: relative;
+    min-width: 0;
+    /* 邊緣淡出遮罩：文字在兩端漸隱，避免硬切 */
+    -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 1.75rem, #000 calc(100% - 1.75rem), transparent 100%);
+    mask-image: linear-gradient(90deg, transparent 0, #000 1.75rem, #000 calc(100% - 1.75rem), transparent 100%);
+  }
+  .ipo__track {
+    display: flex;
+    width: max-content;
+    animation: ipo-scroll var(--ipo-dur, 42s) linear infinite;
+  }
+  .ipo__viewport:hover .ipo__track { animation-play-state: paused; }
+  @keyframes ipo-scroll {
+    from { transform: translateX(0); }
+    to   { transform: translateX(-50%); }
+  }
+  .ipo__group { display: flex; flex: 0 0 auto; }
+  .ipo__item {
+    display: inline-flex;
+    align-items: center;
+    padding: 0 1.1rem;
+    font-size: 0.86rem;
+    color: var(--fg-muted);
+    white-space: nowrap;
+  }
+  .ipo__item b { color: var(--fg); font-variant-numeric: tabular-nums; margin-right: 0.3rem; }
+  .ipo__item em { font-style: normal; font-weight: 700; color: var(--invest); }
+  .ipo__sep { font-style: normal; opacity: 0.35; margin: 0 0.35rem; }
+  .ipo__hot {
+    text-decoration: none;
+    margin-left: 0.5rem;
+    padding: 0.05rem 0.4rem;
+    border-radius: 999px;
+    font-size: 0.72rem;
+    font-weight: 700;
+    color: #fff;
+    background: #c0392b;
+  }
+  .ipo__cta {
+    flex: 0 0 auto;
+    font-size: 0.78rem;
+    color: var(--accent);
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .ipo__cta:hover { text-decoration: underline; }
+  .ipo__note {
+    margin: 0;
+    padding: 0.45rem 0.75rem;
+    font-size: 0.74rem;
+    line-height: 1.5;
+    color: var(--fg-faint);
+    background: var(--bg);
+  }
+  .ipo__note b { color: var(--fg-muted); }
+  .ipo__note span + span { margin-left: 0.35rem; }
+
+  /* 內容塞得下 → 靜態顯示（隱藏重複份、置中） */
+  .ipo[data-static='true'] .ipo__track { animation: none; }
+  .ipo[data-static='true'] .ipo__group--dup { display: none; }
+
+  @media (max-width: 560px) {
+    /* 手機：標籤獨立一行，跑馬燈吃滿寬度（否則標籤會吃掉 28% 寬度） */
+    .ipo__bar { flex-wrap: wrap; gap: 0.35rem; padding: 0.5rem; }
+    .ipo__label {
+      width: 100%;
+      border-right: none;
+      padding-right: 0;
+      padding-bottom: 0.3rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .ipo__viewport { flex: 1 1 100%; }
+    .ipo__cta { display: none; }
+    .ipo__note { font-size: 0.7rem; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .ipo__track { animation: none; }
+    .ipo__dot { animation: none; }
+    .ipo__viewport { overflow-x: auto; }
+  }
+</style>
+
+<script>
+  (function () {
+    const el = document.getElementById('ipo-ticker') as HTMLElement | null;
+    if (!el) return;
+    const dataDate = el.dataset.date || '';
+    const now = new Date();
+    const p = (n: number) => String(n).padStart(2, '0');
+    const today = `${now.getFullYear()}-${p(now.getMonth() + 1)}-${p(now.getDate())}`;
+
+    // 閘門 1：資料必須是「今天」的，否則整個區塊不顯示
+    if (dataDate !== today) return;
+
+    // 閘門 2：已過 14:00 申購截止 → 轉為靜態「已截止」
+    const minutes = now.getHours() * 60 + now.getMinutes();
+    if (minutes >= 14 * 60) el.dataset.closed = 'true';
+
+    el.hidden = false;
+
+    // 依內容長度調整捲動速度（越長越慢，維持可讀）
+    const track = el.querySelector('.ipo__track') as HTMLElement | null;
+    const group = el.querySelector('.ipo__group') as HTMLElement | null;
+    const vp = el.querySelector('.ipo__viewport') as HTMLElement | null;
+    if (track && group && vp) {
+      // 內容塞得下 → 完全不動畫（靜態全顯示，最易讀）
+      if (group.scrollWidth <= vp.clientWidth + 4) {
+        el.dataset.static = 'true';
+      } else {
+        const dur = Math.max(18, Math.round(group.scrollWidth / 55));
+        track.style.setProperty('--ipo-dur', `${dur}s`);
+      }
+    }
+  })();
+</script>

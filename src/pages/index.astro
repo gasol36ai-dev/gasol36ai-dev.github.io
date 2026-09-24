@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
+import IpoTicker from '../components/IpoTicker.astro';
 import { SITE, CATEGORIES, INVEST_TOPICS } from '../lib/site';
 
 const posts = (await getCollection('posts', ({ data }) => !data.draft)).sort(
@@ -14,6 +15,8 @@ const byTopic = (slug: string) =>
 ---
 
 <BaseLayout>
+  <IpoTicker />
+
   <section class="hero">
     <div class="kicker">{SITE.author} · notes</div>
     <h1>技術與投資的學習筆記</h1>
