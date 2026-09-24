@@ -59,3 +59,11 @@ The primary value moat lies in the "Spatial-Action Loop": the synergy between 3D
 2. **觸覺是缺失的模態**：純視覺 WAM 無法表徵 slip/contact force；人類觸覺 retargeting（DexTouch-WM）是 Figure Index 的觸覺版本——以廉價人類資料替代昂貴 teleoperation。
 3. **評估管線成為新瓶頸**：offline 指標不可信（RoboHarm 安全層／蒸餾 closed-loop 崩壞／action-parameterization 論文三方向證明）；closed-loop 實測才是 ground truth；評估管線本身將是下一個被 foundation model 化的環節。
 4. **DDIC 產業漣漪**：人形機器人頭部多鏡頭感知堆疊（全域快門 camera ×4–6＋深度感測）與互動面板需求為長期 IC 增量（早期訊號，方向明確）。
+
+### [UPDATE 2026-09-24] Cognex 併購 RealSense（$500M）— 「機器視覺 × 3D 感知」整合新格
+來源：PHYSAI-20260924（Physical AI tracker 09-24 09:00 run；CFO 知識歸檔批次 09-24）。
+
+- **交易**：Cognex（NASDAQ: CGNX，工業機器視覺龍頭）2026-09-22 宣布以現金收購 RealSense（Intel 2014 創立、2025 分拆；深度相機／3D 機器感知領導者），**約 $500M 全現金**＋三年 $56.5M cash retention＋約 $50M RSU；交割前 RealSense 將 Facial Authentication 產品線 spin out 為獨立公司。
+- **產業意涵**：機器感知（robotic perception）市場現值 **$600M**、高速成長；Cognex 以此進入 Physical AI 感知層——「**Visual Cortex of Physical AI**」敘事由新創敘述轉為**工業視覺龍頭的 M&A 路線**。對 DDIC 產業漣漪：3D 深度感測模組供應鏈（ToF／iToF／active stereo）需求由消費級（手機）擴至機器人級，與本頁「頭部多鏡頭感知堆疊」增量同向。
+- **同窗產業事實（09-21~23，arXiv/HN 實抓）**：CHOREO（Unitree G1 上 130 多步任務 95.4% 成功、training-free 技能組合）；Stanford Real-Time EXPO-FT（VLA 延遲補償，10 分鐘線上資料 42%→97%）；Agility Digit 5（proximity 安全停機、$300M+ 訂單、$2.5B SPAC 估值、9 分鐘快充）；Blue Insect「小灰」RMB 9,800 起價（22 DoF、<10ms 遙操作延遲）＝**人形機價格帶再下探**；Toyota 要求員工訓練人形機器人。
+- **本頁框架對照**：與 Helix 2.5（訓練資料為王）／WAM 聚類（touch 進場）併讀——**感知層（Cognex-RealSense）、資料層（Index 預訓練）、控制層（RL 微調）三層各自出現 consolidation 訊號**；「Spatial-Action Loop」價值鏈的工業化整合已開始。

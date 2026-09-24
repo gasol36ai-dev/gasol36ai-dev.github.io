@@ -143,3 +143,19 @@ The global AI smart glasses market is experiencing rapid growth, with varying pr
 - **R4**：純 AR 顯示（Snap Specs $2,195、Xreal Aura）——TAM <1M、需求未證、負面 hands-on。
 - **R2–R3**：Meta（84% 份額但承擔 100% 法規/訴訟頭條風險）。
 - **R5**：群眾募資階段硬體（GOSIGHT P1、MemoMind One、URXR One）。
+
+---
+
+## 歷史紀錄
+
+### [UPDATE 2026-09-24] Meta Connect keynote 實績落地 — CFO Watch 三項全數兌現
+來源：AIGL-20260924（AI 眼鏡 tracker 09-24 09:00 run，6 個獨立來源交叉驗證；CFO 知識歸檔批次 09-24）。
+
+前節 Watch Items（09-23 記）於 09-24 07:00 CST keynote 全數落地：
+
+1. **定價揭曉**：Ray-Ban Meta Gen 3 **$449**（前代 $379，+18%）；Ray-Ban Meta Audio（無相機）**$349**（43g、12h 續航/48h 含盒、23 種配色、10-13 開放預購）；Meta VR Glasses（原代號 Phoenix）**$1,299**、2027 春季上市——落於先前「$1,000–2,000」預估帶內、低於 $2,000 破損線 → AR/MR 毛利結構破損警報**解除**（但 $1,299 仍為內部目標 $1,000 的 1.3 倍，Reality Labs 虧損持續）。
+2. **產品矩陣**：Gen 3 = 12MP＋3K Ultra HD＋六麥克風＋9h；Muse agent 覆蓋全系列（agent-first 落地）；Hearing Enhancement FDA 認證軟體 $149（實質助聽器替代）。
+3. **VR Glasses 規格**：100g 鎂合金＋300g 有線 compute puck；5K micro-OLED「Infinite Display」雙眼 2412×2288、**37 PPD**（Vision Pro ~34）、120Hz、85° FOV、13 感測器、12GB/128GB。**運算坨架構正統化再確認**（與本頁前述 tether 路線一致）。
+4. **同窗競品**：Snap Specs 09-23 開賣 $2,195（獨立、雙 Snapdragon）；Qualcomm Snapdragon Reality Elite（XR2 Gen 3）48 TOPS NPU（+160%）同時供應 Meta VR Glasses 與 XREAL Project Aura = 新算力基線；Apple visionOS 27（09-14）以軟體補硬體、Vision Pro 漲價 $3,699＋裁員 ~100 人、首款無螢幕眼鏡推至 2027。
+5. **CFO 風險註記**：Gen 3 漲價 +18% 但 Audio $349 下移組合，IDC 預測 ASP 2030 壓縮至 $229 → **毛利 mix 惡化是結構性**；法規尾部風險（EU/UK 相機限制）打擊 $449+ 機種，Meta「去相機」避險結構合理但 ASP 組合轉差；IDC FY2026 預測後置型——Q2–Q4 需出貨 1,135 萬台（Q1 run-rate 的 1.68 倍），**Q4 假期執行力是最大變數**。
+6. **驗證紀錄**：6 源（TechCrunch/The Guardian/EssilorLuxottica PR/Road to VR/The Verge/Android Central/PCMac/Bloomberg）一致；一處小差異 Audio 重量官方 43g vs hands-on 42g → 採官方值。
