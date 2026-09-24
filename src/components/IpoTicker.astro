@@ -12,14 +12,23 @@
  */
 import ipoData from '../data/ipo.json';
 
-const items = (ipoData.items ?? []) as Array<{
+type IpoItem = {
   code: string; name: string; market: string; period: string;
   underwrite_price: number | null; market_price: number | null;
   spread: number | null; lottery_date: string | null; qualified: boolean;
-}>;
+};
 
+const allItems = (ipoData.items ?? []) as IpoItem[];
+
+/**
+ * VIP 規格（2026-09-24 逐字）：
+ *   「也要符合 >30% 報酬率以上的條件才進行視覺化跑馬燈」
+ * → 只有「達門檻」的標的才啟動跑馬燈；一檔都沒有時整個區塊不輸出。
+ * 門檻值由 fetch_ipo.py 的 THRESHOLD 決定（30%），與 CFO 通知同一條規則。
+ */
+const threshold = ipoData.threshold ?? 30;
+const items = allItems.filter((i) => i.qualified);
 const show = ipoData.source_ok && items.length > 0;
-const qualifiedCount = items.filter((i) => i.qualified).length;
 ---
 
 {show && (
@@ -35,6 +44,7 @@ const qualifiedCount = items.filter((i) => i.qualified).length;
         <span class="ipo__dot" aria-hidden="true"></span>
         <span class="ipo__label-active">今日申購截止</span>
         <span class="ipo__label-closed">已截止</span>
+        <span class="ipo__thresh">報酬率 {threshold}%↑</span>
       </span>
 
       <div class="ipo__viewport">
@@ -42,7 +52,7 @@ const qualifiedCount = items.filter((i) => i.qualified).length;
           {[0, 1].map((dup) => (
             <div class={`ipo__group${dup === 1 ? ' ipo__group--dup' : ''}`} aria-hidden={dup === 1 ? 'true' : undefined}>
               {items.map((it) => (
-                <span class={`ipo__item${it.qualified ? ' is-hot' : ''}`}>
+                <span class="ipo__item is-hot">
                   <b>{it.code}</b> {it.name}
                   <i class="ipo__sep">｜</i>{it.market}
                   <i class="ipo__sep">｜</i>申購 {it.period}
@@ -52,7 +62,6 @@ const qualifiedCount = items.filter((i) => i.qualified).length;
                     <><i class="ipo__sep">｜</i><em>報酬率 {it.spread}%</em></>
                   )}
                   {it.lottery_date && (<><i class="ipo__sep">｜</i>抽籤 {it.lottery_date.slice(5).replace('-', '/')}</>)}
-                  {it.qualified && <u class="ipo__hot">達 30% 門檻</u>}
                 </span>
               ))}
             </div>
@@ -64,7 +73,7 @@ const qualifiedCount = items.filter((i) => i.qualified).length;
     </div>
     <p class="ipo__note">
       <span>公開申購截止為當日 <b>14:00</b>，須於此前透過券商完成申購（每人限 1 張）。</span>
-      {qualifiedCount > 0 && <span>本日符合 30% 門檻：<b>{qualifiedCount}</b> 檔。</span>}
+      <span>本日截止 <b>{allItems.length}</b> 檔，其中達 <b>{threshold}%</b> 門檻 <b>{items.length}</b> 檔（僅門檻以上顯示）。</span>
       <span>資料來源：TWSE 公開申購公告 ＋ HiStock。</span>
     </p>
   </section>
@@ -100,6 +109,27 @@ const qualifiedCount = items.filter((i) => i.qualified).length;
     white-space: nowrap;
   }
   :global(html[data-theme='dark']) .ipo__label { color: #ff7b6b; }
+
+  /* 門檻標籤：說明「為何這檔會被顯示」 */
+  .ipo__thresh {
+    font-size: 0.68rem;
+    font-weight: 700;
+    line-height: 1.5;
+    padding: 0.05rem 0.4rem;
+    border-radius: 999px;
+    background: rgba(192, 57, 43, 0.12);
+    color: #c0392b;
+    white-space: nowrap;
+  }
+  :global(html[data-theme='dark']) .ipo__thresh {
+    background: rgba(255, 123, 107, 0.18);
+    color: #ff7b6b;
+  }
+  .ipo[data-closed='true'] .ipo__thresh {
+    background: transparent;
+    color: var(--fg-faint);
+    box-shadow: inset 0 0 0 1px var(--border);
+  }
   .ipo__dot {
     width: 0.5rem; height: 0.5rem; border-radius: 50%;
     background: #d33; animation: ipo-pulse 1.6s ease-in-out infinite;
@@ -149,16 +179,6 @@ const qualifiedCount = items.filter((i) => i.qualified).length;
   .ipo__item b { color: var(--fg); font-variant-numeric: tabular-nums; margin-right: 0.3rem; }
   .ipo__item em { font-style: normal; font-weight: 700; color: var(--invest); }
   .ipo__sep { font-style: normal; opacity: 0.35; margin: 0 0.35rem; }
-  .ipo__hot {
-    text-decoration: none;
-    margin-left: 0.5rem;
-    padding: 0.05rem 0.4rem;
-    border-radius: 999px;
-    font-size: 0.72rem;
-    font-weight: 700;
-    color: #fff;
-    background: #c0392b;
-  }
   .ipo__cta {
     flex: 0 0 auto;
     font-size: 0.78rem;
