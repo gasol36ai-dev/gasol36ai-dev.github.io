@@ -70,6 +70,7 @@ def report(status, note=""):
 
 
 def main():
+    global R, ERR
     t0 = time.time()
     try:
         # 0. 前置檢查
