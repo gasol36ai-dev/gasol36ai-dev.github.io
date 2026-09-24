@@ -61,6 +61,9 @@ const show = ipoData.source_ok && items.length > 0;
                   {it.spread != null && (
                     <><i class="ipo__sep">｜</i><em>報酬率 {it.spread}%</em></>
                   )}
+                  {it.dilution != null
+                    ? (<><i class="ipo__sep">｜</i>現增比率 {it.dilution}%</>)
+                    : (<><i class="ipo__sep">｜</i><span class="ipo__na">現增比率 無資料</span></>)}
                   {it.lottery_date && (<><i class="ipo__sep">｜</i>抽籤 {it.lottery_date.slice(5).replace('-', '/')}</>)}
                 </span>
               ))}
@@ -73,6 +76,7 @@ const show = ipoData.source_ok && items.length > 0;
     </div>
     <p class="ipo__note">
       <span>公開申購截止為當日 <b>14:00</b>，須於此前透過券商完成申購（每人限 1 張）。</span>
+      <span>現增比率 ＝ 承銷股數 ÷ 已發行股數。</span>
       <span>本日截止 <b>{allItems.length}</b> 檔，其中達 <b>{threshold}%</b> 門檻 <b>{items.length}</b> 檔（僅門檻以上顯示）。</span>
       <span>資料來源：TWSE 公開申購公告 ＋ HiStock。</span>
     </p>
@@ -179,6 +183,7 @@ const show = ipoData.source_ok && items.length > 0;
   .ipo__item b { color: var(--fg); font-variant-numeric: tabular-nums; margin-right: 0.3rem; }
   .ipo__item em { font-style: normal; font-weight: 700; color: var(--invest); }
   .ipo__sep { font-style: normal; opacity: 0.35; margin: 0 0.35rem; }
+  .ipo__na { opacity: 0.55; }
   .ipo__cta {
     flex: 0 0 auto;
     font-size: 0.78rem;

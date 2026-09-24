@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "generated_at": "2026-09-24T21:01:25+08:00",
+  "generated_at": "2026-09-24T21:14:23+08:00",
   "trading_day": true,
   "source_ok": true,
   "threshold": 30.0,
@@ -15,7 +15,7 @@
       "underwrite_price": 24.0,
       "market_price": 28.8,
       "spread": 20.0,
-      "dilution": null,
+      "dilution": 3.11,
       "lottery_date": "2026-09-30",
       "qualified": false,
       "histock_matched": true
