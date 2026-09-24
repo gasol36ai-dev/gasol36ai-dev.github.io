@@ -19,6 +19,8 @@ import sync_charts
 
 WIKI = os.path.expanduser("~/.hermes/wiki/投資")
 INDEX = os.path.join(ROOT, "scripts", "wiki_index.json")
+# 逐篇圖表對照（make_charts.py 產生）
+POST_CHARTS = os.path.join(ROOT, "scripts", ".post_charts.json")
 DEST = os.path.join(ROOT, "src", "content", "posts", "invest")
 
 LABEL2SLUG = {
@@ -73,6 +75,21 @@ def first_paragraph(body: str) -> str:
     return ""
 
 
+def inject_post_charts(body: str, entries: list) -> str:
+    """把逐篇圖表插在 H1 之後（無 H1 則置頂）。entries = [{url, alt}]"""
+    if not entries:
+        return body
+    block = ["", "## 📊 關鍵價位圖", ""]
+    for e in entries:
+        block += [f"![{e.get('alt', '')}]({e['url']})", ""]
+    block = "\n".join(block)
+    lines = body.split("\n")
+    for i, line in enumerate(lines):
+        if line.startswith("# "):
+            return "\n".join(lines[:i + 1]) + "\n" + block + "\n".join(lines[i + 1:])
+    return block + body
+
+
 def yaml_escape(s: str) -> str:
     return s.replace("\\", "\\\\").replace("'", "''")
 
@@ -88,6 +105,14 @@ def main():
 
     # 圖表同步（wiki 圖片 → public/charts/）；dry-run 時只計算不複製
     chart_map = sync_charts.sync(dry_run=args.dry_run)
+
+    # 逐篇圖表（價位階梯等；由 make_charts.py 產生）
+    post_charts = {}
+    if os.path.exists(POST_CHARTS):
+        try:
+            post_charts = json.load(open(POST_CHARTS, encoding="utf-8"))
+        except (OSError, json.JSONDecodeError) as e:
+            print(f"⚠️ 讀不到逐篇圖表對照（{e}），略過逐篇圖表", file=sys.stderr)
 
     used = set()
     plan, skipped, with_charts = [], [], []
@@ -120,6 +145,10 @@ def main():
             if new_body != body:
                 with_charts.append(rel)
             body = new_body
+        if post_charts.get(rel):
+            body = inject_post_charts(body, post_charts[rel])
+            if rel not in with_charts:
+                with_charts.append(rel)
 
         slug = slugify(os.path.splitext(os.path.basename(rel))[0])
         if slug in used:

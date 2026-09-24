@@ -91,6 +91,17 @@ def main():
         after = len(json.load(open(os.path.join(ROOT, "scripts", "wiki_index.json"), encoding="utf-8")))
         R["newly"] = max(0, after - before)
 
+        # 1c. 圖表（非致命）：必須早於「2. 匯入」，import_wiki 才會讀到當日的圖表對照
+        try:
+            PY = os.path.join(ROOT, ".venv", "bin", "python")
+            PY = PY if os.path.exists(PY) else sys.executable
+            ch = subprocess.run([PY, "scripts/make_charts.py"], cwd=ROOT,
+                                capture_output=True, text=True, timeout=900)
+            line = next((l.strip() for l in ch.stderr.splitlines() if l.startswith("CHARTS：")), None)
+            R["charts"] = line.replace("CHARTS：", "") if line else "無輸出（非致命）"
+        except Exception as e:
+            R["charts"] = f"異常（非致命）：{type(e).__name__}"
+
         # 2. 匯入
         r = run([sys.executable, "scripts/import_wiki.py"], timeout=1800)
         for l in r.stdout.splitlines():
@@ -110,17 +121,6 @@ def main():
                 R["ipo"] = "無資料"
         except Exception as e:
             R["ipo"] = f"抓取異常（非致命）：{type(e).__name__}"
-
-        # 2c. 圖表（非致命）：語料統計圖 → public/charts/
-        try:
-            PY = os.path.join(ROOT, ".venv", "bin", "python")
-            PY = PY if os.path.exists(PY) else sys.executable
-            ch = subprocess.run([PY, "scripts/make_charts.py"], cwd=ROOT,
-                                capture_output=True, text=True, timeout=900)
-            line = next((l.strip() for l in ch.stderr.splitlines() if l.startswith("CHARTS：")), None)
-            R["charts"] = line.replace("CHARTS：", "") if line else "無輸出（非致命）"
-        except Exception as e:
-            R["charts"] = f"異常（非致命）：{type(e).__name__}"
 
         # 3. 機密閘門（fail-closed）
         g = subprocess.run([sys.executable, "scripts/nda_check.py"], cwd=ROOT,
