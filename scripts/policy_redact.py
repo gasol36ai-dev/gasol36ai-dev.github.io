@@ -41,19 +41,42 @@ import argparse
 import os
 import re
 import sys
+from collections.abc import Callable
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DEFAULT_DIR = os.path.join(ROOT, "src", "content", "posts")
 
 # ── 1. 就地改寫：保留分析價值，只拿掉不該公開的識別 ──────────────
 # 順序重要：先處理「英文全名（代號）」形式，再處理裸用代號。
+#
+# 詞邊界陷阱：Python 3 的 `\w` 涵蓋 CJK，所以 `\bTJB\b` 在
+# 「宏觀TJB與微觀TJB」這種中英相鄰處**沒有邊界**，改寫與檢查都會失效
+# （2026-09-25 實際殘留於線上）。改用只排除 ASCII 字母數字的 lookaround。
+_B_L = r"(?<![A-Za-z0-9])"
+_B_R = r"(?![A-Za-z0-9])"
+
+
+def _cjk_adjacent(s: str, a: int, b: int) -> bool:
+    """TJB/MJB 前後是否緊貼中文字。"""
+    def is_cjk(i: int) -> bool:
+        return 0 <= i < len(s) and "\u4e00" <= s[i] <= "\u9fff"
+    return is_cjk(a - 1) or is_cjk(b)
+
+
+def _code_repl(zh: str, en: str):
+    """依語境決定替換字：中文句子裡用中文詞，英文句子裡用英文詞。"""
+    def fn(m):
+        return zh if _cjk_adjacent(m.string, m.start(), m.end()) else en
+    return fn
+
+
 _PRICE_KW = r"(?<!內部)(?<!產品)(?<!定價)(?<!售價)(?<!毛利)(?<!目標)"
 
-INLINE_RULES: list[tuple[str, str]] = [
+INLINE_RULES: list[tuple[str, str | Callable[[re.Match[str]], str]]] = [
     (r"(Technical Judgment Base)\s*[（(]\s*TJB\s*[）)]", r"\1"),
     (r"(Macro Judgment Base)\s*[（(]\s*MJB\s*[）)]", r"\1"),
-    (r"\bTJB\b", "technical base"),
-    (r"\bMJB\b", "macro base"),
+    (_B_L + r"TJB" + _B_R, _code_repl("技術基準", "technical base")),
+    (_B_L + r"MJB" + _B_R, _code_repl("總經基準", "macro base")),
     # 引用內部證據編號（WIKI-01、FLOW-03a…）
     (r"\b(?:WIKI|FLOW|MACRO|PRICE|TECH|FX|GOLD)-\d{1,2}[a-z]?\b", "[內部編號]"),
     # 內部知識庫實體路徑

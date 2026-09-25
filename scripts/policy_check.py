@@ -74,7 +74,9 @@ BLOCK_RULES: list[tuple[str, str]] = [
     # ── 任職公司名稱（獨立於 nda_check 的重複防線）──
     (r"奕力|Ilitek|ILITEK", "任職公司名稱"),
     # ── 內部方法論代號 ──
-    (r"\b(TJB|MJB)\b", "內部方法論代號"),
+    # 詞邊界陷阱：Python 3 的 \w 涵蓋 CJK，`\bTJB\b` 在「宏觀TJB與微觀TJB」
+    # 這種中英相鄰處沒有邊界 → 檢查失效。改用只排除 ASCII 字母數字。
+    (r"(?<![A-Za-z0-9])(?:TJB|MJB)(?![A-Za-z0-9])", "內部方法論代號"),
 ]
 
 WARN_RULES: list[tuple[str, str]] = [
