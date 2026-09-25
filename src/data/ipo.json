@@ -1,25 +1,9 @@
 {
-  "date": "2026-09-24",
-  "generated_at": "2026-09-24T22:29:27+08:00",
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T10:00:47+08:00",
   "trading_day": true,
   "source_ok": true,
   "threshold": 30.0,
-  "items": [
-    {
-      "code": "6604",
-      "name": "儒億",
-      "market": "初上櫃",
-      "start": "2026-09-22",
-      "end": "2026-09-24",
-      "period": "09/22~09/24",
-      "underwrite_price": 24.0,
-      "market_price": 28.8,
-      "spread": 20.0,
-      "dilution": 3.11,
-      "lottery_date": "2026-09-30",
-      "qualified": false,
-      "histock_matched": true
-    }
-  ],
+  "items": [],
   "error": null
 }

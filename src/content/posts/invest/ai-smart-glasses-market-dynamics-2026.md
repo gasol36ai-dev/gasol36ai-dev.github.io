@@ -159,3 +159,12 @@ The global AI smart glasses market is experiencing rapid growth, with varying pr
 4. **同窗競品**：Snap Specs 09-23 開賣 $2,195（獨立、雙 Snapdragon）；Qualcomm Snapdragon Reality Elite（XR2 Gen 3）48 TOPS NPU（+160%）同時供應 Meta VR Glasses 與 XREAL Project Aura = 新算力基線；Apple visionOS 27（09-14）以軟體補硬體、Vision Pro 漲價 $3,699＋裁員 ~100 人、首款無螢幕眼鏡推至 2027。
 5. **CFO 風險註記**：Gen 3 漲價 +18% 但 Audio $349 下移組合，IDC 預測 ASP 2030 壓縮至 $229 → **毛利 mix 惡化是結構性**；法規尾部風險（EU/UK 相機限制）打擊 $449+ 機種，Meta「去相機」避險結構合理但 ASP 組合轉差；IDC FY2026 預測後置型——Q2–Q4 需出貨 1,135 萬台（Q1 run-rate 的 1.68 倍），**Q4 假期執行力是最大變數**。
 6. **驗證紀錄**：6 源（TechCrunch/The Guardian/EssilorLuxottica PR/Road to VR/The Verge/Android Central/PCMac/Bloomberg）一致；一處小差異 Audio 重量官方 43g vs hands-on 42g → 採官方值。
+
+### [UPDATE 2026-09-25] 09-25 掃描增量 — Rokid glasses OS SDK 開源＋Meta「去相機」定位轉防禦
+來源：AIGL-20260925（AI 眼鏡 tracker 09-25 09:00 run）；CFO 知識歸檔批次 09-25。
+
+1. **Rokid glasses OS SDK 全面開源（09-25）**——SDK／開發者文件／開發者社群三入口同步開放，相容 **Meta Ray-Ban Neo v1 規範**，涵蓋 50+ 場景 API、AI 與多模態存取、即時翻譯與字幕、AR 導航、SLAM 手勢辨識；並提供 **WebXR／Android 原生／Vite React** 三套件。產業意涵：與 Google Android XR 生態（09-18 Gemini 開放 SDK、09-24 XREAL Aura 開賣）合流——**眼鏡 OS 生態自 Meta 封閉陣營轉向開放標準的第二次分化訊號**（第一次＝09-16 Samsung XRF 2.0 規格公布）。
+2. **Meta 戰略重定位（09-25 同窗解讀）**：Gen 3 漲價 +18% 至 $449、Audio $349 下移組合 → ASP 結構承壓；歐盟／英國對相機眼鏡之隱私限制趨嚴 → **「去相機」由隱私避險轉為防禦性定位**；Meta 84% 份額面臨 Android XR 開放陣營蠶食，2026 年底前市占保衛戰為 CFO 觀察核心（毛利 mix 惡化屬結構性，先前 UPDATE 2026-09-24 判斷不變）。
+3. **CFO Watch 傳承**：09-24 Watch 三項（Luna/Phoenix/Gen 3 定價）已全數兌現（見上節）；新 Watch：① Rokid SDK 對 Meta Ray-Ban 規範之相容實測（開發者遷移摩擦）；② $449 Gen 3 首月預購轉化（Audio $349 是否侵蝕組合）；③ 法規尾部（EU/UK 相機禁令）對 $449+ 機種出貨之衝擊量化。
+
+*資料：Rokid 官方 devportal 與開發者社群公告（09-25）；Meta Ray-Ban Neo v1 規範文件；Google Android XR SDK（09-16）；批次 AIGL-20260925。*

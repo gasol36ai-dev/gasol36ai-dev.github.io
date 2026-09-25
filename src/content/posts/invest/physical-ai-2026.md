@@ -67,3 +67,13 @@ The primary value moat lies in the "Spatial-Action Loop": the synergy between 3D
 - **產業意涵**：機器感知（robotic perception）市場現值 **$600M**、高速成長；Cognex 以此進入 Physical AI 感知層——「**Visual Cortex of Physical AI**」敘事由新創敘述轉為**工業視覺龍頭的 M&A 路線**。對 DDIC 產業漣漪：3D 深度感測模組供應鏈（ToF／iToF／active stereo）需求由消費級（手機）擴至機器人級，與本頁「頭部多鏡頭感知堆疊」增量同向。
 - **同窗產業事實（09-21~23，arXiv/HN 實抓）**：CHOREO（Unitree G1 上 130 多步任務 95.4% 成功、training-free 技能組合）；Stanford Real-Time EXPO-FT（VLA 延遲補償，10 分鐘線上資料 42%→97%）；Agility Digit 5（proximity 安全停機、$300M+ 訂單、$2.5B SPAC 估值、9 分鐘快充）；Blue Insect「小灰」RMB 9,800 起價（22 DoF、<10ms 遙操作延遲）＝**人形機價格帶再下探**；Toyota 要求員工訓練人形機器人。
 - **本頁框架對照**：與 Helix 2.5（訓練資料為王）／WAM 聚類（touch 進場）併讀——**感知層（Cognex-RealSense）、資料層（Index 預訓練）、控制層（RL 微調）三層各自出現 consolidation 訊號**；「Spatial-Action Loop」價值鏈的工業化整合已開始。
+
+### [UPDATE 2026-09-25] 09-25 掃描增量 — 遙操作資料擴權（Bharat/X-Pair）＋開源 VLA 生態成熟＋資產負債表韌性
+來源：PHYSAI-20260925（Physical & Spatial AI tracker 09-25 09:00 run）；CFO 知識歸檔批次 09-25。
+
+- **遙操作資料擴權（資料層訊號，承接 09-23 Index 預訓練命題）**：**Bharat 遙操作資料集**（13,800 段 30Hz 50+ 任務，單臂＋雙臂，Apache-2.0，`2609.19261`）；**X-Pair**（`2609.19624`，1,073 段 xArm7 彈性物件，視覺＋腕部視角，MSE 精確傳播）。人類示範→機器人政策的資料管線在**量（Bharat）與質（X-Pair 彈性接觸）**兩軸同步擴張——「廉價人類資料替代昂貴 teleoperation」路線再獲實證。
+- **開源 VLA 生態成熟**：**SmolVLA**（HF，450M 參數，MacBook MFA 可訓練、 consumer 級硬體可部署）＋ **HuggingFace LeRobot 硬體方案**（$120 SO-100/SO-101 3D 列印手臂）→ VLA 開發門檻降至**消費級預算**（≈$120–500）；Genie-3 (DeepMind) 生成式世界模型（720p/24fps）補齊 Real-to-Sim 資料閉環。
+- **資產負債表韌性實例**：Agility Robotics（Digit 製造商，估值 $2.5B）持有 **$100M+ 現金儲備**——人形機器人新創在商業化未規模化前的**資本緩衝策略**成為生存要件（對照 09-24 Cognex-RealSense：產業 consolidation 由資金充裕方推進）。
+- **框架對照**：09-23「評估管線成為新瓶頸」＋09-24「三層 consolidation」判斷不變；本窗增量集中在**資料層擴權與生態民主化**——訓練資料供給曲線右移，強化 Helix 2.5「資料為王」命題，同時降低新進入者的資料門檻（競爭加劇方向）。
+
+*資料：arXiv 2609.19261 / 2609.19624；HuggingFace LeRobot；Agility 公開財務揭露；批次 PHYSAI-20260925。*
