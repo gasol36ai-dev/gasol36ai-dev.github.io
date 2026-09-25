@@ -53,7 +53,7 @@ Updated:
 4. Prepare for potential volatility spike if Iran conflict escalates beyond May
 
 ## Macro Judgment Base Refinements
-The MJB logic in us-premarket-analysis and gold-investment-analysis skills should be updated to:
+The macro base logic in us-premarket-analysis and gold-investment-analysis skills should be updated to:
 - Weight PCE inflation more heavily than CPI for Fed policy predictions
 - Incorporate AI services inflation as persistent structural component
 - Factor geopolitical risk duration into inflation expectation models

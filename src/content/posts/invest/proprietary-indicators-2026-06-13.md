@@ -40,4 +40,4 @@ OR
 The CEAG provides a leading indicator for the "Sovereign Compute-Energy Nexus," allowing for predictive positioning before the realization of computational bottlenecks or energy crises manifest in macroeconomic volatility.
 
 ---
-*Proprietary Logic Registered in: /Users/ai/.hermes/wiki/research/Proprietary_Indicators_2026-06-13.md*
+*Proprietary Logic Registered in: [內部路徑]

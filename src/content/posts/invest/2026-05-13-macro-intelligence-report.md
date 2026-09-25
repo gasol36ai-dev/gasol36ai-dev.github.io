@@ -49,7 +49,7 @@ nda_notes: '來源為個人 wiki 投資筆記；已通過 NDA 內容檢查（無
 - **Priority 2**: US CPI/PCE Core (services stickiness), ECB June 11 Decision, US 30Y Treasury Yield (5.0% psychological barrier).
 
 ## Action Taken
-- Updated Macro Judgment Base (MJB) in `us-premarket-analysis` and `gold-investment-analysis` skills to reflect:
+- Updated Macro Judgment Base in `us-premarket-analysis` and `gold-investment-analysis` skills to reflect:
   - Explicit binary regime (Hold vs Hike) with Iran war as pivot.
   - Energy-inflation-gold transmission chain with Brent > $108/bbl as structural floor.
   - Real yield decoupling confirmation and systemic drivers.

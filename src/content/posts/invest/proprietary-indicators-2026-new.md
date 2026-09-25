@@ -28,6 +28,6 @@ A system that lacks any one of these components is either "too slow" (lacks Opti
 ## Strategic Value
 The SKI-2026 indicator allows strategic planners to identify the exact moment a kinetic asset transitions from "remote-controlled tool" to "autonomous sovereign agent." This shift creates a non-linear advantage in contested environments where communications are jammed or intercepted.
 ## Validation Trace
-- **Domain 1**: Neuromorphic Photonics (verified in `/Users/ai/.hermes/wiki/research/reports/Neuromorphic_Photonics_2026.md`).
-- **Domain 2**: Glass Substrates (verified in `/Users/ai/.hermes/wiki/research/reports/Glass_Substrate_Sovereignty_2026.md`).
-- **Domain 3**: Quantum-Safe Rails (verified in `/Users/ai/.hermes/wiki/research/reports/Quantum_Safe_Sovereign_Rails_2026.md`).
+- **Domain 1**: Neuromorphic Photonics (verified in `[內部路徑]).
+- **Domain 2**: Glass Substrates (verified in `[內部路徑]).
+- **Domain 3**: Quantum-Safe Rails (verified in `[內部路徑]).

@@ -20,7 +20,7 @@ nda_notes: '來源為個人 wiki 投資筆記；已通過 NDA 內容檢查（無
 
 | Pillar | Domain | Status | Subagent | Output Path |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Audit** | Systemic Friction | ✅ Completed | Orchestrator | `/Users/ai/.hermes/wiki/research/reports/Systemic_Friction_Audit_2026-07-06.md` |
+| **1. Audit** | Systemic Friction | ✅ Completed | Orchestrator | `[內部路徑] |
 | **2. Research** | Neuromorphic Edge Intelligence | ⏳ Pending | `subagent_neuromorphic` | - |
 | **2. Research** | SMR Energy Autarky | ⏳ Pending | `subagent_energy` | - |
 | **2. Research** | Orbital Compute Mesh | ⏳ Pending | `subagent_orbital` | - |

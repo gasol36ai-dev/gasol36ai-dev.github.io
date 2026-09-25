@@ -51,7 +51,7 @@ As part of the Macro Evolution Engine cron job executed on 2026-05-06, the follo
 - **Gold-Real Yield Correlation**: CONFIRMED DECOUPLING (+0.18)
 - **AI Power Bottleneck**: CRITICAL EMERGING
 
-## 4. Skill Refinement - Macro Judgment Base (MJB) Updates
+## 4. Skill Refinement - Macro Judgment Base Updates
 **us-premarket-analysis Skill:**
 - Updated Fed Leadership Transition to reflect Powell transition complete
 - Revised Inflationary Pressure to structural energy shock (PCE 3.5%, Core 3.2%)
@@ -65,6 +65,6 @@ As part of the Macro Evolution Engine cron job executed on 2026-05-06, the follo
 - Enhanced USD Impact analysis noting weakening traditional relationship
 
 ## Conclusion
-The macro environment remains characterized by structural inflation from energy shocks, central bank policy divergence, and geopolitical risks choking global oil supply. The traditional relationships between yields, currencies, and safe-haven assets are breaking down, requiring updated analytical frameworks. All MJB logic in key skills has been refreshed to reflect these realities, and the Macro Watchlist has been re-prioritized to monitor the most impactful variables.
+The macro environment remains characterized by structural inflation from energy shocks, central bank policy divergence, and geopolitical risks choking global oil supply. The traditional relationships between yields, currencies, and safe-haven assets are breaking down, requiring updated analytical frameworks. All macro base logic in key skills has been refreshed to reflect these realities, and the Macro Watchlist has been re-prioritized to monitor the most impactful variables.
 
 **Next Monitoring Focus:** Strait of Hormuz resolution prospects, BoJ normalization pace, PCE monthly trends, and gold's behavior as structural store of value.

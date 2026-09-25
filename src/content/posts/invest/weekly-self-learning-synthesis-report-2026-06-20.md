@@ -57,8 +57,8 @@ This week's self-learning synthesis focuses on two key domains: AI Smart Glasses
 
 ## Sources Consulted
 1. **Wiki Knowledge Base**:
-   - `/Users/ai/.hermes/wiki/log.md` (entry: 2026-06-19 - AI Smart Glasses Market Dynamics and Supply Chain)
-   - `/Users/ai/.hermes/wiki/Investment/DNlite_Reports/DNlite_Progress_Scorecard_2026-06-19.md`
+   - `[內部路徑] (entry: 2026-06-19 - AI Smart Glasses Market Dynamics and Supply Chain)
+   - `[內部路徑]
 
 2. **Monitoring Frameworks Applied**:
    - AI Smart Glasses Market Tracking (via market news/articles)

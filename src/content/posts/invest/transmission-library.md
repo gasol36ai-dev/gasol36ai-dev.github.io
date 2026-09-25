@@ -12,7 +12,7 @@ nda_notes: '來源為個人 wiki 投資筆記；已通過 NDA 內容檢查（無
 ---
 # Macro-to-Asset Transmission Library
 
-This library documents the causal links between key macro variables and specific asset class reactions, used to power the Macro Judgment Base (MJB).
+This library documents the causal links between key macro variables and specific asset class reactions, used to power the Macro Judgment Base.
 
 ## 1. Interest Rate & Yield Dynamics
 

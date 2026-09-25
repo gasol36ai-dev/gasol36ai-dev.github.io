@@ -20,19 +20,19 @@ nda_notes: '來源為個人 wiki 投資筆記；已通過 NDA 內容檢查（無
 - **Status**: IN_PROGRESS
 - **Goal**: Research the nexus of order flow imbalance and macro volatility regimes.
 - **Subagent**: MACRO_RESEARCHER
-- **Latest Synthesis**: [Quantum-Neural Governance Report](/Users/ai/.hermes/wiki/research/Quantum_Neural_Governance_Report_2026.md)
+- **Latest Synthesis**: [Quantum-Neural Governance Report]([內部路徑])
 
 ### Pillar 3: Macro-Microstructure Convergence
 - **Status**: IN_PROGRESS
 - **Goal**: Research the nexus of order flow imbalance and macro volatility regimes.
 - **Subagent**: MACRO_RESEARCHER
-- **Latest Synthesis**: [Quantum-Neural Governance Report](/Users/ai/.hermes/wiki/research/Quantum_Neural_Governance_Report_2026.md)
+- **Latest Synthesis**: [Quantum-Neural Governance Report]([內部路徑])
 
 ### Pillar 3: Macro-Microstructure Convergence
 - **Status**: IN_PROGRESS
 - **Goal**: Research the nexus of order flow imbalance and macro volatility regimes.
 - **Subagent**: MACRO_RESEARCHER
-- **Latest Synthesis**: [Quantum-Neural Governance Report](/Users/ai/.hermes/wiki/research/Quantum_Neural_Governance_Report_2026.md)
+- **Latest Synthesis**: [Quantum-Neural Governance Report]([內部路徑])
 
 ---
 ## Iteration 3: Proprietary Innovation

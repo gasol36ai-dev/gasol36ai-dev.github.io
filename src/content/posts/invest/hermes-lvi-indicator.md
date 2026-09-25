@@ -31,5 +31,5 @@ $$\text{LVI Score} = \frac{(\text{Delta Magnitude} \times \text{Vol Spike})}{\te
 ## 📈 Historical Pattern
 - **The "Vacuum Snap"**: Price aggressively pushes into an LVN (where there are no limit orders to slow it down). As it hits the "far wall" of the vacuum, it encounters a massive institutional block (Absorption) during a volatility spike. The resulting "snap back" is typically violent and rapid as price returns to the nearest HVN.
 
-## 🛠️ Application in TJB
+## 🛠️ Application in technical base
 `LVI Extreme $\rightarrow$ Price in LVN + Delta Exhaustion $\rightarrow$ High-probability contrarian reversal; Target nearest HVN.`

@@ -14,7 +14,7 @@ nda_notes: '來源為個人 wiki 投資筆記；已通過 NDA 內容檢查（無
 
 ## Source
 - Type: Local Archive
-- Path: /Users/ai/.hermes/wiki/raw/papers/tradefm-2026.md
+- Path: [內部路徑]
 
 ## Key Breakthroughs (Extracted)
      1|---

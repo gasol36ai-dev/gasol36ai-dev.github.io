@@ -15,7 +15,7 @@ nda_notes: '來源為個人 wiki 投資筆記；已通過 NDA 內容檢查（無
 **Core Mechanism**: High-efficiency solar arrays + neuromorphic edge processors in a persistent loiter pattern.
 **Transmission**: `[Ground Request] -> [HAPS Edge Processing] -> [Sovereign Encrypted Link] -> [Action]`.
 **Strategic Value**: Bypasses foreign LEO/GEO dependencies; reduces latency for kinetic assets; ensures data residency.
-**See Report**: `/Users/ai/.hermes/wiki/research/reports/HAPS_Sovereign_Edge_2026.md`
+**See Report**: `[內部路徑]
 
 ## Operational SOP
 1. **Deploy**: Launch solar-powered platform to 20km altitude.

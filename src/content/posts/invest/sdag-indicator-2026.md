@@ -111,4 +111,4 @@ When all three fire simultaneously, it signals that AI has crossed the threshold
 
 *Generated: 2026-05-29 | Evolution Engine v2.1.3 | CTO Deep Evolution Cycle*
 *Source Domains: SWF_Digital_Asset_Tokenization_Strategy_2026.md × Digital_Twin_Industrial_AI_2026.md × AI_Drug_Discovery_Computational_Biology_2026.md*
-*Registry: /Users/ai/.hermes/wiki/Investment/Proprietary_Indicators_2026.md*
+*Registry: [內部路徑]

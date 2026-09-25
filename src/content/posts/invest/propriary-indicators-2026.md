@@ -31,7 +31,7 @@ This registry contains synthesized indicators crossing multiple strategic domain
 **Historical Validation:** (Pending data verification in 2026-Q3)
 | Date | Indicator Name | Context | Status |
 |------|----------------|---------|--------|
-| 2026-06-09 | PNRC: PQ-NSI-RCI Convergence Gate | `/Users/ai/.hermes/wiki/research/Proprietary_Indicator_PNRC_2026.md` | Completed |
+| 2026-06-09 | PNRC: PQ-NSI-RCI Convergence Gate | `[內部路徑] | Completed |
 
 ## Neuro-Sovereign Liquidity Resonance (NSLR) Gate
 **Framework (Map-Trigger-Lock):**

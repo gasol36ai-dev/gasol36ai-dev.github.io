@@ -129,4 +129,4 @@ where naive trend-followers are most vulnerable.
 - **LGDG** (HPI-4): Provides geometric liquidity confirmation complementary to GKNT temporal gate
 - **NSB Convergence Gate**: Bio-hybrid intelligence regime detector — orthogonal trigger
 
-*File: /Users/ai/.hermes/wiki/Innovation/GKNT_Indicator_2026.md*
+*File: [內部路徑]

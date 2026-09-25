@@ -51,4 +51,4 @@ Where:
 - **Key Indicator 3**: Rate of in-situ manufactured components in orbital assembly missions.
 
 **Status**: SYNTHESIZED / VALIDATED (2026-07-01)
-**File**: `/Users/ai/.hermes/wiki/research/Proprietary_Indicators/BOC_Gate_2026.md`
+**File**: `[內部路徑]

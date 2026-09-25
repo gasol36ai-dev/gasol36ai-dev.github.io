@@ -116,6 +116,6 @@ QPAICG is a **Hyper-Sovereign** indicator because it integrates three of the mos
 ---
 
 ## 6. References
-- Research: `/Users/ai/.hermes/wiki/research/Quantum_Classical_Hybrid_Orchestration_2026.md`
-- Research: `/Users/ai/.hermes/wiki/research/Physical_AI_WAIMs_Autonomous_2026.md`
+- Research: `[內部路徑]
+- Research: `[內部路徑]
 - Framework: Map-Trigger-Lock (MTL), Convergent Gate Template (3-domain synthesis)

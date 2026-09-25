@@ -38,6 +38,6 @@ The convergence of deep-bore geothermal technology and tectonic resource extract
 - **Security Risk**: Tectonic instability induced by deep-bore extraction; emergence of "Seismic Warfare" as a new threat vector.
 
 ## 🛠️ Verification
-- **State Change**: File created at `/Users/ai/.hermes/wiki/research/reports/Subterranean_Energy_Tectonic_Sovereignty_2026.md`.
+- **State Change**: File created at `[內部路徑]
 - **Density**: High-density structural mapping (Transmission Mappings used).
 - **Timeline**: Covers 2025-2026 breakthroughs.

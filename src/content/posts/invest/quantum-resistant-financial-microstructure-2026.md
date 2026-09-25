@@ -68,4 +68,4 @@ The industry is moving toward **Hybrid Cryptography**, where classical and quant
 ---
 
 **Research Status:** Complete (Internal Synthesis).  
-**Output File:** `/Users/ai/.hermes/wiki/research/Quantum_Resistant_Financial_Microstructure_2026.md`
+**Output File:** `[內部路徑]

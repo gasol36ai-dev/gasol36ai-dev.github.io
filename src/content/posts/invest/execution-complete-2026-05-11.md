@@ -21,7 +21,7 @@ As the CFO of the Hermes Digital Organization, I executed the Macro Evolution En
 - Created: `2026_05_11_Macro_Intelligence_Report.md` - Daily summary of current macro landscape
 - Updated: `Macro_Watchlist_May_2026.md` - Refined high/medium/low impact variables
 
-### 2. Skill Refinement (MJB Logic)
+### 2. Skill Refinement (macro base Logic)
 **Updated us-premarket-analysis skill:**
 - Fed Leadership Transition: Specified current rates (4.25-4.50%), "higher for longer" narrative
 - Macro Regime: Added "Energy-Driven Structural Inflation" with geopolitical risk premium context
@@ -52,9 +52,9 @@ As the CFO of the Hermes Digital Organization, I executed the Macro Evolution En
 All updates maintain causal chain logic and transmission mechanism integrity while reflecting evolving macro reality. The agent's macro-economic judgment base has been successfully updated to ensure future analysis incorporates the latest transmission mechanisms and risk factors.
 
 ## Files Modified
-- `/Users/ai/.hermes/wiki/Investment/Macro_Economics/2026_05_11_Macro_Intelligence_Report.md`
-- `/Users/ai/.hermes/wiki/Investment/Macro_Economics/Macro_Watchlist_May_2026.md`
-- `/Users/ai/.hermes/skills/data-science/us-premarket-analysis/SKILL.md`
-- `/Users/ai/.hermes/skills/data-science/gold-investment-analysis/SKILL.md`
+- `[內部路徑]
+- `[內部路徑]
+- `[內部路徑]
+- `[內部路徑]
 
 The Macro Evolution Engine execution is complete. The agent's macro-economic judgment has been refined to current market realities.

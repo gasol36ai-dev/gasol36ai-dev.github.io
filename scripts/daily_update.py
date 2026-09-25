@@ -8,10 +8,20 @@
   1. classify_wiki.py  只分類新增檔案（斷點續傳）
   2. import_wiki.py    重建文章（來源已刪除者自動移除）
   2b. fetch_ipo.py     抓今日 IPO 申購截止 → src/data/ipo.json（首頁跑馬燈；非致命）
+  2c. policy_redact.py ★ 編輯政策改寫：剝除交易參數／持倉揭露
+                        （import_wiki 每次重建文章，故必須每天重跑）
   3. nda_check.py      ★ 機密閘門：BLOCK → 中止，絕不推送
+  3a. policy_check.py  ★ 編輯政策閘門：BLOCK → 中止，絕不推送
   4. pnpm build
   5. git commit + push（無變更則跳過）
   6. 等 workflow → 實查線上 200
+
+為什麼有兩道閘門（2026-09-25 實際事故）：
+  nda_check.py 只擋「公司機密」。wiki 日報含完整交易參數（進場／加碼／
+  停損／T1-T3／均價／實際成交狀態），零命中通過 nda_check，並被
+  import_wiki.py 自動 draft:false 推上公開網站 —— 實際造成公開洩漏。
+  policy_check.py 補上這個缺口：README 明訂投資類文章「不構成投資建議，
+  不推薦特定標的、不揭露具體持倉」。
 
 stdout 即為交付報告（cron no_agent 模式原樣發送）。
 任何一步失敗都會中止並以非零退出碼回報。
@@ -57,7 +67,9 @@ def report(status, note=""):
             f"· 文章總數：{R.get('posts', '?')} 篇（排除 {R.get('excluded', '?')} 檔）",
             f"· IPO 跑馬燈：{R.get('ipo', '?')}",
             f"· 圖表：{R.get('charts', '?')}",
+            f"· 政策改寫：{R.get('redact', '?')}",
             "· 機密閘門：通過（BLOCK = 0）",
+            "· 編輯政策閘門：通過（BLOCK = 0）",
             f"· 建置：{R.get('pages', '?')}",
             f"· 推送：{R.get('push', '?')}",
             f"· 線上實查：{R.get('live', '?')}",
@@ -122,6 +134,20 @@ def main():
         except Exception as e:
             R["ipo"] = f"抓取異常（非致命）：{type(e).__name__}"
 
+        # 2c. 編輯政策改寫（非致命，但失敗會讓下一關攔阻）
+        #     誠實說明：import_wiki.py 每次都會從 wiki 重建文章，所以這步
+        #     必須「每天重跑」，不能只修一次已發布的檔案——否則下次同步
+        #     又會把交易參數原封不動推上去（2026-09-25 實際就是這樣洩漏的）。
+        try:
+            rd = subprocess.run([sys.executable, "scripts/policy_redact.py"],
+                                cwd=ROOT, capture_output=True, text=True, timeout=1800)
+            line = next((l.strip() for l in rd.stdout.splitlines()
+                         if l.startswith("POLICY_REDACT：")), None)
+            R["redact"] = (line.replace("POLICY_REDACT：", "").strip()
+                           if line else f"無輸出（exit {rd.returncode}）")
+        except Exception as e:
+            R["redact"] = f"異常（非致命）：{type(e).__name__}"
+
         # 3. 機密閘門（fail-closed）
         g = subprocess.run([sys.executable, "scripts/nda_check.py"], cwd=ROOT,
                            capture_output=True, text=True, timeout=1800)
@@ -129,6 +155,15 @@ def main():
             ERR.append("機密閘門攔阻（未推送任何內容）：")
             ERR += [l.strip() for l in g.stdout.splitlines() if "BLOCK" in l or "命中" in l][:20]
             return 3
+
+        # 3a. 編輯政策閘門（fail-closed）
+        #     閘門必須檢查「真正要送出的內容」，所以放在改寫之後。
+        pc = subprocess.run([sys.executable, "scripts/policy_check.py"], cwd=ROOT,
+                            capture_output=True, text=True, timeout=1800)
+        if pc.returncode != 0:
+            ERR.append("編輯政策閘門攔阻（未推送任何內容）：")
+            ERR += [l.strip() for l in pc.stdout.splitlines() if "BLOCK" in l][:20]
+            return 6
 
         # 4. 建置
         b = run(["pnpm", "build"], timeout=1800)

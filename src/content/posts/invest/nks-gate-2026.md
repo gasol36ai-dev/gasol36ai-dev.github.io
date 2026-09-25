@@ -58,4 +58,4 @@ The NKS Gate is modeled after the concept of "Resilient Sovereignty," where the 
 
 ---
 **Source:** Deep Evolution Cycle 2026-06-25 (Proprietary Innovation)
-**Registry Entry:** `/Users/ai/.hermes/wiki/research/Proprietary_Indicators/NKS_Gate_2026.md`
+**Registry Entry:** `[內部路徑]

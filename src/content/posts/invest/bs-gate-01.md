@@ -43,6 +43,6 @@ Where:
 The BS-GATE-01 activation indicates the birth of a "Sovereign Node." These nodes are physically and computationally decoupled from the global grid, making them immune to electronic warfare (EW), signal jamming, and energy depletion. They represent a step-function increase in operational persistence in deep space, deep sea, or contested airspaces.
 
 ## 5. Validation Trace
-- **Bio-Hybrid Component**: Verified via research on synaptic transistors and molecular signal processing (Ref: `/Users/ai/.hermes/wiki/research/reports/BioHybrid_Sovereign_Compute_2026.md`).
-- **Energy Component**: Verified via research on electrodynamic tethers and plasma induction (Ref: `/Users/ai/.hermes/wiki/research/reports/Atmospheric_Energy_Sovereignty_2026.md`).
-- **Sensing Component**: Verified via research on on-chip spectral analysis and SNN-based reflex loops (Ref: `/Users/ai/.hermes/wiki/research/reports/HyperSpectral_Edge_Intelligence_2026.md`).
+- **Bio-Hybrid Component**: Verified via research on synaptic transistors and molecular signal processing (Ref: `[內部路徑]).
+- **Energy Component**: Verified via research on electrodynamic tethers and plasma induction (Ref: `[內部路徑]).
+- **Sensing Component**: Verified via research on on-chip spectral analysis and SNN-based reflex loops (Ref: `[內部路徑]).

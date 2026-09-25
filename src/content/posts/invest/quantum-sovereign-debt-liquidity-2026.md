@@ -38,6 +38,6 @@ The transition to Post-Quantum Cryptography (PQC) in sovereign finance creates a
 - **Infrastructure**: Investment shift toward "Quantum-Safe Hardware" (HSMs and QKD networks).
 
 ## 🛠️ Verification
-- **State Change**: File created at `/Users/ai/.hermes/wiki/research/reports/Quantum_Sovereign_Debt_Liquidity_2026.md`.
+- **State Change**: File created at `[內部路徑]
 - **Density**: High-density structural mapping (Transmission Mappings used).
 - **Timeline**: Covers 2026 geopolitics.

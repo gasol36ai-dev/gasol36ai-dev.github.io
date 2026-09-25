@@ -41,7 +41,6 @@ Synthesized from 2026-08-11 Evolution Engine cycle research: AI_Datacenter_Energ
 
 ---
 
-
 **Date:** 2026-08-10
 **Classification:** Physical AI Convergence Indicator (Sensing $\times$ Acting $\times$ Sustaining)
 **Evidence Standard:** All thresholds below are sourced to specific 2026 publications (no undefined $\sigma$ placeholders per Anti-Fabrication Amendment).
@@ -874,9 +873,9 @@ $\text{SKI\_Active} = (\text{Sensing}_{\text{Optical}} \land \text{Compute}_{\te
 A system that lacks any one of these components is either "too slow" (lacks Optical Sensing), "too dumb" (lacks Glass-Compute density), or "too vulnerable" (lacks PQC Rails).
 The SKI-2026 indicator allows strategic planners to identify the exact moment a kinetic asset transitions from "remote-controlled tool" to "autonomous sovereign agent." This shift creates a non-linear advantage in contested environments where communications are jammed or intercepted.
 ## Validation Trace
-- **Domain 1**: Neuromorphic Photonics (verified in `/Users/ai/.hermes/wiki/research/reports/Neuromorphic_Photonics_2026.md`).
-- **Domain 2**: Glass Substrates (verified in `/Users/ai/.hermes/wiki/research/reports/Glass_Substrate_Sovereignty_2026.md`).
-- **Domain 3**: Quantum-Safe Rails (verified in `/Users/ai/.hermes/wiki/research/reports/Quantum_Safe_Sovereign_Rails_2026.md`).
+- **Domain 1**: Neuromorphic Photonics (verified in `[內部路徑]).
+- **Domain 2**: Glass Substrates (verified in `[內部路徑]).
+- **Domain 3**: Quantum-Safe Rails (verified in `[內部路徑]).
 # Proprietary Indicator: Orbital-Vacuum Latency Divergence (OVLD)
 The **Orbital-Vacuum Latency Divergence (OVLD)** is a high-frequency systemic risk indicator designed to detect periods of extreme macro-fragility caused by the decoupling of orbital-edge intelligence from terrestrial financial infrastructures. It serves as an early warning for "Hyper-Synchronous Volatility" events where orbital-edge arbitrage outpaces terrestrial circuit breakers and regime-detection models.
 ## 2. Framework (Map-Trigger-Lock)
@@ -1016,7 +1015,7 @@ OR
 - **Portfolio Impact**: Triggers a `[REDUCE]` command for infrastructure-linked equity in compute-starved regions and a `[MAINTAIN/ACCUMULATE]` command for energy-autarkic compute hubs.
 ## 📊 Strategic Value
 The CEAG provides a leading indicator for the "Sovereign Compute-Energy Nexus," allowing for predictive positioning before the realization of computational bottlenecks or energy crises manifest in macroeconomic volatility.
-*Proprietary Logic Registered in: /Users/ai/.hermes/wiki/research/Proprietary_Indicators_2026-06-13.md*
+*Proprietary Logic Registered in: [內部路徑]
 # Proprietary Indicator: Triple-Sovereignty Inflection (TSI-2026)
 ## 1. Definition & Core Logic
 The **Triple-Sovereignty Inflection (TSI-2026)** is a hyper-convergence indicator that identifies the precise moment a nation-state transitions from a terrestrial-silicon-based economy to a multi-dimensional **Bio-Orbital-Quantum (BOQ)** sovereignty stack.

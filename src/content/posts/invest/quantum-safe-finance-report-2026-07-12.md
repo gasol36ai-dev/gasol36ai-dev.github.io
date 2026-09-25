@@ -71,8 +71,8 @@ The transition to a quantum-safe financial infrastructure is a race against the 
 - **Tasks**: Research PQC, CBDC, and Macro-finance implications. Synthesized findings into concepts and a high-density report.
 - **Tool Trace**: `web_search` (failed - 402), `browser_navigate` (hit bot detection), `terminal` (arXiv API scripts).
 - **Deliverables**: 
-  - `/Users/ai/.hermes/wiki/research/reports/Quantum_Safe_Finance_Report_2026-07-12.md`
-  - `/Users/ai/.hermes/wiki/research/concepts/Post_Quantum_Cryptography.md`
-  - `/Users/ai/.hermes/wiki/research/concepts/CBDC_Quantum_Vulnerability.md`
-  - `/Users/ai/.hermes/wiki/research/concepts/Macro_Financial_Quantum_Stability.md`
+  - `[內部路徑]
+  - `[內部路徑]
+  - `[內部路徑]
+  - `[內部路徑]
 - **Issues**: Exa credits exhausted; successfully pivoted to arXiv API via custom Python script to gather technical evidence.

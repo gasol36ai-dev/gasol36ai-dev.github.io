@@ -50,4 +50,4 @@ Where:
 - **Domain Synthesis**: $\ge 3$ distinct domains (Orbital $\times$ Bio $\times$ Law).
 - **Structure**: Transmission Mapping applied.
 - **Density**: >50 lines (verified).
-- **File**: `/Users/ai/.hermes/wiki/research/Proprietary_Indicator_OBG_Gate_2026-06-25.md`
+- **File**: `[內部路徑]

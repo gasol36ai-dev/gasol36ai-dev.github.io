@@ -18,9 +18,9 @@ nda_notes: '來源為個人 wiki 投資筆記；已通過 NDA 內容檢查（無
 
 | Date | Domain | Deliverable | Strategic Value |
 | :--- | :--- | :--- | :--- |
-| 2026-07-04 | Terahertz (THz) 6G Sensing | [THz_6G_Sensing_Swarm_Intelligence_2026-07-04.md](/Users/ai/.hermes/wiki/research/reports/THz_6G_Sensing_Swarm_Intelligence_2026-07-04.md) | Enables physical-AI autonomy via high-fidelity environmental reconstruction. |
-| 2026-07-04 | Neuro-Symbolic Governance | [Neuro_Symbolic_Governance_2026-07-04.md](/Users/ai/.hermes/wiki/research/reports/Neuro_Symbolic_Governance_2026-07-04.md) | Provides verifiable regulatory compliance for autonomous agentic swarms. |
-| 2026-07-04 | Synthetic Bio-Digital Finance | [Synthetic_Bio_Digital_Finance_2026-07-04.md](/Users/ai/.hermes/wiki/research/reports/Synthetic_Bio_Digital_Finance_2026-07-04.md) | Unlocks liquidity for biological compute assets (Wetware RWAs). |
+| 2026-07-04 | Terahertz (THz) 6G Sensing | [THz_6G_Sensing_Swarm_Intelligence_2026-07-04.md]([內部路徑]) | Enables physical-AI autonomy via high-fidelity environmental reconstruction. |
+| 2026-07-04 | Neuro-Symbolic Governance | [Neuro_Symbolic_Governance_2026-07-04.md]([內部路徑]) | Provides verifiable regulatory compliance for autonomous agentic swarms. |
+| 2026-07-04 | Synthetic Bio-Digital Finance | [Synthetic_Bio_Digital_Finance_2026-07-04.md]([內部路徑]) | Unlocks liquidity for biological compute assets (Wetware RWAs). |
 
 ## 🛠️ Status
 - **Audit Phase**: COMPLETE (Systemic friction identified: Stub epidemic and API 402 blockades).

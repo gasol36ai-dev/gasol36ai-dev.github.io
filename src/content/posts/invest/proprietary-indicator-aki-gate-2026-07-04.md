@@ -54,9 +54,9 @@ This indicator is "Hyper-Sovereign" because it requires the simultaneous converg
 - **Mitigation**: Implement a **Dual-Key Verification** protocol using both bio-digital and traditional electromagnetic (EM) sensors to confirm true decoupling events.
 
 ## 📂 References
-- [Neuro-Biological Interface 2026-07-04 Report](/Users/ai/.hermes/wiki/research/research_reports/Neuro_Biological_Interface_Bio_Digital_Convergence_2026-07-04.md)
-- [Neuromorphic Reflexive Swarm Actuation 2026-07-04 Report](/Users/ai/.hermes/wiki/research/research_reports/Neuromorphic_Reflexive_Swarm_Actuation_2026-07-04.md)
-- [Mineral-Resource-Driven Edge Autarky 2026-07-04 Report](/Users/ai/.hermes/wiki/research/research_reports/Mineral_Resource_Driven_Edge_Autarky_2026-07-04.md)
+- [Neuro-Biological Interface 2026-07-04 Report]([內部路徑])
+- [Neuromorphic Reflexive Swarm Actuation 2026-07-04 Report]([內部路徑])
+- [Mineral-Resource-Driven Edge Autarky 2026-07-04 Report]([內部路徑])
 
 ## 💎 Summary of the AKI-GATE-2026 Indicator
 The AKI-GATE-2026 represents the ultimate convergence of sensing, acting, and sustaining capabilities. It provides a deterministic trigger for identifying when a localized compute enclave becomes a sovereign entity, decoupled from macro-systemic volatility and grid dependency. By integrating biological, neuromorphic, and energetic-resource layers, it creates a high-fidelity decision gate for frontier operations in fragmented geopolitical landscapes.

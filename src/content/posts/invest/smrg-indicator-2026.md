@@ -94,4 +94,4 @@ LOCK:   All THREE conditions must co-trigger within a 10-trading-day window.
 - **FTDG** (Fiscal-Technology Divergence Gate) — upstream indicator; SMRG fires when FTDG + microstructure confirm simultaneously
 - **HPI-4 LGDG** (Liquidity Geometric Divergence Gate) — complementary microstructure lens
 
-*File: /Users/ai/.hermes/wiki/Innovation/SMRG_Indicator_2026.md*
+*File: [內部路徑]

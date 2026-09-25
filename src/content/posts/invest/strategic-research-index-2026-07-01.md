@@ -28,11 +28,11 @@ nda_notes: '來源為個人 wiki 投資筆記；已通過 NDA 內容檢查（無
 - **Status**: COMPLETED
 - **Domains Investigated**:
     1. **Space-based Logistics & Mesh Sovereignty**
-       - *Key Report*: [Orbital_Edge_Intelligence_2026-07-01.md](/Users/ai/.hermes/wiki/research/research_reports/Orbital_Edge_Intelligence_2026-07-01.md)
+       - *Key Report*: [Orbital_Edge_Intelligence_2026-07-01.md]([內部路徑])
     2. **Terahertz (THz) 6G & Sensing Swarms**
-       - *Key Report*: [THz_6G_Sensing_Swarms_2026-07-01.md](/Users/ai/.hermes/wiki/research/research_reports/THz_6G_Sensing_Swarms_2026-07-01.md)
+       - *Key Report*: [THz_6G_Sensing_Swarms_2026-07-01.md]([內部路徑])
     3. **Advanced Neuromorphic Materials & Fabrication**
-       - *Key Report*: [Neuromorphic_Wetware_Convergence_2026-07-01.md](/Users/ai/.hermes/wiki/research/research_reports/Neuromorphic_Wetware_Convergence_2026-07-01.md)
+       - *Key Report*: [Neuromorphic_Wetware_Convergence_2026-07-01.md]([內部路徑])
 
 ### 💡 Pillar 3: Proprietary Innovation & Synthesis
 - **Status**: PENDING

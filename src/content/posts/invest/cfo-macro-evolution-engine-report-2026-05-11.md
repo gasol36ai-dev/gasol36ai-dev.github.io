@@ -39,7 +39,7 @@ As the CFO of the Hermes Digital Organization, I executed the Macro Evolution En
 - 🟡 **Medium Impact**: US Inflation (PCE/CPI), USD Index (DXY), Gold-Real Yield Correlation, AI Power Bottleneck
 - 🟢 **Low Impact**: India Growth
 
-### 4. Skill Refinement (MJB Logic Updates)
+### 4. Skill Refinement (macro base Logic Updates)
 **us-premarket-analysis Skill**:
 - Updated Fed Leadership Transition with current rates (4.25-4.50%) and policy outlook
 - Enhanced Macro Regime context: "Energy-Driven Structural Inflation" with geopolitical risk premium
@@ -64,7 +64,7 @@ As the CFO of the Hermes Digital Organization, I executed the Macro Evolution En
 All updates maintain causal chain logic and transmission mechanism integrity while reflecting evolving macro reality. The agent's macro-economic judgment base has been successfully updated to ensure future analysis incorporates the latest transmission mechanisms and risk factors.
 
 ## Files Modified
-- `/Users/ai/.hermes/wiki/Investment/Macro_Economics/2026_05_11_Macro_Intelligence_Report.md`
-- `/Users/ai/.hermes/wiki/Investment/Macro_Economics/Macro_Watchlist_May_2026.md`
-- `/Users/ai/.hermes/skills/data-science/us-premarket-analysis/SKILL.md`
-- `/Users/ai/.hermes/skills/data-science/gold-investment-analysis/SKILL.md`
+- `[內部路徑]
+- `[內部路徑]
+- `[內部路徑]
+- `[內部路徑]

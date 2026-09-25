@@ -59,9 +59,9 @@ The following entries have been documented in `~/.hermes/wiki/Investment/Macro_E
 
 ---
 
-## 4. Skill Refinement (MJB Updates)
+## 4. Skill Refinement (macro base Updates)
 
-The Macro Judgment Base (MJB) for `us-premarket-analysis` and `gold-investment-analysis` has been refined to incorporate the following logic:
+The Macro Judgment Base for `us-premarket-analysis` and `gold-investment-analysis` has been refined to incorporate the following logic:
 
 ### Refined Logic Chains
 - **Growth Asset Pressure**: `[Iran Conflict] -> [Brent >$100] -> [Sticky Inflation] -> [Hawkish Fed Hold/Hike] -> [Real Yield Spike] -> [Compression of Tech Multiples]`.

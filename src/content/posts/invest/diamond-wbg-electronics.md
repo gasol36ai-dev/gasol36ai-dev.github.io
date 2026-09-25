@@ -20,7 +20,7 @@ Diamond WBG Electronics refer to semiconductor devices utilizing synthetic diamo
 
 ## Primary Documentation
 - **Full Research Report:** [[Diamond_WBG_Electronics_Sovereign_2026]]
-- **Path:** `/Users/ai/.hermes/wiki/research/reports/Diamond_WBG_Electronics_Sovereign_2026.md`
+- **Path:** `[內部路徑]
 
 ## Convergence Note
 This concept pointer is part of the 2026-08 Physical AI / Sovereign Infrastructure research cycle. It cross-references sibling indicators and reports produced in the same batch (see `domain_coverage_log.md` for the full dated registry of sourced research covering this cycle's domains). The underlying full-density report (linked above) contains the sourced Transmission Mapping, Risk Matrix, and Data Date Compliance Table for this concept; this file remains a lightweight pointer/index entry by design to keep the concept registry scannable while avoiding duplication of the sourced analysis.
