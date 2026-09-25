@@ -73,6 +73,7 @@ def report(status, note=""):
             f"· 建置：{R.get('pages', '?')}",
             f"· 推送：{R.get('push', '?')}",
             f"· 線上實查：{R.get('live', '?')}",
+            f"· 線上稽核：{R.get('audit', '?')}",
             f"· 耗時：{R.get('secs', '?')} 秒",
         ]
         if note:
@@ -187,9 +188,11 @@ def main():
         R["push"] = f"{changed} 檔變更"
 
         # 6. 等部署 + 線上實查
+        # 15×8s = 120s 實測不足（曾誤報逾時但其實 push 已成功）。
+        # 放寬到 30×10s = 300s。
         deployed = False
-        for _ in range(15):
-            time.sleep(8)
+        for _ in range(30):
+            time.sleep(10)
             try:
                 r = run(["gh", "run", "list", "--limit", "1",
                          "--json", "status,conclusion"], timeout=120)
@@ -230,6 +233,26 @@ def main():
             ERR.append("線上實查失敗：" + ", ".join(bad))
             return 5
         R["live"] = f"{len(MUST_EXIST)} 條關鍵路由全 200、{len(MUST_404)} 條已移除路由全 404"
+
+        # 7. 發布後線上稽核（內容層，不只看 HTTP 碼）
+        #    閘門檢查的是本地建置產物；這裡檢查真正公開的內容。
+        #    全自動流程沒有第二雙眼睛，這一步是最後的守門人。
+        try:
+            au = subprocess.run([sys.executable, "scripts/policy_audit_live.py",
+                                 "--all-changed"], cwd=ROOT,
+                                capture_output=True, text=True, timeout=1800)
+            head = next((l.strip() for l in au.stdout.splitlines()
+                         if l.startswith("POLICY_AUDIT_LIVE")), "無輸出")
+            R["audit"] = head.replace("POLICY_AUDIT_LIVE：", "").strip()
+            if au.returncode != 0:
+                ERR.append("線上稽核發現違規（內容已公開，需立即處理）：")
+                ERR += [l.strip() for l in au.stdout.splitlines()
+                        if "⚠️" in l or "規則：" in l][:20]
+                return 7
+        except Exception as e:
+            # 稽核異常不阻斷（網路抖動不該讓 cron 誤報失敗），但會如實揭露
+            R["audit"] = f"稽核異常（非致命）：{type(e).__name__}"
+
         R["secs"] = f"{time.time()-t0:.0f}"
         print(report("ok"))
         return 0
